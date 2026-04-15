@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Médico - Notas Clínicas</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; color: #2c3e50; }
+        header { background: #1a5276; color: white; padding: 1.5rem; border-radius: 8px; text-align: center; }
+        article, .comments-section { background: white; padding: 25px; margin-top: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        h2 { color: #1a5276; border-bottom: 2px solid #eaeded; padding-bottom: 10px; }
+        input, textarea { width: 100%; margin-bottom: 15px; padding: 12px; border: 1px solid #d5dbdb; border-radius: 5px; box-sizing: border-box; font-family: inherit; }
+        button { background: #28b463; color: white; border: none; padding: 12px 20px; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 1rem; transition: background 0.3s; }
+        button:hover { background: #239b56; }
+        .comment { border-left: 4px solid #1a5276; background: #fdfefe; padding: 15px; margin-bottom: 10px; border-radius: 0 5px 5px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .comment strong { color: #1a5276; }
+        .date { font-size: 0.85em; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Blog de Notas Clínicas</h1>
+        <p>Apuntes y protocolos para la práctica médica diaria</p>
+    </header>
+
+    <article>
+        <h2>Repaso Rápido: El Protocolo ABCDE en Trauma</h2>
+        <p class="date">Publicado: 14 de Abril, 2026</p>
+        <p>En el manejo inicial del paciente politraumatizado, la sistematización es clave. El protocolo ABCDE nos permite identificar y tratar condiciones letales de forma priorizada y ordenada:</p>
+        <ul>
+            <li><strong>A (Airway):</strong> Permeabilidad de la vía aérea con control de la columna cervical.</li>
+            <li><strong>B (Breathing):</strong> Asegurar una adecuada ventilación y oxigenación.</li>
+            <li><strong>C (Circulation):</strong> Control de hemorragias exanguinantes (uso temprano de torniquetes) y evaluación de la perfusión.</li>
+            <li><strong>D (Disability):</strong> Breve evaluación neurológica, típicamente usando la escala de Glasgow y reactividad pupilar.</li>
+            <li><strong>E (Exposure):</strong> Exposición completa del paciente para examen físico, previniendo activamente la hipotermia.</li>
+        </ul>
+        <p>¿Qué paso suelen ver que requiere más corrección durante los ejercicios de simulación o en la práctica real con su equipo? ¡Dejen sus aportes abajo!</p>
+    </article>
+
+    <div class="comments-section">
+        <h3>Comentarios del Equipo</h3>
+        <div id="listaComentarios"></div>
+
+        <h4 style="margin-top: 30px;">Añadir una observación</h4>
+        <input type="text" id="nombreUsuario" placeholder="Tu Nombre o Iniciales">
+        <textarea id="textoComentario" rows="3" placeholder="Escribe tu aporte clínico aquí..."></textarea>
+        <button onclick="agregarComentario()">Publicar Comentario</button>
+    </div>
+
+    <script>
+        // Función para cargar los comentarios al abrir la página
+        function cargarComentarios() {
+            const comentarios = JSON.parse(localStorage.getItem('comentariosTrauma')) || [];
+            const contenedor = document.getElementById('listaComentarios');
+            contenedor.innerHTML = '';
+            
+            if (comentarios.length === 0) {
+                contenedor.innerHTML = '<p style="color: #95a5a6; font-style: italic;">No hay comentarios aún. ¡Sé el primero en aportar!</p>';
+            }
+
+            comentarios.forEach(com => {
+                contenedor.innerHTML += `
+                    <div class="comment">
+                        <strong>${com.nombre}</strong> <span class="date">- ${com.fecha}</span>
+                        <p style="margin: 5px 0 0 0;">${com.texto}</p>
+                    </div>
+                `;
+            });
+        }
+
+        // Función para guardar un nuevo comentario
+        function agregarComentario() {
+            const nombre = document.getElementById('nombreUsuario').value;
+            const texto = document.getElementById('textoComentario').value;
+
+            if (nombre.trim() === '' || texto.trim() === '') {
+                alert('Por favor, completa tu nombre y el comentario.');
+                return;
+            }
+
+            const nuevoComentario = {
+                nombre: nombre,
+                texto: texto,
+                fecha: new Date().toLocaleDateString()
+            };
+
+            const comentarios = JSON.parse(localStorage.getItem('comentariosTrauma')) || [];
+            comentarios.push(nuevoComentario);
+            localStorage.setItem('comentariosTrauma', JSON.stringify(comentarios));
+
+            // Limpiar los cuadros de texto y recargar la lista
+            document.getElementById('nombreUsuario').value = '';
+            document.getElementById('textoComentario').value = '';
+            cargarComentarios();
+        }
+
+        // Ejecutar la carga al iniciar
+        window.onload = cargarComentarios;
+    </script>
+
+</body>
+</html>
