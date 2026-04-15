@@ -8,23 +8,21 @@
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; color: #2c3e50; }
         header { background: #1a5276; color: white; padding: 1.5rem; border-radius: 8px; text-align: center; margin-bottom: 20px; }
         
-        /* Estilos de las tarjetas de preguntas */
         .question-card { background: white; padding: 25px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
         .question-card h3 { color: #1a5276; margin-top: 0; font-size: 1.1rem; }
         
-        /* Estilos de los botones de opciones */
         .options-container { display: flex; flex-direction: column; gap: 10px; margin-top: 15px; }
         .option-btn { background: #fdfefe; color: #2c3e50; border: 2px solid #eaeded; padding: 12px 15px; text-align: left; cursor: pointer; border-radius: 6px; font-size: 1rem; transition: all 0.2s; }
         .option-btn:hover:not(:disabled) { background: #eaeded; border-color: #d5dbdb; }
         
-        /* Estados de respuesta (Correcto / Incorrecto) */
         .option-btn.correct { background: #d5f5e3; border-color: #28b463; color: #1d8348; font-weight: bold; }
         .option-btn.incorrect { background: #fadbd8; border-color: #e74c3c; color: #943126; }
         .option-btn:disabled { cursor: not-allowed; opacity: 0.8; }
         
-        /* Caja de retroalimentación (oculta por defecto) */
-        .feedback-box { display: none; margin-top: 20px; padding: 15px; background: #eaf2f8; border-left: 4px solid #3498db; border-radius: 0 6px 6px 0; animation: fadeIn 0.5s; }
-        .feedback-box strong { color: #2980b9; }
+        .feedback-box { display: none; margin-top: 20px; padding: 20px; background: #eaf2f8; border-left: 4px solid #3498db; border-radius: 0 6px 6px 0; animation: fadeIn 0.5s; font-size: 0.95rem; }
+        .feedback-box strong { color: #2980b9; display: block; margin-bottom: 10px; font-size: 1.05rem; }
+        .feedback-box p { margin-top: 0; margin-bottom: 10px; }
+        .feedback-box p:last-child { margin-bottom: 0; }
         
         @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
     </style>
@@ -33,7 +31,7 @@
 
     <header>
         <h1>Simulador Clínico</h1>
-        <p>Asignatura: Cardiología y Cirugía Cardiovascular | Tema 1</p>
+        <p>Asignatura: Cardiología y Cirugía Cardiovascular | Tema 1. Anatomía y fisiología cardiaca</p>
     </header>
 
     <div class="question-card">
@@ -45,7 +43,9 @@
             <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">4. Los canales If se sitúan predominantemente en las células del miocardio ventricular.</button>
         </div>
         <div class="feedback-box">
-            <strong>Comentario:</strong> Pregunta teórica de muy alta dificultad sobre el potencial de acción de las células cardiacas. El potencial de acción del cardiomiocito de trabajo “normal” tiene un voltaje en reposo muy bajo (-90 mV) y una fase 0 (despolarización) muy rápida, por estar mediada por canales rápidos de sodio (INa). En cambio, en las células marcapasos, el potencial en reposo nunca baja tanto; cuando se alcanzan entre -45 y -65 mV, se activan canales de sodio If que van despolarizando poco a poco la célula estando en reposo, hasta que se alcanza un potencial de membrana “gatillo” que general un nuevo potencial de acción.
+            <strong>Comentario:</strong> 
+            <p>Pregunta teórica de muy alta dificultad sobre el potencial de acción de las células cardiacas. El potencial de acción del cardiomiocito de trabajo “normal” tiene un voltaje en reposo muy bajo (-90 mV) y una fase 0 (despolarización) muy rápida, por estar mediada por canales rápidos de sodio (INa).</p>
+            <p>En cambio, en las células marcapasos, el potencial en reposo nunca baja tanto; cuando se alcanzan entre -45 y -65 mV (potencial mínimo que se alcanza), se activan canales de sodio If (objetivo terapéutico de la ivabradina) que van despolarizando poco a poco la célula estando en reposo, hasta que se alcanza un potencial de membrana “gatillo” que general un nuevo potencial de acción; en dicho potencial de acción, la fase 0 (despolarización) está mediada por canales de calcio (ICaL, no tienen canales rápidos de sodio INa), de ahí que su pendiente sea más lenta que en los miocardiocitos de trabajo (la diferencia de concentración de sodio extracelular e intracelular es mayor que la diferencia de calcio, por lo que la apertura de canales de sodio genera una entrada más rápida de iones positivos dentro de la célula).</p>
         </div>
     </div>
 
@@ -58,7 +58,11 @@
             <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">4. Si se añaden vasos sanguíneos en paralelo en un circuito, aumenta la resistencia vascular total.</button>
         </div>
         <div class="feedback-box">
-            <strong>Comentario:</strong> Pregunta difícil puramente de Fisiología. La presión arterial es igual a la multiplicación de flujo por resistencia (PA = Q · R). Si se añaden vasos en paralelo, el área total por el que pasa el flujo aumenta y la resistencia disminuye (la opción 4 es la falsa). Un flujo laminar es el que se produce en un vaso sano; un flujo turbulento se produce en un vaso enfermo (ej. placas de ateroma) aumentando el riesgo de daño endotelial.
+            <strong>Comentario:</strong> 
+            <p>Pregunta difícil puramente de Fisiología. La presión arterial es igual a la multiplicación de flujo por resistencia (PA = Q · R), de modo que la resistencia será igual a la presión dividida por el flujo (R = PA / Q). Así, la opción 1 es correcta.</p>
+            <p>La resistencia vascular, por otra parte, es directamente proporcional a la longitud del sistema vascular (cuanto más largos sean los vasos sanguíneos, mayor resistencia) e inversamente proporcional al área de los vasos sanguíneos (cuanto mayor diámetro tenga un vaso, menor resistencia; por ejemplo si hay varios vasos en paralelo, el área total por el que pasa el flujo aumenta y la resistencia disminuye. La resistencia se puede precisamente calcular en función del área vascular: R = ρ · 1/A; donde ρ es el coeficiente de resistencia específico del vaso sanguíneo en cuestión, y A es el área vascular. Como el área depende del cuadrado del radio (A = π · R2), pequeños cambios en el diámetro de un vaso disminuyen mucho su resistencia.</p>
+            <p>La conductancia (G) es el valor inverso de la resistencia (G = 1/R), esto es, indica la facilidad que al paso de una corriente (eléctrica, sanguínea, etc.); por ello, la opción 3 es correcta. En este caso, la opción falsa es la 4.</p>
+            <p>Un flujo laminar es el que se produce en un vaso sanguíneo sano, de paredes lisas; el flujo sanguíneo se organiza en láminas de sangre que se mueven paralelas y a la misma velocidad unas que otras, salvo cerca de la pared del vaso, donde la velocidad es menor por la interacción entre el flujo y en endotelio. Un flujo turbulento se produce en cambio en un vaso enfermo, con paredes irregulares (por ejemplo, con placas de ateroma); en este caso, las irregularidades de la pared generan cambios bruscos de velocidad y trayectorias caóticas del flujo; dichos cambios de velocidad aumentan el riesgo de daño endotelial (roturas de placas de ateroma) y también de trombosis intravascular (en las localizaciones en las que se frene la sangre).</p>
         </div>
     </div>
 
@@ -71,7 +75,10 @@
             <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">4. Los efectos directo e indirecto de la actividad parasimpática coronaria (vagal) provocan vasodilatación de las arterias coronarias.</button>
         </div>
         <div class="feedback-box">
-            <strong>Comentario:</strong> Pregunta difícil sobre fisiología coronaria. El sistema parasimpático no tiene efecto directo sobre los vasos sanguíneos, que no tienen receptores de acetilcolina (MIR 20, 42). En cambio, la administración exógena de acetilcolina en la luz coronaria tiene un efecto vasodilatador; en pacientes con angina vasoespástica, se observa una respuesta vasoconstrictora paradójica.
+            <strong>Comentario:</strong> 
+            <p>Pregunta difícil sobre fisiología coronaria. Las arterias coronarias se irrigan fundamentalmente en diástole, cuando el miocardio ventricular está relajado. La contracción ventricular “comprime” las arterias coronarias e impide su llenado con sangre. En cambio, en diástole, la relajación ventricular expande las arterias coronarias, generando un efecto de succión que favorece el flujo anterógrado; a mayor contractilidad ventricular, la velocidad de contracción y relajación será más rápida y este efecto de succión será mayor, por lo que el flujo coronario será más rápido. Así, por ejemplo, durante el ejercicio físico el aumento de contractilidad miocárdica favorece un mayor flujo coronario.</p>
+            <p>Por otra parte, el sistema simpático regula el tono coronario (vasoconstricción/vasodilatación); puede ejercer efecto vasoconstrictor (receptores α1-adrenérgicos) o vasodilatador (receptores α2-adrenérgicos y β-adrenérgicos). El sistema parasimpático, sin embargo, no tiene efecto directo sobre los vasos sanguíneos, que no tienen receptores de acetilcolina (MIR 20, 42). En cambio, la administración exógena de acetilcolina en la luz coronaria tiene un efecto vasodilatador; en pacientes con angina vasoespástica, en cambio, se observa una respuesta vasoconstrictora paradójica (el test de acetilcolina se usa para el diagnóstico de angina vasoespástica).</p>
+            <p>Por último, el tono arterial coronario también depende del consumo de oxígeno miocárdico. En condiciones de hipoxia tisular (si aumenta el consumo miocárdico de oxígeno), disminuye la síntesis de ATP a partir de adenosina. Se acumula así adenosina, que tiene un efecto vasodilatador (incrementando así el flujo coronario).</p>
         </div>
     </div>
 
@@ -84,7 +91,8 @@
             <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">4. Fase de llenado lento o diástasis.</button>
         </div>
         <div class="feedback-box">
-            <strong>Comentario:</strong> Los cambios en la frecuencia cardiaca se traducen fundamentalmente en cambios, respecto a la duración de las fases del ciclo cardiaco, de la diástole. La duración de la sístole se modifica poco. Dentro de la diástole, la fase que más se modifica es la diástasis (fase de llenado lento); la fase de llenado rápido inicial, y la contracción auricular final, modifican menos su duración.
+            <strong>Comentario:</strong> 
+            <p>Los cambios en la frecuencia cardiaca se traducen fundamentalmente en cambios, respecto a la duración de las fases del ciclo cardiaco, de la diástole. La duración de la sístole se modifica poco. Así, aumentos de frecuencia cardiaca producen disminuciones de duración de la diástole, mientras que descensos de frecuencia cardiaca producen aumentos de duración de la diástole. Dentro de la diástole, la fase que más se modifica es la diástasis (fase de llenado lento); la fase de llenado rápido inicial, y la contracción auricular final, modifican menos su duración.</p>
         </div>
     </div>
 
@@ -97,34 +105,27 @@
             <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">4. Cuando el flujo sanguíneo aórtico es máximo.</button>
         </div>
         <div class="feedback-box">
-            <strong>Comentario:</strong> Pregunta sencilla. Las arterias coronarias se irrigan en diástole, dado que en sístole la apertura de la válvula aórtica obstruye parcialmente la llegada de flujo a los ostium de las arterias coronarias. Es en diástole, aprovechando la relajación ventricular, cuando el retorno de flujo a la raíz aórtica aprovecha para entrar a las arterias coronarias e irrigar el miocardio.
+            <strong>Comentario:</strong> 
+            <p>Pregunta sencilla. Las arterias coronarias se irrigan en diástole, dado que en sístole la apertura de la válvula aórtica obstruye parcialmente la llegada de flujo a los ostium de las arterias coronarias. Es en diástole, aprovechando la relajación ventricular (en sístole la contracción afecta también a las arterias coronarias), cuando el retorno de flujo a la raíz aórtica aprovecha para entrar a las arterias coronarias e irrigar el miocardio.</p>
         </div>
     </div>
 
     <script>
         function checkAnswer(botonSeleccionado, esCorrecta) {
-            // 1. Encontrar la tarjeta de la pregunta actual
             const tarjeta = botonSeleccionado.closest('.question-card');
-            
-            // 2. Encontrar todos los botones dentro de esta tarjeta
             const botones = tarjeta.querySelectorAll('.option-btn');
             
-            // 3. Deshabilitar todos los botones para que no se pueda cambiar la respuesta
             botones.forEach(btn => {
                 btn.disabled = true;
-                
-                // Si este botón era la respuesta correcta, lo pintamos de verde siempre
                 if (btn.dataset.correct === "true") {
                     btn.classList.add('correct');
                 }
             });
             
-            // 4. Si el usuario eligió una incorrecta, pintamos la suya de rojo
             if (!esCorrecta) {
                 botonSeleccionado.classList.add('incorrect');
             }
             
-            // 5. Mostrar la caja de comentarios (retroalimentación)
             const comentario = tarjeta.querySelector('.feedback-box');
             comentario.style.display = 'block';
         }
