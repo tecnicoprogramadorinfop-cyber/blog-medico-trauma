@@ -3,238 +3,131 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog Médico - Apuntes Clínicos</title>
+    <title>Banco de Preguntas - Cardiología</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; color: #2c3e50; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; color: #2c3e50; }
         header { background: #1a5276; color: white; padding: 1.5rem; border-radius: 8px; text-align: center; margin-bottom: 20px; }
         
-        /* Estilos para la botonera (Tabs) */
-        .tab-container { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
-        .tab-button { background: #eaeded; color: #2c3e50; border: 1px solid #d5dbdb; padding: 12px 20px; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 1rem; transition: all 0.3s; flex-grow: 1; }
-        .tab-button:hover { background: #d5dbdb; }
-        .tab-button.active { background: #1a5276; color: white; border-color: #1a5276; }
+        /* Estilos de las tarjetas de preguntas */
+        .question-card { background: white; padding: 25px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .question-card h3 { color: #1a5276; margin-top: 0; font-size: 1.1rem; }
         
-        /* Estilos para el contenido */
-        article { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .tab-content { display: none; /* Oculta todos los temas por defecto */ }
-        .tab-content.active { display: block; animation: fadeIn 0.4s; /* Muestra solo el activo con una animación */ }
+        /* Estilos de los botones de opciones */
+        .options-container { display: flex; flex-direction: column; gap: 10px; margin-top: 15px; }
+        .option-btn { background: #fdfefe; color: #2c3e50; border: 2px solid #eaeded; padding: 12px 15px; text-align: left; cursor: pointer; border-radius: 6px; font-size: 1rem; transition: all 0.2s; }
+        .option-btn:hover:not(:disabled) { background: #eaeded; border-color: #d5dbdb; }
         
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+        /* Estados de respuesta (Correcto / Incorrecto) */
+        .option-btn.correct { background: #d5f5e3; border-color: #28b463; color: #1d8348; font-weight: bold; }
+        .option-btn.incorrect { background: #fadbd8; border-color: #e74c3c; color: #943126; }
+        .option-btn:disabled { cursor: not-allowed; opacity: 0.8; }
         
-        h2 { color: #1a5276; border-bottom: 2px solid #eaeded; padding-bottom: 10px; margin-top: 0; }
-        h3 { color: #2980b9; margin-top: 25px; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 8px; }
-        .nota-clinica { background-color: #fdfefe; border-left: 4px solid #f1c40f; padding: 10px 15px; margin: 15px 0; font-style: italic; }
+        /* Caja de retroalimentación (oculta por defecto) */
+        .feedback-box { display: none; margin-top: 20px; padding: 15px; background: #eaf2f8; border-left: 4px solid #3498db; border-radius: 0 6px 6px 0; animation: fadeIn 0.5s; }
+        .feedback-box strong { color: #2980b9; }
         
-        /* Estilos para los comentarios */
-        .comments-section { background: white; padding: 25px; margin-top: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        input, textarea { width: 100%; margin-bottom: 15px; padding: 12px; border: 1px solid #d5dbdb; border-radius: 5px; box-sizing: border-box; font-family: inherit; }
-        .btn-comentario { background: #28b463; color: white; border: none; padding: 12px 20px; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 1rem; transition: background 0.3s; width: 100%; }
-        .btn-comentario:hover { background: #239b56; }
-        .comment { border-left: 4px solid #1a5276; background: #f9ebf; padding: 15px; margin-bottom: 10px; border-radius: 0 5px 5px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-        .date { font-size: 0.85em; color: #7f8c8d; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>Blog de Notas Clínicas</h1>
-        <p>Ginecología y Endocrinología - Protocolos de Consulta</p>
+        <h1>Simulador Clínico</h1>
+        <p>Asignatura: Cardiología y Cirugía Cardiovascular | Tema 1</p>
     </header>
 
-    <div class="tab-container">
-        <button class="tab-button active" onclick="mostrarTema('tema1', this)">Amenorrea</button>
-        <button class="tab-button" onclick="mostrarTema('tema2', this)">Menopausia</button>
-        <button class="tab-button" onclick="mostrarTema('tema3', this)">SOP</button>
+    <div class="question-card">
+        <h3>1. En relación con el potencial de acción cardiaco, señale la afirmación correcta:</h3>
+        <div class="options-container">
+            <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">1. Las células automáticas tienen un potencial de acción lento y calciodependiente.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">2. El potencial de reposo de las células automáticas es más negativo que el de las células del miocardio ventricular.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">3. Las células automáticas tienen canales rápidos de sodio.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">4. Los canales If se sitúan predominantemente en las células del miocardio ventricular.</button>
+        </div>
+        <div class="feedback-box">
+            <strong>Comentario:</strong> Pregunta teórica de muy alta dificultad sobre el potencial de acción de las células cardiacas. El potencial de acción del cardiomiocito de trabajo “normal” tiene un voltaje en reposo muy bajo (-90 mV) y una fase 0 (despolarización) muy rápida, por estar mediada por canales rápidos de sodio (INa). En cambio, en las células marcapasos, el potencial en reposo nunca baja tanto; cuando se alcanzan entre -45 y -65 mV, se activan canales de sodio If que van despolarizando poco a poco la célula estando en reposo, hasta que se alcanza un potencial de membrana “gatillo” que general un nuevo potencial de acción.
+        </div>
     </div>
 
-    <article id="tema1" class="tab-content active">
-        <h2>Amenorrea</h2>
-        <p>Todas las amenorreas hipotálamo-hipofisiarias están caracterizadas por hipoestrogenismo. El manejo se basa en mejorar síntomas, frenar consecuencias y evitar riesgos a largo plazo:</p>
-        
-        <ul>
-            <li><strong>Estrógenos y osteoporosis:</strong> Los osteoclastos limpian o destruyen hueso, los osteoblastos reparan o construyen. Los estrógenos frenan a los osteoclastos. Sin ellos, la destrucción supera a la reparación.</li>
-            <li><strong>Estrógenos y aparato cardiovascular:</strong>
-                <ul>
-                    <li><strong>Perfil lipídico:</strong> Ayuda a mantener alto el HDL y bajo el LDL.</li>
-                    <li><strong>Disfunción endotelial:</strong> Estimula la producción de óxido nítrico, manteniendo la elasticidad arterial.</li>
-                    <li><strong>Inflamación:</strong> Su ausencia podría suponer inflamación crónica de vasos sanguíneos.</li>
-                </ul>
-            </li>
-            <li><strong>Estrógenos y depresión:</strong> Facilita la síntesis de serotonina y dopamina, interviniendo en la neuroplasticidad.</li>
-        </ul>
-
-        <h3>Definiciones Clínicas</h3>
-        <ul>
-            <li><strong>Amenorrea primaria:</strong> Ausencia de menstruación a los 16 años con presencia de caracteres sexuales secundarios, o a los 14 años sin dichos caracteres.</li>
-            <li><strong>Sangrado infrecuente:</strong> Ciclos de duración superior a 45 días, pero inferior a 6 meses.</li>
-            <li><strong>Amenorrea secundaria:</strong> Desaparición de la menstruación por más de 6 meses.</li>
-        </ul>
-        
-        <div class="nota-clinica">
-            <strong>Nota:</strong> El 70% de las mujeres con SOP tienen trastornos de ovulación. La mayoría cursa con oligomenorrea (menos de 6-8 al año) o ritmo irregular.
+    <div class="question-card">
+        <h3>2. En cuanto a las interrelaciones entre la presión, el flujo y la resistencia de los vasos sanguíneos, señale la afirmación INCORRECTA:</h3>
+        <div class="options-container">
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">1. La resistencia es directamente proporcional a la diferencia de presión e inversamente proporcional al flujo.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">2. En el flujo laminar, la velocidad del flujo en el centro del vaso es mayor que en los bordes exteriores.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">3. Cambios pequeños en el diámetro de un vaso provocan cambios importantes en su conductancia.</button>
+            <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">4. Si se añaden vasos sanguíneos en paralelo en un circuito, aumenta la resistencia vascular total.</button>
         </div>
-
-        <h3>Evaluación: Test de Gestágenos</h3>
-        <p>Se administra progesterona (ej. acetato de medroxiprogesterona) por 5 a 10 días y se suspende de golpe.</p>
-        <ul>
-            <li><strong>Positivo (sangra a los 4-8 días):</strong> Indica que la paciente produce estrógenos y su útero está bien. El problema es la anovulación.</li>
-            <li><strong>Negativo (no sangra):</strong> Indica que no hay estrógenos o hay un problema anatómico (ej. Sd. de Rokitansky o Asherman). En este caso, se indica el <em>Test de estrógenos-progesterona</em>.</li>
-        </ul>
-    </article>
-
-    <article id="tema2" class="tab-content">
-        <h2>Menopausia</h2>
-        <p>Diagnóstico clínico establecido cuando hay <strong>más de 12 meses desde la última regla</strong>, resultado de la completa o casi completa depleción folicular y ausencia de secreción ovárica de estrógenos. Con el agotamiento definitivo de la reserva folicular, hay aumento de las gonadotropinas FSH y LH.</p>
-        
-        <h3>Clasificación por Edad</h3>
-        <ul>
-            <li><strong>Precoz (Insuficiencia Ovárica Precoz - IOP):</strong> Antes de los 40 años.</li>
-            <li><strong>Media:</strong> Suele ser alrededor de los 50 años.</li>
-            <li><strong>Tardía:</strong> Después de los 55 años.</li>
-        </ul>
-
-        <h3>Definiciones Relacionadas</h3>
-        <ul>
-            <li><strong>Transición menopáusica:</strong> Desde el inicio de las alteraciones del ciclo menstrual y elevación de FSH hasta la menopausia.</li>
-            <li><strong>Perimenopausia:</strong> Periodo variable entre 2 y 5 años que engloba la transición menopáusica y termina a los 12 meses tras la última regla.</li>
-            <li><strong>Posmenopausia:</strong> FSH > 40 mU/mL y estradiol < 30-50 pg/mL. Puede ser temprana (primeros 5 años, con pérdida acelerada de masa ósea y síntomas vasomotores) o tardía (tras 5 años).</li>
-        </ul>
-
-        <h3>Clínica y Tratamiento</h3>
-        <p>Los síntomas más frecuentes son los trastornos vasomotores y la atrofia urogenital:</p>
-        <ol>
-            <li><strong>Síntomas vasomotores:</strong> Oleadas de calor, enrojecimiento y transpiración. Causa alteraciones del sueño.
-                <ul>
-                    <li><em>Tx No hormonal:</em> Isoflavonas de soja, cimicifuga racemosa, fezolinetant, ISRS.</li>
-                    <li><em>Tx Hormonal (TER):</em> De elección para síntomas moderados/graves, con la mínima dosis eficaz el menor tiempo posible. Menos favorable en mayores de 60 años o menopausias > 10 años.</li>
-                </ul>
-            </li>
-            <li><strong>Síntomas genitourinarios:</strong> Pérdida de elasticidad, atrofia, pérdida de lubricación.
-                <ul>
-                    <li><em>Tratamiento:</em> Lubricantes, estrógenos locales, prasterona vaginal. El <em>Ospemifeno</em> es de elección en mujeres con antecedentes de cáncer de mama.</li>
-                </ul>
-            </li>
-        </ol>
-        
-        <div class="nota-clinica">
-            <strong>Precauciones TER:</strong> Los estrógenos en monoterapia solo se indican en mujeres histerectomizadas. Si conservan útero, se debe añadir gestágenos para evitar hiperplasia endometrial.
+        <div class="feedback-box">
+            <strong>Comentario:</strong> Pregunta difícil puramente de Fisiología. La presión arterial es igual a la multiplicación de flujo por resistencia (PA = Q · R). Si se añaden vasos en paralelo, el área total por el que pasa el flujo aumenta y la resistencia disminuye (la opción 4 es la falsa). Un flujo laminar es el que se produce en un vaso sano; un flujo turbulento se produce en un vaso enfermo (ej. placas de ateroma) aumentando el riesgo de daño endotelial.
         </div>
-    </article>
+    </div>
 
-    <article id="tema3" class="tab-content">
-        <h2>Síndrome de Ovario Poliquístico (SOP)</h2>
-        <p>Es la endocrinopatía más frecuente en mujeres en edad reproductiva y la forma más común de anovulación crónica. El verdadero problema subyacente suele radicar en la <strong>resistencia a la insulina</strong>, exacerbada por el sobrepeso.</p>
+    <div class="question-card">
+        <h3>3. En relación con el control del flujo sanguíneo coronario, es FALSO que:</h3>
+        <div class="options-container">
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">1. Si aumenta la fuerza de la contracción cardiaca, también aumenta la velocidad del flujo coronario.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">2. En presencia de concentraciones muy bajas de oxígeno en los miocitos, aumenta la disponibilidad de adenosina.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">3. El efecto directo de la activación simpática coronaria puede provocar tanto vasoconstricción como vasodilatación.</button>
+            <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">4. Los efectos directo e indirecto de la actividad parasimpática coronaria (vagal) provocan vasodilatación de las arterias coronarias.</button>
+        </div>
+        <div class="feedback-box">
+            <strong>Comentario:</strong> Pregunta difícil sobre fisiología coronaria. El sistema parasimpático no tiene efecto directo sobre los vasos sanguíneos, que no tienen receptores de acetilcolina (MIR 20, 42). En cambio, la administración exógena de acetilcolina en la luz coronaria tiene un efecto vasodilatador; en pacientes con angina vasoespástica, se observa una respuesta vasoconstrictora paradójica.
+        </div>
+    </div>
 
-        <h3>Criterios Diagnósticos (Rotterdam 2003)</h3>
-        <p>Se requieren 2 de los siguientes 3 criterios:</p>
-        <ol>
-            <li><strong>Oligoovulación y/o anovulación.</strong></li>
-            <li><strong>Signos clínicos y/o bioquímicos de hiperandrogenismo:</strong> Hirsutismo, acné, alopecia androgénica.</li>
-            <li><strong>Ovarios poliquísticos por ecografía:</strong> 12 o más folículos de 2-9mm de diámetro y/o volumen ovárico superior a 10cc.</li>
-        </ol>
+    <div class="question-card">
+        <h3>4. Cuando aumenta la frecuencia cardiaca, la fase del ciclo cardiaco cuya duración se reduce proporcionalmente más es la:</h3>
+        <div class="options-container">
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">1. Fase de sístole auricular.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">2. Fase de sístole isovolumétrica.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">3. Fase de llenado rápido.</button>
+            <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">4. Fase de llenado lento o diástasis.</button>
+        </div>
+        <div class="feedback-box">
+            <strong>Comentario:</strong> Los cambios en la frecuencia cardiaca se traducen fundamentalmente en cambios, respecto a la duración de las fases del ciclo cardiaco, de la diástole. La duración de la sístole se modifica poco. Dentro de la diástole, la fase que más se modifica es la diástasis (fase de llenado lento); la fase de llenado rápido inicial, y la contracción auricular final, modifican menos su duración.
+        </div>
+    </div>
 
-        <h3>Determinaciones Hormonales</h3>
-        <ul>
-            <li><strong>Índice de Testosterona Libre (ITL):</strong> El marcador bioquímico más sensible. [Fórmula: (Testosterona Total / SHBG) X 100]. Un valor > 5 se considera anormal.</li>
-            <li><strong>SDHA (Sulfato de dehidroepiandrosterona):</strong> Parámetro recomendado en la mayoría de guías.</li>
-            <li><strong>Hormona antimulleriana (AMH):</strong> Generalmente elevada en SOP.</li>
-        </ul>
-
-        <h3>Manejo y Tratamiento</h3>
-        <ul>
-            <li><strong>Mujeres SIN deseo genésico:</strong>
-                <ul>
-                    <li><em>Modificación de estilo de vida:</em> Reducción de peso del 5-10% mejora significativamente los síntomas, la resistencia a la insulina y regulariza los ciclos.</li>
-                    <li><em>Tratamiento médico:</em> Anticonceptivos orales combinados (ACOs) con gestágenos antiandrogénicos (ciproterona, drospirenona) como primera línea. Antiandrogénicos (espironolactona) como refuerzo.</li>
-                </ul>
-            </li>
-            <li><strong>Mujeres CON deseo genésico:</strong>
-                <ul>
-                    <li>El <em>citrato de clomifeno</em> se utiliza frecuentemente para inducir la ovulación.</li>
-                </ul>
-            </li>
-        </ul>
-    </article>
-
-    <div class="comments-section">
-        <h3>Comentarios del Equipo Médico</h3>
-        <div id="listaComentarios"></div>
-
-        <h4 style="margin-top: 30px;">Añadir una discusión clínica</h4>
-        <input type="text" id="nombreUsuario" placeholder="Tu Nombre o Iniciales">
-        <textarea id="textoComentario" rows="3" placeholder="Añade tu comentario, duda o perla clínica aquí..."></textarea>
-        <button class="btn-comentario" onclick="agregarComentario()">Publicar Comentario</button>
+    <div class="question-card">
+        <h3>5. ¿Cuándo alcanza su valor máximo el flujo sanguíneo coronario del ventrículo izquierdo?:</h3>
+        <div class="options-container">
+            <button class="option-btn" data-correct="true" onclick="checkAnswer(this, true)">1. Al comienzo de la diástole.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">2. Al comienzo de la sístole isovolumétrica.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">3. Cuando la presión aórtica es máxima.</button>
+            <button class="option-btn" data-correct="false" onclick="checkAnswer(this, false)">4. Cuando el flujo sanguíneo aórtico es máximo.</button>
+        </div>
+        <div class="feedback-box">
+            <strong>Comentario:</strong> Pregunta sencilla. Las arterias coronarias se irrigan en diástole, dado que en sístole la apertura de la válvula aórtica obstruye parcialmente la llegada de flujo a los ostium de las arterias coronarias. Es en diástole, aprovechando la relajación ventricular, cuando el retorno de flujo a la raíz aórtica aprovecha para entrar a las arterias coronarias e irrigar el miocardio.
+        </div>
     </div>
 
     <script>
-        // Función para cambiar de pestaña (Tabs)
-        function mostrarTema(idTema, botonPresionado) {
-            // 1. Ocultar todos los artículos
-            const contenidos = document.getElementsByClassName('tab-content');
-            for (let i = 0; i < contenidos.length; i++) {
-                contenidos[i].classList.remove('active');
-            }
+        function checkAnswer(botonSeleccionado, esCorrecta) {
+            // 1. Encontrar la tarjeta de la pregunta actual
+            const tarjeta = botonSeleccionado.closest('.question-card');
             
-            // 2. Quitar el color azul de todos los botones
-            const botones = document.getElementsByClassName('tab-button');
-            for (let i = 0; i < botones.length; i++) {
-                botones[i].classList.remove('active');
-            }
+            // 2. Encontrar todos los botones dentro de esta tarjeta
+            const botones = tarjeta.querySelectorAll('.option-btn');
             
-            // 3. Mostrar el artículo seleccionado y pintar el botón correspondiente
-            document.getElementById(idTema).classList.add('active');
-            botonPresionado.classList.add('active');
-        }
-
-        // Función para cargar comentarios
-        function cargarComentarios() {
-            const comentarios = JSON.parse(localStorage.getItem('comentariosBlogMedico')) || [];
-            const contenedor = document.getElementById('listaComentarios');
-            contenedor.innerHTML = '';
-            
-            if (comentarios.length === 0) {
-                contenedor.innerHTML = '<p style="color: #95a5a6; font-style: italic;">No hay discusiones aún en este apartado.</p>';
-            }
-
-            comentarios.forEach(com => {
-                contenedor.innerHTML += `
-                    <div class="comment">
-                        <strong>${com.nombre}</strong> <span class="date">- ${com.fecha}</span>
-                        <p style="margin: 5px 0 0 0;">${com.texto}</p>
-                    </div>
-                `;
+            // 3. Deshabilitar todos los botones para que no se pueda cambiar la respuesta
+            botones.forEach(btn => {
+                btn.disabled = true;
+                
+                // Si este botón era la respuesta correcta, lo pintamos de verde siempre
+                if (btn.dataset.correct === "true") {
+                    btn.classList.add('correct');
+                }
             });
-        }
-
-        // Función para guardar comentarios
-        function agregarComentario() {
-            const nombre = document.getElementById('nombreUsuario').value;
-            const texto = document.getElementById('textoComentario').value;
-
-            if (nombre.trim() === '' || texto.trim() === '') {
-                alert('Por favor, completa tu nombre y el comentario.');
-                return;
+            
+            // 4. Si el usuario eligió una incorrecta, pintamos la suya de rojo
+            if (!esCorrecta) {
+                botonSeleccionado.classList.add('incorrect');
             }
-
-            const nuevoComentario = {
-                nombre: nombre,
-                texto: texto,
-                fecha: new Date().toLocaleDateString()
-            };
-
-            const comentarios = JSON.parse(localStorage.getItem('comentariosBlogMedico')) || [];
-            comentarios.push(nuevoComentario);
-            localStorage.setItem('comentariosBlogMedico', JSON.stringify(comentarios));
-
-            document.getElementById('nombreUsuario').value = '';
-            document.getElementById('textoComentario').value = '';
-            cargarComentarios();
+            
+            // 5. Mostrar la caja de comentarios (retroalimentación)
+            const comentario = tarjeta.querySelector('.feedback-box');
+            comentario.style.display = 'block';
         }
-
-        // Ejecutar al iniciar la página
-        window.onload = cargarComentarios;
     </script>
 
 </body>
