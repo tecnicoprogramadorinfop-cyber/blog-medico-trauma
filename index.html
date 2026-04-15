@@ -3,17 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog Médico - Notas Clínicas</title>
+    <title>Blog Médico - Apuntes Clínicos</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; color: #2c3e50; }
-        header { background: #1a5276; color: white; padding: 1.5rem; border-radius: 8px; text-align: center; }
-        article, .comments-section { background: white; padding: 25px; margin-top: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        h2 { color: #1a5276; border-bottom: 2px solid #eaeded; padding-bottom: 10px; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; color: #2c3e50; }
+        header { background: #1a5276; color: white; padding: 1.5rem; border-radius: 8px; text-align: center; margin-bottom: 20px; }
+        
+        /* Estilos para la botonera (Tabs) */
+        .tab-container { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .tab-button { background: #eaeded; color: #2c3e50; border: 1px solid #d5dbdb; padding: 12px 20px; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 1rem; transition: all 0.3s; flex-grow: 1; }
+        .tab-button:hover { background: #d5dbdb; }
+        .tab-button.active { background: #1a5276; color: white; border-color: #1a5276; }
+        
+        /* Estilos para el contenido */
+        article { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .tab-content { display: none; /* Oculta todos los temas por defecto */ }
+        .tab-content.active { display: block; animation: fadeIn 0.4s; /* Muestra solo el activo con una animación */ }
+        
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+        
+        h2 { color: #1a5276; border-bottom: 2px solid #eaeded; padding-bottom: 10px; margin-top: 0; }
+        h3 { color: #2980b9; margin-top: 25px; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        .nota-clinica { background-color: #fdfefe; border-left: 4px solid #f1c40f; padding: 10px 15px; margin: 15px 0; font-style: italic; }
+        
+        /* Estilos para los comentarios */
+        .comments-section { background: white; padding: 25px; margin-top: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
         input, textarea { width: 100%; margin-bottom: 15px; padding: 12px; border: 1px solid #d5dbdb; border-radius: 5px; box-sizing: border-box; font-family: inherit; }
-        button { background: #28b463; color: white; border: none; padding: 12px 20px; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 1rem; transition: background 0.3s; }
-        button:hover { background: #239b56; }
-        .comment { border-left: 4px solid #1a5276; background: #fdfefe; padding: 15px; margin-bottom: 10px; border-radius: 0 5px 5px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-        .comment strong { color: #1a5276; }
+        .btn-comentario { background: #28b463; color: white; border: none; padding: 12px 20px; cursor: pointer; border-radius: 5px; font-weight: bold; font-size: 1rem; transition: background 0.3s; width: 100%; }
+        .btn-comentario:hover { background: #239b56; }
+        .comment { border-left: 4px solid #1a5276; background: #f9ebf; padding: 15px; margin-bottom: 10px; border-radius: 0 5px 5px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
         .date { font-size: 0.85em; color: #7f8c8d; }
     </style>
 </head>
@@ -21,42 +40,162 @@
 
     <header>
         <h1>Blog de Notas Clínicas</h1>
-        <p>Apuntes y protocolos para la práctica médica diaria</p>
+        <p>Ginecología y Endocrinología - Protocolos de Consulta</p>
     </header>
 
-    <article>
-        <h2>Repaso Rápido: El Protocolo ABCDE en Trauma</h2>
-        <p class="date">Publicado: 14 de Abril, 2026</p>
-        <p>En el manejo inicial del paciente politraumatizado, la sistematización es clave. El protocolo ABCDE nos permite identificar y tratar condiciones letales de forma priorizada y ordenada:</p>
+    <div class="tab-container">
+        <button class="tab-button active" onclick="mostrarTema('tema1', this)">Amenorrea</button>
+        <button class="tab-button" onclick="mostrarTema('tema2', this)">Menopausia</button>
+        <button class="tab-button" onclick="mostrarTema('tema3', this)">SOP</button>
+    </div>
+
+    <article id="tema1" class="tab-content active">
+        <h2>Amenorrea</h2>
+        <p>Todas las amenorreas hipotálamo-hipofisiarias están caracterizadas por hipoestrogenismo. El manejo se basa en mejorar síntomas, frenar consecuencias y evitar riesgos a largo plazo:</p>
+        
         <ul>
-            <li><strong>A (Airway):</strong> Permeabilidad de la vía aérea con control de la columna cervical.</li>
-            <li><strong>B (Breathing):</strong> Asegurar una adecuada ventilación y oxigenación.</li>
-            <li><strong>C (Circulation):</strong> Control de hemorragias exanguinantes (uso temprano de torniquetes) y evaluación de la perfusión.</li>
-            <li><strong>D (Disability):</strong> Breve evaluación neurológica, típicamente usando la escala de Glasgow y reactividad pupilar.</li>
-            <li><strong>E (Exposure):</strong> Exposición completa del paciente para examen físico, previniendo activamente la hipotermia.</li>
+            <li><strong>Estrógenos y osteoporosis:</strong> Los osteoclastos limpian o destruyen hueso, los osteoblastos reparan o construyen. Los estrógenos frenan a los osteoclastos. Sin ellos, la destrucción supera a la reparación.</li>
+            <li><strong>Estrógenos y aparato cardiovascular:</strong>
+                <ul>
+                    <li><strong>Perfil lipídico:</strong> Ayuda a mantener alto el HDL y bajo el LDL.</li>
+                    <li><strong>Disfunción endotelial:</strong> Estimula la producción de óxido nítrico, manteniendo la elasticidad arterial.</li>
+                    <li><strong>Inflamación:</strong> Su ausencia podría suponer inflamación crónica de vasos sanguíneos.</li>
+                </ul>
+            </li>
+            <li><strong>Estrógenos y depresión:</strong> Facilita la síntesis de serotonina y dopamina, interviniendo en la neuroplasticidad.</li>
         </ul>
-        <p>¿Qué paso suelen ver que requiere más corrección durante los ejercicios de simulación o en la práctica real con su equipo? ¡Dejen sus aportes abajo!</p>
+
+        <h3>Definiciones Clínicas</h3>
+        <ul>
+            <li><strong>Amenorrea primaria:</strong> Ausencia de menstruación a los 16 años con presencia de caracteres sexuales secundarios, o a los 14 años sin dichos caracteres.</li>
+            <li><strong>Sangrado infrecuente:</strong> Ciclos de duración superior a 45 días, pero inferior a 6 meses.</li>
+            <li><strong>Amenorrea secundaria:</strong> Desaparición de la menstruación por más de 6 meses.</li>
+        </ul>
+        
+        <div class="nota-clinica">
+            <strong>Nota:</strong> El 70% de las mujeres con SOP tienen trastornos de ovulación. La mayoría cursa con oligomenorrea (menos de 6-8 al año) o ritmo irregular.
+        </div>
+
+        <h3>Evaluación: Test de Gestágenos</h3>
+        <p>Se administra progesterona (ej. acetato de medroxiprogesterona) por 5 a 10 días y se suspende de golpe.</p>
+        <ul>
+            <li><strong>Positivo (sangra a los 4-8 días):</strong> Indica que la paciente produce estrógenos y su útero está bien. El problema es la anovulación.</li>
+            <li><strong>Negativo (no sangra):</strong> Indica que no hay estrógenos o hay un problema anatómico (ej. Sd. de Rokitansky o Asherman). En este caso, se indica el <em>Test de estrógenos-progesterona</em>.</li>
+        </ul>
+    </article>
+
+    <article id="tema2" class="tab-content">
+        <h2>Menopausia</h2>
+        <p>Diagnóstico clínico establecido cuando hay <strong>más de 12 meses desde la última regla</strong>, resultado de la completa o casi completa depleción folicular y ausencia de secreción ovárica de estrógenos. Con el agotamiento definitivo de la reserva folicular, hay aumento de las gonadotropinas FSH y LH.</p>
+        
+        <h3>Clasificación por Edad</h3>
+        <ul>
+            <li><strong>Precoz (Insuficiencia Ovárica Precoz - IOP):</strong> Antes de los 40 años.</li>
+            <li><strong>Media:</strong> Suele ser alrededor de los 50 años.</li>
+            <li><strong>Tardía:</strong> Después de los 55 años.</li>
+        </ul>
+
+        <h3>Definiciones Relacionadas</h3>
+        <ul>
+            <li><strong>Transición menopáusica:</strong> Desde el inicio de las alteraciones del ciclo menstrual y elevación de FSH hasta la menopausia.</li>
+            <li><strong>Perimenopausia:</strong> Periodo variable entre 2 y 5 años que engloba la transición menopáusica y termina a los 12 meses tras la última regla.</li>
+            <li><strong>Posmenopausia:</strong> FSH > 40 mU/mL y estradiol < 30-50 pg/mL. Puede ser temprana (primeros 5 años, con pérdida acelerada de masa ósea y síntomas vasomotores) o tardía (tras 5 años).</li>
+        </ul>
+
+        <h3>Clínica y Tratamiento</h3>
+        <p>Los síntomas más frecuentes son los trastornos vasomotores y la atrofia urogenital:</p>
+        <ol>
+            <li><strong>Síntomas vasomotores:</strong> Oleadas de calor, enrojecimiento y transpiración. Causa alteraciones del sueño.
+                <ul>
+                    <li><em>Tx No hormonal:</em> Isoflavonas de soja, cimicifuga racemosa, fezolinetant, ISRS.</li>
+                    <li><em>Tx Hormonal (TER):</em> De elección para síntomas moderados/graves, con la mínima dosis eficaz el menor tiempo posible. Menos favorable en mayores de 60 años o menopausias > 10 años.</li>
+                </ul>
+            </li>
+            <li><strong>Síntomas genitourinarios:</strong> Pérdida de elasticidad, atrofia, pérdida de lubricación.
+                <ul>
+                    <li><em>Tratamiento:</em> Lubricantes, estrógenos locales, prasterona vaginal. El <em>Ospemifeno</em> es de elección en mujeres con antecedentes de cáncer de mama.</li>
+                </ul>
+            </li>
+        </ol>
+        
+        <div class="nota-clinica">
+            <strong>Precauciones TER:</strong> Los estrógenos en monoterapia solo se indican en mujeres histerectomizadas. Si conservan útero, se debe añadir gestágenos para evitar hiperplasia endometrial.
+        </div>
+    </article>
+
+    <article id="tema3" class="tab-content">
+        <h2>Síndrome de Ovario Poliquístico (SOP)</h2>
+        <p>Es la endocrinopatía más frecuente en mujeres en edad reproductiva y la forma más común de anovulación crónica. El verdadero problema subyacente suele radicar en la <strong>resistencia a la insulina</strong>, exacerbada por el sobrepeso.</p>
+
+        <h3>Criterios Diagnósticos (Rotterdam 2003)</h3>
+        <p>Se requieren 2 de los siguientes 3 criterios:</p>
+        <ol>
+            <li><strong>Oligoovulación y/o anovulación.</strong></li>
+            <li><strong>Signos clínicos y/o bioquímicos de hiperandrogenismo:</strong> Hirsutismo, acné, alopecia androgénica.</li>
+            <li><strong>Ovarios poliquísticos por ecografía:</strong> 12 o más folículos de 2-9mm de diámetro y/o volumen ovárico superior a 10cc.</li>
+        </ol>
+
+        <h3>Determinaciones Hormonales</h3>
+        <ul>
+            <li><strong>Índice de Testosterona Libre (ITL):</strong> El marcador bioquímico más sensible. [Fórmula: (Testosterona Total / SHBG) X 100]. Un valor > 5 se considera anormal.</li>
+            <li><strong>SDHA (Sulfato de dehidroepiandrosterona):</strong> Parámetro recomendado en la mayoría de guías.</li>
+            <li><strong>Hormona antimulleriana (AMH):</strong> Generalmente elevada en SOP.</li>
+        </ul>
+
+        <h3>Manejo y Tratamiento</h3>
+        <ul>
+            <li><strong>Mujeres SIN deseo genésico:</strong>
+                <ul>
+                    <li><em>Modificación de estilo de vida:</em> Reducción de peso del 5-10% mejora significativamente los síntomas, la resistencia a la insulina y regulariza los ciclos.</li>
+                    <li><em>Tratamiento médico:</em> Anticonceptivos orales combinados (ACOs) con gestágenos antiandrogénicos (ciproterona, drospirenona) como primera línea. Antiandrogénicos (espironolactona) como refuerzo.</li>
+                </ul>
+            </li>
+            <li><strong>Mujeres CON deseo genésico:</strong>
+                <ul>
+                    <li>El <em>citrato de clomifeno</em> se utiliza frecuentemente para inducir la ovulación.</li>
+                </ul>
+            </li>
+        </ul>
     </article>
 
     <div class="comments-section">
-        <h3>Comentarios del Equipo</h3>
+        <h3>Comentarios del Equipo Médico</h3>
         <div id="listaComentarios"></div>
 
-        <h4 style="margin-top: 30px;">Añadir una observación</h4>
+        <h4 style="margin-top: 30px;">Añadir una discusión clínica</h4>
         <input type="text" id="nombreUsuario" placeholder="Tu Nombre o Iniciales">
-        <textarea id="textoComentario" rows="3" placeholder="Escribe tu aporte clínico aquí..."></textarea>
-        <button onclick="agregarComentario()">Publicar Comentario</button>
+        <textarea id="textoComentario" rows="3" placeholder="Añade tu comentario, duda o perla clínica aquí..."></textarea>
+        <button class="btn-comentario" onclick="agregarComentario()">Publicar Comentario</button>
     </div>
 
     <script>
-        // Función para cargar los comentarios al abrir la página
+        // Función para cambiar de pestaña (Tabs)
+        function mostrarTema(idTema, botonPresionado) {
+            // 1. Ocultar todos los artículos
+            const contenidos = document.getElementsByClassName('tab-content');
+            for (let i = 0; i < contenidos.length; i++) {
+                contenidos[i].classList.remove('active');
+            }
+            
+            // 2. Quitar el color azul de todos los botones
+            const botones = document.getElementsByClassName('tab-button');
+            for (let i = 0; i < botones.length; i++) {
+                botones[i].classList.remove('active');
+            }
+            
+            // 3. Mostrar el artículo seleccionado y pintar el botón correspondiente
+            document.getElementById(idTema).classList.add('active');
+            botonPresionado.classList.add('active');
+        }
+
+        // Función para cargar comentarios
         function cargarComentarios() {
-            const comentarios = JSON.parse(localStorage.getItem('comentariosTrauma')) || [];
+            const comentarios = JSON.parse(localStorage.getItem('comentariosBlogMedico')) || [];
             const contenedor = document.getElementById('listaComentarios');
             contenedor.innerHTML = '';
             
             if (comentarios.length === 0) {
-                contenedor.innerHTML = '<p style="color: #95a5a6; font-style: italic;">No hay comentarios aún. ¡Sé el primero en aportar!</p>';
+                contenedor.innerHTML = '<p style="color: #95a5a6; font-style: italic;">No hay discusiones aún en este apartado.</p>';
             }
 
             comentarios.forEach(com => {
@@ -69,7 +208,7 @@
             });
         }
 
-        // Función para guardar un nuevo comentario
+        // Función para guardar comentarios
         function agregarComentario() {
             const nombre = document.getElementById('nombreUsuario').value;
             const texto = document.getElementById('textoComentario').value;
@@ -85,17 +224,16 @@
                 fecha: new Date().toLocaleDateString()
             };
 
-            const comentarios = JSON.parse(localStorage.getItem('comentariosTrauma')) || [];
+            const comentarios = JSON.parse(localStorage.getItem('comentariosBlogMedico')) || [];
             comentarios.push(nuevoComentario);
-            localStorage.setItem('comentariosTrauma', JSON.stringify(comentarios));
+            localStorage.setItem('comentariosBlogMedico', JSON.stringify(comentarios));
 
-            // Limpiar los cuadros de texto y recargar la lista
             document.getElementById('nombreUsuario').value = '';
             document.getElementById('textoComentario').value = '';
             cargarComentarios();
         }
 
-        // Ejecutar la carga al iniciar
+        // Ejecutar al iniciar la página
         window.onload = cargarComentarios;
     </script>
 
