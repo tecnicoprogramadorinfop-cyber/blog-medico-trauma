@@ -58,5 +58,40 @@
     ],
     "correcta": 0,
     "comentario": "<p>Pregunta sencilla. Las arterias coronarias se irrigan en diástole, dado que en sístole la apertura de la válvula aórtica obstruye parcialmente la llegada de flujo a los ostium de las arterias coronarias. Es en diástole, aprovechando la relajación ventricular (en sístole la contracción afecta también a las arterias coronarias), cuando el retorno de flujo a la raíz aórtica aprovecha para entrar a las arterias coronarias e irrigar el miocardio.</p>"
-  }
-]
+  }, {
+    "tema": "Tema 2. Semiología cardiovascular",
+    "pregunta": "1. De entre las diferentes maniobras exploratorias del corazón, ¿cuál es la que presenta menor rentabilidad diagnóstica (sensibilidad y especificidad)?:",
+    "opciones": [
+      "1. Inspección del precordio.",
+      "2. Palpación del área precordial.",
+      "3. Percusión cardiaca.",
+      "4. Auscultación cardiaca."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Probablemente la pregunta más rara del MIR 2021. Es una pregunta de exploración física pura y dura, sacada del manual de Patología General Sisinio de Castro, que no tiene ningún sentido en el siglo XXI. De todos modos, se podía sacar por sentido común: ¿alguna vez habéis visto a un médico percutiendo el área precordial? La percusión del abdomen puede tener sentido, pero la del corazón no tiene prácticamente utilidad.</p><p>Dentro de las maniobras de exploración cardiaca, la inspección es útil para observar por ejemplo cicatrices de esternotomía previa que nos hablen de una operación cardiaca antigua, o para ver si el paciente es portador de un marcapasos o un desfibrilador (al ver la silueta del generador y la cicatriz del implante). La palpación es útil para evaluar crecimiento ventricular. En pacientes con dilatación de ventrículo derecho, es frecuente palpar el latido de dicho ventrículo en área paraesternal izquierda (en pacientes con corazón normal no se palpa); en pacientes con dilatación del ventrículo izquierdo, existe desplazamiento del latido de la punta hacia la izquierda (concepto ampliamente preguntado en el MIR). Por último, la auscultación es la prueba que más rendimiento aporta, dado que permite realizar el diagnóstico de sospecha de las valvulopatías, de algunas cardiopatías congénitas, y de algunas cardiopatías estructurales (como la miocardiopatía hipertrófica, si existe soplo obstructivo).</p>"
+  },
+  {
+    "tema": "Tema 2. Semiología cardiovascular",
+    "pregunta": "2. De las siguientes enfermedades, una de ellas puede manifestarse con ausencia de pulso venoso yugular:",
+    "opciones": [
+      "1. Pericarditis constrictiva.",
+      "2. Síndrome de vena cava superior.",
+      "3. Insuficiencia tricúspide.",
+      "4. Insuficiencia cardiaca."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta curiosa que se podía sacar utilizando el sentido común. No nos preguntan por la presión venosa yugular, que estará aumentada en todos los casos que nos proponen, sino por la presencia de pulsatilidad en la vena yugular. Siempre que la vena yugular esté permeable y conectada a la aurícula derecha, la contracción auricular se transmitirá a la vena yugular y existirá pulso venoso yugular.</p><p>En el síndrome de vena cava superior, por el contrario, existe una obstrucción al flujo de la vena cava superior, de modo que las venas yugulares se “desconectan” de la aurícula derecha y no tendrán pulso venoso. En la pericarditis constrictiva es típico que la columna de presión venosa yugular sea tan alta que no podamos observar el pulso venoso yugular por encontrarse a nivel intracraneal; eso no significa que no exista pulso: existe pero no lo podemos ver.</p>"
+  },
+  {
+    "tema": "Tema 2. Semiología cardiovascular",
+    "pregunta": "3. Señale la afirmación FALSA con respecto al “tercer ruido” cardiaco:",
+    "opciones": [
+      "1. Es un sonido de baja frecuencia.",
+      "2. Se puede producir en procesos que incrementan la velocidad o el volumen de llenado ventricular.",
+      "3. Aparecen al final de la diástole.",
+      "4. Está presente en pacientes con insuficiencia mitral grave.",
+      "5. Puede aparecer en niños normales y en pacientes con gasto cardiaco elevado."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla sobre el 3R cardiaco. A diferencia del 4R, el 3R puede ser fisiológico y aparecer en situaciones hiperdinámicas (niños, fiebre, embarazo…). Tanto el 3R como el 4R son ruidos diastólicos y de baja frecuencia (se auscultan mejor con la campana del fonendoscopio), pero el 3R aparece al principio de la diástole (fase de llenado rápido ventricular) y el 4R aparece al final de la diástole (contracción auricular).</p>"
+  }]
