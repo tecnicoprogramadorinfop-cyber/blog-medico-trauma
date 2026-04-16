@@ -95,5 +95,115 @@
     ],
     "correcta": 2,
     "comentario": "<p>Pregunta sencilla sobre el 3R cardiaco. A diferencia del 4R, el 3R puede ser fisiológico y aparecer en situaciones hiperdinámicas (niños, fiebre, embarazo…). Tanto el 3R como el 4R son ruidos diastólicos y de baja frecuencia (se auscultan mejor con la campana del fonendoscopio), pero el 3R aparece al principio de la diástole (fase de llenado rápido ventricular) y el 4R aparece al final de la diástole (contracción auricular).</p>"
+  },
+{
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "1. ¿Cuál es el mecanismo por el que la ivabradina, actuando en las células del nodo sinoauricular, produce una disminución de la frecuencia cardíaca?:",
+    "opciones": [
+      "1. Potencia la repolarización al activar corrientes de salida de potasio.",
+      "2. Modula los receptores beta-1 adrenérgicos.",
+      "3. Bloquea la corriente de marcapaso If.",
+      "4. Activa los receptores muscarínicos M2."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla sobre el mecanismo de acción de la ivabradina. Este fármaco actúa inhibiendo las corrientes de entrada de sodio del canal iónico If. Por este mecanismo enlentece la despolarización de las células marcapasos disminuyendo con ello la frecuencia cardiaca.</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "2. Paciente de 72 años de edad que acude a urgencias por presentar aparatoso e importante angioedema lingual. No presenta urticaria asociada ni refiere antecedentes de alergia a fármacos o alimentos. Entre sus antecedentes personales destacan diabetes mellitus tipo 2, dislipemia, hipertensión arterial, hipotiroidismo y enfermedad de Parkinson. En tratamiento habitual con metformina, simvastatina, enalapril, tiroxina y levodopa, ¿cuál de los siguientes fármacos es con mayor probabilidad el fármaco causal del cuadro clínico descrito?:",
+    "opciones": [
+      "1. Enalapril.",
+      "2. Simvastatina.",
+      "3. Metformina o levodopa por igual.",
+      "4. Levodopa."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla sobre uno de los efectos secundarios más típico de los IECA, el angioedema. Recuerda que ante un paciente en tratamiento con IECA (en este caso enalapril) que consulta por tos irritativa o angioedema se debe sustituir el IECA por un ARA-II, que no producen en general ni tos ni angioedema.</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "3. La aparición de torsades de pointes, por alargamiento del intervalo QT en el electrocardiograma, puede aparecer con más probabilidad en el curso de un tratamiento antiarrítmico con fármacos del grupo:",
+    "opciones": [
+      "1. Ia (por ejemplo, procainamida).",
+      "2. Ib (por ejemplo, lidocaína).",
+      "3. II (por ejemplo, bisoprolol).",
+      "4. IV (por ejemplo, diltiazem)."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad moderada, dado que son infrecuentes las preguntas directas sobre antiarrítmicos en el MIR. Los antiarrítmicos que se asocian típicamente a alargamiento del intervalo QT son los de tipo III (amiodarona, sotalol) y los de tipo Ia (procainamida). Los antiarrítmicos de tipo Ib y Ic no alargan el intervalo QT.</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "4. Señale cuál de los siguientes grupos terapéuticos ha demostrado disminuir la morbimortalidad cardiovascular y total en pacientes hipertensos, mayores de 55 años y con antecedentes de episodios cardiovasculares o diabetes:",
+    "opciones": [
+      "1. Bloqueantes de los canales del calcio (calcioantagonistas).",
+      "2. Diuréticos.",
+      "3. Inhibidores del enzima convertidor de angiotensina.",
+      "4. Betabloqueantes."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil. Los IECA son los antihipertensivos de elección en pacientes con diabetes o con enfermedad cardiovascular establecida. También están especialmente indicados como antihipertensivos en pacientes con insuficiencia cardiaca y con HTA vasculorrenal (salvo si existe estenosis bilateral de arterias renales, que es una contraindicación para su uso).</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "5. La asociación de fármacos inhibidores de la enzima convertidora de la angiotensina y antagonistas de la aldosterona puede ser útil en algunos pacientes con insuficiencia cardiaca. No obstante, deberemos vigilar especialmente en estos casos:",
+    "opciones": [
+      "1. La aparición o agravamiento de dislipemias.",
+      "2. Que pueden aumentar paradójicamente las cifras tensionales.",
+      "3. La aparición de hiperpotasemia.",
+      "4. Los niveles de bradicininas circulantes."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil. Los inhibidores del receptor de la aldosterona (diuréticos ahorradores de potasio) tienen riesgo de hiperpotasemia, por lo que deben emplearse con precaución en pacientes que tomen otros fármacos que puedan producir hiperpotasemia, como los IECA/ARA-2 y los beta-bloqueantes.</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "6. Paciente de 90 años controlada en domicilio con frecuentes demandas de atención domiciliaria. En esta ocasión le avisan de nuevo por presentar malestar general, náuseas, pérdida de apetito, molestias abdominales inespecíficas, cansancio, ligero aumento de su disnea habitual, y detección de pulso lento al controlar la cuidadora la presión arterial en domicilio esta mañana. Diagnosticada de doble lesión aórtica, fibrilación auricular, insuficiencia cardiaca, isquemia por embolia en pierna izquierda e HTA. En tratamiento con furosemida 40 mg 2 comprimidos por las mañanas, suplementos de potasio, digoxina 5 comprimidos de 0,25 mg a la semana, bisoprolol 1.5 mg/día, acenocumarol 1 mg/día y losartan 100 mg/día. En la exploración, eupneica en reposo, saturación O2 transcutánea 95%, PA 143/58 mmHg, FC 48 latidos por minuto, con bigeminismo. Ligeros edemas maleolares, auscultación pulmonar normal, auscultación cardiaca soplo sistólico en foco aórtico. Temperatura y pulsos distales sin cambios, palpación abdominal normal. ¿Cuál de las afirmaciones propuestas le parece más probable?:",
+    "opciones": [
+      "1. La paciente presenta empeoramiento de su ICC por lo que se debe remitir a Urgencias para tratamiento intensivo.",
+      "2. Los síntomas orientan a que podría tratarse de una intoxicación digitálica.",
+      "3. Se trata de una dispepsia funcional por polimedicación y puede prescribir un inhibidor de la bomba de protones para controlar los síntomas.",
+      "4. Se trata de cuadro de ansiedad en paciente pluripatológica inmovilizada en domicilio, podría iniciar tratamiento con ansiolíticos."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Caso clínico complejo pero que se saca con unas cuantas pistas que nos ofrece el enunciado: clínica inespecífica con náuseas y anorexia + bradicardia + bigeminismo. Estos datos hacen que lo más probable sea una intoxicación digitálica. La técnica de examen también podría haber servido para sacar la pregunta: mientras que las opciones 1, 3 y 4 son tajantes (“la paciente presenta”, “se trata de”), la opción 2 indica posibilidad (“podría tratarse...”), y ya sabéis que “por poder”, casi cualquier cosa puede ser.</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "7. ¿Cuál de los siguientes agonistas de receptores adrenérgicos tiene efecto hipotensor?:",
+    "opciones": [
+      "1. Dopamina.",
+      "2. Clonidina.",
+      "3. Terbutalina.",
+      "4. Efedrina."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta teórica y que puede sacarse por descarte: la dopamina y la efedrina son drogas simpaticomiméticas (por lo que suben la presión arterial). La terbutalina es un broncodilatador (agonista beta2). Así, por descarte, nos queda la clonidina, que es un agonista alfa2 con efecto simpaticolítico a nivel central: por ello, baja la presión arterial.</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "8. Mujer de 70 años con antecedentes de hipertensión e insuficiencia cardiaca moderada que acude a la consulta por presentar tos persistente y seca que se inicia como una sensación de picor en la garganta. En la analítica se observa hiperpotasemia. ¿Cuál es el fármaco sospechoso de causar la clínica y la alteración analítica de la paciente?:",
+    "opciones": [
+      "1. Hidroclorotiazida.",
+      "2. Bisoprolol.",
+      "3. Furosemida.",
+      "4. Enalapril.",
+      "5. Hidralazina."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fácil sobre los efectos adversos de los fármacos de acción cardiovascular. La paciente presenta tos irritativa e hiperpotasemia, que son los dos efectos adversos más típicos de los IECA (como el enalapril). También pueden producir angioedema. Recuerda que los ARA-2 producen una menor incidencia de tos o angioedema, pero también la producen, y que el riesgo de hiperpotasemia es similar a los IECA. Recordar que las tiazidas y los diuréticos del asa (furosemida), en cambio, producen hipopotasemia. Los betabloqueantes también pueden producir hiperpotasemia (más raramente que los IECA), pero en lugar de tos nos contarían como efectos adversos típicos astenia, mareos o bradicardia.</p>"
+  },
+  {
+    "tema": "Tema 3. Fármacos en Cardiología",
+    "pregunta": "9. Mujer de 82 años hipertensa en tratamiento con atenolol, hidroclorotiazida y digoxina. Acude a urgencias por fibrilación auricular y se le administra verapamil i.v. Se evidencia en ECG bloqueo auriculoventricular completo. ¿Cuál es la causa más probable de esta situación clínica?:",
+    "opciones": [
+      "1. Intoxicación digitálica por interacción farmacocinética por verapamilo.",
+      "2. Hipopotasemia por la administración de tiazida y digoxina.",
+      "3. Interacción farmacodinámica del betabloqueante, digoxina y verapamil.",
+      "4. Efecto hipotensor del diurético tiazídico.",
+      "5. Arritmia cardiaca por verapamil."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Mujer con fibrilación auricular y tratamiento crónico con dos fármacos frenadores para control de frecuencia cardiaca (betabloqueante y digoxina). Presenta un episodio de respuesta ventricular rápida, y como fármaco frenador se introduce de manera aguda otro distinto de los otros dos que toma: verapamilo. Así, el nodo AV de la paciente se encuentra de repente con tres tipos de fármacos que lo bloquean actuando simultáneamente (betabloqueante, calcioantagonista y digoxina), y es lógico que se bloquee. Se trata por tanto de una interacción farmacodinámica (sumación de efectos terapéuticos).</p>"
   }
 ]
