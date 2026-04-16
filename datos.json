@@ -58,7 +58,8 @@
     ],
     "correcta": 0,
     "comentario": "<p>Pregunta sencilla. Las arterias coronarias se irrigan en diástole, dado que en sístole la apertura de la válvula aórtica obstruye parcialmente la llegada de flujo a los ostium de las arterias coronarias. Es en diástole, aprovechando la relajación ventricular (en sístole la contracción afecta también a las arterias coronarias), cuando el retorno de flujo a la raíz aórtica aprovecha para entrar a las arterias coronarias e irrigar el miocardio.</p>"
-  }, {
+  },
+  {
     "tema": "Tema 2. Semiología cardiovascular",
     "pregunta": "1. De entre las diferentes maniobras exploratorias del corazón, ¿cuál es la que presenta menor rentabilidad diagnóstica (sensibilidad y especificidad)?:",
     "opciones": [
@@ -94,4 +95,5 @@
     ],
     "correcta": 2,
     "comentario": "<p>Pregunta sencilla sobre el 3R cardiaco. A diferencia del 4R, el 3R puede ser fisiológico y aparecer en situaciones hiperdinámicas (niños, fiebre, embarazo…). Tanto el 3R como el 4R son ruidos diastólicos y de baja frecuencia (se auscultan mejor con la campana del fonendoscopio), pero el 3R aparece al principio de la diástole (fase de llenado rápido ventricular) y el 4R aparece al final de la diástole (contracción auricular).</p>"
-  }]
+  }
+]
