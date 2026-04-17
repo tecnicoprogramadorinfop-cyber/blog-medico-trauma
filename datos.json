@@ -205,5 +205,347 @@
     ],
     "correcta": 2,
     "comentario": "<p>Mujer con fibrilación auricular y tratamiento crónico con dos fármacos frenadores para control de frecuencia cardiaca (betabloqueante y digoxina). Presenta un episodio de respuesta ventricular rápida, y como fármaco frenador se introduce de manera aguda otro distinto de los otros dos que toma: verapamilo. Así, el nodo AV de la paciente se encuentra de repente con tres tipos de fármacos que lo bloquean actuando simultáneamente (betabloqueante, calcioantagonista y digoxina), y es lógico que se bloquee. Se trata por tanto de una interacción farmacodinámica (sumación de efectos terapéuticos).</p>"
+  },
+{
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "1. Hombre de 48 años con antecedentes de hipercolesterolemia y tabaquismo activo. Presenta dolor centrotorácico irradiado a cuello acompañado de náuseas y sudoración profusa de una hora de evolución. El dolor se había iniciado durante el ascenso a una montaña, motivo por el que es trasladado a un centro de salud, donde se le practica un electrocardiograma que muestra un infarto de miocardio agudo anteroseptal. El hospital terciario más cercano (con hemodinámica de guardia 24 h) se encuentra a tres horas de distancia. ¿En cuál de las siguientes circunstancias DESCARTARÍA la reperfusión coronaria extrahospitalaria mediante fibrinólisis intravenosa y plantearía una angioplastia primaria?:",
+    "opciones": [
+      "1. Presencia de signos de insuficiencia cardiaca.",
+      "2. Antecedente de hemorragia craneal sin secuelas hace 10 años.",
+      "3. Antecedente de ictus isquémico hace 18 meses.",
+      "4. Cifras de tensión arterial ≥ 140/90 mmHg."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta teórica, enmascarada en un caso clínico, sobre las contraindicaciones de la fibrinolisis en el SCACEST. Las más importantes (contraindicaciones absolutas) son los antecedentes de sangrado grave o ictus, en los que influye el momento temporal del episodio: hemorragia intracraneal en cualquier momento de la vida (opción 2 correcta), ictus isquémico en los últimos 6 meses, sangrado gastrointestinal en el último mes, cirugía mayor o traumatismo grave en las últimas 3 semanas, o punción lumbar en las 24h previas. Además, lógicamente, también son contraindicaciones absolutas: sangrado activo interno, diátesis hemorrágica, lesiones intracraneales con riesgo de sangrado (neoplasia, aneurisma, malformación arteriovenosa), y la presencia de una disección de aorta.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "2. Mujer de 51 años con antecedentes de diabetes mellitus tipo I e hipertensión arterial de larga evolución. En tratamiento sustitutivo renal mediante hemodiálisis desde hace 14 años como consecuencia de una enfermedad renal crónica estadio 5. Durante una de las sesiones de diálisis refiere dolor centrotorácico y disnea de aparición súbita. Las constantes hemodinámicas son normales. Se pauta nitroglicerina intravenosa para la corrección del dolor torácico, que cede en unos quince minutos. Se muestran los electrocardiogramas realizados con y sin dolor torácico. No hubo elevación posterior de enzimas de necrosis miocárdica. ¿Cuál es el diagnóstico de sospecha y la actitud a seguir?:",
+    "opciones": [
+      "1. Síndrome coronario agudo sin elevación del segmento ST, de alto riesgo. Debe ingresar en una unidad con vigilancia electrocardiográfica continua con recomendación de coronariografía temprana (≤ 48 h).",
+      "2. Síndrome coronario agudo sin elevación del segmento ST, de riesgo moderado. Debe ingresar en una unidad con vigilancia electrocardiográfica continua, con recomendación inicial de coronariografía diferida (>48 h).",
+      "3. Síndrome coronario agudo sin elevación del segmento ST, de bajo riesgo. Debe ingresar en planta de hospitalización convencional con recomendación de prueba de inducción de isquemia antes del alta hospitalaria y coronariografía diferida según resultado.",
+      "4. Los cambios electrocardiográficos no son diagnósticos de síndrome coronario agudo y se consideran secundarios a la hemodiálisis. No precisa ingreso hospitalario."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Es una pregunta de dificultad intermedia. Se trata de un cuadro clínico típico de síndrome coronario agudo. Se muestra un electrocardiograma sin dolor (anodino) y un ECG con dolor donde se observa descenso inferolateral del segmento ST. Los cambios dinámicos de la repolarización en el seno del SCASEST implican un riesgo alto y por tanto se recomienda manejo diagnóstico invasivo (coronariografía) precoz (<24h). La opción correcta es la 1 a pesar de que marca un margen temporal incorrecto (≤48h).</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "3. Paciente de 71 años de edad, diabético, sin otras comorbilidades, diagnosticado previamente de estenosis aórtica grave. Ingresa por un síndrome coronario agudo sin elevación del ST, Killip I con un pico de troponinas ligeramente elevado. El cateterismo muestra enfermedad coronaria con lesiones proximales significativas de los tres vasos coronarios. Su función ventricular es normal. ¿Cuál de las siguientes estrategias terapéuticas es la más correcta?:",
+    "opciones": [
+      "1. Tratamiento intervencionista con la implantación de stents coronarios en los 3 vasos e implantación simultanea de una bioprótesis aórtica transcatéter (TAVI).",
+      "2. Prótesis valvular aórtica mecánica quirúrgica, seguida de un tratamiento intervencionista percutáneo coronario en un segundo tiempo.",
+      "3. Prótesis aórtica biológica transcatéter (TAVI) y luego, de manera ambulatoria, tratar percutáneamente las arterias coronarias con stents.",
+      "4. Tratamiento quirúrgico simultáneo con recambio valvular y revascularización quirúrgica coronaria con bypass."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla en la que nos hacen decidir entre el tipo de revascularización a elegir en un paciente con enfermedad significativa proximal en los 3 vasos principales. La revascularización quirúrgica es la respuesta correcta, la cual se ve más reforzada si cabe por el hecho de que el paciente sea diabético (aunque si no lo fuera la respuesta sería la misma) y el antecedente de estenosis aórtica grave (la cirugía corregiría ambos problemas en el mismo acto).</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "4. Paciente de 62 años que consulta seis meses después de sufrir un infarto agudo de miocardio. Actualmente fuma 15 cigarrillos al día, tiene sobrepeso y hace vida sedentaria. Está en tratamiento con atorvastatina 80 mg/día y ramipril 5 mg/día. Aporta análisis con colesterol LDL 68 mg/dL, glucemia 115 mg/dL, Hb1Ac 5,7 %, ausencia de microalbuminuria, presión arterial en consulta de 140/85 mmHg. Señale la medida más eficaz, de las siguientes, para evitar un nuevo evento cardiovascular:",
+    "opciones": [
+      "1. Optimizar el tratamiento de la hipertensión arterial, ya que está mal controlado.",
+      "2. Optimizar el tratamiento hipolipemiante, ya que está mal controlado.",
+      "3. Añadir un fármaco para la diabetes.",
+      "4. Abandonar el hábito tabáquico, caminar a diario y perder peso."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla y repetida. El tabaquismo es la principal causa de muerte evitable y por tanto primera medida a adoptar de cara a evitar cualquier evento cardiovascular.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "5. Mujer de 64 años con antecedentes de diabetes mellitus, hipertensión arterial y obesidad (índice de masa corporal 34) que es atendida en su domicilio por el servicio de emergencias tras presentar durante el descanso nocturno dolor torácico, sudoración intensa, mareos y vómitos de dos horas de evolución. Se realiza electrocardiograma urgente (imagen). En la exploración física se aprecia una ligera disminución del nivel de conciencia, frialdad acra y tensión arterial de 75/30 mmHg, además de un aumento de la presión venosa yugular durante la inspiración y la aparición de pulso paradójico, sin evidencia de edema pulmonar en la auscultación. Con los datos clínicos, exploratorios y electrocardiográficos expuestos, ¿qué complicación del infarto sospecha en esta paciente?:",
+    "opciones": [
+      "1. Afectación de ventrículo derecho.",
+      "2. Rotura del septo interventricular basal.",
+      "3. Rotura del músculo papilar posteromedial mitral.",
+      "4. Pseudoaneurisma ventricular inferobasal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad moderada. Clínicamente: paciente con dolor típico de síndrome coronario agudo, mal perfundido (hipotensión, frialdad, somnolencia), con datos de sufrimiento de ventrículo derecho (elevación de presión yugular, pulso paradójico) pero sin congestión pulmonar, lo cual hace pensar en que el ventrículo izquierdo se encuentra respetado. En el ECG necrosis y elevación del ST en cara inferior (II, III y aVF) y en precordiales derechas, pudiendo hacer el diagnóstico de IAM de ventrículo derecho.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "6. Entre las intervenciones sobre los factores de riesgo cardiovascular mostrados ¿cuál es la más rentable para reducir eventos coronarios en prevención secundaria?:",
+    "opciones": [
+      "1. Abandono del tabaco.",
+      "2. Aumento de los niveles de lipoproteínas de alta densidad (colesterol HDL).",
+      "3. Control adecuado de la glucemia en pacientes diabéticos.",
+      "4. Aumento de la actividad física."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sobre factores de riesgo cardiovascular. La modificación del estilo de vida más beneficiosa desde el punto de vista cardiovascular es el cese del tabaquismo (principal causa de muerte evitable). Aunque el aumento de la actividad física y un buen control glucémico también se asocian a mejoría pronóstica, no tienen una repercusión tan importante. El aumento de los niveles de HDL no se encuentra respaldado por una evidencia científica robusta que indique mejoría pronóstica durante el seguimiento.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "7. ¿Cuál de las siguientes afirmaciones con respecto al infarto de ventrículo derecho es FALSA?:",
+    "opciones": [
+      "1. El infarto del ventrículo derecho puede producir signo de Kussmaul.",
+      "2. La elevación del segmento ST en V4 es la presentación más frecuente en el electrocardiograma.",
+      "3. El tratamiento incluye la expansión de volumen para conservar la precarga del ventrículo derecho.",
+      "4. Con la ecocardiografía podemos observar hipocinesia y dilatación del ventrículo derecho."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Única pregunta de cardiopatía isquémica del MIR 2021, sobre una de las complicaciones de los infartos agudos de miocardio: el infarto de ventrículo derecho. Produce hipotensión arterial y clínica insuficiencia cardiaca derecha aguda (de ahí que pueda aparecer signo de Kussmaul o pulso paradójico), se manifiesta con elevación del segmento ST en derivaciones derechas V3R y V4R (no en precordiales convencionales V3 y V4), y el tratamiento consiste fundamentalmente en fluidoterapia.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "8. Pregunta vinculada a la imagen n.º 18. Hombre de 56 años, fumador activo, no hipertenso ni dislipémico, que consulta porque hace 7 días presentó malestar general con dolor centrotorácico y disnea de esfuerzo, encontrándose asintomático en el momento de la consulta. ¿Cuál es el diagnóstico más probable, según el trazado electrocardiográfico?:",
+    "opciones": [
+      "1. Tromboembolismo pulmonar.",
+      "2. Miocardiopatía hipertrófica.",
+      "3. Necrosis e isquemia subepicárdica anterior.",
+      "4. Miopericarditis aguda."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. Paciente con factores de riesgo cardiovascular y clínica de angina de pecho hace 7 días. El ECG realizado muestra datos de infarto evolucionado. Aparecen ondas Q de necrosis (con abolición de onda R) en la cara anterior (V1-V4), e incluso más discretamente en V5 y en I (cara lateral). Además, hay ondas T negativas en cara anterolateral (V2-V6, I-aVL), que indican isquemia subepicárdica según los tratados clásicos. Por último, persiste aún elevación del ST anterior (se irá normalizando progresivamente; si no se acaba normalizando y persiste tras 6 meses, se sospechará aneurisma ventricular).</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "9. ¿En qué individuos se observa una elevación plasmática de la isoenzima BB de la creatina quinasa (CK)?:",
+    "opciones": [
+      "1. En pacientes con un accidente cerebrovascular.",
+      "2. En pacientes con infarto agudo de miocardio.",
+      "3. Tras una inyección intramuscular.",
+      "4. En pacientes con lesión hepatocelular aguda."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad moderada. La CPK (o CK) tiene 3 isoformas: CPK-MM, presente en el músculo esquelético y que se eleva ante traumatismos o lesiones musculares; CPK-MB, específica del músculo cardiaco, y que se empleaba para el diagnóstico de infarto de miocardio antes de disponer de la troponina (que es más sensible y específica); y CPK-BB, específica del cerebro, que aumenta en pacientes con ictus.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "10. ¿Por qué razón el ácido acetilsalicílico a dosis bajas (<325 mg) tiene mayor efecto antiagregante plaquetario que la mayoría de los otros AINEs?:",
+    "opciones": [
+      "1. Porque es inhibidor selectivo de la COX-1.",
+      "2. Porque es un inhibidor irreversible.",
+      "3. Porque da lugar a su metabolito, el ácido salicílico, que tiene una semivida en plasma muy prolongada.",
+      "4. Porque inhibe la tromboxano sintetasa."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta puramente teórica sobre el mecanismo de acción del ácido acetilsalicílico como antiagregante plaquetario. Los AINE son antiagregantes debido a la inhibición de la enzima ciclooxigenasa 1 (COX-1) plaquetaria, que sintetiza tromboxano A2. Mientras que el resto de AINE producen una inhibición reversible, el ácido acetilsalicílico produce una inhibición irreversible de la enzima por acetilación, motivo por el que tiene mayor efecto antiagregante.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "11. Hombre de 65 años de edad con dolor torácico opresivo de características isquémicas de 30 minutos de duración que acude por sus propios medios a urgencias hospitalarias donde se objetiva en el ECG elevación del segmento ST en derivaciones II-III y aVF con descenso en V1-V2-V3. ¿Cuál de estas actitudes terapéuticas o diagnósticas NO debe realizarse?:",
+    "opciones": [
+      "1. Prescribir al paciente 180 mg de ticagrelor como dosis de carga previa a la angioplastia primaria.",
+      "2. Solicitar Troponina T de muy alta sensibilidad y esperar resultados para decidir la realización de angioplastia primaria.",
+      "3. Prescribir al paciente 300 mg de ácido acetil salicílico como dosis de carga previa a la angioplastia primaria.",
+      "4. Administrar oxígeno sólo a pacientes con hipoxemia (SaO2<90% o PaO2<60 mmHg)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>PREGUNTA DESACTUALIZADA. En el momento de la redacción de la pregunta la respuesta correcta era la 2. Actualmente tampoco la 1 sería correcta. La opción 1 hace referencia a un concepto cambiante en las guías de Cardiología en los últimos años; es lo que se denomina 'pre-tratamiento en el contexto del síndrome coronario agudo'.</p><p>El pre-tratamiento es el uso de un inhibidor de P2Y12 ANTES de realizar la parte diagnóstica del cateterismo. Actualmente se desaconseja el pre-tratar (recuerda que solo hace referencia a inhibidor de P2Y12, el AAS sí se da antes del cateterismo) en cualquier tipo de síndrome coronario agudo (tanto SCACEST como SCASEST, para cualquier P2Y12, ticagrelor, prasugrel, clopidogrel). El momento de administrar el iP2Y12 es en la sala de hemodinámica, una vez realizada la parte diagnóstica del cateterismo y antes de realizar la parte terapéutica (se utiliza preferentemente prasugrel). Recuerda que si la mejor opción para el paciente es la revascularización quirúrgica el uso de iP2Y12 se inicia después de revascularizar al paciente (tras la cirugía).</p><p>No debes confundir este concepto de 'pre-tratamiento' con la carga de AAS 300 mg que se usa antes del cateterismo; este sí que debe realizarse tanto en SCACEST como en SCASEST.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "12. Una mujer de 51 años, con antecedentes de hipertensión arterial tratada con diuréticos, acude al centro de salud porque después de que le notificasen el accidente de un hijo 30 minutos antes, presenta nerviosismo, dolor en centro del pecho con náuseas y sudoración intensa. En la exploración física la paciente se encuentra agitada y nerviosa, tiene una frecuencia cardiaca de 86 lpm y una presión arterial de 132/87 mmHg. ¿Cuál es el siguiente paso a seguir?:",
+    "opciones": [
+      "1. Tranquilizarla, explicarle que la exploración es normal, administrar un ansiolítico y recomendarle que si el cuadro no mejora acuda nuevamente al centro.",
+      "2. Realizar una determinación de troponinas cardiacas.",
+      "3. Realizar un electrocardiograma de 12 derivaciones.",
+      "4. Realizar una radiografía de tórax."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla, cuya principal dificultad radica en que se encontraba en el MIR 2019 dentro del bloque de Psiquiatría. Caso clínico compatible con crisis de ansiedad, pero cuya clínica consiste en dolor torácico de características inestables (aparición en reposo) desencadenado por estrés emocional, en una paciente con factores de riesgo cardiovascular. Ante la sospecha de síndrome coronario agudo, debemos realizar un ECG en menos de 10 minutos como primera prueba a realizar. Si contestamos esta pregunta desde el punto de vista de un psiquiatra, ante un cuadro clínico compatible con crisis de ansiedad, lo primero que debe hacerse es descartar organicidad.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "13. Mujer de 87 años con antecedentes de hipertensión arterial, ingresada hace 48 horas en la unidad coronaria por infarto agudo de miocardio con elevación de ST de localización anterior. Avisa por disnea. En la exploración destaca soplo sistólico con frémito, irradiado al borde esternal derecho que no estaba presente al ingreso. ¿Qué complicación sospecha usted?:",
+    "opciones": [
+      "1. Insuficiencia cardiaca por necrosis extensa.",
+      "2. Aneurisma anterior.",
+      "3. Rotura de la pared libre del ventrículo izquierdo.",
+      "4. Rotura en el tabique interventricular."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad media sobre las complicaciones mecánicas del IAM. La paciente avisa por disnea, y en la exploración se aprecia un soplo sistólico IV/VI (con frémito), irradiado a borde esternal derecho, de nueva aparición. Dada la presencia de soplo sistólico, nuestra sospecha debe ser rotura del septo interventricular o bien insuficiencia mitral aguda por rotura de músculo papilar (opción que no nos presentan). Sin embargo, en el caso de la insuficiencia mitral aguda, el soplo suele ser menos intenso, y además la irradiación sería hacia la axila, no hacia el borde esternal.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "14. En prevención secundaria, tras un infarto agudo de miocardio, ¿cuál de las siguientes medidas NO ha demostrado efecto beneficioso?:",
+    "opciones": [
+      "1. Ejercicio físico.",
+      "2. Antagonistas del calcio.",
+      "3. Ácido acetilsalicílico.",
+      "4. Betabloqueantes."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Tras un SCA todos los pacientes deben recibir de por vida AAS a dosis antiagregante, estatinas, IECA y betabloqueante, además, deben recibir durante 12 meses un segundo antiagregante (prasugrel de elección, como alternativa ticagrelor). Recuerda que este paciente ha pasado un SCA y cuando presente una situación estable en el tiempo lo englobaremos dentro del grupo de Síndromes Coronarios Crónicos, por lo que deben seguirse todas las recomendaciones recogidas en las opciones de respuesta con intención de mejoría pronóstica, salvo los antagonistas del calcio, que nos servirán únicamente como tratamiento sintomático de la angina, sin beneficio pronóstico. No olvides que los no dihidropiridínicos están contraindicados en pacientes con FEVI deprimida.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "15. Mujer de 39 años de edad, gestante de 34 semanas con parto en curso que tras colocación de catéter epidural para analgesia refiere mareo, se toma presión arterial 104/57 mmHg y frecuencia cardíaca 45 lpm por lo que se administra 9 mg de efedrina i.v. tras lo cual, comienza a notar palpitaciones y opresión en la base del cuello. Se realiza ECG que se muestra (ver imagen), ¿cuál de los siguientes procesos fisiopatológicos ha podido contribuir al desarrollo del cuadro que presenta esta paciente?:",
+    "opciones": [
+      "1. Rotura de una placa con trombo no oclusivo superpuesto.",
+      "2. Espasmo de una arteria coronaria epicárdica.",
+      "3. Isquemia miocárdica relacionada con aumento de la demanda miocárdica de oxígeno.",
+      "4. Disfunción del endotelio coronario."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad moderada. Nos presentan una paciente sin factores de riesgo cardiovascular y joven, a la que se administra un fármaco vasoconstrictor e inotropo positivo como es la efedrina. Como droga vasoactiva que es, aumenta el trabajo ventricular y con ello el consumo miocárdico de oxígeno: el miocardio necesita más flujo del habitual, y el flujo a través de las arterias coronarias normales se vuelve insuficiente. Esto provoca isquemia difusa de todo el miocardio, que es lo que se observa en el ECG: taquicardia sinusal a unos 125 lpm y descenso del ST difuso con ascenso especular en aVR y V1. Ante la presencia de descenso de ST difuso y ascenso en aVR se sospecha isquemia difusa: puede deberse a enfermedad coronaria severa de los 3 vasos principales o del tronco coronario izquierdo, o bien a causas secundarias que alteran la relación entre aporte y demanda de oxígeno (como es este caso).</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "16. Hombre de 50 años de edad, diabético y con sobrepeso. Acude a Urgencias por dolor retroesternal y en la mandíbula, de 3 horas de duración, mientras dormía. Al llegar a Urgencias tenía este electrocardiograma. ¿Cuál es el diagnóstico?:",
+    "opciones": [
+      "1. Infarto anteroseptal agudo.",
+      "2. Pericarditis aguda.",
+      "3. Infarto inferior.",
+      "4. Infarto inferolateral agudo."
+    ],
+    "correcta": 3,
+    "comentario": "<p>¡Por primera ocasión cae un infarto como ECG en el MIR, y hubo que esperar 7 años desde la aparición de imágenes en el examen! Pregunta sencilla: hombre con factores de riesgo cardiovascular y dolor torácico de características anginosas (aunque con inicio en reposo), que en el ECG presenta elevación muy marcada del ST en las derivaciones II-III-aVF (cara inferior) y V5-V6 (cara lateral). Por tanto, se trata de un infarto inferolateral. También hay elevación del ST en V4 (que sería más bien cara anterior), pero fijaos que lo predominante es la elevación del ST en cara inferior, y además V4 puede tener elevación del ST simplemente por ser adyacente a V5. Un dato que confirma IAM y descarta pericarditis es la existencia de descenso del ST especular (hay descenso del ST en V1-V2 –que podría implicar afectación posterior– y I-aVL), mientras que en las pericarditis hay elevación del ST difusa (casi todas las derivaciones), y sin descensos del ST en ningún lado.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "16. Una placa arteriosclerótica vulnerable se caracteriza por:",
+    "opciones": [
+      "1. Presentar un tamaño superior al 70%.",
+      "2. Un aumento de factores de crecimiento de fibroblastos.",
+      "3. Disminución de metaloproteasas y fibrolisinas.",
+      "4. Un aumento de macrófagos con alto contenido en material lipídico."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta novedosa por tratar de manera directa el concepto de 'placa vulnerable' (con riesgo de rotura), que es el tipo de placa aterosclerótica que caracteriza a la angina inestable y que causa, con su rotura y posterior trombosis de la arteria donde se sitúa, los síndromes coronarios agudos con elevación del ST. En cambio, la angina estable se caracteriza por placas con bajo riesgo de rotura. El tamaño de las placas de ateroma es bastante independiente de su riesgo de rotura (aunque las placas más grandes suelen ser las más vulnerables). Las placas vulnerables se caracterizan por tener un núcleo lipídico (macrófagos M1 cargados de colesterol) grande y una cápsula fibrosa fina; en ellas se acumulan además linfocitos Th1 y se expresa IFN-gamma y metaloproteasas; también presentan microvasos. En cambio, cuando las placas se estabilizan, predominan los linfocitos Th2 y los macrófagos M2 (antiinflamatorios); se expresa IL-10 y TGF-beta, y el núcleo lipídico disminuye mientras la cápsula fibrosa crece en grosor. Las estatinas, los ARA-II y el cese del tabaquismo han demostrado favorecer la estabilización de las placas de ateroma.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "17. El injerto de derivación arterial (bypass coronario) que presenta una mayor permeabilidad a largo plazo (superior a 90% a los 10 años de la cirugía) y, por tanto, se emplea preferentemente para la cirugía de revascularización coronaria es:",
+    "opciones": [
+      "1. Vena safena autóloga.",
+      "2. Vena cefálica autóloga.",
+      "3. Arteria torácica o mamaria interna.",
+      "4. Arteria radial."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil y repetida bastantes veces en el MIR. El mejor injerto coronario posible es el de arteria mamaria interna. Cuando se hace cirugía de revascularización coronaria, se debe poner siempre que se pueda by-pass de arteria mamaria interna izquierda a la descendente anterior. Siendo menos importante, también se prefiere utilizar en la medida de lo posible la arteria mamaria interna derecha para revascularizar el resto de arterias coronarias.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "18. Entre los factores asociados a la aparición de shock cardiogénico en el infarto agudo de miocardio, NO se encuentra:",
+    "opciones": [
+      "1. Extrasistolia ventricular monomorfa.",
+      "2. Antecedentes de hipertensión arterial y/o diabetes mellitus.",
+      "3. Edad avanzada.",
+      "4. Antecedentes de infarto de miocardio previo."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta puramente teórica. Son factores de riesgo de shock cardiogénico claros en el contexto de un IAM: la edad avanzada, la diabetes, que el infarto sea extenso o haber padecido infartos previamente, y que el infarto se presente con bloqueo AV completo, fibrilación auricular o clínica de insuficiencia cardiaca. La hipertensión arterial se ha asociado algunas veces a un mayor riesgo de shock cardiogénico, pero en otros estudios no se ha observado asociación significativa. Respecto a las extrasístoles ventriculares, ya sean monomorfas o polimorfas, aparecen prácticamente en todos los pacientes en los primeros días y no se asocian a un mayor riesgo de arritmias malignas ni de shock.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "19. Un hombre de 51 años de edad acude al servicio de urgencias por presentar dolor torácico irradiado a miembro superior izquierdo y espalda, de 90 minutos de duración, asociado a mal estado general, sudoración y signos de deficiente perfusión periférica. A la auscultación presenta ritmo de galope, tercer ruido; y crepitantes en ambas bases pulmonares. Se realiza coronariografía urgente (ver imagen). Tras evaluar esta imagen. ¿Qué alteraciones electrocardiográficas esperaría encontrar en dicho paciente?:",
+    "opciones": [
+      "1. Elevación de segmento ST en derivaciones II, III y avF.",
+      "2. Elevación de segmento ST en derivaciones V2, V3, V4 y V5.",
+      "3. Descenso de segmento ST en derivaciones V2, V3, V4 y V5.",
+      "4. Descenso de segmento ST en derivaciones II,III y avF, asociado a descenso en avL."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil dado que tenemos que interpretar una coronariografía. Nos presentan un caso clínico de dolor torácico de características anginosas de nueva aparición (no nos cuentan antecedentes de angina habitual) y por tanto debemos encuadrarlo en el bloque de síndrome coronario agudo (SCA). Además se hace una coronariografía urgente, lo que refuerza nuestra sospecha dado que cuadra con el diagnóstico de SCA. La imagen muestra una arteria principal inicial y corta que rápidamente se bifurca en dos grandes arterias. Sospechamos por tanto que estamos sondando el tronco coronario izquierdo, que se bifurca rápidamente en circunfleja y descendente anterior. Una de esas arterias presenta una oclusión (hay un stop brusco al paso de contraste), por lo que estaremos ante un SCACEST. En el ECG habrá, por lo tanto, elevación del ST. Entre las opciones con elevación del ST, la 1 dice elevación del ST en cara inferior, y la 2 dice elevación del ST en cara anterior. Si la opción correcta fuera la 1, deberíamos estar sondando la coronaria derecha y ver que en ella hay una oclusión. Como no es así, sino que estamos sondando el tronco, la opción correcta debe ser la 2. No hacía falta por lo tanto saber que la arteria ocluida era específicamente la descendente anterior (la arteria que se bifurca hacia abajo en la imagen es la circunfleja); con saber simplemente que estamos visualizando el árbol coronario izquierdo habría sido suficiente para contestar la pregunta. Adjuntamos una figura con la explicación de la imagen.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "20. Una paciente de 70 años ingresa en UCI tras sufrir IAM anterior tratado mediante angioplastia coronaria y colocación de stent en la arteria descendente anterior. 4 días después presenta bruscamente hipotensión que obliga a aporte vigoroso de volumen, inicio de drogas vasoactivas, intubación orotraqueal y conexión a la ventilación mecánica. A la exploración física destaca un soplo no presente previamente. Ante la sospecha de complicación mecánica del infarto, se realiza ecocardiografía transtorácica que muestra derrame pericárdico. Señale la Respuesta CORRECTA:",
+    "opciones": [
+      "1. La mortalidad con tratamiento médico es del 20%.",
+      "2. En caso de rotura de pared libre hay salto oximétrico en el ventrículo derecho en el cateterismo de Swan-Ganz.",
+      "3. En caso de rotura de pared libre no hay frémito palpable.",
+      "4. Las complicaciones mecánicas suelen aparecer en el primer día postinfarto."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Caso clínico de una rotura de pared libre cardiaca, la complicación mecánica más grave del IAM. Las complicaciones mecánicas suelen aparecer tras las primeras 24h del infarto, cuando el paciente ya está en situación estable, y cursan con una inestabilización brusca. En el caso que nos presentan, el ecocardiograma (prueba de elección ante la sospecha de complicación mecánica) muestra derrame pericárdico, y eso es diagnóstico de rotura de pared libre. El caso clínico, no obstante, daba igual para contestar la pregunta, dado que las opciones son teóricas. La mortalidad de la rotura de pared libre supera el 90%, independientemente del tratamiento. El salto oximétrico se da en la rotura de septo interventricular (CIV), no en la rotura de pared libre. Por último, la correcta es la 3. Como hay taponamiento cardiaco, al palpar la punta del corazón no notamos frémito porque el derrame pericárdico “amortigua” el latido de la punta.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "21. Mujer de 72 años que acude al hospital por dolor torácico opresivo de 2 horas de evolución. La presión arterial es de 68/32 mm Hg, la frecuencia cardiaca es de 124 latidos/min, la frecuencia respiratoria es de 32 respiraciones/min, la saturación de oxígeno del 91% con oxígeno al 50%. A la auscultación pulmonar se aprecian crepitantes bilaterales. Se realiza un ECG que muestra lesión subepicárdica en cara anterior, con imagen especular en cara inferior. En la radiografía de tórax se aprecia patrón alveolar bilateral. ¿Cuál es su decisión terapeútica?:",
+    "opciones": [
+      "1. Iniciar infusión de nitratos i.v.",
+      "2. Realizar fibrinolisis con tenecteplase (TNK).",
+      "3. Realizar angioplastia coronaria urgente.",
+      "4. Administrar furosemida 40 mg i.v."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Una de las preguntas más fáciles del MIR. Mujer con clínica anginosa y elevación del ST en ECG (lesión subepicárdica). Se trata de un SCACEST, cuyo manejo prioritario es la reperfusión urgente, siendo de elección la angioplastia primaria (opción 3 correcta) sobre la fibrinolisis.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "22. Un hombre de 65 años, fumador y diabético, es traído al Servicio de Urgencias por presentar desde hace aproximadamente una hora un dolor centrotorácico opresivo e intensa sudoración. En el ECG realizado se observa ritmo sinusal a 80 lpm y un bloqueo completo de rama izquierda. ¿Cuál debería ser nuestra actitud?:",
+    "opciones": [
+      "1. Realizar una determinación analítica de troponina y esperar su resultado para confirmar la presencia de un infarto agudo de miocardio.",
+      "2. Tratar al paciente como si fuera un infarto con elevación del segmento ST, planteando una terapia de reperfusión lo más precoz posible.",
+      "3. Implantar un marcapasos transcutáneo ante la posibilidad de que desarrolle un bloqueo más avanzado.",
+      "4. Realizar una TC urgente para descartar la presencia de una embolia pulmonar aguda.",
+      "5. Como pudiera tratarse de una pericarditis aguda administraremos AINEs."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla. El tratamiento de elección de un paciente con dolor torácico y elevación del segmento ST o bloqueo completo de rama izquierda o derecha de nueva aparición en el ECG es la terapia de reperfusión. Estos pacientes se tratan dentro del algoritmo de manejo del síndrome coronario agudo con elevación del ST (SCACEST).</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "23. Un paciente acude al Hospital por un infarto de miocardio con elevación del segmento ST. A su llegada está hipotenso, presenta crepitantes y se ausculta un soplo sistólico 3/6. ¿Cuál es su sospecha diagnóstica?:",
+    "opciones": [
+      "1. Shock cardiogénico.",
+      "2. Ruptura de pared libre de ventrículo izquierdo.",
+      "3. Insuficiencia mitral aguda por rotura de músculo papilar.",
+      "4. Taponamiento cardiaco.",
+      "5. Trombosis de tronco común."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Ante un paciente con infarto agudo de miocardio en situación de shock tenemos que pensar en la posibilidad de alguna complicación mecánica del infarto. Lo primero será comprobar si existen crepitantes (congestión pulmonar – edema agudo de pulmón). Si existen, como en nuestro caso, se debe investigar la presencia de soplo. En caso de existir un soplo muy intenso se debe sospechar rotura del septo interventricular, y si el soplo es menos intenso rotura de músculo papilar e insuficiencia mitral aguda. Si no hay congestión pulmonar, las posibilidades son rotura de pared libre o infarto de ventrículo derecho. En el caso que nos presentan no existe la posibilidad de rotura del septo interventricular, por lo que la única opción posible es la rotura de músculo papilar.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "24. Ante un paciente de 60 años de edad, diabético, con angina estable secundaria a cardiopatía isquémica por obstrucción subtotal en el tercio medio de la arteria coronaria descendente anterior, ¿qué tratamiento propondría?:",
+    "opciones": [
+      "1. Médico con vasodilatadores y betabloqueantes para evitar la angina.",
+      "2. Expectante con reposo riguroso ya que al disminuir la demanda miocárdica de oxígeno deberá disminuir la angina.",
+      "3. Quirúrgico para revascularizar el miocardio isquémico mediante un puente (bypass) de arteria mamaria izquierda distal a la lesión en la arteria coronaria enferma.",
+      "4. Dilatación de la lesión en la arteria coronaria mediante un cateterismo terapéutico.",
+      "5. Cateterismo terapéutico para dilatar la lesión de la arteria enferma e implantación de un 'stent' en la zona dilatada."
+    ],
+    "correcta": 4,
+    "comentario": "<p>La respuesta dada como correcta en el momento del examen fue la 5. No obstante, en la actualidad podría ser impugnable.</p><p>En el contexto de la angina estable no es necesario realizar una coronariografía de inicio y podemos relegarla al punto en el que no consigamos controlar el dolor con fármacos al paciente, con el objetivo de realizar revascularización miocárdica en los pacientes con angina refractaria. En los últimos años hay ensayos clínicos en los que en el seno de la enfermedad coronaria estable no se ha observado beneficio pronóstico de revascularizar (percutánea ni quirúrgicamente) a los pacientes si conseguimos dejarlos sin dolor con el tratamiento antianginoso, incluso en pacientes con disfunción ventricular. Esto significa que en los estudios se aleatorizó a los pacientes a recibir tratamiento anti-anginoso versus revascularización, y en la estrategia intervencionista no se conseguía una mayor supervivencia. Por ello, es una opción factible en este contexto tratar inicialmente con fármacos a nuestro paciente y, solo si sigue con angina a pesar de los fármacos, realizar el cateterismo y revascularizar.</p><p>En el caso de la pregunta ya conocemos la anatomía coronaria, se ha considerado solicitar estudio invasivo aun sin estar con tratamiento anti-anginoso previamente, y sabemos que tiene una estenosis crítica en la DA por lo que, una vez realizado el diagnóstico invasivo resulta difícil no realizar la parte terapéutica (implante del stent) en ese mismo procedimiento.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "25. ¿En qué paciente se realizaría una coronariografía urgente?:",
+    "opciones": [
+      "1. Mujer de 66 años diabética con un único episodio de dolor en reposo y elevación de troponinas.",
+      "2. Hombre de 77 años que ingresa por dos episodios de dolor de 30 minutos de duración con descenso del segmento ST en el ECG durante el episodio de dolor.",
+      "3. Hombre de 55 años que tras una semana de tratamiento con doble antiagregación se le realiza una ergometría isotópica que muestra isquemia extensa en la cara anterior.",
+      "4. Mujer de 65 años con dolor en reposo y ergometría positiva clínica en el tercer estadio de Bruce.",
+      "5. Paciente de 55 años que ingresa por dolor torácico y disnea saturando al 80% a pesar de la administración de oxígeno y con un ECG con descenso del ST en la cara anterolateral que no revierte con la administración de nitroglicerina intravenosa."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta difícil pero que puede responderse con una cierta lógica. Nos proponen 5 pacientes con indicación de coronariografía “precoz” o “urgente” (en menos de 24 horas), y nos piden decidir en cuál de los casos es más urgente la realización de la coronariografía. La primera paciente tiene un IAM sin elevación del ST (IAM sin onda Q); el segundo tiene una angina inestable con datos de alto riesgo (cambios eléctricos); el tercero es un paciente con datos de alto riesgo en una prueba de detección de isquemia no invasiva; la cuarta paciente tiene una angina inestable (angina de reposo) con ergometría positiva, si bien no es de alto riesgo (la positivización de la prueba no ha sido precoz); y, por último, el quinto paciente es una angina inestable de alto riesgo (cambios eléctricos), pero con el matiz añadido de que la angina es refractaria al tratamiento médico y además tiene hipoxemia (lo que orienta a insuficiencia cardiaca grave). Así, este último paciente, que es el más grave desde el punto de vista clínico, es el que más se puede beneficiar de hacer una coronariografía más urgente (en las dos primeras horas, como si se tratara de un SCACEST).</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "26. ¿Qué alteración electrocardiográfica se interpreta como lesión subendocárdica?:",
+    "opciones": [
+      "1. La inversión de la onda T.",
+      "2. La supradesnivelación del segmento ST.",
+      "3. La onda T picuda.",
+      "4. La presencia de onda Q.",
+      "5. La depresión rectilínea del segmento ST."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta teórica sencilla y clásica sobre los cambios eléctricos en cardiopatía isquémica. Los cambios en la onda T, cuya significación está hoy en día en entredicho, indican clásicamente “isquemia”: ondas T picudas significan isquemia subendocárdica, y ondas T negativas indican isquemia subepicárdica (transmural). Los cambios del segmento ST se interpretan como “lesión”: descenso horizontal o descendente del ST se interpreta como lesión subendocárdica, y ascenso del ST como lesión subepicárdica (transmural). Por último, las ondas Q significan “necrosis” transmural en la cara del corazón a la que se refieren las derivaciones donde aparecen. En estadías muy precoces de la isquemia subepicárdica o trasmural se pueden ver ondas T picudas, aunque es el patrón típico de la isquemia subendocárdica.</p>"
+  },
+  {
+    "tema": "Tema 4. Cardiopatía isquémica",
+    "pregunta": "27. Ante un paciente de 23 años que acude a urgencias un viernes de madrugada tras una pelea callejera, con signos claros de enolismo y lesión por arma blanca (apuñalado) a nivel de III espacio intercostal derecho a 3 mm del margen esternal sangrando activamente y hemodinámicamente inestable asociado a hipofonesis marcada de todo hemitórax derecho. ¿Qué estructura de las siguientes debe pensar que puede estar lesionada?:",
+    "opciones": [
+      "1. Arteria carótida primitiva derecha.",
+      "2. Arteria torácica interna derecha.",
+      "3. Arteria subescapular derecha.",
+      "4. Arteria tiroidea superior derecha.",
+      "5. Arteria tímica superior derecha."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil por tratarse de una pregunta de anatomía, si bien en este caso con connotaciones importantes en cirugía cardiaca. La arteria mamaria interna (AMI) o torácica interna discurre paralela al esternón recorriendo la cara interna de la parrilla costal; la localización de la AMI izquierda, muy cerca de la cara anterior del corazón, la hace especialmente indicada para revascularizar la arteria descendente anterior.</p>"
   }
 ]
