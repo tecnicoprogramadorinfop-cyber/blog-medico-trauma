@@ -547,5 +547,272 @@
     ],
     "correcta": 1,
     "comentario": "<p>Pregunta difícil por tratarse de una pregunta de anatomía, si bien en este caso con connotaciones importantes en cirugía cardiaca. La arteria mamaria interna (AMI) o torácica interna discurre paralela al esternón recorriendo la cara interna de la parrilla costal; la localización de la AMI izquierda, muy cerca de la cara anterior del corazón, la hace especialmente indicada para revascularizar la arteria descendente anterior.</p>"
+  },
+{
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "1. Hombre de 23 años que tras un cuadro gripal acude en situación de shock cardiogénico refractario a aminas a un hospital de 3º nivel. En el ecocardiograma transtorácico se aprecia una fracción de eyección de ventrículo izquierdo del 15 %. Ante la sospecha de miocarditis vírica ¿cuál de las siguientes es la opción terapéutica de elección para mejorar su situación hemodinámica?:",
+    "opciones": [
+      "1. Aumentar la dosis de aminas e inclusión en lista urgente para trasplante cardiaco.",
+      "2. Colocación de un balón de contrapulsación intraaórtico.",
+      "3. Implante de un dispositivo electrónico de estimulación biventricular.",
+      "4. Colocación de un dispositivo de asistencia ventricular de corta duración."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Nos presentan un paciente con miocarditis fulminante en situación de shock cardiogénico; la primera medida a tomar será iniciar drogas vasoactivas (noradrenalina de elección). En caso de refractariedad a drogas, debemos pensar en asociar una asistencia circulatoria. La duda razonable en este caso está entre el balón de contrapulsación o un dispositivo de asistencia ventricular de corta duración (muy probablemente una ECMO venoarterial). En situaciones de extrema gravedad y posibilidad de rápido deterioro hemodinámico, como en la parada cardiaca refractaria o en una miocarditis fulminante, el balón de contrapulsación no suele dar el nivel de soporte adecuado (ya que proporciona muy poco gasto cardiaco), por lo que es recomendable implantar directamente asistencias ventriculares de corto plazo, que pueden aportar un mayor gasto cardiaco al paciente, como una ECMO venoarterial, más utilizada en la práctica, o un Impella, utilizado especialmente en el shock en contexto de síndrome coronario agudo, dado que se implanta en sala de Hemodinámica.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "2. Mujer de 58 años que, tras un catarro de vías altas, ingresa en el hospital por disnea de mínimos esfuerzos, astenia intensa y disnea paroxística nocturna en los días previos. El electrocardiograma muestra un ritmo sinusal a 70 lpm con bloqueo de rama izquierda. En el ecocardiograma transtorácico se aprecia una función ventricular izquierda (FEVI) del 25 %. La coronariografía descarta enfermedad arterial coronaria. De las siguientes propuestas de tratamiento ¿cuál sería la combinación de fármacos recomendada que mejore su pronóstico y reduzca los reingresos hospitalarios por descompensación cardiaca?:",
+    "opciones": [
+      "1. Betabloqueante, digoxina, ARNI (inhibidor de neprilisina-receptor angiotensina) e iSGLT2 (inhibidores del cotransportador de sodio-glucosa tipo 2).",
+      "2. Betabloqueante, antagonistas de la aldosterona, ivabradina e iSGLT2 (inhibidores del cotransportador de sodio-glucosa tipo 2).",
+      "3. Betabloqueante, antagonistas de la aldosterona, ARNI (inhibidor de neprilisina-receptor angiotensina) y milrinona.",
+      "4. Betabloqueante, antagonistas de la aldosterona, ARNI (inhibidor de neprilisina-receptor angiotensina) e iSGLT2 (inhibidores del cotransportador de sodio-glucosa tipo 2)."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta esperada y asequible sobre el tratamiento médico óptimo en pacientes con insuficiencia cardiaca y FEVI reducida (≤40%). Recordad que todo paciente con FEVI ≤40%, tenga o no tenga insuficiencia cardiaca, debe recibir una combinación de 4 fármacos que mejoran el pronóstico: beta-bloqueante, INRA (inhibidor de neprilisina y receptores de angiotensina 2; si no es posible, IECA), ARM (antagonista del receptor mineralcorticoide: espironolactona o eplerenona) y un iSGLT2 (empagliflozina o dapagliflozina). El beta-bloqueante e INRA deben titularse hasta la máxima dosis tolerada por el paciente, mientras que el ARM e iSGLT2 se utilizan con dosis fija.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "3. Varón de 70 años, con antecedentes de hipertensión arterial y dislipemia, que consulta a su médico de familia tras ingreso reciente por insuficiencia cardiaca. Actualmente se encuentra asintomático, en tratamiento con enalapril, furosemida, atorvastatina y ácido acetilsalicílico. En la exploración física se observa frecuencia cardíaca 78 lpm, sin signos de insuficiencia cardiaca. En el ecocardiograma realizado durante el ingreso se observa hipertrofia ventricular izquierda y fracción de eyección del 30 %. ¿Cuál es la actitud terapéutica más adecuada?:",
+    "opciones": [
+      "1. Añadir bisoprolol.",
+      "2. Añadir diltiazem.",
+      "3. Suspender enalapril e iniciar losartán.",
+      "4. Ningún cambio en la medicación."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla acerca del tratamiento de la IC con FEVI deprimida en un paciente que se encuentra infratratado. No debe despistar el hecho de encontrarse asintomático, pues este tipo de pacientes deben recibir igualmente beta-bloqueante.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "4. Mujer de 75 años con antecedentes de insuficiencia cardiaca con fracción de eyección del 25% que acude a revisión, encontrándose estable en clase funcional III de la NYHA. Tiene un desfibrilador cardioversor implantado. La medicación actual consiste en lisinopril, carvedilol y espironolactona en las dosis máximas toleradas. En la exploración física tiene TA 118/74 mmHg, FC 78 lpm. En la auscultación cardiaca se detecta un tercer tono, la auscultación pulmonar es normal y no presenta edemas. ¿Cuál de los siguientes es el paso más apropiado en su manejo?:",
+    "opciones": [
+      "1. Añadir sacubitrilo/valsartan.",
+      "2. Añadir ivabradina.",
+      "3. Suspender el lisinopril e iniciar sacubitrilo/valsartan.",
+      "4. Suspender el carvedilol e iniciar ivabradina."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil y esperada por ser de tremenda actualidad. En paciente con IC y FEVI deprimida que toma IECA pero no INRA (sacubitril-valsartan), hay que suspender el primero y añadir sacubitril-valsartan, actitud que se ve respaldada por un descenso de la mortalidad en los ensayos clínicos que comparaban ambos grupos farmacológicos en este tipo de pacientes.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "5. Respecto del síndrome cardiorrenal, señale la afirmación FALSA:",
+    "opciones": [
+      "1. Es de causa multifactorial.",
+      "2. Se observa galope S1-S2 y edemas periférico y pulmonar.",
+      "3. Su presencia empeora notablemente el pronóstico y los síntomas de la insuficiencia cardiaca y dificulta su tratamiento.",
+      "4. La anemia asociada a la insuficiencia renal puede agravar los síntomas de la insuficiencia cardiaca."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta incómoda y atípica sobre el síndrome cardiorrenal. Este síndrome hace referencia a la alteración de la función renal de un individuo por causa cardiogénica (tipos 1 y 2), al desarrollo de insuficiencia cardiaca debido a enfermedad renal (tipos 3 y 4) o a la coexistencia de insuficiencia renal y cardiaca que se explican por una tercera causa (tipo 5). Es opción falsa la 2, porque el galope no es S1 ni S2 (ruidos normales), sino un tercer tono debido a llenado ventricular rápido e insuficiente que en ocasiones se acompañan de cuarto tono (por contracción auricular vigorosa para llenar un ventrículo disfuncionante desde el punto de vista diastólico). Es igualmente falsa porque el síndrome cardiorrenal no es obligado que presente edemas periféricos ni pulmonar.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "6. Señale qué característica corresponde a la insuficiencia cardiaca con función sistólica conservada:",
+    "opciones": [
+      "1. Es más frecuente en varones jóvenes.",
+      "2. Las arritmias auriculares son bien toleradas.",
+      "3. El pronóstico a 1 año es bueno, con una mortalidad menor del 5%.",
+      "4. La hipertensión arterial es la patología más asociada."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad moderada. La insuficiencia cardiaca (IC) con fracción de eyección preservada, respecto a la IC con fracción de eyección deprimida, aparece en general en individuos más ancianos y con más comorbilidades. La causa más frecuente es la hipertensión arterial. El pronóstico es similar al de la insuficiencia cardiaca con fracción de eyección deprimida, con mortalidad elevada (entre el 30-50% a 5 años, según las series). Los pacientes con IC y fracción de eyección preservada presentan fisiopatológicamente disfunción diastólica (problemas para el llenado del ventrículo izquierdo); así, toleran especialmente mal las taquicardias (menor tiempo de diástole, y por ello de llenado) y especialmente la fibrilación auricular (ausencia de contracción auricular que contribuya al llenado).</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "7. Un varón de 66 años, diabético y fumador sufre un infarto de miocardio anterior con elevación de segmento ST. La coronariografía urgente muestra una lesión única con oclusión aguda en la arteria descendente anterior proximal, implantándose un stent recubierto. Al alta, su electrocardiograma está en ritmo sinusal con bloqueo de rama izquierda (QRS 150 ms). La fracción de eyección es de 32%. Dos meses más tarde acude a revisión. A pesar de cumplir un tratamiento óptimo, su clase funcional es III de la NYHA y la fracción de eyección del 30%. ¿Qué tratamiento debe ofrecerle en ese momento?:",
+    "opciones": [
+      "1. Implantarle un desfibrilador automático y resincronizador cardiaco.",
+      "2. Repetir la coronariografía por sospecha de trombosis del stent implantado.",
+      "3. Añadir digoxina y diuréticos de asa y esperar en 6 meses la mejoría de la fracción de eyección.",
+      "4. Remitirle a una unidad de trasplante para ser incluido en lista de espera."
+    ],
+    "correcta": 0,
+    "comentario": "<p>En un paciente con insuficiencia cardiaca con FEVI reducida (≤40%) deben iniciarse los siguientes 4 fármacos al MISMO tiempo: INRA (sacubitril/valsartan), beta-bloqueantes, iSGLT-2 y antagonistas del receptor mineralcorticoide (espironolactona, eplerenona). En pacientes en los que no se puede iniciar un INRA (p.ej.: filtrado glomerular muy bajo) se inicia un IECA.</p><p>Si pese ello sigue sintomático (NYHA >II) y con FEVI ≤35% debe valorarse implante de DAI (y resincronizador si la duración del QRS >130 ms); si conserva el ritmo sinusal debe valorarse ivabradina si la FC >70 lpm.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "8. Todas las siguientes terapias han demostrado aumentar la supervivencia en el tratamiento de la insuficiencia cardiaca con fracción de eyección del ventrículo izquierdo deprimida EXCEPTO una. Señale cual:",
+    "opciones": [
+      "1. IECA o ARA 2.",
+      "2. Digoxina.",
+      "3. DAI (desfibrilador automático implantable) o resincronizador.",
+      "4. Betabloqueantes."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta muy sencilla. La digoxina es un fármaco cuyo único objetivo, en la insuficiencia cardiaca con FEVI deprimida, es sintomático. No modifica la mortalidad, y hoy en día se encuentra en desuso por su perfil de efectos secundarios, y por datos indirectos de estudios observacionales que indican que incluso podría empeorar el pronóstico (no confirmado en ensayos clínicos).</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "9. Entre las siguientes combinaciones de fármacos, ¿cuál ha demostrado reducción de la mortalidad en la insuficiencia cardiaca con fracción de eyección deprimida?:",
+    "opciones": [
+      "1. Betabloqueantes e inhibidores de la enzima convertidora de angiotensina.",
+      "2. Digoxina y betabloqueantes.",
+      "3. Diuréticos de asa y antagonistas de los canales del calcio.",
+      "4. Inhibidores de la enzima convertidora de angiotensina y antagonistas de los canales del calcio."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Actualmente la respuesta 1 sería incorrecta o incompleta. Los pacientes con insuficiencia cardiaca con FEVI reducida (≤40%) deben recibir las siguientes clases de fármacos: INRA (sacubitril-valsartan) a máxima dosis tolerada, betabloqueantes a máxima dosis tolerada, iSGLT-2 y antagonistas del receptor mineralcorticoide (espironolactona, eplerenona). En pacientes en los que no se puede iniciar un INRA (p.ej.: filtrado glomerular muy bajo) se inicia un IECA.</p><p>Sacubitril-valsartan consiguió demostrar superioridad en términos de mortalidad frente a enalapril en ensayo clínico, por lo que es una opción mejor que los IECA.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "10. Hombre de 68 años de edad consulta en el ambulatorio por disnea progresiva de unos 6 meses de evolución. Es fumador activo de 15 cig/día, diabético en tratamiento con metformina desde hace al menos 10 años, con mal control glucémico. Además toma amiodarona desde hace 8 años por episodios de 'palpitaciones', sin que sepa precisar más. Fue diagnosticado de probable hipertrofia benigna de próstata por polaquiuria y se le propuso tratamiento con alfa-bloqueantes, que no ha seguido. Recientemente se ha quedado viudo y se ha mudado a nuestra ciudad desde otra parte de España para vivir con su hija. El paciente refiere la disnea fundamentalmente a los esfuerzos. Cumple criterios de bronquitis crónica. Duerme habitualmente con dos almohadas, pero no refiere cambios al respecto en los últimos tiempos. Se levanta al menos una vez cada noche a orinar, pero tampoco refiere cambios recientes. El paciente está arrítmico a 84 lpm y se auscultan crepitantes discretos en ambos campos pulmonares. En base a los datos clínicos y a la radiografía de tórax que se observa en la imagen, ¿cuál es su diagnóstico de presunción inicial?:",
+    "opciones": [
+      "1. Enfermedad pulmonar obstructiva crónica.",
+      "2. Insuficiencia cardiaca izquierda.",
+      "3. Fibrosis pulmonar.",
+      "4. Neumonitis alérgica extrínseca."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Caso clínico difícil. Nos presentan un paciente con disnea de esfuerzo progresiva, que asocia además ortopnea y nictura (aunque leve, sólo se levanta una vez a orinar). Además, existen crepitantes a la auscultación pulmonar. La presencia de ortopnea y nicturia asociadas a la disnea de esfuerzo, así como los crepitantes a la auscultación, hacen que el diagnóstico más probable de los que nos dan sea el de insuficiencia cardiaca. Las neumopatías no tendrían ortopnea ni nicturia asociadas a la disnea de esfuerzo. La radiografía de tórax es inespecífica, puesto que muestra un patrón intersticial de predominio bibasal que podría corresponderse tanto con fibrosis pulmonar como con insuficiencia cardiaca con edema pulmonar intersticial; no obstante, en la práctica diaria la causa más frecuente de patrón intersticial reticular es la insuficiencia cardiaca. Además, impresiona también de cierto componente de congestión perihiliar (sugerente de insuficiencia cardiaca), pero la calidad de la imagen no es suficiente para valorarlo. Como curiosidad, en caso de fibrosis pulmonar por el tratamiento crónico por amiodarona, el patrón intersticial sería de predominio apical. El índice cardiotorácico está aumentado, pero no es valorable porque la proyección de la radiografía es anteroposterior.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "11. ¿En cuál de las siguientes situaciones se encuentra contraindicado el implante de un balón de contrapulsación intraaórtico?:",
+    "opciones": [
+      "1. Insuficiencia aórtica grave.",
+      "2. Comunicación interventricular.",
+      "3. Disfunción sistólica grave del ventrículo izquierdo.",
+      "4. Miocarditis aguda."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla y puramente teórica sobre las contraindicaciones del balón de contrapulsación. Se trata de un dispositivo de asistencia ventricular 'discreta' (aporta poco flujo cardiaco) indicado principalmente en situaciones de shock cardiogénico refractario a drogas vasoactivas. Sus principales contraindicaciones son la disección aórtica (dado que al inflarse y desinflarse podría aumentar el riesgo de rotura aórtica) y la insuficiencia aórtica significativa (al inflarse en diástole, aumentaría el flujo regurgitante desde la aorta hacia el ventrículo izquierdo).</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "12. Mujer de 80 años con antecedentes de hipertensión arterial, hipercolesterolemia, diabetes mellitus, obesidad grado I e insuficiencia renal crónica. Se encuentra en tratamiento con enalapril 10 mg cada 12 h, furosemida 40 mg una al día, metformina 850 mg cada 12 h, simvastatina 20 mg cada 24h y lorazepam 1 mg por las noches. Acude a urgencias por empeoramiento de su disnea hasta hacerse de mínimos esfuerzos. A la exploración física destaca PA 176/98 mmHg, FC 103 lpm. Se encuentra taquipneica con tendencia al sueño y una saturación de oxígeno del 88%. A la auscultación está arrítmica a 108 lpm con crepitantes bilaterales hasta campos medios. Presenta edemas en miembros inferiores. ¿Cuál de las siguientes es INCORRECTA?:",
+    "opciones": [
+      "1. Debemos administrar oxigenoterapia, furosemida y nitroglicerina para el control de su disnea.",
+      "2. Es esperable encontrar valores de NT-proBNP inferiores a 450 pg/mL dado que la paciente tiene obesidad grado I.",
+      "3. Se debería monitorizar la función renal durante el ingreso ya que es un marcador pronóstico.",
+      "4. No se puede descartar la presencia de síndrome de apnea del sueño como factor agravante de la disnea en esta paciente."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Caso clínico sencillo de edema agudo de pulmón (disnea progresiva, taquipnea, hipoxemia y congestión pulmonar), probablemente de causa hipertensiva. En esta situación, lo esperable es encontrar niveles de péptidos natriuréticos muy elevados. Es cierto que la obesidad mórbida reduce los niveles de BNP artificialmente, pero la paciente tiene solo obesidad grado I; independientemente del grado de obesidad, igualmente los encontraríamos elevados en un caso de edema agudo de pulmón.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "13. Un hombre de 70 años de edad acude a revisión tras el alta reciente por un episodio de insuficiencia cardiaca de posible etiología isquémica. Presenta una disnea a mínimos esfuerzos (clase funcional III de la New York Heart Association). Los medicamentos al alta incluyen carvedilol 25 mg cada 12 horas, enalapril 20 mg al día, furosemida 40 mg al día. En la exploración física, frecuencia cardiaca 65 lpm, presión arterial 110/60 mmHg. No tiene edemas. Analítica: creatinina 1,3 mg/dL; sodio 139 mEq/L y potasio 3,9 mEq/L. ¿Cuál de las siguientes medidas es la más apropiada para este paciente?:",
+    "opciones": [
+      "1. Añadir ivabradina.",
+      "2. Aumentar dosis de enalapril.",
+      "3. Adición de tratamiento inotrópico intermitente.",
+      "4. Añadir espironolactona 25 mg diariamente."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta obsoleta por lo que respecta al tratamiento de la insuficiencia cardiaca con FEVI reducida (≤40%), aunque la opción más razonable de las ofrecidas es la 4. Pueden existir dudas con la 2, ya que el tratamiento neurohormonal para este síndrome debe titularse hasta la dosis máxima tolerada (que en el caso de enalapril tiene su techo en 20 mg/12h). Nos invitan a no considerar la ivabradina por encontrarse el paciente con una FC <70 lpm y además es un fármaco que no ha demostrado mejorar la supervivencia global, por lo que antes debemos añadir los que sí mejoran la supervivencia.</p><p>Actualmente deberíamos iniciar el tratamiento para la insuficiencia cardiaca con FEVI reducida (≤40%) con todos los siguientes fármacos: INRA (sacubitril-valsartan) a máxima dosis tolerada, beta-bloqueantes a máxima dosis tolerada, iSGLT-2 y antagonistas del receptor mineralcorticoide (espironolactona, eplerenona). Dichos fármacos se inician una vez realizado el diagnóstico y que el paciente se encuentre estable.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "14. En una situación de insuficiencia cardiaca, el corazón presenta distintos mecanismos adaptativos. ¿Cuál de los siguientes NO es correcto?:",
+    "opciones": [
+      "1. Inhibición del sistema arginina-vasopresina, que genera vasoconstricción y retención hidrosalina.",
+      "2. Desarrollo de hipertrofia miocárdica, para normalizar la sobrecarga de la pared ventricular.",
+      "3. Activación del sistema nervioso simpático, que aumenta la contractilidad ventricular.",
+      "4. Alteraciones en la producción de energía en el miocardio y modificaciones en la matriz extracelular de los miocardiocitos."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad media sobre los mecanismos de adaptación a la insuficiencia cardiaca. La opción incorrecta es la 1, dado que el sistema arginina-vasopresina (secreción de ADH) está activado en estos pacientes (reabsorción de agua libre en el túbulo colector y vasoconstricción). La hipertrofia miocárdica es el mecanismo compensador clásico en situaciones de aumento de postcarga, y se observa por tanto en pacientes con insuficiencia cardiaca y FEVI preservada (no suele observarse en pacientes con FEVI deprimida, en los que existe dilatación del VI).</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "15. Hombre de 84 de edad, con insuficiencia cardiaca crónica en grado funcional II secundario a cardiopatía isquémica con disfunción sistólica grave no revascularizable, enfermedad renal crónica estadio 3 (filtrado glomerular 45-50 mL/min) y fibrilación auricular permanente con frecuencia cardiaca >80 latidos por minuto. ¿Cuál de los siguientes fármacos NO aporta beneficio al paciente según la evidencia disponible en la actualidad?:",
+    "opciones": [
+      "1. Ivabradina.",
+      "2. Inhibidores de la enzima convertidora de angiotensina.",
+      "3. Anti-aldosterónicos.",
+      "4. Beta-bloqueantes."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad media. Los pacientes con insuficiencia cardiaca con FEVI reducida (≤40%) deben recibir todos los siguientes fármacos: INRA (sacubitril-valsartan) a máxima dosis tolerada, beta-bloqueantes a máxima dosis tolerada, iSGLT-2 y antagonistas del receptor mineralcorticoide (espironolactona, eplerenona). Dichos fármacos se inician una vez realizado el diagnóstico y que el paciente se encuentre estable.</p><p>Si pese a ello sigue sintomático (NYHA ≥II) y tiene FEVI ≤35% deberá considerarse añadir ivabradina (si está en ritmo sinusal y FC >70 lpm) o terapia de resincronización cardíaca (si QRS >130 ms).</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "16. Hombre de 76 años de edad diagnosticado de insuficiencia cardiaca, en fibrilación auricular crónica, con disfunción sistólica severa (fracción de eyección 33%). Sigue tratamiento con inhibidor de enzima convertidora de la angiotensina, betabloqueante y diurético tiazídico. Pese a ello se encuentra sintomático, en clase funcional II de la NYHA. ¿Cuál sería la actitud a seguir?:",
+    "opciones": [
+      "1. Añadiría espironolactona.",
+      "2. Suspendería tratamiento betabloqueante.",
+      "3. Añadiría al tratamiento amiodarona.",
+      "4. Añadiría al tratamiento verapamil."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta obsoleta respecto al tratamiento de la insuficiencia cardiaca con FEVI reducida. Actualmente estos pacientes deben recibir, desde el inicio, una combinación de 4 fármacos: INRA (sacubitril-valsartan) a máxima dosis tolerada, beta-bloqueantes a máxima dosis tolerada, iSGLT-2 y antagonistas del receptor mineralcorticoide (espironolactona, eplerenona). En pacientes en los que no se puede iniciar un INRA (p.ej.: filtrado glomerular muy bajo) se inicia un IECA.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "17. Mujer de 73 años de edad que ingresa por cuadro de disnea progresiva hasta hacerse de reposo, ortopnea y aumento de 4 kg de peso. En la exploración física se aprecia presión arterial de 150/84 mm Hg, frecuencia cardiaca 100 latidos/minuto, aumento de la presión venosa yugular, crepitantes en ambas bases y edemas maleolares. Tratamiento habitual: enalapril 5 mg cada 12 horas, furosemida 80 mg al día. ¿Cuál es el tratamiento más adecuado en este momento?:",
+    "opciones": [
+      "1. Administrar furosemida por vía intravenosa.",
+      "2. Aumentar dosis de enalapril según tolerancia y administrar furosemida por vía intravenosa.",
+      "3. Iniciar un beta-bloqueante.",
+      "4. Añadir tratamiento con amlodipino."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Nos exponen un caso clínico muy claro de descompensación grave de insuficiencia cardiaca, que requiere ingreso hospitalario, aunque sin llegar al extremo del edema agudo de pulmón. La clave para responder la pregunta es recordar que los beta-bloqueantes están contraindicados en insuficiencia cardiaca aguda grave por su efecto inotropo negativo. Por lo demás, deberemos administrar furosemida i.v. para aliviar la congestión, y aumentar la dosis de enalapril, dado que la paciente está hipertensa (posible causa de descompensación de la insuficiencia cardiaca), y además debemos llegar a la máxima dosis que tolere la paciente para mejorar el pronóstico. En ninguna respuesta nos dan la opción de poner nitroglicerina intravenosa; no se trata de un caso florido de edema agudo de pulmón, pero quizá podría haber sido interesante administrarla al menos en las horas iniciales, hasta estabilizar el cuadro clínico.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "18. Hombre de 60 años de edad con antecedentes de hipertensión arterial y dislipemia ha sido recientemente diagnosticado de insuficiencia cardiaca. Tras realizar las pruebas pertinentes se objetiva que conserva la fracción de eyección del ventrículo izquierdo (>50%). En relación al tratamiento señale la respuesta INCORRECTA:",
+    "opciones": [
+      "1. El tratamiento inicial debería dirigirse al proceso patológico subyacente.",
+      "2. El tratamiento con diuréticos debe iniciarse a dosis altas.",
+      "3. En caso de precisar tratamiento con nitratos debe iniciarse a dosis bajas.",
+      "4. La disnea puede tratarse reduciendo la activación neurohormonal con inhibidores de la enzima convertidora de la angiotensina o antagonistas de los receptores de la angiotensina."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta teórica sobre el tratamiento de la insuficiencia cardiaca con fracción de eyección preservada. No existe ningún fármaco que haya demostrado mejorar el pronóstico, por lo que el tratamiento es exclusivamente sintomático con diuréticos a dosis baja (tiazidas); además, en ocasiones se asocia de forma empírica un inotropo negativo (betabloqueante o calcioantagonista no dihidropiridínico). Los fármacos que bajan la precarga (como los diuréticos, o los nitratos si es que el paciente los necesita por otra causa) deben iniciarse a dosis baja para evitar descensos bruscos de precarga que reduzcan el gasto cardiaco. Como el paciente es hipertenso, debemos normalizar las cifras de PA para reducir con ello la postcarga y mejorar la clínica; cualquier antihipertensivo valdría (nos ofrecen IECA o ARAII, que son opciones correctas).</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "19. Paciente de 65 años que presenta disnea progresiva de 5 días de evolución hasta hacerse de reposo, ortopnea de tres almohadas y episodios de disnea paroxística nocturna. A la auscultación destaca crepitantes bilaterales, soplo holosistólico irradiado a axila y ritmo de galope por tercer y cuarto ruido. Señale la afirmación INCORRECTA:",
+    "opciones": [
+      "1. El tercer ruido coincide con la fase de llenado rápido de la diástole ventricular del ciclo cardiaco.",
+      "2. El diagnóstico más probable es el de insuficiencia cardiaca.",
+      "3. El soplo holosistólico puede corresponder a una insuficiencia mitral.",
+      "4. El cuarto ruido suele aparecer cuando existe un cierto grado de estenosis valvular."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta un poco farragosa pero que puede sacarse por descarte sin demasiada dificultad. Nos cuentan un caso clínico de insuficiencia cardiaca de libro (disnea, ortopnea, disnea paroxística nocturna y signos de congestión pulmonar a la auscultación), con 3R, 4R y soplo sistólico. En este caso, el soplo sistólico puede ser perfectamente por insuficiencia mitral (puede ser la responsable del caso clínico, o por ejemplo ser una insuficiencia mitral funcional en un paciente con una miocardiopatía dilatada). La opción 1 es teórica y cierta: el 3R coincide con la fase de llenado rápido ventricular (protodiastólico) y el 4R con la contracción auricular (telediastólico). La opción “más falsa” (que debe sacarse por descarte) es la 4. En casos de estenosis mitral puede haber 4R por la contracción auricular vigorosa contra una válvula rígida, pero es excepcional porque el paso de sangre es lento (produce un soplo pero no suele producir un extratono); además, en el caso clínico que nos describen es raro que la paciente, que debuta con 65 años, tenga estenosis mitral asociada (cuya manifestación clínica suele ser más precoz. En este caso, el origen más probable del 4R es la propia insuficiencia cardiaca, que puede presentar en reagudizaciones 3R y 4R de forma inespecífica (4R sobre todo en casos con disfunción diastólica).</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "20. Una de las siguientes afirmaciones sobre la epidemiología y el pronóstico de la insuficiencia cardiaca es INCORRECTA. Señálela:",
+    "opciones": [
+      "1. Entre el 60 y el 70% de los pacientes fallecen en los primeros 5 años tras establecerse el diagnóstico de insuficiencia cardiaca.",
+      "2. La situación funcional del paciente con insuficiencia cardiaca es la que mejor se correlaciona con la expectativa de supervivencia.",
+      "3. La disfunción diastólica predomina en mujeres de edad avanzada con historia de hipertensión crónica.",
+      "4. La insuficiencia cardiaca por disfunción sistólica suele objetivarse en pacientes varones afectos de cardiopatía isquémica.",
+      "5. La prevalencia de la insuficiencia cardiaca está reduciéndose en la última década gracias al mejor control de los factores de riesgo cardiovascular."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta fácil sobre la epidemiología de la insuficiencia cardiaca, cuya prevalencia está aumentando por el envejecimiento progresivo poblacional y el aumento de prevalencia de hipertensión arterial. Recordad por otra parte la opción 1: el pronóstico de la insuficiencia cardiaca se asemeja al de un cáncer ya que el pronóstico vital a los 5 años del diagnóstico es menor del 50% en ausencia de tratamiento.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "21. Paciente de 79 años, hipertenso, hiperlipidémico, diabético y con EPOC en tratamiento con anticolinérgicos inhalados. Presenta fibrilación auricular crónica en tratamiento anticoagulante con dicumarínicos. Tras un cuadro de 3 días de tos, expectoración amarilla y fiebre de 38 ºC, presenta en las últimas 24 h empeoramiento progresivo con disnea de esfuerzo, ortopnea y edemas maleolares. A la exploración destaca una TA de 170/95 mmHg, disnea con frecuencia respiratoria de 20 rpm y auscultación con sibilancias bilaterales y crepitantes en bases. Taquiarritmia a 110 lpm. Discretos edemas maleolares. ¿Cuál es el planteamiento a seguir?:",
+    "opciones": [
+      "1. El paciente probablemente presente una neumonía y lo prioritario es realizar una Rx de tórax para confirmarlo.",
+      "2. Probablemente se trate de una agudización de su EPOC debido a una sobreinfección respiratoria. Reforzar el tratamiento de base con un beta-2 inhalado, corticoides y antibióticos y vigilar evolución.",
+      "3. Es probable que tenga un componente de insuficiencia cardiaca izquierda asociada a una infección respiratoria febril. Sería prioritario el tratarlo con vasodilatadores y diuréticos además del tratamiento que corresponda a su infección respiratoria, broncodilatadores, etc.",
+      "4. El paciente no está clasificado de la gravedad de su EPOC por lo que indicaría una espirometría inmediata para ajustar el tratamiento a la gravedad de la obstrucción. Asociaría además un antibiótico dado el cuadro aparente de sobreinfección respiratoria.",
+      "5. Un ecocardiograma sería la primera exploración a realizar para descartar un posible componente de insuficiencia cardiaca asociado al cuadro de EPOC agudizado que presenta el paciente."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Caso clínico complejo pero muy habitual en las urgencias de cualquier hospital: anciano pluripatológico con disnea multifactorial, en la que entran en juego muchos componentes que se deben tratar. Por una parte, tiene una reagudización de EPOC, así que necesitará ese tratamiento. Por otra parte, tiene fibrilación auricular con FC relativamente alta, y en la situación aguda en la que está necesitará posiblemente frenar la FC (con digoxina por tener insuficiencia cardiaca agua). Y por último, posiblemente exista un componente de insuficiencia cardiaca sobreañadido, dado que el paciente no sólo tiene disnea, sino también ortopnea y edemas, síntomas y signos más específicos que la disnea de la presencia de insuficiencia cardiaca. La opción más completa sería por tanto la 3. Como técnica de examen para contestar esta pregunta, pensad que estamos en el bloque de Cardiología, luego la respuesta tiene que ser la más cardiológica de todas! Por último, recordad que el diagnóstico de insuficiencia cardiaca es clínico. Un ecocardiograma nos ayudará para decidir el tratamiento del paciente en la fase crónica (según la insuficiencia cardiaca tenga disfunción ventricular o fracción de eyección preservada), pero en la fase aguda el tratamiento es el mismo independientemente de la función ventricular y dicha prueba no es prioritaria. No está de más, pero no es “lo primero a realizar”.</p>"
+  },
+  {
+    "tema": "Tema 5. Insuficiencia cardiaca",
+    "pregunta": "22. En el tratamiento de la insuficiencia cardiaca:",
+    "opciones": [
+      "1. Los bloqueantes del receptor de la angiotensina (ARA II) han demostrado superioridad sobre los inhibidores de la enzima convertidora de angiotensina (IECA) y deberían ser la primera opción terapéutica.",
+      "2. Los antagonistas de la aldosterona no han demostrado mejoría pronóstica, estando contraindicados en pacientes con disfunción sistólica avanzada y grado funcional IV.",
+      "3. Los betabloqueantes han demostrado disminuir la mortalidad en pacientes con fracción de eyección disminuida.",
+      "4. La terapia mediante marcapasos de resincronización cardiaca está indicada en pacientes con disfunción sistólica siempre que el QRS sea estrecho (inferior a 120 msg).",
+      "5. El implante de desfibriladores automáticos está contraindicado en pacientes con disfunción ventricular, especialmente si es de causa isquémica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El algoritmo para el tratamiento de la insuficiencia cardiaca es distinto actualmente y la pregunta es obsoleta. A día de hoy a todos los pacientes en insuficiencia cardiaca y FEVI reducida debe ofrecérseles tratamiento con: INRA (sacubitril-valsartan) a máxima dosis tolerada, beta-bloqueantes a máxima dosis tolerada, iSGLT-2 y antagonistas del receptor mineralcorticoide (espironolactona, eplerenona).</p><p>La segunda opción, en caso de no tolerar sacubitril-valsartan sería IECA (p.ej.: enalapril) aunque sacubitril-valsartan ofrece mejoría de supervivencia comparado con enalapril en este perfil de pacientes.</p><p>Los fármacos que han demostrado reducir la mortalidad en pacientes con insuficiencia cardiaca y fracción de eyección reducida son: IECA y betabloqueante en todos los pacientes, antagonistas de la aldosterona en pacientes que persisten sintomáticos (NYHA ≥2) a pesar de IECA + betabloqueante, e INRA (sacubitril-valsartan) en pacientes sintomáticos a pesar de tratamiento médico óptimo.</p><p>Los ARA-II se reservan para pacientes que no toleran IECA por tos o angioedema (opción 1 incorrecta). El resincronizador está indicado en pacientes sintomáticos a pesar de tratamiento médico óptimo, con FEVI menor o igual al 35% y con QRS ≥130 mseg (opción 4 incorrecta). El desfibrilador está indicado en pacientes con NYHA ≥2 y FEVI ≤35% a pesar de tratamiento médico óptimo (opción 5 incorrecta).</p>"
   }
 ]
