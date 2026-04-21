@@ -995,5 +995,66 @@
     ],
     "correcta": 2,
     "comentario": "<p>Pregunta importante sobre la FA y anticoagulación crónica. Recordad que las indicaciones son independientes de la temporalidad de la FA (paroxística, persistente, permanente) y se hacen en función de la etiología (valvular o no valvular). Podemos distinguir tres subgrupos:</p><ul><li><b>FA valvular:</b> se considera FA valvular cuando la arritmia acontece en el seno de una estenosis mitral reumática en grado moderado o severo, o cuando ocurre en el portador de prótesis cardiacas mecánicas. La FA valvular obliga a anticoagular al paciente de forma indefinida (independientemente del CHA2DS2-VASc ) y están contraindicados los anticoagulantes orales de acción directa (ACOD); se usan anti-vitamina K (acenocumarol o warfarina) y se monitoriza con el INR. Recuerda que el paciente portador de prótesis mecánicas ya tiene indicación de anticoagulación indefinida independientemente de que esté en FA o no, y con INR objetivo ≥2,5-3,5.</li><li><b>FA no valvular:</b> en solamente en estos pacientes (aunque son la mayoría) en los que se utiliza la escala CHA2DS2-VASc. Existe indicación estricta de anticoagulación con ≥2 puntos en hombres o ≥3 en mujeres, y se recomienda igualmente anticoagular con ≥1 punto en hombres y ≥2 en mujeres. Son de elección los ACOD sobre los anti-vitamina K.</li><li><b>Pacientes con miocardiopatías con alto riesgo trombótico:</b> miocardiopatía hipertrófica, miocardiopatía restrictiva y amiloidosis cardíaca). Si estos pacientes desarrollan FA deben anticoagularse indefinidamente, independientemente de su CHA2DS2-VASc. Son también de elección los ACOD sobre los anti-vitamina K.</li></ul>"
+  },
+{
+    "tema": "Tema 7. Bradicardias",
+    "pregunta": "1. Pregunta asociada a la imagen 13. En relación con el electrocardiograma de 12 derivaciones que se muestra, señale la descripción INCORRECTA:",
+    "opciones": [
+      "1. Ritmo auricular desorganizado con frecuencia ventricular irregular muy sugestiva de fibrilación auricular.",
+      "2. Alteración del sistema de conducción cardiaca con bloqueo bifascicular (bloqueo completo de rama derecha y hemibloqueo anterosuperior izquierdo del haz de His).",
+      "3. Alteración del sistema de conducción cardiaca con episodios de bloqueo aurículo-ventricular de alto grado o completo.",
+      "4. Elevación significativa del segmento ST en derivaciones inferiores muy sugestiva de isquemia miocárdica aguda."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad intermedia-alta de interpretación sistemática de ECG, que se puede sacar por descarte. En primer lugar, el ritmo es irregular y no vemos ondas P en la línea de base, por lo que se trata de fibrilación auricular (opción 1 correcta), con una FC aproximada de 70 lpm. Además, el QRS es ancho (mide 120 ms, eso ya se considera ancho), y en V1 existe morfología rSR’ (bloqueo de rama derecha, aunque si fuéramos estrictos no cumple exactamente criterios de bloqueo de rama derecha); respecto al eje del QRS, existe hemibloqueo anterior izquierdo (“PeNeNe da PeNa”), así que la opción 2 podemos considerarla correcta. Respecto a la repolarización, existe elevación del segmento ST en II-III-aVF (derivaciones de cara inferior), diagnóstico en presencia de clínica compatible de un SCACEST inferior. Así, por descarte, nos quedaríamos con la opción 2 como incorrecta, en la que se habla de un bloqueo aurículo-ventricular (BAV); simplemente por sentido común, los BAV son bradiarritmias, y la FC del paciente es normal, por lo que podríamos descartarlo de manera razonable. En presencia de fibrilación auricular, como no hay ondas P, es difícil diagnosticar un BAV; además, no podemos hablar de BAV de primer o de segundo grado (porque no hay ondas P que se “bloqueen”); se habla solamente de dos entidades: fibrilación auricular “lenta” y fibrilación auricular “bloqueada”. Cuando hay un bloqueo aurículo-ventricular de “alto grado” (se bloquea la mayoría de la actividad auricular pero algo pasa hasta los ventrículos), veremos un ECG con fibrilación auricular “lenta” (FC muy baja, pero con un ritmo irregular). En cambio, si existe un bloqueo aurículo-ventricular “completo” (no pasa nada de la actividad auricular por el sistema de conducción), para que el paciente sobreviva debe aparecer un ritmo de escape, que será rítmico (y, por lo tanto, regular); así, veremos un ECG con fibrilación auricular como ritmo de base, pero con QRS que van regulares y a una FC lenta, que llamamos fibrilación auricular “bloqueada”.</p>"
+  },
+  {
+    "tema": "Tema 7. Bradicardias",
+    "pregunta": "2. Mujer de 82 años con fibrilación auricular crónica de 10 años de evolución y función sistólica biventricular conservada que presenta episodios de bloqueo aurículo-ventricular completo sintomáticos, por lo que se decide implantar un sistema de estimulación cardiaco definitivo. ¿Cuál de los siguientes está indicado?:",
+    "opciones": [
+      "1. Marcapasos DDD (bicameral).",
+      "2. Marcapasos VVI (unicameral ventricular).",
+      "3. Marcapasos AAI (unicameral auricular).",
+      "4. Terapia de resincronización ventricular (TRC)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil por lo novedoso que representa en el MIR, sobre los modos de estimulación básicos en marcapasos. En un paciente con FA bloqueada, sólo se implanta un cable ventricular (para evitar la bradicardia dependiente del bloqueo AV). El propósito de poner un cable auricular y otro ventricular es que el segundo siga al primero (como ocurre en condiciones fisiológicas). En caso de FA, no interesa que el cable ventricular siga la actividad auricular (que es fibrilatoria) por lo que no se pone cable en aurícula. Un marcapasos auricular (AAI) no evitaría la bradicardia ventricular (no estimula el ventrículo) y tampoco tiene sentido en un paciente en FA por lo mencionado. Un TRC sólo se contempla ante individuos con FEVI deprimida, por lo cual también es falsa.</p>"
+  },
+  {
+    "tema": "Tema 7. Bradicardias",
+    "pregunta": "3. Una mujer de 28 años sin antecedentes cardiológicos ingresa por síncope. No toma fármacos ni consume tóxicos. No presenta alteraciones hidroelectrolíticas. Su electrocardiograma muestra un bloqueo auriculoventricular completo con un frecuencia ventricular a 30 lpm que requiere el implante de un marcapasos definitivo. Con estos datos, ¿cuál de las patologías siguientes debe sospecharse?:",
+    "opciones": [
+      "1. Una valvulopatía reumática con estenosis mitral.",
+      "2. Una embolia de pulmón con infarto pulmonar.",
+      "3. Una enfermedad infiltrativa o inflamatoria sistémica.",
+      "4. Una trombosis de vena cava inferior."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La causa más frecuente de los bloqueos aurículo-ventriculares es el envejecimiento (idiopática), pero hay otras causas a tener en cuenta, como enfermedades degenerativas (como la enfermedad de Lenegre), miocardiopatías infiltrativas, o enfermedades infecciosas (Lyme, sífilis, difteria).</p>"
+  },
+  {
+    "tema": "Tema 7. Bradicardias",
+    "pregunta": "4. Un hombre de 72 años, fumador, EPOC, sin cardiopatía conocida sufre bruscamente una pérdida de consciencia mientras estaba sentado viendo la televisión. En pocos segundos el paciente recupera la consciencia. Acude a urgencias, refiriendo encontrarse bien. Al realizarse un ECG se constata un bloqueo AV 2º Mobitz II. ¿Cuál es el planteamiento más lógico ante este paciente?:",
+    "opciones": [
+      "1. Se le debería ingresar, hacerle un Holter electrocardiográfico de 24 h y en función de su resultado, decidir si ponerle un Holter insertable o un marcapasos definitivo.",
+      "2. No requiere más estudios diagnósticos para decidir que necesita el implante de un marcapasos definitivo.",
+      "3. Antes de continuar el estudio cardiológico se le debería hacer una RM cerebral para descartar origen neurológico.",
+      "4. Al ser el primer episodio sincopal, bastaría con hacer un seguimiento en consulta de forma periódica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla en la que nos presentan un síncope de perfil cardiogénico (sin pródromos, con recuperación inmediata). Los bloqueos AV de tipo Mobitz II son indicación directa de marcapasos, sin necesidad de realizar pruebas complementarias adicionales, aunque el paciente se encontrara asintomático. Previamente habría que descartar causas reversibles (isquemia miocárdica, consumo de fármacos frenadores o alteraciones iónicas, especialmente en el potasio), pero igualmente la opción más correcta de las cuatro es la número 2, ya que en el resto ni siquiera se plantea marcapasos de entrada.</p>"
+  },
+  {
+    "tema": "Tema 7. Bradicardias",
+    "pregunta": "5. Un paciente de 82 años acude a la consulta por presentar mareos repentinos y frecuentes, sin pródromos, de corta duración y que ceden espontáneamente, sin presentar nunca síncope. La exploración física y el electrocardiograma basal son normales. En un registro ambulatorio del electrocardiograma durante 24 horas se detecta en el periodo vigil fases de corta duración de ausencia de ondas P previas al QRS con un ritmo de escape de la unión auriculoventricular con QRS estrecho a 40 lpm y una onda al inicio del segmento ST correspondiente a una P retrógrada. No se detectan periodos de asistolia superiores a 3 segundos. Ante esto usted diría:",
+    "opciones": [
+      "1. El paciente tiene un bloqueo auriculoventricular de 3.er grado y precisa la implantación de un marcapasos.",
+      "2. La ausencia de periodos de asistolia >3 segundos excluye una causa cardiaca de los mareos.",
+      "3. Estaría indicado un tratamiento farmacológico que incrementara la conducción en el nodo auriculoventricular.",
+      "4. El paciente presenta una disfunción sinusal con bloqueo sinoauricular y requiere, por presentar síntomas, la implantación de marcapasos.",
+      "5. Las alteraciones detectadas en el electrocardiograma ambulatorio son propias de pacientes de esta edad y no hay indicación de intervención terapéutica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad intermedia. Nos describen un ECG con ausencia de ondas P y ritmo de escape nodal a 40 lpm. Existe onda P’ retrógrada (esto es, el latido se origina en el nodo AV y desde ahí se extiende no sólo a los ventrículos a través del sistema His-Purkinje, sino también de manera retrógrada a las aurículas). La ausencia de ondas P en presencia de un latido de escape nodal a 40 lpm implica que, necesariamente, la frecuencia cardiaca en ese momento que es capaz de generar el nodo sinusal es menor a 40 lpm. Esto es, un nodo sinusal disfuncionante. Estos hallazgos son muy frecuentes e incluso fisiológicos en jóvenes deportistas, pero ante un anciano debemos pensar en que la causa es el envejecimiento del nodo sinusal. La disfunción sinusal es habitualmente asintomática y no suele requerir tratamiento, pero en los casos sintomáticos (como el presente caso), o en aquellos asintomáticos que tengan pausas diurnas mayores de 6 segundos, existe indicación de marcapasos definitivo.</p>"
   }
 ]
