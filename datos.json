@@ -814,5 +814,186 @@
     ],
     "correcta": 2,
     "comentario": "<p>El algoritmo para el tratamiento de la insuficiencia cardiaca es distinto actualmente y la pregunta es obsoleta. A día de hoy a todos los pacientes en insuficiencia cardiaca y FEVI reducida debe ofrecérseles tratamiento con: INRA (sacubitril-valsartan) a máxima dosis tolerada, beta-bloqueantes a máxima dosis tolerada, iSGLT-2 y antagonistas del receptor mineralcorticoide (espironolactona, eplerenona).</p><p>La segunda opción, en caso de no tolerar sacubitril-valsartan sería IECA (p.ej.: enalapril) aunque sacubitril-valsartan ofrece mejoría de supervivencia comparado con enalapril en este perfil de pacientes.</p><p>Los fármacos que han demostrado reducir la mortalidad en pacientes con insuficiencia cardiaca y fracción de eyección reducida son: IECA y betabloqueante en todos los pacientes, antagonistas de la aldosterona en pacientes que persisten sintomáticos (NYHA ≥2) a pesar de IECA + betabloqueante, e INRA (sacubitril-valsartan) en pacientes sintomáticos a pesar de tratamiento médico óptimo.</p><p>Los ARA-II se reservan para pacientes que no toleran IECA por tos o angioedema (opción 1 incorrecta). El resincronizador está indicado en pacientes sintomáticos a pesar de tratamiento médico óptimo, con FEVI menor o igual al 35% y con QRS ≥130 mseg (opción 4 incorrecta). El desfibrilador está indicado en pacientes con NYHA ≥2 y FEVI ≤35% a pesar de tratamiento médico óptimo (opción 5 incorrecta).</p>"
+  },
+{
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "1. ¿Cuál de las siguientes características de la anatomía del esófago es la que facilita la realización de la ecocardiografía transesofágica?:",
+    "opciones": [
+      "1. El cayado aórtico contacta con el esófago a la altura de la 4ª vértebra dorsal y lo proyecta hacia delante.",
+      "2. El segmento torácico del esófago discurre por la cara posterior de aurícula y ventrículo derechos.",
+      "3. El esófago recorre la cara posterior de la aurícula izquierda.",
+      "4. La existencia de un segmento del esófago más dilatado entre la estrechez aórtica y la estrechez diafragmática."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta teórica de anatomía aplicada a la práctica clínica. El esófago discurre en íntima relación con la pared posterior de la aurícula izquierda, de ahí la utilidad de realizar ecografías a su través para ver si hay trombos dentro de la aurícula izquierda (antes de una cardioversión eléctrica, por ejemplo). Su recorrido, además, es paralelo a la aorta descendente, que está a la izquierda del esófago; por ello, la ecografía transesofágica también puede utilizarse para el diagnóstico de una disección de aorta. Las otras grandes indicaciones del ecocardiograma transesofágico tienen que ver con su mejor calidad de imagen, respecto al ecocardiograma transtorácico, para evaluar las válvulas izquierdas del corazón (mitral y aórtica): el diagnóstico de endocarditis infecciosa, y la evaluación de la severidad de valvulopatías en pacientes con mala ventana ecográfica transtorácica (mala calidad de imagen), cuando tenemos dudas de si una valvulopatía es severa y eso indicaría una intervención sobre la válvula.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "2. Paciente de 65 años con antecedentes de un infarto de miocardio de cara anterior que presenta una taquicardia con QRS ancho que se acompaña de hipotensión (TA 70/40 mmHg) y de obnubilación. ¿Cuál de los siguientes es el tratamiento de elección?:",
+    "opciones": [
+      "1. Lidocaína IV.",
+      "2. Amiodarona IV.",
+      "3. Procainamida IV.",
+      "4. Cardioversión eléctrica urgente."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla. Ante cualquier taquicardia con inestabilidad hemodinámica (da igual si es de QRS ancho o QRS estrecho), el tratamiento de elección consiste en realizar una cardioversión eléctrica urgente. En este caso, nos presentan una taquicardia de QRS ancho, por lo que sospecharemos taquicardia ventricular, máxime en un paciente que tiene cardiopatía estructural (infarto de miocardio previo).</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "3. Señale cuál de las siguientes taquicardias NO se explica por un mecanismo de reentrada:",
+    "opciones": [
+      "1. Flutter o aleteo auricular.",
+      "2. Taquicardia ventricular polimórfica tipo torsade de pointes.",
+      "3. Taquicardia aurículo-ventricular recíproca en el síndrome de Wolff-Parkinson-White.",
+      "4. Taquicardias asociadas a defectos del tabique interauricular."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta relativamente compleja acerca de los mecanismos de las arritmias cardiacas. Una arritmia por reentrada es aquella en la cual existe una excitación constante de una o varias cámaras cardiacas debido a que el frente eléctrico se propaga continuamente siguiendo un circuito estable. Las taquicardias reentrantes aparecen en presencia de obstáculos anatómicos (como ocurre en el flúter auricular) o la presencia de varias vías de conducción (como ocurre en la taquicardia por reentrada intranodal o en el síndrome de WPW). Las cardiopatías congénitas, como es el caso de los defectos del tabique interauricular, se asocian con frecuencia a arritmias auriculares reentrantes como el flutter auricular. La torsades de pointes se asocia a otro tipo de mecanismo, el de la actividad desencadenada, en la cual se produce un estímulo despolarizante durante la fase vulnerable de la repolarización (periodo refractario).</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "4. ¿Cuál de las siguientes afirmaciones es FALSA con relación al síndrome del QT largo?:",
+    "opciones": [
+      "1. Los betabloqueantes están contraindicados en el QT largo congénito.",
+      "2. Los antidepresivos tricíclicos pueden dar lugar a un QT largo adquirido.",
+      "3. Predispone a la taquicardia ventricular polimórfica.",
+      "4. Su fisiopatología se basa en una alteración de los canales iónicos responsables del potencial de acción transmembrana de la célula miocárdica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad intermedia en un tema de moda en el MIR como es el QT largo y sus arritmias relacionadas. Las 3 últimas opciones son claramente ciertas. La opción 1 es la falsa (y por tanto la que hay que señalar). Los betabloqueantes son el tratamiento farmacológico de elección en los casos de QT largo congénito. En pacientes con historia de muerte súbita, o arritmias ventriculares a pesar de betabloqueantes, se implanta un DAI.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "5. Varón de 23 años diagnosticado de síndrome de Wolff-Parkinson-White que acude a urgencias por palpitaciones. El ECG muestra una taquicardia irregular de QRS ancho, con una frecuencia cardiaca de 205 lpm, compatible con fibrilación auricular preexcitada. ¿Cuál de los siguientes fármacos considera adecuado administrar para detener la taquicardia?:",
+    "opciones": [
+      "1. Verapamilo.",
+      "2. Digoxina.",
+      "3. Adenosina.",
+      "4. Procainamida."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fácil. En paciente con WPW y FA preexcitada están prohibidos los frenadores del nodo, ya que en caso de frenarse demasiado el nodo, la FA dispondrá de la vía accesoria como único camino de acceso al ventrículo, pudiendo ensancharse el QRS, lo que puede ser mal tolerado hemodinámicamente. El tratamiento es cardiovertir la FA, ya sea eléctricamente o farmacológicamente (siempre que la arritmia sea bien tolerada clínicamente). En este último caso se emplea la procainamida como fármaco de elección.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "6. Pregunta vinculada a la imagen n.º 22. Paciente de 60 años que acude a urgencias por sensación de mareo y sudación de media hora de evolución. ¿Qué alteración encontramos en su electrocardiograma?:",
+    "opciones": [
+      "1. Taquicardia sinusal.",
+      "2. Flutter auricular.",
+      "3. Extrasístoles auriculares frecuentes.",
+      "4. Fibrilación auricular."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla de interpretación de ECG. Observamos una taquicardia irregular de QRS estrecho, en la que no se visualizan ondas P y en la que el intervalo RR (entre dos QRS adyacentes) es totalmente anárquico. Se trata de una fibrilación auricular.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "7. ¿Cuál de las siguientes situaciones NO es una indicación de los anticoagulantes orales de acción directa?:",
+    "opciones": [
+      "1. Portador de prótesis valvular aortica mecánica.",
+      "2. Tratamiento del tromboembolismo pulmonar.",
+      "3. Profilaxis de la trombosis venosa en el postoperatorio de prótesis de rodilla.",
+      "4. Prevención de ictus en fibrilación auricular no valvular."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. Los anticoagulantes de acción directa no se pueden utilizar en pacientes con estenosis mitral moderada o severa ni en contexto de prótesis valvulares mecánicas. Si un paciente presenta fibrilación auricular y tiene alguna de estas dos contraindicaciones, se denomina con el nombre fibrilación auricular valvular (para recordar que tiene contraindicación de anticoagulantes orales de acción directa), si bien la Sociedad Europea de Cardiología recomienda eliminar dicho término, que es ambiguo y podría dar lugar a errores (dado que no afecta a cualquier valvulopatía, sino solo a estenosis mitral moderada o severa).</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "8. Una mujer de 83 años alérgica a betalactámicos ingresa por pielonefritis aguda y vómitos. Toma amiodarona desde hace 3 años por fibrilación auricular paroxística. Al ingreso se pauta levofloxacino y metoclopramida. Por agitación nocturna se añade haloperidol. Al 6º día sufre un síncope del que se recupera a los pocos segundos. El ECG muestra ritmo sinusal a 50 lpm, QRS estrecho y QTc 510 ms. En este contexto clínico, ¿qué etiología explicaría el síncope?:",
+    "opciones": [
+      "1. Una taquicardia ventricular polimorfa.",
+      "2. Un infarto agudo de miocardio.",
+      "3. Un ictus cardioembólico.",
+      "4. Un bloqueo aurículoventricular completo."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta fácil. Tener un intervalo QT prolongado (>480 ms) predispone a tener taquicardia ventricular polimórfica en torsión de puntas, que es la causa más probable del síncope que ha tenido la paciente. En este caso, la causa del QT prolongado es farmacológica: administración de quinolonas y neurolépticos, que alargan el QT, en una paciente que tomaba crónicamente amiodarona (que también lo alarga).</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "9. Pregunta vinculada a la imagen n.º 6. Mujer de 65 años que acude a urgencias por un cuadro de unos días de evolución de disnea. Está en tratamiento con acenocumarol y torasemida 5 mg 1c/24 h. Tuvo fiebre reumática en la infancia y una cirugía de doble prótesis valvular mecánica mitroaórtica. Tiene fibrilación auricular crónica lenta. El primer electrocardiograma a su ingreso mostraba fibrilación auricular a 50 lpm. La Rx tórax mostraba cardiomegalia y signos de redistribución vascular. Analítica: correcta anticoagulación, CK 190 U/L (normal 40-150), creatinina 0,77 mg/dL, glucosa 232 mg/dL, Na 134 mEq/L, K 3,2 mEq/L, Ca 7,71 mg/dL. Se inicia tratamiento con diuréticos iv, IECAs, esteroides, broncodilatadores nebulizados y una dosis oral de levofloxacino. En la zona de observación de urgencias se produce parada cardiorrespiratoria. Se inician maniobras de resucitación cardiopulmonar e intubación orotraqueal. Presenta cinco episodios de fibrilación ventricular en un intervalo de unos 45 min, todos ellos revertidos con éxito tras choque eléctrico de 360 J. El electrocardiograma en dicha situación es el que se muestra en la imagen. El diagnóstico más probable es:",
+    "opciones": [
+      "1. Síndrome de QT largo adquirido y torsades de pointes.",
+      "2. Infarto agudo de miocardio y taquicardia ventricular polimórfica.",
+      "3. Fibrilación auricular y aberrancia de rama.",
+      "4. Taquicardia ventricular monomorfa sostenida."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Nos presentan una mujer que acude a urgencias por insuficiencia cardiaca y tiene varios factores de riesgo para desarrollar un síndrome de QT largo adquirido: hipopotasemia, hipocalcemia, tratamiento con diuréticos (que empeorarán la hipopotasemia) y tratamiento con quinolonas. El aumento leve de CK no se debe a un infarto agudo de miocárdico, sino al contexto de insuficiencia cardiaca aguda. En el ECG se observa fibrilación auricular como ritmo de base, y extrasístoles ventriculares acopladas justo en la rama descendente de la onda T (periodo vulnerable) de los latidos “normales” de la paciente, que desencadenan una racha de TV polimórfica no sostenida, con patrón helicoidal (en torsión de puntas). No podemos medir el intervalo QT porque no hay ningún latido “normal” en el que no haya una extrasístole ventricular acoplada en la onda T (no podemos ver dónde acaba la onda T normal), pero es al menos de 520 ms (desde que empieza el QRS hasta que aparecen las extrasístoles sobre la onda T). Por ello, la opción correcta es la número 1. A continuación encontraréis una imagen explicativa del ECG.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "10. Pregunta vinculada a la imagen n.º 31. El paciente con el ECG 1.º, recibe un fármaco. Se muestra la secuencia electrocardiográfica postratamiento (2.º y 3.º). ¿Cuál es el fármaco administrado?:",
+    "opciones": [
+      "1. Verapamilo.",
+      "2. Atenolol.",
+      "3. Adenosina.",
+      "4. Digoxina."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El primer ECG muestra una taquicardia regular de QRS estrecho a unos 160 lpm (tenemos el diagnóstico de taquicardia supraventricular). Para identificar el tipo de taquicardia de que se trata (flúter auricular, taquicardia auricular o TPSV) se realizan maniobras vagales, y si no son eficaces se administra adenosina o ATP. Si no son eficaces, se administra bien calcioantagonistas no dihidropiridínicos i.v. (verapamilo, diltiazem) o betabloqueantes i.v. (esmolol, metoprolol). En nuestro caso nos dicen que hemos administrado un fármaco, así que sospecharemos que es adenosina (primera elección) o verapamilo (uno de los fármacos de segunda elección). El segundo ECG muestra, a la izquierda, ondas P sinusales con bloqueo AV completo y latidos de escape de 2 morfologías, y posteriormente bloqueo AV 2:1. Finalmente, el tercer ECG muestra recuperación del ritmo sinusal. Tanto la adenosina como el verapamilo son capaces de bloquear el nodo AV y revertir una TPSV (que es diagnóstico final del paciente vista la secuencia de ECGs, dado que se quita la taquicardia). Dado el efecto tan “intenso” del fármaco en el 2º ECG con BAV completo, y a la vez tan rápido con recuperación tras pocos segundos de conducción AV 2:1, debemos pensar en el empleo de adenosina, que tiene un efecto muy potente y una vida media muy corta (en torno a 30 segundos), mientras que el verapamilo tiene un efecto menos potente y a lo largo de minutos.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "11. En relación con las taquicardias supraventriculares, señale la respuesta CORRECTA:",
+    "opciones": [
+      "1. La más frecuente es la taquicardia por reentrada aurículo-ventricular por una vía accesoria.",
+      "2. El “signo de la rana” (ondas a visibles en el pulso yugular) es típico de la taquicardia auricular.",
+      "3. El masaje del seno carotídeo es útil para revertir un episodio de flutter auricular.",
+      "4. El tratamiento de elección de la taquicardia por reentrada intranodal recurrente es la ablación con radiofrecuencia."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla. El tratamiento de elección de la taquicardia intranodal es la ablación de la vía lenta del nodo AV. Respecto al resto de opciones: la TSV más frecuente clínicamente es la taquicardia intranodal; el “signo de la rana” es típico de la taquicardia intranodal; y el masaje del seno carotídeo puede ayudar a diagnosticar un flúter auricular al provocar cierto grado de bloqueo AV, pero no es eficaz para revertir a ritmo sinusal (sí revierten en cambio las TPSV). Recuerda que las maniobras vagales son la técnica de elección de inicio para el diagnóstico de las TSV, siendo la maniobra de Valsalva la técnica inicialmente recomendada.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "12. Pregunta vinculada a la imagen n.º 6. Ante el siguiente ECG y sabiendo que corresponde a un paciente de 78 años con antecedentes de infarto anterior extenso y disfunción ventricular moderada residual, ¿cuál sería su primera sospecha diagnóstica?:",
+    "opciones": [
+      "1. Taquicardia auricular.",
+      "2. Taquicardia supraventricular por reentrada intranodal.",
+      "3. Taquicardia ventricular.",
+      "4. Flutter auricular atípico."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. En el ECG se observa una taquicardia regular de QRS ancho, a unos 220 lpm. Ante una taquicardia regular de QRS ancho, nuestra primera sospecha diagnóstica siempre tiene que ser taquicardia ventricular. Esto es especialmente cierto en pacientes con historia de cardiopatía estructural, como el que nos presentan. Recordad que el tratamiento de las taquicardias regulares de QRS ancho debe realizarse, en principio, “como si fueran ventriculares” (aunque luego resulte que no lo sean), dado que dicho tratamiento también sería útil en el hipotético caso de que en realidad se tratara de una taquicardia supraventricular conducida con aberrancia.</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "13. Pregunta vinculada a la imagen n.º 7. Un joven de 26 años de edad, sin antecedentes patológicos de interés, acude al Servicio de Urgencias por palpitaciones de algo más de una hora de duración. Está consciente y la presión arterial es de 95/60 mm de Hg. El trazado electrocardiográfico se muestra en la imagen. ¿Cuál de los siguientes le parece el diagnóstico más probable?:",
+    "opciones": [
+      "1. Taquicardia paroxística supraventricular por reentrada intranodal.",
+      "2. Fibrilación auricular en un paciente con síndrome de Wolf-Parkinson-White.",
+      "3. Taquicardia ventricular.",
+      "4. Fibrilación ventricular."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil en la que hay que interpretar un electrocardiograma no muy habitual. El ECG muestra una taquicardia irregular, por lo que nuestra sospecha debe ser fibrilación auricular. Además, la anchura de los QRS es variable, y los más anchos tienen en su inicio una muesca que recuerda a una onda delta. Este trazado ECG es muy característico y se llama fibrilación auricular preexcitada. Es una fibrilación auricular que ocurre en un paciente con Wolff-Parkinson-White, y en el que algunos estímulos se conducen a los ventrículos preferencialmente por la vía accesoria (los que tienen QRS más ancho) y otros por el nodo AV (los que tienen QRS más estrecho).</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "14. Paciente de 76 años, con hipertensión y diabetes mellitus, que acude a Urgencias porque desde hace 72 horas ha comenzado con un cuadro de palpitaciones y disminución de su capacidad para hacer esfuerzos. A su llegada se documenta una fibrilación auricular con respuesta ventricular en torno a 120 lpm. ¿Cuál de las siguientes opciones es FALSA?:",
+    "opciones": [
+      "1. Este paciente debe estar anticoagulado oralmente de por vida, salvo contraindicación.",
+      "2. Si decidimos realizar una cardioversión a su llegada a Urgencias, sería necesario hacer previamente una ecocardiografía transesofágica.",
+      "3. Al ser el primer episodio de fibrilación auricular es el candidato idóneo para realizar una ablación con catéter.",
+      "4. Para frenar la frecuencia cardiaca podríamos emplear betabloqueantes."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Cuadro de fibrilación auricular “rápida” que atendemos en Urgencias. El paciente lleva más de 48 h con la clínica, por lo que no podemos realizar cardioversión sin un ecocardiograma transesofágico previo (o anticoagulación 3 semanas). De momento daremos frenadores (beta-bloqueantes o calcioantagonistas, en casos de insuficiencia cardiaca aguda o si no existe control con uno de ellos digoxina) con objetivo de FC <110 lpm en reposo e iniciaremos anticoagulación oral permanente, pues el paciente tiene CHA2DS2-VASc de 4 (HTA, DM y ≥75 años). No es el candidato “ideal” para realizar ablación de la arritmia, dado que se trata de un primer episodio arrítmico (la ablación está especialmente indicada en pacientes con varios episodios sintomáticos).</p>"
+  },
+  {
+    "tema": "Tema 6. Taquicardias",
+    "pregunta": "15. Una mujer de 60 años, diagnosticada de diabetes mellitus tipo 2 e hipertensión arterial, consulta por palpitaciones de semanas de evolución. Aporta un electrocardiograma realizado hace una semana en el que está en fibrilación auricular con frecuencia ventricular media de 70 lat/min. En la exploración física y en un nuevo electrocardiograma realizado en consulta está en ritmo sinusal. ¿Es necesario anticoagularla de forma crónica?:",
+    "opciones": [
+      "1. No es necesario anticoagular porque tiene una fibrilación auricular paroxística y ahora no está en fibrilación auricular.",
+      "2. No es necesario anticoagular porque es menor de 75 años y no ha tenido ictus previamente.",
+      "3. Debe anticoagularse de forma crónica porque tiene un CHADS de 2 y un CHADS-VASc de 3.",
+      "4. No es preciso anticoagular, pero sí pautarse antiagregación con ácido acetilsalicílico.",
+      "5. Debe anticoagularse solo con heparina de bajo peso molecular subcutánea cuando esté en fibrilación auricular."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta importante sobre la FA y anticoagulación crónica. Recordad que las indicaciones son independientes de la temporalidad de la FA (paroxística, persistente, permanente) y se hacen en función de la etiología (valvular o no valvular). Podemos distinguir tres subgrupos:</p><ul><li><b>FA valvular:</b> se considera FA valvular cuando la arritmia acontece en el seno de una estenosis mitral reumática en grado moderado o severo, o cuando ocurre en el portador de prótesis cardiacas mecánicas. La FA valvular obliga a anticoagular al paciente de forma indefinida (independientemente del CHA2DS2-VASc ) y están contraindicados los anticoagulantes orales de acción directa (ACOD); se usan anti-vitamina K (acenocumarol o warfarina) y se monitoriza con el INR. Recuerda que el paciente portador de prótesis mecánicas ya tiene indicación de anticoagulación indefinida independientemente de que esté en FA o no, y con INR objetivo ≥2,5-3,5.</li><li><b>FA no valvular:</b> en solamente en estos pacientes (aunque son la mayoría) en los que se utiliza la escala CHA2DS2-VASc. Existe indicación estricta de anticoagulación con ≥2 puntos en hombres o ≥3 en mujeres, y se recomienda igualmente anticoagular con ≥1 punto en hombres y ≥2 en mujeres. Son de elección los ACOD sobre los anti-vitamina K.</li><li><b>Pacientes con miocardiopatías con alto riesgo trombótico:</b> miocardiopatía hipertrófica, miocardiopatía restrictiva y amiloidosis cardíaca). Si estos pacientes desarrollan FA deben anticoagularse indefinidamente, independientemente de su CHA2DS2-VASc. Son también de elección los ACOD sobre los anti-vitamina K.</li></ul>"
   }
 ]
