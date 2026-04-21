@@ -1056,5 +1056,201 @@
     ],
     "correcta": 3,
     "comentario": "<p>Pregunta de dificultad intermedia. Nos describen un ECG con ausencia de ondas P y ritmo de escape nodal a 40 lpm. Existe onda P’ retrógrada (esto es, el latido se origina en el nodo AV y desde ahí se extiende no sólo a los ventrículos a través del sistema His-Purkinje, sino también de manera retrógrada a las aurículas). La ausencia de ondas P en presencia de un latido de escape nodal a 40 lpm implica que, necesariamente, la frecuencia cardiaca en ese momento que es capaz de generar el nodo sinusal es menor a 40 lpm. Esto es, un nodo sinusal disfuncionante. Estos hallazgos son muy frecuentes e incluso fisiológicos en jóvenes deportistas, pero ante un anciano debemos pensar en que la causa es el envejecimiento del nodo sinusal. La disfunción sinusal es habitualmente asintomática y no suele requerir tratamiento, pero en los casos sintomáticos (como el presente caso), o en aquellos asintomáticos que tengan pausas diurnas mayores de 6 segundos, existe indicación de marcapasos definitivo.</p>"
+  },
+{
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "1. Pregunta asociada a la imagen 12. Hombre de 75 años sin factores de riesgo cardiovascular. Acude a su centro de salud por disnea de moderados esfuerzos de un año de evolución, que en las últimas semanas aparece ante pequeños esfuerzos. En la exploración física se ausculta en el 2º espacio intercostal derecho un soplo sistólico rudo, irradiado a carótidas con borramiento del 2º tono cardiaco. Se practica un ecocardiograma que muestra una función biventricular normal y un engrosamiento de una de las válvulas cardiacas que presenta un área de 0,95cm2 (imagen). ¿Cuál es el diagnóstico más probable y la actitud terapéutica a seguir?:",
+    "opciones": [
+      "1. Estenosis valvular aórtica grave con indicación de recambio valvular.",
+      "2. Estenosis valvular aórtica moderada con indicación de seguimiento clínico ambulatorio.",
+      "3. Estenosis mitral grave con indicación de recambio valvular.",
+      "4. Estenosis mitral moderada con indicación de seguimiento clínico ambulatorio."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla en la que no era necesario ver la imagen para contestar. Ante un hombre anciano con soplo sistólico en foco aórtico (2º espacio intercostal derecho) debemos sospechar una estenosis aórtica calcificada. En el enunciado nos presentan el área valvular, que es de 0,95 cm2 (< 1cm2 indica severidad) y el paciente tiene síntomas (disnea), por lo que existe indicación de recambio valvular, en este caso mediante TAVI ya que el paciente ya ha cumplido 75 años y se considera de elección a partir de esa edad. Respecto a la imagen, se trata de un ecocardiograma transesofágico en el que hemos colocado la válvula aórtica mirada de frente (desde arriba), con lo que podemos medir el área valvular cuando la válvula se abre en sístole (mediante planimetría). Incluimos una explicación de las estructuras que se observan en la imagen (AD: aurícula derecha; AI: aurícula izquierda; AP: arteria pulmonar: VD: ventrículo derecho).</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "2. En relación con el prolapso de la válvula mitral, señale la respuesta correcta:",
+    "opciones": [
+      "1. La degeneración mixomatosa valvular también puede afectar a las válvulas tricúspide y aórtica.",
+      "2. Es más frecuente en hombres.",
+      "3. Tiene un curso benigno y raramente origina insuficiencia valvular mitral.",
+      "4. El soplo cardiaco que puede originar característicamente disminuye de intensidad con la maniobra de Valsalva."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta teórica difícil sobre el prolapso valvular mitral. Se trata de una entidad frecuente (3% de la población general), con predominio en mujeres jóvenes, y curso clínico habitualmente benigno, aunque en casos raros se asocia a muerte súbita (prolapso mitral 'maligno'). Es frecuente que asocie algún grado de insuficiencia mitral, aunque suele ser leve y es raro que acabe conllevando la necesidad de intervención por insuficiencia mitral severa. Por último, el soplo se comporta igual que el de la miocardiopatía hipertrófica en relación con cambios de precarga; así, aumentará con reducciones de precarga como la maniobra de Valsalva. La pregunta se puede sacar por técnica de examen, dado que, por 'poder', seguro que puede asociarse a afectación de otras válvulas del corazón (opción 1 correcta).</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "3. Varón de 75 años que refiere disnea progresiva, con una tolerancia al esfuerzo cada vez menor. Refiere síncope en dos ocasiones en los últimos meses, coincidiendo con un esfuerzo moderado y refiere dolor torácico ocasional que aumenta con el esfuerzo. En la exploración destaca la presencia de pulso arterial de características parvus et tardus y un soplo mesosistólico. La analítica es normal excepto por una creatinina de 2,2 mg/dL. El cálculo de riesgo quirúrgico establece un riesgo intermedio. Señale cuál de las siguientes opciones terapéuticas es la más indicada:",
+    "opciones": [
+      "1. Reemplazo quirúrgico de la válvula mitral.",
+      "2. Implante percutáneo de la válvula aórtica (TAVI).",
+      "3. Reemplazo quirúrgico de la válvula aórtica.",
+      "4. Valvulotomía mitral percutánea."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad intermedia sobre la elección del modo terapéutico de la estenosis aórtica severa. En pacientes mayores de 75 años, la elección recomendada es la TAVI independientemente del riesgo quirúrgico. En pacientes menores de 75 años y riesgo quirúrgico bajo, la sustitución quirúrgica (SAVR) es de elección. En pacientes menores de 75 años con riesgo quirúrgico moderado o algo, se deberá individualizar la decisión (TAVI o SAVR). En esta pregunta la edad del paciente está justo en el límite para la toma de decisiones, pero la puntuación de riesgo intermedio debe hacer que nos decantemos por la opción percutánea.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "4. Paciente de 78 años sin antecedentes que consulta por astenia y disnea de 3 meses de evolución, que ha progresado hasta hacerse de reposo en los últimos días. En los días previos refiere también dolor torácico de características anginosas con pequeños esfuerzos. En la exploración destaca presión arterial de 110/80 mmHg, frecuencia cardíaca de 85 lpm y auscultación con un soplo sistólico áspero en segundo espacio intercostal derecho y crepitantes en ambas bases pulmonares. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Insuficiencia mitral.",
+      "2. Estenosis aórtica.",
+      "3. Insuficiencia aórtica.",
+      "4. Miocardiopatía dilatada de origen isquémico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta fácil. Paciente de edad avanzada con disnea, luego angina y que tiene un soplo sistólico en foco aórtico; la respuesta es estenosis aórtica (valvulopatía más frecuente en general, y sobre todo en pacientes ancianos).</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "5. Un varón de 40 años consulta por disnea de esfuerzo lentamente progresiva desde hace un año. No tiene hábitos tóxicos ni antecedentes de interés. No ha tenido dolor torácico. Presenta un soplo sistólico rudo en foco aórtico, irradiado a ápex cardiaco y carótidas. El ECG en ritmo sinusal muestra criterios de hipertrofia ventricular izquierda y en la Rx de tórax es evidente una raíz de aorta dilatada. Con estos datos, ¿qué diagnóstico es el más probable?:",
+    "opciones": [
+      "1. Válvula aórtica bicúspide estenótica.",
+      "2. Comunicación interventricular perimembranosa.",
+      "3. Insuficiencia aórtica degenerativa.",
+      "4. Miocardiopatía restrictiva."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. En un paciente menor de 50 años con soplo sistólico en foco aórtico (y otros datos que indican estenosis aórtica, como la presencia de hipertrofia ventricular izquierda y la clínica de disnea de esfuerzo), debemos sospechar como causa más probable la válvula aórtica bicúspide. Recordad que otra manifestación típica de la válvula aórtica bicúspide es la dilatación de la raíz aórtica, como se produce en nuestro caso.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "6. Un hombre de 58 años, hipertenso, acude a urgencias por un síncope de 30 segundos mientras corre, con recuperación espontánea y sin secuelas. La tensión arterial es 135/65 mmHg. En la auscultación cardiaca presenta un soplo sistólico rudo, intenso, que se reduce con maniobras de Valsalva y un segundo tono atenuado. El ECG muestra un ritmo sinusal a 72 lpm, con criterios de hipertrofia ventricular izquierda y ondas T invertidas en cara anterior. Señale la afirmación correcta:",
+    "opciones": [
+      "1. El cuadro clínico sugiere un tromboembolismo pulmonar.",
+      "2. Los datos aportados indican miocardiopatía hipertrófica con obstrucción grave del tracto de salida de ventrículo izquierdo.",
+      "3. Estos datos corresponden a estenosis aórtica grave.",
+      "4. Debe excluirse una disección de aorta mediante una tomografía computarizada con contraste."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil. Paciente con síncope durante el esfuerzo y soplo de estenosis aórtica (soplo sistólico que disminuye con descensos de precarga, como al realizar la maniobra de Valsalva). Los pacientes con estenosis aórtica desarrollan de forma secundaria hipertrofia ventricular izquierda por el exceso de postcarga que supone la estenosis aórtica, y además es frecuente que existan alteraciones inespecíficas de la repolarización en el ECG (como ondas T negativas). Recordad que en una miocardiopatía hipertrófica obstructiva el soplo de obstrucción aumenta con las maniobras que reduen la precarga (como la maniobra de Valsalva), al contrario que los soplos de las valvulopatías.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "7. Paciente con insuficiencia cardiaca crónica en quien detectamos unas ondas “v” prominentes en el pulso venoso yugular y en la auscultación cardiaca un soplo holosistólico en el área del apéndice xifoides que se acentúa con la inspiración profunda. ¿Cuál es la valvulopatía que sugiere esta exploración física?:",
+    "opciones": [
+      "1. Insuficiencia mitral.",
+      "2. Insuficiencia pulmonar.",
+      "3. Insuficiencia tricuspídea.",
+      "4. Estenosis aórtica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. Ante un soplo sistólico en borde esternal izquierdo se aumenta con la inspiración (signo de Rivero-Carvallo) debemos sospechar insuficiencia tricúspide. La presencia de ondas “v” prominentes en el pulso venoso yugular también es un dato exploratorio típico.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "8. Un hombre diagnosticado de estenosis aórtica grave sintomática con indicación de tratamiento quirúrgico, acude a la consulta preoperatoria de cirugía cardiaca. El paciente ha consultado en internet sobre el tratamiento quirúrgico de la estenosis aórtica grave. ¿Cuál de las siguientes informaciones de que dispone el paciente es INCORRECTA?:",
+    "opciones": [
+      "1. Las prótesis valvulares mecánicas precisan tratamiento anticoagulante permanente.",
+      "2. Las prótesis aórticas mecánicas se implantan principalmente en pacientes de más de 70 años en ritmo sinusal.",
+      "3. La durabilidad de las prótesis valvulares biológicas es menor que la de las prótesis mecánicas.",
+      "4. Las prótesis valvulares biológicas son menos trombogénicas que las prótesis valvulares mecánicas."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla sobre la elección del tipo de prótesis valvular (mecánica o biológica). Las prótesis mecánicas son más duraderas (por lo que se implantan en pacientes más jóvenes) pero requieren anticoagulación oral permanente con inhibidores de la vitamina K e INR objetivo mayor que el de la fibrilación auricular (en general 2,5-3,5 o 3-4, dependiendo del tipo de prótesis). Por el contrario, las prótesis biológicas implantadas quirúrgicamente tienen la ventaja de no necesitar anticoagulación oral permanente (sólo los 3 primeros meses), pero tienen una menor durabilidad. Por ello, se implantan en pacientes de mayor edad (por encima de 70 años; entre 60 y 70 años se individualiza). Las prótesis biológicas aórticas que se implantan de forma percutánea (TAVI) se suelen monoantiagregar de forma indefinida. Aunque se debe individualizar la decisión a cada paciente, las prótesis percutáneas aórticas (TAVI) se implantan en pacientes de edad superior a 75 años o en aquellos que presentan un riesgo quirúrgico elevado.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "9. Pregunta vinculada a la imagen n.º 4. Mujer de 69 años que acude a consulta externa de cardiología refiriendo disnea limitante de moderados-pequeños esfuerzos instaurada en los últimos meses. El electrocardiograma muestra fibrilación auricular con respuesta ventricular controlada. A la exploración destaca un soplo diastólico. Realizamos un ecocardiograma transtorácico. ¿Cuál cree que es el diagnóstico más probable de esta paciente?:",
+    "opciones": [
+      "1. Endocarditis bacteriana.",
+      "2. Estenosis mitral.",
+      "3. Miocardiopatía hipertrófica.",
+      "4. Insuficiencia aórtica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Cuadro clínico compatible con insuficiencia cardiaca de etiología valvular (soplo diastólico). Nuestra sospecha, antes de ver la imagen, debe ser estenosis mitral o insuficiencia aórtica (por el soplo diastólico). La presencia de fibrilación auricular, muy frecuente en las valvulopatías mitrales, apoya el diagnóstico de estenosis mitral. El ecocardiograma, aunque no lo sepamos interpretar exactamente, muestra a la derecha un flujo Doppler color turbulento (colores chillones; significa que existe aceleración del flujo) atravesando la válvula mitral, por lo que concluiremos que la paciente tiene estenosis mitral. Además, el hecho de que el ventrículo izquierdo no esté dilatado y sin embargo la aurícula izquierda esté muy dilatada apoya aún más dicho diagnóstico. Adjuntamos la imagen explicada para mejorar su comprensión.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "10. Pregunta vinculada a la imagen n.º 8. Mujer de 42 años de edad que acude a urgencias por haber presentado por la noche un episodio de falta de aire que le obliga a incorporarse y que cede después progresivamente. Además, refiere empeoramiento progresivo de su capacidad funcional en las últimas dos semanas, con dificultad para subir un piso de escaleras por “ahogo”. Hace ocho días acudió a su centro de salud por episodio de palpitaciones de inicio y final súbito. Usted dispone de un equipo portátil de ecocardiografía en urgencias y realiza una exploración en la que se encuentra con los hallazgos que se muestran en la imagen (imágenes de ecocardiografía transtorácica obtenidas en telesístole, en vista apical 3 cámaras. Panel A: imagen de escala de grises (modo B). Panel B: imagen Doppler-color de la misma vista que el Panel A. VI: ventrículo izquierdo; AI: aurícula izquierda; Ao: Aorta.). La opción terapéutica que resolvería el problema de esta paciente es:",
+    "opciones": [
+      "1. El implante de una prótesis transcatéter en posición aórtica.",
+      "2. Una valvuloplastia percutánea con balón de la válvula aórtica.",
+      "3. Una cirugía sobre la válvula mitral, a ser posible reparadora.",
+      "4. Con tratamiento médico sería suficiente y no precisa ninguna intervención en ninguna válvula."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla aunque nos pide tener conceptos básicos de ecocardiografía. Nos presentan una mujer de edad intermedia con insuficiencia cardiaca (disnea de esfuerzo progresiva y ortopnea). El ecocardiograma está realizado al final de la sístole, luego la válvula mitral, situada entre la aurícula izquierda (AI) y el ventrículo izquierdo (VI) debería estar cerrada. En la imagen de la izquierda, en escala de grises, se observa (no muy bien) cómo el velo posterior de la válvula prolapsa (su plano de cierre no es el mismo que el del velo anterior, sino que “baja” hasta la aurícula. La pista definitiva la aporta la imagen de la derecha, donde vemos un flujo Doppler-color muy turbulento (mezcla de colores) y extenso que se dirige, estando en sístole, desde el ventrículo izquierdo a la aurícula izquierda. Esto implica que existe insuficiencia mitral. No tenéis que saber los métodos que hay para estimar la severidad de la insuficiencia, pero el flujo Doppler-color es muy extenso. y eso es un dato de severidad. En resumen: insuficiencia mitral severa sintomática = cirugía sobre la válvula mitral, a poder ser reparación valvular. Como detalle, se trata de una mujer de edad intermedia y con palpitaciones además de disnea, que son aspectos típicos de pacientes con prolapso mitral.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "11. En relación al tratamiento de la insuficiencia mitral grave, señale cuál de las siguientes afirmaciones es FALSA:",
+    "opciones": [
+      "1. La reparación de la válvula mitral mantiene la función del ventrículo izquierdo en un grado mayor que la sustitución valvular.",
+      "2. El tratamiento quirúrgico está indicado en pacientes asintomáticos cuando existe disfunción ventricular izquierda (fracción eyección ventrículo izquierdo <60% y/o diámetro telesistólico ventricular izquierdo >40 mm).",
+      "3. El tratamiento quirúrgico está indicado en pacientes sintomáticos, especialmente por encima de una fracción de eyección de ventrículo izquierdo de 30%.",
+      "4. La reparación valvular mitral tiene un riesgo quirúrgico superior a la cirugía de sustitución valvular mitral."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta compleja que aborda el tratamiento quirúrgico de la insuficiencia mitral. Las principales indicaciones de tratamiento, ante un paciente con insuficiencia mitral severa, son: a) la presencia de síntomas, b) FEVI <60%, y c) tener dilatación ventricular izquierda (diámetro telesistólico >40 mm, el dato de la respuesta 2 está mal). Si la FEVI está severamente deprimida (<30%), la cirugía suele reservarse a los casos en los que se pueda hacer reparación, dado que los resultados del implante de prótesis en dicha situación suelen ser catastróficos. Independientemente de la FEVI y siempre que se pueda, la cirugía debe consistir en la reparación valvular, dado que tiene múltiples ventajas respecto al recambio valvular por prótesis: la reparación valvular ha demostrado menor mortalidad quirúrgica, menor morbilidad y mortalidad a largo plazo, y mejor preservación de la función ventricular.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "12. Un paciente consulta por latido vascular cervical prominente. Al auscultarle se escucha un soplo diastólico de alta frecuencia. ¿Cuál es la causa?:",
+    "opciones": [
+      "1. Ductus persistente.",
+      "2. Disfunción músculo papilar.",
+      "3. Estenosis mitral.",
+      "4. Insuficiencia aórtica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla sobre la semiología de las valvulopatías. El paciente tiene soplo diastólico y pulso prominente (pulso 'hiperdinámico'), lo cual es compatible, de las cardiopatías que nos presentan, con una insuficiencia aórtica. El ductus arterioso persistente daría soplo continuo 'en maquinaria'; la disfunción de músculo papilar produce insuficiencia mitral, que tendría a la auscultación un soplo sistólico; por último, la estenosis mitral tiene un soplo diastólico pero de baja frecuencia (se ausculta mejor con la campana del fonendoscopio), y el pulso no es hiperdinámico.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "13. La sobrecarga de volumen del ventrículo izquierdo aparece en:",
+    "opciones": [
+      "1. Las estenosis de las válvulas cardiacas.",
+      "2. La coartación de la aorta.",
+      "3. La angina de reposo.",
+      "4. Las insuficiencias de las válvulas cardiacas",
+      "5. La fiebre reumática."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Las insuficiencias valvulares izquierdas (mitral y aórtica) producen sobrecarga de volumen del ventrículo izquierdo. En la insuficiencia mitral, con cada sístole hay parte del volumen ventricular que vuelve a la aurícula, con lo que en el latido siguiente bajará al ventrículo ese volumen extra más el que le tocaba (sobrecarga de volumen). En la insuficiencia aórtica, la propia regurgitación valvular aumenta el volumen de llenado del ventrículo izquierdo en diástole (sobrecarga de volumen). Las estenosis valvulares izquierdas, en cambio, no producen sobrecarga de volumen. La estenosis mitral no afecta al ventrículo izquierdo, y la estenosis aórtica produce sobrecarga de presión. La fiebre reumática produce especialmente estenosis mitral. La coartación de aorta produce sobrecarga de presión, y la angina (durante el episodio de angina) produce hipocontractilidad que puede conllevar aumentos de presión intraventricular (sobrecarga de presión).</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "14. ¿Cuál es la etiología más frecuente de la estenosis aórtica en el adulto?:",
+    "opciones": [
+      "1. Reumática.",
+      "2. Congénita.",
+      "3. Degenerativa o calcificada.",
+      "4. Post endocarditis.",
+      "5. Isquémica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta muy sencilla: la causa más frecuente de estenosis aórtica es la degenerativa o calcificada del anciano. La segunda causa en frecuencia es la estenosis sobre válvula bicúspide.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "15. Paciente de 52 años de edad que refiere disnea de medianos esfuerzos desde hace 6 meses. No ha presentado angina ni síncopes. La exploración física y las pruebas diagnósticas demuestran la existencia de un gradiente transvalvular aórtico medio de 55 mmHg y un área calculada de 0,7 cm2. Fracción de eyección del 65%. El tratamiento que debe indicarse a este paciente es:",
+    "opciones": [
+      "1. Diuréticos y controles más frecuentes por un especialista.",
+      "2. En caso de aumentar la disnea de esfuerzo, debe practicarse una dilatación percutánea de la válvula aórtica con catéter de balón.",
+      "3. Sustitución de la válvula aórtica por una prótesis/bioprótesis.",
+      "4. Sustitución de la válvula aórtica por un homoinjerto.",
+      "5. Implante de una válvula percutánea."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil. Ante una estenosis aórtica severa (que se define por un gradiente medio transvalvular >40 mmHg, y un área valvular aórtica <1 cm2) sintomática, existe indicación de recambio valvular aórtico por prótesis valvular (en paciente jóvenes o que tengan indicación de anticoagulación por otros motivos se eligen prótesis mecánicas, y en pacientes mayores o con contraindicaciones para anticoagulación se eligen válvulas biológicas). El implante de válvula aórtica transcatéter (TAVI) puede realizarse de manera percutánea (habitualmente por vía femoral) o transapical, y se reserva para pacientes con alto riesgo quirúrgico o en los que la cirugía está directamente contraindicada.</p>"
+  },
+  {
+    "tema": "Tema 8. Valvulopatías",
+    "pregunta": "16. En la elección del tipo de prótesis valvular cardiaca (biológica o mecánica) a implantar en un paciente se deben considerar diversos aspectos y características del enfermo y de la prótesis. Atendiendo a lo mencionado, señale el enunciado INCORRECTO:",
+    "opciones": [
+      "1. La anticoagulación permanente es necesaria en las prótesis mecánicas.",
+      "2. En general las prótesis biológicas se indican en pacientes jóvenes, con esperanza de vida larga.",
+      "3. Las prótesis biológicas estarían indicadas en casos que presenten contraindicación formal para la anticoagulación.",
+      "4. La velocidad de deterioro estructural de una prótesis biológica es inversamente proporcional a la edad del sujeto.",
+      "5. Las prótesis biológicas no precisan anticoagulación permanente."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Las prótesis valvulares biológicas se eligen cada vez más respecto a las mecánicas, debido a que la mejoría de los materiales está aumentando su durabilidad. En general, debido a su mayor duración, se prefieren válvulas mecánicas en pacientes jóvenes (para evitar reintervenciones); también se prefieren en pacientes con otras indicaciones de anticoagulación (p. ej., fibrilación auricular), dado que su principal problema es la necesidad de mantener anticoagulación oral con acenocumarol de por vida. Por el contrario, las válvulas biológicas se indican en pacientes mayores o que tengan contraindicaciones para la anticoagulación; se suelen evitar en pacientes con riesgo de deterioro protésico precoz (son los pacientes con tendencia a que se les “calcifiquen las arterias”, como los pacientes con insuficiencia renal). Paradójicamente, en los ancianos la velocidad de deterioro protésico en válvulas biológicas es menor que en jóvenes, lo que anima aún más a implantar este tipo de válvulas en ancianos.</p>"
   }
 ]
