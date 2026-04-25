@@ -1252,5 +1252,152 @@
     ],
     "correcta": 1,
     "comentario": "<p>Las prótesis valvulares biológicas se eligen cada vez más respecto a las mecánicas, debido a que la mejoría de los materiales está aumentando su durabilidad. En general, debido a su mayor duración, se prefieren válvulas mecánicas en pacientes jóvenes (para evitar reintervenciones); también se prefieren en pacientes con otras indicaciones de anticoagulación (p. ej., fibrilación auricular), dado que su principal problema es la necesidad de mantener anticoagulación oral con acenocumarol de por vida. Por el contrario, las válvulas biológicas se indican en pacientes mayores o que tengan contraindicaciones para la anticoagulación; se suelen evitar en pacientes con riesgo de deterioro protésico precoz (son los pacientes con tendencia a que se les “calcifiquen las arterias”, como los pacientes con insuficiencia renal). Paradójicamente, en los ancianos la velocidad de deterioro protésico en válvulas biológicas es menor que en jóvenes, lo que anima aún más a implantar este tipo de válvulas en ancianos.</p>"
+  },
+
+{
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "1. Pregunta asociada a la imagen 17. Hombre de 63 años, fumador de 15 cigarrillos al día como único antecedente de interés, que consulta por cefalea. Se detecta presión arterial de 180/110 mmHg, iniciándose tratamiento con enalapril 10 mg. Se realiza analítica donde no hay ningún parámetro fuera de rango. A la semana se objetiva un buen control de la presión arterial y una creatinina de 3mg/dL correspondiente a un FGe (filtrado glomerular estimado) de 22 ml/min. En la exploración física se detecta un soplo abdominal. Se realiza una angioTC abdominal (figura). ¿Cuál de las siguientes afirmaciones es más probable?:",
+    "opciones": [
+      "1. Tiene una estenosis unilateral de la arteria renal y la administración de enalapril ha provocado una caída del FGe por la pérdida de vasoconstricción de la arteriola eferente.",
+      "2. Tiene una nefritis intersticial por enalapril.",
+      "3. Tiene una estenosis bilateral de las arterias renales y la administración de enalapril ha provocado una caída del FGe por la pérdida de vasoconstricción de la arteriola eferente.",
+      "4. Tiene una insuficiencia renal aguda debida a la crisis hipertensiva."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Preguntas relativamente sencilla, en la que no era necesario mirar la imagen para contestar correctamente. Nos presentan un paciente hipertenso en el que se inicia tratamiento como IECA como antihipertensivo, tras lo cual desarrolla fracaso renal agudo; esto es muy típico de la estenosis renal bilateral como causa de HTA (no aparecería en una estenosis unilateral). Otro dato que lo apoya es que con poca dosis de antihipertensivo (no tenéis que saber las dosis, pero 10 mg de enalapril es una dosis intermedia de un solo fármaco), se consigue una bajada espectacular y muy rápida de tensión (ya está controlada, esto es, PAS <140 mmHg cuando partíamos de 180 mmHg). Además, nos indican que auscultamos un soplo abdominal, por lo que el diagnóstico estaba claro antes de ver la imagen. Si miramos la imagen de TC, se observa efectivamente estenosis en el segmento proximal de las dos arterias renales (adjuntamos imagen explicativa; las flechas señalan las estenosis).</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "2. El flujo sanguíneo turbulento tiende a aumentar en proporción directa a todos los siguientes factores EXCEPTO UNO. Señale cuál:",
+    "opciones": [
+      "1. Viscosidad de la sangre.",
+      "2. Velocidad del flujo sanguíneo.",
+      "3. Diámetro del vaso sanguíneo.",
+      "4. Densidad de la sangre."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta muy compleja, en la que el razonamiento habitual conduce a señalar una opción errónea. El número de Reynolds es un parámetro empleado para valorar la posibilidad de existencia de turbulencias en el flujo sanguíneo. A mayores valores del mismo, mayor riesgo de existencia de flujo turbulento. Se calcula según la fórmula: Re = (v·d·ρ)/n, donde v es la velocidad del flujo sanguíneo, d es el diámetro del vaso, ρ es la densidad de la sangre y n es la viscosidad. Como se observa, la viscosidad sanguínea guarda una relación inversamente proporcional al número de Reynolds, de tal forma que mayores viscosidades (p. ej., aumento de hematocrito) supondrán descensos de dicho valor y por tanto menor probabilidad de existencia de turbulencias.</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "3. Según las recomendaciones preventivas cardiovasculares del Programa de Actividades Preventivas y Promoción de la Salud (PAPPS), indique la opción correcta sobre la periodicidad del cribado de hipertensión arterial en personas mayores de 40 años:",
+    "opciones": [
+      "1. Se recomienda tomar la presión arterial anualmente.",
+      "2. Se recomienda tomar la presión arterial cada dos años.",
+      "3. Se recomienda tomar la presión arterial cada tres años.",
+      "4. Se recomienda tomar la presión arterial cada cuatro años."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta novedosa por hacer referencia directa a un documento científico de Sociedad española de medicina de familia y comunitaria. En dicho documento se recomienda un cribado de HTA cada 3-5 años, para comenzar a realizarse anualmente en sujetos mayores de 40 años o con algún factor de riesgo para el desarrollo de HTA (sobrepeso-obesidad, TA normal-alta o personas negras).</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "4. Mujer de 53 años de edad con antecedentes personales de obesidad y migraña. En repetidas ocasiones se le ha tomado la presión arterial en la consulta médica y de enfermería presentando cifras inferiores a 140/90 mmHg. Sin embargo, se ha comprado un aparato homologado para la toma de la presión arterial y se le ha enseñado a utilizarlo correctamente. Acude mostrando registros de presión arterial tomados en su domicilio a lo largo de varias semanas con valores superiores a 140/90 mmHg. Señale la respuesta correcta:",
+    "opciones": [
+      "1. Presenta una hipertensión arterial secundaria.",
+      "2. Presenta una hipertensión arterial enmascarada.",
+      "3. Presenta una hipertensión clínica aislada.",
+      "4. Presenta una hipertensión arterial refractaria"
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil por abordar un concepto no previamente preguntado, pero que podíamos sacar perfectamente por descarte. La hipertensión arterial enmascarada es el fenómeno contrario al de bata blanca, esto es, un paciente que en las tomas de PA en consulta no tiene cifras elevadas, pero que en las determinaciones que realiza en su domicilio sí que tiene cifras elevadas, lo que nos permite llegar al diagnóstico de HTA. Recordad que las determinaciones de PA en domicilio, si están correctamente realizadas, tienen más fiabilidad que las de la consulta. El resto de opciones se podían descartar con los conocimientos que tenemos de HTA. La HTA secundaria se sospecha ante individuos con síntomas o signos que sugieran una causa secundaria, pacientes muy jóvenes con HTA o en casos de HTA refractaria al tratamiento; en este caso no nos informan de ninguna de estas características. La HTA aislada es aquélla que no presenta síntomas (que es lo más frecuente). La HTA refractaria es aquélla que no se controla a pesar de la combinación de 3 fármacos, incluyendo un diurético, y esta paciente no toma todavía fármacos.</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "5. Pregunta vinculada a la imagen n.º 24. A un paciente de 55 años se le solicita una MAPA (Monitorización Ambulatoria de la Presión Arterial) de 24 horas, por presentar en consulta valores de presión arterial en la categoría normal-alta, para descartar una hipertensión arterial enmascarada. El resultado del estudio se observa en la imagen. Los promedios de presión arterial fueron: media de 24 horas 121/73 mmHg, media en el periodo diurno 124/75 mmHg, media en el periodo nocturno 111/65 mmHg. La presión arterial sistólica nocturna descendió un 10,4% de la media de los valores diurnos y la presión arterial diastólica nocturna descendió un 13,9% de la media de los valores diurnos. De las siguientes opciones ¿cuál se corresponde mejor con la MAPA realizada?:",
+    "opciones": [
+      "1. Normotensión y patrón dipper.",
+      "2. Normotensión y patrón no dipper.",
+      "3. Hipertensión y patrón dipper.",
+      "4. Hipertensión y patrón no dipper."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad moderada. Los resultados del MAPA que nos ofrecen son normales (PA <135/85 mmHg por el día y <120/75 mmHg por la noche). Además, por la noche la PA desciende >10% respecto a los valores diurnos; esto se denomina patrón dipper. Un patrón dipper se considera normal, mientras que un patrón no dipper (la PA no desciende por la noche de forma relevante respecto de los valores diurnos) implica un riesgo cardiovascular aumentado en pacientes hipertensos.</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "6. En relación con la fisiopatología de la hipertensión arterial (HTA), la respuesta correcta es:",
+    "opciones": [
+      "1. El sistema nervioso simpático es el principal responsable del desarrollo de la enfermedad vascular y uno de los principales focos de atención terapéutica.",
+      "2. Entre los cambios estructurales de la HTA se encuentran la hipertrofia de la capa media de las arterias de resistencia y la rigidez de las grandes arterias.",
+      "3. En hipertensos jóvenes o de mediana edad, la forma más frecuente de presentación es la HTA sistólica aislada.",
+      "4. La disfunción endotelial por desequilibrio en la producción de sustancias vasodilatadoras y antiinflamatorias y sustancias vasoconstrictoras o proinflamatorias, no parece ser el desencadenante de la enfermedad según las últimas hipótesis."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil sobre fisiopatología. El principal factor responsable del desarrollo de HTA es la disfunción endotelial, y de manera secundaria una activación excesiva del sistema renina-angiotensina-aldosterona (SRAA), no el sistema nervioso simpático (SNS). La disfunción endotelial se define como un disbalance entre sustancias vasodilatadoras como el óxido nítrico, cuya secreción disminuye, y otras vasoconstrictoras como la endotelina y proinflamatorias como la IL-1, cuya secreción aumenta. En cuanto al arsenal terapéutico de la HTA, actuamos frente al SRAA con IECA/ARA-II, y frente al SNS, también implicado en la fisiopatología, con betabloqueantes (que no se emplean de primera elección a día de hoy salvo que el paciente tenga otra indicación concreta para recibirlos). La opción correcta es la 2: el aumento de presión intrarterial produce hipertrofia de la capa muscular media de las arterias, lo que aumenta por otra parte su rigidez. La presentación de la HTA como HTA sistólica aislada es típica de los ancianos, no de los pacientes jóvenes.</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "7. Pregunta vinculada a la imagen n.º 2. Hombre de 40 años con hipertensión arterial, en tratamiento con enalapril, amlodipino e hidroclorotiazida a dosis plenas. En consulta tiene cifras de presión arterial por encima de 150/100 mmHg y el resultado de la Monitorización Ambulatoria de la Presión Arterial (MAPA) de 24 horas se muestra en la imagen. La franja sombreada de la derecha indica el periodo de sueño. Asegura cumplir bien el tratamiento, hace ejercicio a diario y come con poca sal. No toma medicamentos que puedan subir la presión arterial. ¿Cuál es la actitud más correcta en este momento?:",
+    "opciones": [
+      "1. Mantener su tratamiento actual sin cambios y repetir la MAPA en 6 meses.",
+      "2. Asociar un antialdosterónico, suspender la hidroclorotiazida y revisar en consulta en 6 meses.",
+      "3. Asociar olmesartán y repetir la MAPA en 6 meses.",
+      "4. Plantear estudio para descartar causas de hipertensión secundaria y asociar un cuarto fármaco."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Ante la sospecha de HTA refractaria (PA elevada a pesar de 3 fármacos, siendo uno de ellos diurético) se debe pedir un MAPA para identificar si existe de verdad HTA refractaria, o bien las cifras de PA elevadas que obtenemos en la consulta se deben a un fenómeno de bata blanca. En el registro del MAPA vienen marcadas con líneas horizontales negras las cifras de PA de normalidad para el día (a la izquierda: 135/85 mmHg) y para la noche (a la derecha: 120/75 mmHg). Observamos cómo tanto la PAS (en rojo) como la PAD (en azul) del sujeto están sistemáticamente por encima de dichos valores normales. Por tanto, diagnosticamos de verdadera HTA refractaria. Lo siguiente será por lo tanto descartar causas de HTA secundaria, así como añadir algún otro antihipertensivo para intentar controlar la PA.</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "8. Un hombre de 47 años sin antecedentes de interés, es diagnosticado de hipertensión arterial hace un año. Sigue tratamiento con amlodipino 10 mg (1-0-0) y losartan/hidroclorotiazida 100/25 mg (1-0-0), y realiza dieta hiposódica, con buena adherencia. A pesar de ello tiene cifras de PA 168/92 mmHg. ¿Cuál es el siguiente paso a realizar?:",
+    "opciones": [
+      "1. Añadir un cuarto fármaco.",
+      "2. Incrementar la dosis de alguno de los que está tomando.",
+      "3. Realizar una monitorización ambulatoria de la presión arterial (MAPA).",
+      "4. Realizar un estudio para descartar hipertensión arterial secundaria."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Es un caso de hipertensión arterial resistente al tratamiento, dado que no se ha conseguido controlar con 3 fármacos, siendo uno de ellos un diurético. En estos casos se debe inicialmente confirmar que se trate de una HTA resistente y excluir fenómeno de bata blanca, por lo que lo primero a realizar será un MAPA (opción 3 correcta). Una vez confirmada que se trataba de HTA resistente al tratamiento, se deben descartar causas de HTA secundaria (opción 4).</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "9. ¿Cuál de los siguientes síntomas asociados con la hipertensión arterial tiene peor pronóstico?:",
+    "opciones": [
+      "1. Pérdida brusca de fuerza de pierna y brazo derechos de 10 minutos de duración.",
+      "2. Epistaxis de 30 minutos de duración.",
+      "3. Cefalea nucal vespertina.",
+      "4. Taquicardia y temblor."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta que se puede contestar con un poco de sentido común. Nos ponen presentaciones clínicas posibles de un paciente hipertenso. La opción 4 es muy inespecífica y podría estar en contexto con una crisis hipertensiva, pero también con una crisis de ansiedad. La opción 3 es una de las manifestaciones clínicas habituales de la hipertensión arterial mal controlada (cefalea). La opción 2 también puede ser indicativa de crisis hipertensiva, o de hipertensión arterial con mal control. Y, por último, la opción 1 indica que el paciente está teniendo un ictus (o al menos un AIT) y por tanto es la que implica un peor pronóstico.</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "10. Hombre de 87 años con antecedentes de hipertensión y gonartrosis. Situación basal con autonomía funcional y cognitiva plena que le permite continuar viviendo solo en la comunidad. Realiza tratamiento habitual con perindopril y diurético tiazídico para control de la presión arterial y toma de forma rutinaria ibuprofeno 1800 mg/día para control de los síntomas derivados de su gonartrosis. Tras control rutinario se objetiva, de forma persistente, una presión arterial de 190 y TAD 80 mmHg. ¿Cuál sería la modificación terapéutica más razonable para conseguir el control de las cifras tensionales?:",
+    "opciones": [
+      "1. Añadiría un bloqueante del calcio.",
+      "2. Aumentaría la dosis de hidroclorotiazida a 25 mg/día.",
+      "3. Cambiaría el ibuprofeno por paracetamol para evitar la posible influencia del mismo sobre el efecto de los hipotensores.",
+      "4. Añadiría un bloqueante alfa por la elevada prevalencia de síndrome prostático en varones de esta edad."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Hipertensión arterial en un anciano que no se controla con 2 fármacos (no podemos llamarla resistente porque necesita tratamiento con 3 fármacos). Si no hubiera nada más en el enunciado, lo que habría que hacer es añadir un tercer fármaco para intentar controlar la presión arterial. Sin embargo, nos dicen que el paciente toma dosis alta de ibuprofeno a diario. Los AINE son una de las causas de hipertensión arterial secundaria o de mal control de la PA en pacientes con hipertensión arterial esencial. Lo primero que debemos hacer es suspender el AINE y valorar la respuesta de la PA.</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "11. Hombre de 55 años, obeso, dislipémico y fumador activo. En estudio por hipertensión arterial refractaria sin evidencia de daño cardiaco o renal hasta el momento. Refiere cefalea matutina con hipersomnia diurna. Se realiza MAPA (monitorización ambulatoria de presión arterial 24 horas) y se confirma hipertensión arterial a pesar de 3 fármacos, uno de ellos diurético, objetivándose presiones arteriales nocturnas más elevadas que las diurnas. ¿Qué prueba diagnóstica solicitaría a continuación con su sospecha clínica?:",
+    "opciones": [
+      "1. Determinación de catecolaminas en orina 24h.",
+      "2. Determinación hormonal de renina–aldosterona.",
+      "3. Polisomnografía nocturna.",
+      "4. Eco doppler renal.",
+      "5. TC aorta."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Concepto repetido en el MIR 2014, que vuelve a aparecer en el MIR 2015. Sospecharemos HTA secundaria cuando aparece en individuos jóvenes, es difícil de controlar con fármacos, se acompaña de síntomas que orienten a una etiología secundaria, o presenta episodios precoces de HTA maligna. El paciente que nos presentan tiene HTA refractaria (no se controla con 3 antihipertensivos, entendemos que a dosis plenas, siendo uno de ellos diurético) y además síntomas que orientan a SAHOS (cefalea matutina e hipersomnia diurna en un hombre obeso), lo que sugiere causa secundaria de la HTA. Por ello, habrá que hacer estudio diagnóstico con pruebas que permitan descartar SAHOS (estudio polisomnográfico).</p>"
+  },
+  {
+    "tema": "Tema 9. Hipertensión arterial",
+    "pregunta": "12. Le envían a la consulta de hipertensión arterial los siguientes pacientes. Señale en cuál NO sospecharía una hipertensión secundaria:",
+    "opciones": [
+      "1. Mujer de 25 años con un soplo abdominal.",
+      "2. Hipertensión arterial con hipopotasemia en un hombre de 50 años que no toma fármacos.",
+      "3. Mujer de 55 años con índice de masa corporal 28 y dislipemia.",
+      "4. Mujer de 78 años que desde hace 3 meses no se controla con 3 fármacos.",
+      "5. Hombre de 60 años con somnolencia diurna, cefalea matutina y roncador."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La causa más frecuente de hipertensión arterial (HTA) es la idiopática o esencial, pero en el 10% de los casos hay que descartar causas secundarias de HTA. Analicemos las opciones que nos plantean: la HTA en pacientes jóvenes, con anomalías en pruebas complementarias o en la exploración física (opción 1: en este caso soplo abdominal, puede indicarnos estenosis de la arteria renal) debe hacernos sospechar de HTA secundaria. La opción 2 debe hacernos descartar un hiperaldosteronismo primario (HTA + hipopotasemia sin toma previa de fármacos). La opción 4 nos revela un posible caso de HTA resistente (toma de 3 fármacos, entendemos que a dosis plenas y siendo uno de ellos diurético, con mal control tras 3 meses de tratamiento). La somnolencia diurna, cefalea matutina, ser roncador y tener HTA debe hacerte sospechar fuertemente la presencia de SAHOS, una de las causas más frecuentes de HTA secundaria (opción 5). La opción 3 no nos revela ningún dato sospechoso de HTA secundaria, aunque sí nos indica la importancia de establecer medidas higiénico-dietéticas para el control tensional.</p>"
   }
 ]
