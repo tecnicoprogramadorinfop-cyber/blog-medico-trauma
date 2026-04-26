@@ -1399,5 +1399,287 @@
     ],
     "correcta": 2,
     "comentario": "<p>La causa más frecuente de hipertensión arterial (HTA) es la idiopática o esencial, pero en el 10% de los casos hay que descartar causas secundarias de HTA. Analicemos las opciones que nos plantean: la HTA en pacientes jóvenes, con anomalías en pruebas complementarias o en la exploración física (opción 1: en este caso soplo abdominal, puede indicarnos estenosis de la arteria renal) debe hacernos sospechar de HTA secundaria. La opción 2 debe hacernos descartar un hiperaldosteronismo primario (HTA + hipopotasemia sin toma previa de fármacos). La opción 4 nos revela un posible caso de HTA resistente (toma de 3 fármacos, entendemos que a dosis plenas y siendo uno de ellos diurético, con mal control tras 3 meses de tratamiento). La somnolencia diurna, cefalea matutina, ser roncador y tener HTA debe hacerte sospechar fuertemente la presencia de SAHOS, una de las causas más frecuentes de HTA secundaria (opción 5). La opción 3 no nos revela ningún dato sospechoso de HTA secundaria, aunque sí nos indica la importancia de establecer medidas higiénico-dietéticas para el control tensional.</p>"
+  },
+
+{
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "1. Pregunta asociada a la imagen 11. Hombre de 52 años que consulta por dolor centrotorácico desgarrador de 30 minutos de duración. A la exploración está inquieto y sudoroso. La tensión arterial es de 190/110 mmHg en ambos brazos. A la auscultación no hay soplos cardiacos ni estertores crepitantes. El electrocardiograma está en ritmo sinusal a 90 latidos por minuto sin alteraciones de la repolarización. En la angioTC torácica se observa la imagen que se adjunta. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Hematoma intramural.",
+      "2. Úlcera penetrante arteriosclerótica.",
+      "3. Pseudoaneurisma de aorta.",
+      "4. Disección de aorta tipo A de Stanford."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Caso clínico relativamente sencillo de un síndrome aórtico agudo: hombre de edad intermedia, hipertenso, con dolor torácico desgarrante o transfixivo (cualquiera de esas dos palabras es prácticamente sinónimo de síndrome aórtico agudo en el MIR). Lo único que falta para completar el cuadro clínico típico sería la presencia de algún dato de isquemia regional (pulso débil en algún miembro o asimetría de presiones arteriales). En este caso, era necesario ver la imagen para contestar correctamente la pregunta: vemos un corte axial de TC con contraste a nivel del cayado aórtico, que muestra un 'flap' de disección aórtica bastante evidente, por lo que podemos llegar al diagnóstico de disección. El hematoma intramural se observaría como una imagen semilunar hiperdensa adosada a la pared interna de la aorta; se ve mucho mejor sin contraste. La úlcera penetrante se vería como una protrusión de la luz de la aorta hacia el interior de la pared; se ve mejor con contraste. Por lo demás, en la imagen de TC se observa derrame pleural (en este caso derecho, es más frecuente que sea izquierdo), dato de mal pronóstico porque probablemente nos hable de extravasación de sangre desde la aorta.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "2. En relación con el índice tobillo-brazo, señale la respuesta correcta:",
+    "opciones": [
+      "1. Se obtiene calculando la relación entre la presión diastólica en el tobillo y la presión diastólica braquial.",
+      "2. Se considera normal si se obtienen valores entre 1 y 1,5.",
+      "3. Tiene una sensibilidad del 95% y una especificidad del 60% para el diagnóstico de enfermedad arterial periférica.",
+      "4. Se considera un indicador por sí mismo de enfermedad arteriosclerótica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta difícil sobre el índice tobillo-brazo (ITB). El ITB se obtiene dividiendo la tensión arterial sistólica de los tobillos entre la de los brazos, y es la primera prueba a realizar ante la sospecha clínica de enfermedad arterial periférica en miembros inferiores (concepto muy preguntado en el MIR). Tiene una sensibilidad y especificidad muy altas (S 75-95% y E 95% para detectar estenosis arteriales >50%); dada su alta especificidad, un valor patológico implica la presencia de vasculopatía en miembros inferiores (opción 4 correcta). Los valores normales se encuentran entre 0,9-1,4. Un valor ≤0,9 implica vasculopatía en miembros inferiores, mientras que un valor >1,4 implica rigidez arterial (habitualmente por calcificación). Tanto valores ≤0,9 como >1,4 se asocian a un aumento del riesgo cardiovascular (es una prueba útil en la estimación del riesgo cardiovascular global de una persona).</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "3. Pregunta vinculada a la imagen n.º 2. Varón de 20 años, de constitución longilínea, que presenta desde hace unos 15 meses disnea de grandes esfuerzos que progresa a pequeños esfuerzos, con palpitaciones y dolor precordial. Fallece de forma súbita subiendo escaleras. En la necropsia se encuentra un vaso con la imagen de la figura. De las siguientes ¿cuál es la enfermedad más probable?:",
+    "opciones": [
+      "1. Embolia pulmonar.",
+      "2. Traumatismo torácico con afectación de la aorta y el corazón.",
+      "3. Necrosis quística de la media y síndrome de Marfan.",
+      "4. Síndrome dislipémico familiar con grave aterosclerosis."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. Paciente con datos clínicos muy orientativos a síndrome de Marfan, que presenta dolor torácico y muerte súbita. Imagen que complementa poco a la clínica (que da la respuesta correcta) en la que de cualquier forma se observa una disección de la pared arterial (doble luz). Este tipo de pacientes se encuentran en mayor riesgo de desarrollo de aneurismas aórticos que pueden complicarse en forma de disección, siendo el hallazgo característico la necrosis quística de la capa media.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "4. Varón de 65 años que acude a urgencias por aparición de lesiones moteadas cianóticas en los dedos de ambos pies. Antecedentes personales: tabaquismo, hipertensión arterial y dislipemia. Rx tórax: ensanchamiento mediastínico. AngioTC tóraco-abdómino-pélvica: aneurisma de aorta torácica descendente de 7 cm de diámetro, distal a arteria subclavia izquierda y con trombo mural. De las siguientes, señale la opción correcta:",
+    "opciones": [
+      "1. Está indicado el tratamiento con estatinas para estabilizar el trombo.",
+      "2. Es necesaria la realización de una aortografía diagnóstica urgente.",
+      "3. En la cirugía se sustituye el segmento aneurismático por una prótesis tubular con reimplante de los troncos supraaórticos.",
+      "4. Está indicado el implante de una endoprótesis torácica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Aneurisma aórtico descendente embolígeno. La dilatación aneurismática de la pared aórtica da lugar a una estasis sanguínea que puede llegar a generar trombosis local. El alto flujo y presión aórtico puede dar lugar a movilización y embolia distal del trombo. El tratamiento de elección de los aneurismas de aorta torácica descendente es la endoprótesis percutánea (TEVAR).</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "5. Varón de 85 años en fibrilación auricular permanente que consulta por sufrir un dolor brusco y frialdad en el pie derecho desde hace 6 hours. En la exploración presenta cianosis plantar con déficit parcial de sensibilidad y movilidad. El pulso femoral es palpable, estando ausentes los pulsos poplíteo y distales de dicha extremidad. De las siguientes ¿cuál es la actitud terapéutica idónea?:",
+    "opciones": [
+      "1. Desestimar la cirugía de revascularización, por el tiempo prolongado de isquemia.",
+      "2. Aplicar calor y avisar al cirujano vascular de guardia.",
+      "3. Tratamiento quirúrgico urgente mediante tromboembolectomía.",
+      "4. Tratamiento médico urgente con prostaglandinas intravenosas."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Oclusión arterial aguda de causa tromboembólica con extremidad viable (aún preserva sensibilidad y capacidad motora). El tratamiento consiste en iniciar anticoagulación para evitar la extensión local del trombo y revascularización por tromboembolectomía (de elección en casos embólicos, realizándose mediante sonda de Fogarty).</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "6. En relación con los aneurismas de aorta abdominal, señale la respuesta FALSA:",
+    "opciones": [
+      "1. Está indicada su reparación quirúrgica cuando el diámetro aneurismático supera los 5-5,5 cm de diámetro.",
+      "2. Suelen ser asintomáticos y de diagnóstico casual en el transcurso de pruebas de imagen hechas por otros motivos.",
+      "3. La complicación más frecuente es la trombosis aneurismática.",
+      "4. En caso de rotura está indicado el tratamiento quirúrgico urgente mediante cirugía abierta o endovascular."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad moderada en un tema de moda en el MIR. La opción 3 es falsa, pues la trombosis a este nivel es rara y la complicación más frecuente es la ruptura aneurismática (recuerda que es el riesgo de ruptura estimado por el diámetro el que marca la indicación intervencionista).</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "7. Pregunta vinculada a la imagen n.º 13. Mujer de 50 años, hipertensa, que acude a urgencias porque, estando previamente bien, presentó un dolor súbito muy intenso en región torácica interescapular y en epigastrio, irradiado en cinturón. No refiere otra patología asociada. Ante el corte sagital con contraste de TC que se adjunta, ¿cuál de los siguientes diagnósticos sospecha?:",
+    "opciones": [
+      "1. Disección de aorta.",
+      "2. Rotura de aorta.",
+      "3. Hematoma intramural de aorta.",
+      "4. Úlcera aórtica arteriosclerosa penetrante."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla en la que la imagen de la TC torácica habla por sí sola. Nos presentan una paciente hipertensa y con dolor intenso en región interescapular, que avanza a epigastrio; falta que nos expresaran algún dato de isquemia regional para tener el cuadro clínico típico de la disección de aorta. En la TC se observa precisamente esto. Una disección de aorta desde el cayado (origen aparente de la disección en este caso en el istmo aórtico, que es la porción final del cayado que separa la salida de los troncos supraaórticos de la aorta descendente) que se extiende a lo largo de la aorta descendente. La imagen lineal no contrastada que se observa en la luz aórtica es el flap intimal que separa la luz verdadera de la luz falsa.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "8. En relación con los aneurismas de arteria poplítea:",
+    "opciones": [
+      "1. Cuando se sospechan por palpación de un pulso poplíteo amplio la ecografía es la prueba diagnóstica de elección.",
+      "2. El riesgo de rotura aneurismática es alto.",
+      "3. El edema por compresión de la vena poplítea es la manifestación más frecuente.",
+      "4. Son más frecuentes en mujeres que en varones en una proporción 2:1."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Los aneurismas periféricos más frecuentes son los poplíteos. Como la mayoría de patología vascular, son más frecuentes en hombres. La mayoría son asintomáticos, con un 30% de complicaciones (fundamentalmente embolización distal y/o trombosis). En los sintomáticos, lo más frecuente es la claudicación intermitente. También pueden dar síntomas por compresión, pero es menos frecuente. El riesgo de rotura es <2%. El diagnóstico de sospecha es clínico (masa pulsátil a la exploración física) y se confirma mediante ecografía-Doppler. Tienen dos características fundamentales: su bilateralidad (50-70%) y su asociación con aneurismas de aorta (30-60%). El tratamiento está indicado en aneurismas poplíteos sintomáticos o con un diámetro >2 cm.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "9. Varón de 63 años, con antecedentes de hipertensión arterial, síndrome de Sjögren y revascularización ilio-femoral izquierda (tromboendarterectomía). Presenta pérdida de peso de 10 kg y dolor abdominal grave tras la ingesta. La angioTC abdominopélvica muestra estenosis grave de tronco celíaco y de arteria mesentérica superior. Señale la respuesta FALSA:",
+    "opciones": [
+      "1. La exploración física revela frecuentemente signos de malnutrición y un soplo abdominal.",
+      "2. El tratamiento consiste en tromboembolectomía con sonda de Fogarty.",
+      "3. La ecografía Doppler (duplex) es una exploración no invasiva útil para el diagnóstico.",
+      "4. La angioplastia con stent de los troncos viscerales es una opción terapéutica con una tasa de éxito del 8%."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta muy difícil sobre un concepto no preguntado previamente en el MIR: las estenosis de arterias periféricas distintas de las de los miembros inferiores. No obstante, se puede sacar con los conocimientos que tenemos sobre enfermedad arterial periférica. Cuando existe una estenosis grave que condiciona clínica importante, como en este caso (o como en la claudicación de la marcha o en la angina de pecho), el tratamiento indicado es la revascularización arterial, ya sea mediante angioplastia (stents) o mediante by-pass; la elección de la técnica dependerá de cada arteria concreta en función de los resultados de los estudios que se hayan realizado al respecto. En cambio, en la oclusión arterial aguda donde se emplea como tratamiento la tromboembolectomía con sonda de Fogarty. Por tanto, como nos cuentan un caso de estenosis arterial, y no de oclusión arterial, no utilizaremos este tratamiento.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "10. Paciente de 64 años, fumador de 1 paquete al día, con antecedentes personales de diabetes mellitus tipo 2 y dislipemia, que acude a consulta refiriendo dolor en la pantorrilla derecha cuando camina 200 metros y que mejora con el reposo. ¿Qué prueba le realizaría en primer lugar?:",
+    "opciones": [
+      "1. Índice tobillo brazo.",
+      "2. Eco Doppler de miembros inferiores.",
+      "3. Radiografía de columna lumbar.",
+      "4. TC abdominal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla sobre un concepto preguntado ampliamente en el MIR. La primera prueba a realizar en un paciente con clínica de claudicación de la marcha es un índice tobillo-brazo. Divide la presión sistólica de las arterias de los tobillos (tibiales posteriores y pedias) entre la presión sistólica de las arterias braquiales (humerales). En condiciones normales, las presiones en pierna y brazo son similares (ITB igual o mayor a 1). Si el valor es <0,9-1 indica isquemia, y <0,4 isquemia grave. Se emplea además como marcador de riesgo cardiovascular.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "11. Pregunta vinculada a la imagen n.º 12. Paciente de 72 años remitido a urgencias tras padecer un síncope. Presenta hipotensión y dolor abdominal con irradiación lumbar. Se realiza TC abdominal con contraste intravenoso. ¿Cuál sería su diagnóstico y la actitud a seguir?:",
+    "opciones": [
+      "1. Absceso de psoas izquierdo. Realizaría tratamiento sintomático y lo mantendría en observación a la espera de analíticas y otras pruebas complementarias.",
+      "2. Aneurisma de aorta abdominal roto. Es una emergencia y la primera opción es tratamiento quirúrgico o endovascular.",
+      "3. Completaría el estudio con una ecografía abdominal para realizar el diagnóstico diferencial entre absceso de psoas y aneurisma de aorta abdominal roto.",
+      "4. Tumoración hipervascular del psoas. Realizaría resonancia magnética para una mejor caracterización."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad moderada por la necesidad de integrar la imagen radiológica con el caso clínico. Nos presentan un paciente con dolor abdominal e hipotensión arterial; si asociara además masa pulsátil, tendría la tríada clínica clásica del aneurisma abdominal roto. La presentación como síncope orienta también a que se trate de un aneurisma roto en lugar de cualquier enfermedad a nivel del psoas. Si fuera además un absceso, nos contarían fiebre en el enunciado. En la TC que nos muestran se observa una aorta aneurismática (diámetro aumentado) con hematoma en la pared y también fuera de ella (sangrado) hacia el espacio retroperitoneal izquierdo (comprimiendo el psoas), con efecto masa que empuja la aorta hacia la derecha. La TC es la prueba diagnóstica definitiva para los aneurismas de aorta; la ecografía se usa como prueba de screening y no aporta información adicional, por lo que no es necesaria en este caso.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "12. ¿Cuál de las siguientes afirmaciones es cierta en relación con el síndrome de Leriche?:",
+    "opciones": [
+      "1. Es un cuadro clínico que comprende la triada claudicación plantar, impotencia coeundi y ausencia de pulsos distales.",
+      "2. Es consecuencia de una oclusión fémoro-poplítea bilateral.",
+      "3. Los pulsos femorales están ausentes.",
+      "4. La arteriografía es la primera prueba diagnóstica a realizar."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad moderada-alta. El síndrome de Leriche se produce por obstrucción iliaca o aortoiliaca bilateral. Por ello, cursa con clínica de claudicación distal a la obstrucción (glúteos, muslos, pantorrillas), disfunción eréctil y ausencia de pulsos en todas las extremidades inferiores. Es típico de hombres de edad intermedia (40-45 años). No aparece claudicación plantar (es un síntoma que se han inventado). El diagnóstico, como en el resto de casos de oclusión arterial crónica, se basa en la ecografía-duplex como primera prueba de imagen, y en la angioTC o angioRM como prueba para definir la anatomía y decidir la estrategia de tratamiento.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "13. Hombre de 73 años con antecedente de infarto agudo de miocardio tratado con angioplastia coronaria transluminal percutánea hace 6 semanas. Acude a urgencias por dolor brusco, frialdad y pérdida de motilidad de la extremidad inferior derecha. En la exploración está presente el pulso femoral derecho, con ausencia del resto de los pulsos de esa extremidad. Conserva pulsos a todos los niveles en la extremidad contralateral. Respecto al diagnóstico de sospecha, señale la afirmación FALSA:",
+    "opciones": [
+      "1. La causa más probable es de origen embolígeno.",
+      "2. La parálisis es un signo de aparición tardía que indica que el tratamiento revascularizador debe realizarse lo antes posible.",
+      "3. El tratamiento consiste en embolectomía arterial femoral con sonda de Fogarty.",
+      "4. En caso de parálisis rígida con anestesia profunda y ausencia de señal Doppler está indicada una arteriografía urgente."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad elevada. Nos presentan una oclusión arterial aguda, que se puede diagnosticar fácilmente por el caso clínico por la presencia de 3 de las 5 “p”: dolor (pain), paresia, ausencia de pulsos; faltan las parestesias y la palidez (aunque entendemos que existe ya que nos dicen que hay frialdad en la extremidad). La causa más frecuente de la oclusión arterial aguda es la embólica; nuestro paciente tiene historia de manipulación aórtica reciente (cateterismo) como factor de riesgo, aunque el más importante es la fibrilación auricular. La otra causa posible es la trombosis arterial aguda, pero en dicho caso suele existir enfermedad arterial periférica previa, con exploración patológica difusa (pulsos débiles en la extremidad contralateral), y en este caso los pulsos contralaterales son normales. La prueba diagnóstica inicial es la ecografía-duplex; en caso de ausencia de flujo, el diagnóstico está claro y no es necesario realizar angiografía confirmatoria (opción 4 falsa). El tratamiento de elección en los casos embólicos es la embolectomía con catéter de Fogarty.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "14. Pregunta vinculada a la imagen n.º 2. Mujer de 51 años con antecedentes de tabaquismo activo, obesidad y sedentarismo. Refiere desde hace 5 meses molestias en piernas a la deambulación con sensación de pesadez. Desde hace 3 semanas asocia frialdad, dolor muscular y parestesias en la planta de los pies y tobillos que la obliga a detenerse tras recorrer algunos metros. En el estudio se realiza una angioTC abdominal y de MMII (imagen). A raíz de estos resultados, ¿cuál de las arterias NO está afectada?:",
+    "opciones": [
+      "1. Arteria peronea izquierda.",
+      "2. Arteria tibial anterior izquierda.",
+      "3. Arteria tibial posterior derecha.",
+      "4. Arteria poplítea derecha."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta puramente anatómica en la que nos describen un caso clínico claro de claudicación intermitente, y nos muestran una reconstrucción tridimensional de la angio-TC de miembros inferiores realizada. En la pierna derecha (sabemos que es la derecha, aunque no nos lo dicen, porque el hígado está en ese lado) vemos ausencia de flujo arterial (arterias no contrastadas) por debajo de la rodilla (arterias tibial anterior, con menos afectación, tibial posterior y peronea); sin embargo, la arteria poplítea está respetada. En la pierna izquierda, sin embargo, la afectación aparece desde el nivel de la rodilla (arteria poplítea y sus ramas principales: tibial anterior, tibial posterior y peronea). A continuación encontraréis una explicación para la imagen. La imagen más relevante para llegar al diagnóstico es la de la izquierda de las dos (proyección anteroposterior); la proyección oblicua anterior izquierda (casi lateral, imagen de la derecha) es menos fácil de interpretar.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "15. Pregunta vinculada a la imagen n.º 10. La imagen de TC sin administración de contraste es característica de:",
+    "opciones": [
+      "1. Trombosis mural aórtica.",
+      "2. Hematoma intramural aórtico.",
+      "3. Disección aórtica tipo B.",
+      "4. Úlcera penetrante aórtica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta muy difícil. El síndrome aórtico agudo es una entidad de manejo común que engloba la disección aórtica (entidad más grave de las 3), el hematoma intramural aórtico y la úlcera aterosclerótica penetrante. En el corte de TC que se ofrece se observa una 'doble' imagen en la aorta descendente, que puede parecer una disección aórtica. Pero en dicha imagen, la parte 'más amplia' de la luz aórtica (que sería la luz falsa en caso de ser una disección) tiene la misma intensidad que la sangre del corazón o la aorta ascendente, mientras que la otra parte 'más pequeña' de la luz aórtica, con forma semilunar, es hiperdensa. Este hallazgo (imagen semilunar espontáneamente hiperdensa en la TC sin contraste) es típica del hematoma intramural aórtico; la sangre coagulada del hematoma aumenta su densidad respecto a la sangre circulante. En el caso de tratarse de una disección aórtica tipo B, veríamos una densidad similar de señal en las dos 'partes' de la aorta, así como un mayor grado de dilatación aórtica, y la interfase entre las dos 'partes' de la aorta (flap intimal en caso de disección) se observaría mucho más claramente y no sería tan semilunar sino más recta. A continuación encontraréis una imagen explicativa.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "16. Señale la respuesta FALSA en relación al tratamiento quirúrgico de los aneurismas de aorta torácica:",
+    "opciones": [
+      "1. La sustitución de la aorta aneurismática por un injerto está indicada cuando el diámetro de la aorta ascendente es mayor de 4,5 cm.",
+      "2. En pacientes con diagnóstico de enfermedad de Marfan o válvula aórtica bicúspide, se considerará el tratamiento quirúrgico cuando la aorta tenga entre 4 y 5 cm de diámetro.",
+      "3. Se considera necesario intervenir sobre la aorta torácica descendente aneurismática si su diámetro es superior a 6 cm.",
+      "4. Se recomienda sustituir la aorta aneurismática cuando, en un periodo de 1 año, se observa un incremento del diámetro del aneurisma de más de 1 cm."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta compleja e impugnable (aunque no fue anulada por el Ministerio) dado que las tres primeras opciones son falsas, y por lo tanto tendremos que marcar la 'más falsa de todas'. La opción 1 es muy falsa, dado que el diámetro para indicar intervención en cualquier región de la aorta es ≥55 mm (en pacientes asintomáticos y sin válvula aórtica bicúspide ni colagenopatías). La opción 2 es falsa pero menos, dado que el diámetro para indicar intervención en Marfan es ≥45-50 mm (si hay o no hay factores de riesgo), y en presencia de válvula aórtica bicúspide es ≥50-55 mm (si hay o no hay factores de riesgo); así, el rango 4-5 cm incluye a parte de dichos pacientes (opción falsa, pero menos que la 1). La opción 3 es falsa porque el diámetro para intervenir la aorta torácica descendente son ≥55 mm, pero por dicho motivo si nos encontramos una aorta >6 cm 'es necesario intervenir' (menos falsa que la 1). Por último, la opción 4 es correcta, aunque se aplica especialmente para los aneurismas de aorta abdominal.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "17. El método hemodinámico más importante en el diagnóstico de la isquemia crónica de las extremidades inferiores es:",
+    "opciones": [
+      "1. Análisis de las curvas de flujo por velocimetría doppler.",
+      "2. Medición segmentaria de presiones.",
+      "3. Valoración del índice tobillo-brazo o índice de Yao.",
+      "4. Pletismografía a nivel distal de las extremidades."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta difícil por el modo en que se realiza la pregunta (método hemodinámico 'más importante'). Si seleccionamos el método diagnóstico de mayor utilidad o más importante en la práctica clínica habitual (no el gold standard o el mejor), deberemos marcar el índice tobillo-brazo (ITB). Es la prueba más rápida, accesible y fácil, y por ello la primera prueba a realizar en una sospecha de oclusión arterial crónica. Compara la presión sistólica de las arterias de los tobillos con las arterias braquiales. En condiciones normales, las presiones en pierna y brazo son similares (ITB igual o mayor a 1). Si el valor es <0,9-1 indica isquemia, y <0,4 isquemia grave.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "18. Pregunta vinculada a la imagen n.º 10. Señale en qué tipo de la clasificación de De Bakey se podría incluir la patología que se muestra en la imagen:",
+    "opciones": [
+      "1. Tipo I.",
+      "2. Tipo II.",
+      "3. Tipo III.",
+      "4. Para poder clasificarla, se debe de apreciar la zona de reentrada distal a la luz de la aorta, lo que no se visualiza en la imagen."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta puramente teórica sobre la disección de aorta. La clasificación de De Bakey no se emplea en la práctica clínica (probablemente la pregunta la haya puesto un radiólogo y no un cardiólogo) y clasifica las disecciones en 3 grupos: I (implica tanto aorta ascendente como descendente), II (implica sólo aorta ascendente) y III (implica sólo aorta descendente). La interpretación de la imagen es sencilla dado que es una reconstrucción tridimensional de TC, en la cual se ve la disección como si la estuvieras viendo en una pieza anatómica. La disección comienza en la aorta descendente, apreciándose un afilamiento progresivo de su luz; se trata por lo tanto de un tipo III de De Bakey. La clasificación empleada en la práctica clínica de las disecciones de aorta es la de Stanford porque implica decisiones clínicas: tipo A (involucra aorta ascendente: emergencia quirúrgica) y tipo B (no involucra aorta ascendente: manejo inicial conservador).</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "19. Pregunta vinculada a la imagen n.º 5. Hombre de 62 años, fumador de 20 cigarrillos diarios desde hace 30 años e hipertenso, que acude a la consulta por presentar dolor al caminar en zona glútea que comienza a una distancia de 300 metros y que desaparece con el reposo a los 5 minutos. Se realiza un índice Tobillo/Brazo cuya imagen se adjunta. ¿Cuál es el diagnóstico?:",
+    "opciones": [
+      "1. Isquemia crítica de miembro inferior derecho.",
+      "2. Isquemia aguda por embolismo arterial.",
+      "3. Isquemia crónica por oclusión ilíaca izquierda.",
+      "4. Síndrome de Leriche por oclusión ilíaca bilateral.",
+      "5. Radiculopatía."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Nos presentan a un hombre con factores de riesgo cardiovascular y clínica de claudicación intermitente (dolor al caminar en el miembro afecto, que se resuelve con el reposo). La clínica del paciente, que por lo que nos dicen parece algo 'habitual' (es un paciente que acude a consulta) y sin síntomas en reposo, orienta a isquemia crónica del miembro afecto (el izquierdo), por lo que a falta de mirar la imagen, dudamos entre la opción 1 (que no parece, dado que la clínica es leve: el paciente puede caminar más de 150 m sin dolor, estadio IIA de Fontaine) y la opción 3, que parece por la clínica del paciente la más probable. La imagen es difícil de interpretar ya que se trata del informe real que se obtiene cuando se realiza una flujometría Doppler con medición de presiones arteriales segmentarias en miembros inferiores. Viene mucha información (además en inglés), pero debemos quedarnos con el cuadrado resumen donde vienen las cifras de presiones: brazo 142 mmHg, pierna derecha 145-141-170 mmHg en los segmentos medidos, y pierna izquierda 54-66-73 mmHg: en todos los segmentos de la pierna izquierda la presión es mucho menor que en brazo o pierna derecha, luego confirmamos el diagnóstico de presunción de isquemia crónica en pierna izquierda por oclusión a nivel iliaco (la presión ya es baja desde el muslo). El índice tobillo-brazo (index) viene en color rojo y es menor de 1 en el miembro izquierdo, lo que indica isquemia, pero no es menor a 0,4 (que indicaría isquemia grave) salvo al nivel del tobillo (arteria tibial posterior).</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "20. Pregunta vinculada a la imagen n.º 5. ¿En este paciente cuál debe ser el tratamiento inicial?:",
+    "opciones": [
+      "1. Realizar una angiografía diagnóstica más una fibrinolisis asociada.",
+      "2. Modificar los factores de riesgo vascular, ejercicio físico y tratamiento médico.",
+      "3. La cirugía de revascularización mediante by-pass o mediante cirugía endovascular.",
+      "4. Realizar una embolectomía urgente.",
+      "5. Tratamiento analgésico y disminuir el ejercicio físico hasta que mejoren los síntomas."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Ante un paciente con claudicación intermitente, el tratamiento inicial suele ser médico (ejercicio físico hasta que aparecen síntomas, control del resto de factores de riesgo cardiovascular, aspirina a dosis antiagregante y pentoxifilina, básicamente). El tratamiento intervencionista (revascularización precutánea con stent, o quirúrgica con by-pass) se reserva para casos refractarios al tratamiento médico y para casos graves (dolor a <150 m de iniciar la deambulación, síntomas en reposo o trastornos tróficos).</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "21. El síndrome aórtico agudo incluye entidades como la disección aórtica, el hematoma intramural aórtico y la úlcera aterosclerótica penetrante. Respecto a las consideraciones diagnósticas y terapéuticas de esta entidad, señale la afirmación CORRECTA:",
+    "opciones": [
+      "1. Actualmente, en nuestro medio, el diagnóstico de esta patología se establece rutinariamente mediante arteriografía percutánea.",
+      "2. La tomografía computarizada no es una buena técnica de imagen para su diagnóstico.",
+      "3. Las técnicas ecocardiográficas no suelen aportar datos de interés en el diagnóstico y estudio de estas entidades nosológicas.",
+      "4. Se considera disección o hematoma intramural aórtico tipo A de Stanford cuando está afectada la aorta ascendente sea cual fuese el lugar de origen de la lesión o su extensión.",
+      "5. La indicación quirúrgica de una disección aórtica es independiente de la afectación de la aorta ascendente."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta teórica sobre el síndrome aórtico agudo, entidad que agrupa la disección aórtica y otras enfermedades relacionadas, y cuyo manejo es el de la disección aórtica (que es la enfermedad más grave del grupo). Su diagnóstico se realiza mediante angioTC o ecocardiograma transesofágico, y el tratamiento es quirúrgico en disecciones tipo A de Stanford (aquéllas que afectan a la aorta ascendente) y conservador salvo complicaciones en las disecciones tipo B (las que no afectan a aorta ascendente). Así, la opción correcta es la 4.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "22. Señale cuál de las siguientes afirmaciones sobre el músculo liso vascular es FALSA:",
+    "opciones": [
+      "1. Su principal función es mantener el tono de los vasos.",
+      "2. Se contrae por un aumento en la concentración intracelular de calcio.",
+      "3. Su contracción está controlada por la unión del calcio a la troponina.",
+      "4. Su tono está controlado por el sistema nervioso autónomo.",
+      "5. El endotelio modula el tono del músculo liso vascular."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta difícil por tratarse de un tema poco preguntado en el MIR: la fisiología del músculo liso. Debe recordar que tanto en el músculo esquelético, cardiaco o liso la contracción muscular se debe a la interacción de las fibras de actina y miosina en presencia de calcio. Como diferencia entre ellos, el músculo esquelético y cardiaco tienen troponina (que es la molécula encargada de interaccionar con el calcio para activar la contracción), mientras que el músculo liso no tiene troponina y tiene en su lugar calmodulina.</p>"
+  },
+  {
+    "tema": "Tema 10. Enfermedades de la aorta y patología arterial",
+    "pregunta": "23. La isquemia aguda de una extremidad consiste en una disminución brusca de la perfusión arterial. Es importante diferenciar entre trombosis y embolia arterial para poder indicar el tratamiento más adecuado. ¿Cuál de las siguientes es la correcta?:",
+    "opciones": [
+      "1. La presencia de foco embolígeno y pulsos distales en la extremidad contralateral hace sospechar una trombosis arterial.",
+      "2. Si el paciente tiene antecedentes de claudicación y la clínica es de inicio brusco sospecharemos embolia arterial en primer lugar.",
+      "3. Si la extremidad contralateral tiene todos los pulsos presentes y la clínica se inicia de forma lenta, sospecharemos una trombosis arterial.",
+      "4. Si la clínica se inicia de forma brusca en un paciente con foco embolígeno sospecharemos una embolia arterial.",
+      "5. Si el paciente es portador de una derivación arterial previa sospecharemos de embolia arterial."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla y bastante lógica sobre las diferencias entre las oclusiones arteriales agudas de causa embólica o trombótica. Evidentemente, en presencia de un foco embolígeno y con presentación brusca, sospecharemos causa embólica (opción 1 falsa y 4 correcta). Por el contrario, se sospecha trombosis en pacientes con vasculopatía crónica (claudicación intermitente, debilidad de pulsos en la otra extremidad, bypass previos...) y con inicio de la clínica lento.</p>"
   }
 ]
