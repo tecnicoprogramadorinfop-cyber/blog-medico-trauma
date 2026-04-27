@@ -1681,5 +1681,115 @@
     ],
     "correcta": 3,
     "comentario": "<p>Pregunta sencilla y bastante lógica sobre las diferencias entre las oclusiones arteriales agudas de causa embólica o trombótica. Evidentemente, en presencia de un foco embolígeno y con presentación brusca, sospecharemos causa embólica (opción 1 falsa y 4 correcta). Por el contrario, se sospecha trombosis en pacientes con vasculopatía crónica (claudicación intermitente, debilidad de pulsos en la otra extremidad, bypass previos...) y con inicio de la clínica lento.</p>"
+  },
+
+{
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "1. Pregunta asociada a la imagen 5. Varón de 57 años, sin factores de riesgo cardiovascular conocidos, que acude a su consulta aquejando disnea de esfuerzo estable de varios meses de evolución. Aporta electrocardiograma de 12 derivaciones (imagen) y en la exploración física se ausculta un soplo sistólico en borde paraesternal izquierdo, cuya intensidad y duración aumentan durante la maniobra de Valsalva. De entre las siguientes patologías cardiacas ¿cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Insuficiencia tricuspídea.",
+      "2. Estenosis aórtica.",
+      "3. Miocardiopatía hipertrófica.",
+      "4. Insuficiencia mitral."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta muy sencilla y repetida: disnea de esfuerzo y soplo sistólico que aumenta con Valsalva = miocardiopatía hipertrófica obstructiva. El ECG que se aporta es inespecífico, pero el caso clínico es indudable.</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "2. Pregunta vinculada a la imagen n.º 8. Varón de 86 años con antecedentes de adenocarcinoma de próstata tratado con braquiterapia e HTA bien controlada que acude a urgencias por la aparición de edemas en MMII en las dos últimas semanas y disnea progresiva hasta hacerse de reposo. Se realiza ecocardiograma transtorácico observando una hipertrofia leve concéntrica del VI con función sistólica conservada. Se muestra la gammagrafía con pirofosfatos-99mTc. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Infarto agudo de miocardio.",
+      "2. Gammagrafía cardiaca normal.",
+      "3. Amiloidosis cardiaca mediada por transtiretina.",
+      "4. Derrame pericárdico."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta relativamente fácil. Anciano con insuficiencia cardiaca con FEVI preservada e hipertrofia leve de VI. Entre las distintas causas que pueden explicarlo se debe tener siempre en mente la miocardiopatía hipertensiva (causa más frecuente de IC con FEVI preservada en el anciano), e igualmente causas menos frecuentes como son las cardiopatías infiltrativas. En este perfil de paciente anciano, se debe pensar en la posibilidad de una amiloidosis senil por depósito de transtirretina. Desde el punto de vista ecocardiográfico se comporta con FEVI generalmente preservada (hasta los estadios finales en los que decrece), y engrosamiento miocárdico, tanto a nivel ventricular como auricular. El miocardio aparece con un aspecto hiperrefringente, granulado por el depósito de amiloide. Lo más complejo de esta pregunta es la prueba de imagen que se adjunta: gammagrafía con pirofosfatos, con gran captación miocárdica. La gammagrafía con compuestos fosfonados se emplea a la hora de hacer el diagnóstico diferencial entre amilodosis por transtirretina (gran captación de fosfatos) frente a otros tipos de amiloide, fundamentalmente la amiloidosis AL, que no muestra captación, o es leve.</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "3. Pregunta vinculada a la imagen n.º 23. Varón de 19 años con antecedentes familiares de muerte súbita en padre que acude por clínica de ángor y síncopes en esfuerzo, con sensación de palpitaciones rápidas con el esfuerzo. Presenta el ECG que se adjunta. Se realiza un ecocardiograma y es diagnosticado de una miocardiopatía. Considerando su sospecha del tipo de miocardiopatía que presenta, señale la respuesta verdadera:",
+    "opciones": [
+      "1. La fracción de eyección del ventrículo izquierdo muy frecuentemente es inferior al 55%.",
+      "2. Esta entidad es debida a una hipertrofia del tabique con obstrucción dinámica en el tracto de salida del ventrículo izquierdo.",
+      "3. No se asocia a disfunción diastólica.",
+      "4. El grosor de la pared del ventrículo izquierdo es normal o esta disminuido."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Fácil. Paciente con angina y síncope de esfuerzo, junto con antecedentes familiares de muerte súbita. Debemos pensar ya en cardiopatía heredable. En el ECG aumento de voltajes y alteraciones de la repolarización compatibles con miocardiopatía hipertrófica, en la que la FEVI suele ser normal y el problema viene dado por la disfunción diastólica.</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "4. Señale de entre los siguientes aquel factor etiológico NO relacionado o implicado en la etiopatogenia de la miocardiopatía por estrés o síndrome de tako-tsubo:",
+    "opciones": [
+      "1. Disfunción microvascular.",
+      "2. Mayor susceptibilidad de los receptores catecolaminérgicos en el miocardio.",
+      "3. Espasmo coronario.",
+      "4. Enfermedad coronaria obstructiva significativa."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fácil en el que hay que saber que el diagnóstico de Tako Tsubo pasa por encontrar unas coronarias sin lesiones obstructivas (opción 4).</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "5. Un hombre de 45 años de edad sin ningún antecedente previo ingresa en el hospital por presentar síntomas compatibles con insuficiencia cardiaca izquierda. La silueta cardiaca está ligeramente agrandada en la Rx de tórax y tanto el ecocardiograma como la RM cardiaca evidencian un gran engrosamiento de las paredes del ventrículo izquierdo con volúmenes ventriculares y función sistólica normales. Se practica un cateterismo cardiaco que muestra una disminución del gasto cardiaco y elevación de las presiones telediastólicas de ambos ventrículos y la coronariografía no muestra lesiones coronarias. Dentro de las posibilidades diagnósticas, ¿cuál de las siguientes enfermedades le parece MENOS probable en este paciente?:",
+    "opciones": [
+      "1. Amiloidosis.",
+      "2. Endocarditis de Loeffler.",
+      "3. Alcoholismo.",
+      "4. Hemocromatosis."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. Nos presentan un caso clínico de sospecha de miocardiopatía o bien hipertrófica o bien restrictiva: engrosamiento ventricular izquierdo sin dilatación ventricular (volúmenes normales) y con FEVI normal. De las opciones que nos presentan, tres son causa clásica de miocardiopatía restrictiva (amiloidosis, hemocromatosis y endocarditis de Loeffler), mientras que la miocardiopatía alcohólica cursa con un fenotipo de miocardiopatía dilatada.</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "6. ¿Cuál de los siguientes hallazgos NO se encuentra en la miocardiopatía restrictiva?:",
+    "opciones": [
+      "1. Función sistólica normal o ligeramente reducida.",
+      "2. Presiones de llenado izquierda y derecha elevadas.",
+      "3. Movimiento sistólico anterior de la válvula mitral.",
+      "4. Bajo voltaje y alteraciones de la conducción en el electrocardiograma."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. El movimiento sistólico anterior de la válvula mitral (SAM) aparece en algunos pacientes que tienen miocardiopatía hipertrófica y provoca insuficiencia mitral. Se debe a una anatomía anómala del velo anterior de la válvula mitral, y también, en pacientes que tengan obstrucción en el tracto de salida, al efecto de succión que ejerce el flujo sanguíneo que pasa acelerado por el tracto de salida del VI (efecto Venturi). El resto de opciones son características típicas de la miocardiopatía restrictiva.</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "7. Un hombre de 35 años es valorado por haber sufrido un síncope. En el electrocardiograma se observan ondas Q profundas y a la auscultación destaca la presencia de un soplo sistólico en borde esternal izquierdo bajo. ¿Cuál es su diagnóstico más probable?:",
+    "opciones": [
+      "1. Miocardiopatía hipertrófica obstructiva.",
+      "2. Estenosis mitral.",
+      "3. Insuficiencia aórtica.",
+      "4. Comunicación interauricular."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. Hombre joven con síncope y soplo sistólico debe hacernos sospechar miocardiopatía hipertrófica obstructiva. El dato de las ondas Q en el ECG también es típico de esta entidad. Respecto al resto de opciones, el soplo en la estenosis mitral y la insuficiencia aórtica es diastólico, y respecto a la CIA nos hablarían de soplo sistólico en foco pulmonar y de desdoblamiento amplio y fijo del segundo ruido. Además, la clínica de debut con síncope sin que nos cuenten datos de insuficiencia cardiaca sería excepcional en cualquiera de los otros 3 casos.</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "8. Pregunta vinculada a la imagen n.º 9. Una mujer de 35 años acude a consulta porque presenta dolor torácico al esfuerzo. No tiene factores de riesgo cardiovascular. Se ausculta un soplo sistólico en foco aórtico que aumenta con la maniobra de Valsalva. El ECG muestra ritmo sinusal, ondas Q, trastornos de la repolarización y criterios de hipertrofia ventricular izquierda. En la figura puede apreciarse una imagen de su ecocardiografía. Señale la opción FALSA:",
+    "opciones": [
+      "1. Se trata de una enfermedad hereditaria.",
+      "2. Esta enfermedad se asocia a muerte súbita.",
+      "3. La fibrilación auricular tiene una mayor incidencia en las personas con esta enfermedad.",
+      "4. La disnea no aparecerá hasta que la paciente desarrolle disfunción sistólica ventricular izquierda."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla dado que el caso clínico es tan típico de miocardiopatía hipertrófica que no hace ni falta ver la imagen; un soplo que aumenta con la maniobra de Valsalva en un paciente joven y con criterios de hipertrofia en el ECG no puede indicar otra cosa. La imagen es un ecocardiograma de baja calidad en eje paraesterenal largo en el que se observa, a la izquierda de la imagen, un ventrículo izquierdo muy hipertrófico; adjuntamos una imagen explicativa de las estructuras que se observan en la imagen (aurícula izquierda, ventrículo izquierdo y raíz aórtica). La MCH asocia clínica de insuficiencia cardiaca 'diastólica' (con fracción de eyección preservada), por lo que no es necesario que los pacientes desarrollen disfunción ventricular para que comiencen a manifestar disnea.</p>"
+  },
+  {
+    "tema": "Tema 11. Enfermedades del miocardio",
+    "pregunta": "9. Hombre de 32 años de edad sin antecedentes de interés ni factores de riesgo cardiovascular. Clínica de disnea al subir un piso de escaleras de 1 mes de evolución. Consulta por síncope brusco precedido de esfuerzo. Antecedentes familiares de muerte no explicada de forma brusca en su hermano. En la exploración física destaca un soplo sistólico rudo más audible en foco aórtico. El electrocardiograma practicado en consulta muestra un ritmo sinusal con patrón compatible de hipertrofia de ventricular izquierda. Se realiza un ecocardiograma que documenta una importante hipertrofia asimétrica de septo interventricular con un gradiente dinámico subvalvular de 70 mmHg con insuficiencia mitral secundaria moderada y fracción de eyección de ventrículo izquierdo conservada. ¿Qué opción terapéutica es la MENOS indicada?:",
+    "opciones": [
+      "1. Beta-bloqueantes.",
+      "2. Digoxina.",
+      "3. Calcio-antagonistas no dihidropiridínicos.",
+      "4. Desfibrilador automático implantable.",
+      "5. Miomectomía septal quirúrgica de Morrow."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Caso clínico florido de miocardiopatía hipertrófica (MCH) en el que nos dan el diagnóstico hecho al presentarnos el ecocardiograma del paciente. Recordad que la hipertrofia ventricular, como en este caso, suele ser asimétrica. El gradiente dinámico de 70 mmHg convierte este caso en MCH obstructiva, y además tiene insuficiencia mitral secundaria que interpretamos por lo tanto como debida a SAM (movimiento sistólico del velo anterior mitral). Respecto al tratamiento, se usan en casos sintomáticos beta-bloqueantes (primera elección) o calcio-antagonistas no dihidropiridínicos (verapamilo o diltiazem). La digoxina está contraindicada, por ser inotropo positivo. Este paciente tiene indicación de desfibrilador automático implantable (DAI) por la historia familiar de muerte súbita y la historia de síncope no filiado (aunque tienen pinta de cardiogénico) y la presencia de un gradiente obstructivo (otros factores que aumentan el riesgo de muerte súbita son la edad, el grosor ventricular y el tamaño de la aurícula izquierda. No parece tener relación con el grado de disnea). La miectomía septal es una opción invasiva para pacientes sintomáticos refractarios al tratamiento médico.</p>"
   }
 ]
