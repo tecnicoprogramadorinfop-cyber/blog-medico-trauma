@@ -2162,5 +2162,79 @@
     ],
     "correcta": 0,
     "comentario": "<p>La localización más frecuente de la trombosis venosa profunda es la pantorrilla (plexos venosos de los sóleos). No obstante, la pregunta es impugnable, dado que distintas series indican que la localización más frecuente es el territorio femoral superficial (en el muslo). Esto es así, de todos modos, porque dicha localización es la más frecuentemente diagnosticada con ecografía. La ecografía vascular detecta con buena sensibilidad trombos en la ingle (territorio femoral) o el hueco poplíteo, pero en las pantorrillas es más difícil. Además, los trombos limitados a las pantorrillas pueden ser subclínicos.</p>"
+  },
+
+{
+    "tema": "Tema 15. Reanimación cardiopulmonar (RCP)",
+    "pregunta": "1. ¿Cuál de las siguientes afirmaciones es correcta con respecto a la reanimación cardiorrespiratoria?:",
+    "opciones": [
+      "1. Tras comprobar la ausencia de pulso, la reanimación cardiopulmonar básica debe realizarse siguiendo la pauta de 30 compresiones torácicas y 2 insuflaciones pulmonares.",
+      "2. En cuanto se disponga de los medios necesarios se debe realizar una cardioversión si el paciente aún no ha recuperado el pulso.",
+      "3. En caso de asistolia deben administrarse 3 mg de atropina.",
+      "4. La adrenalina, a dosis de 1 mg cada 3 min, no se administrará si el mecanismo de parada es una fibrilación ventricular."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta mal planteada, en la que todas las respuestas son falsas. Por ello, se trata de una pregunta difícil, que debe contestarse por descarte eliminando las respuestas más falsas. La respuesta 3 es claramente falsa, dado que la atropina no se utiliza de elección en la parada cardiaca, y la respuesta 4 también, dado que la adrenalina también se utiliza en ritmos desfibrilables (tras el tercer choque). La duda se plantea entre la respuesta 1 (efectivamente, la pauta de compresiones:insuflaciones es 30:2, pero en la RCP básica no se debe comprobar la ausencia de pulsos antes de iniciar las maniobras de reanimación) y la respuesta 2 (en cuanto dispongamos de los medios necesarios, hay que realizar desfibrilación -no cardioversión-, pero solo en los ritmos desfibrilables). La opción menos falsa de todas sería la 1; tiene menos errores de planteamiento que la 2, y además en la RCP avanzada, realizada por personal sanitario entrenado, sí se realiza comprobación de pulso antes de iniciar maniobras de resucitación.</p>"
+  },
+  {
+    "tema": "Tema 15. Reanimación cardiopulmonar (RCP)",
+    "pregunta": "2. Una mujer de 22 años presenta una parada cardiaca súbita con un ritmo que se considera susceptible de desfibrilación. Se están realizando compresiones torácicas y ventilaciones, se ha dado una descarga con el desfibrilador y se ha canalizado una vía venosa periférica. ¿Cuál de las siguientes actuaciones sería correcta a continuación?:",
+    "opciones": [
+      "1. Administrar 150 mg de amiodarona intravenosa.",
+      "2. Administrar 300 mg de amiodarona intravenosa.",
+      "3. Administrar 1 mg de atropina intravenosa.",
+      "4. Administrar 2 mg de atropina intravenosa."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta anulada por un problema de planteamiento. Tras realizar una primera descarga con un desfibrilador, no se debe administrar ningún fármaco en los ritmos desfibrilables. Se debe esperar a haber realizado la tercera descarga, y en dicho momento se comienza a poner 1 mg de adrenalina i.v. cada 3-5 min, así como un bolo único de 300 mg de amiodarona i.v.</p>"
+  },
+  {
+    "tema": "Tema 15. Reanimación cardiopulmonar (RCP)",
+    "pregunta": "3. Un niño de 3 años ha sufrido un atropello y se encuentra en parada cardiaca. Tras el inicio de la reanimación cardiopulmonar se canaliza una vía intraósea. ¿Qué medicación debe administrar en primer lugar?:",
+    "opciones": [
+      "1. Adrenalina porque es el fármaco inicial de elección en todas las paradas cardiacas.",
+      "2. Atropina porque en los niños el ritmo electrocardiográfico más frecuente es la bradicardia.",
+      "3. Bicarbonato para compensar la acidosis.",
+      "4. Amiodarona porque lo más probable es que tenga una fibrilación ventricular."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. La adrenalina es el fármaco de elección en la PCR de cualquier causa, y sea cual sea el ritmo cardiaco. En ritmos no desfibrilables se administra desde el principio, y en ritmos desfibrilables desde el tercer choque (si no es efectivo).</p>"
+  },
+  {
+    "tema": "Tema 15. Reanimación cardiopulmonar (RCP)",
+    "pregunta": "4. Pregunta vinculada a la imagen n.º 30. Es tu primera guardia como médico de emergencias en una UVI móvil y asistes a un hombre de unos 50 años que acaba de desplomarse al suelo bruscamente. Cuando le exploras el paciente está inconsciente y no respira. Has comprobado que tampoco tiene pulso por lo que comienzas a realizar compresiones torácicas y ventilaciones a un ritmo 30:2. Uno de tus compañeros del equipo sanitario ha colocado las palas del monitor-desfibrilador y en la pantalla del monitor aparece la imagen que se muestra. ¿Qué actuación es la prioritaria en este caso?:",
+    "opciones": [
+      "1. Seguir con el masaje cardiaco y aislar la vía aérea mediante intubación orotraqueal.",
+      "2. Conseguir un acceso venoso para administrar adrenalina.",
+      "3. Cargar el desfibrilador y aplicar una descarga para continuar inmediatamente con el masaje cardiaco.",
+      "4. Avisar al centro coordinador de emergencias para que os envíen ayuda."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El ECG de la imagen muestra una tira de ritmo de taquicardia ventricular polimórfica que impresiona una torsión de puntas (aunque con sólo una tira de ritmo es difícil asegurarlo), que es equivalente de fibrilación ventricular. Los ritmos desfibrilables son la fibrilación ventricular y la taquicardia ventricular sin pulso; la desfibrilación debe realizarse lo más precozmente posible, considerándose la maniobra primordial en la secuencia de actuación, incluso por delante de las compresiones torácicas.</p>"
+  },
+  {
+    "tema": "Tema 15. Reanimación cardiopulmonar (RCP)",
+    "pregunta": "5. Mientras realiza la anamnesis a un paciente que consulta por dolor torácico en un Servicio de Urgencias, éste pierde la conciencia, usted le estimula y no responde, le abre la vía aérea y comprueba que el paciente no respira y no le encuentra el pulso carotídeo. Tras pedir ayuda, ¿cuál es la siguiente maniobra que debería realizar?:",
+    "opciones": [
+      "1. Compresiones torácicas.",
+      "2. Golpe precordial.",
+      "3. Ventilaciones de rescate.",
+      "4. Intubación oro-traqueal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta fácil sobre resucitación cardiopulmonar. Tras comprobar que el paciente no responde, se abre la vía aérea y se observa si respira. Si respira, se le coloca en posición de seguridad y se pide ayuda. Si no respira, se pide ayuda (y un desfibrilador) y se comienza con RCP básica con prioridad de las compresiones respecto al las ventilaciones.</p>"
+  },
+  {
+    "tema": "Tema 15. Reanimación cardiopulmonar (RCP)",
+    "pregunta": "6. Las intervenciones que contribuyen al éxito tras una parada cardiaca ocurrida en la calle se denominan 'cadena de supervivencia'. ¿Cuál de las siguentes opciones conforman el orden adecuado de sus eslabones?:",
+    "opciones": [
+      "1. Desfibrilación inmediata. Pedir ayuda. Maniobras de soporte vital. Cuidados post-resucitación.",
+      "2. Abrir la vía aérea. Pedir ayuda. Desfibrilación. Cuidados post-resucitación.",
+      "3. Compresiones torácicas inmediatas. Desfibrilación y solicitud de ayuda. Cuidados post-resucitación.",
+      "4. Ventilación boca a boca. Compresiones torácicas intermitentes. Desfibrilación. Solicitar ayuda. Cuidados post-resucitación.",
+      "5. Reconocimiento precoz y pedir ayuda. Resucitación cardiopulmonar precoz. Desfibrilación precoz. Cuidados post-resucitación."
+    ],
+    "correcta": 4,
+    "comentario": "<p>La cadena de supervivencia es un diagrama que resume los pasos a seguir ante una parada cardiaca. El primer eslabón de la cadena (primer paso) es el reconocimiento precoz de la situación de parada y pedir ayuda. El segundo eslabón es la aplicación de RCP de forma precoz (compresiones/ventilaciones), evitando cualquier retraso para iniciar estas maniobras. El tercer eslabón es la desfibrilación precoz (a la vez que se pide ayuda se debe pedir un desfibrilador, y en cuanto haya un desfibrilador disponible se debe conectar al paciente). El cuarto y último eslabón son los cuidados posteriores a la parada (traslado al hospital, hipotermia si está indicada, etc.).</p>"
   }
 ]
