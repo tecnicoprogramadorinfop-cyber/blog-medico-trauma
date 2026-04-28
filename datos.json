@@ -2236,5 +2236,54 @@
     ],
     "correcta": 4,
     "comentario": "<p>La cadena de supervivencia es un diagrama que resume los pasos a seguir ante una parada cardiaca. El primer eslabón de la cadena (primer paso) es el reconocimiento precoz de la situación de parada y pedir ayuda. El segundo eslabón es la aplicación de RCP de forma precoz (compresiones/ventilaciones), evitando cualquier retraso para iniciar estas maniobras. El tercer eslabón es la desfibrilación precoz (a la vez que se pide ayuda se debe pedir un desfibrilador, y en cuanto haya un desfibrilador disponible se debe conectar al paciente). El cuarto y último eslabón son los cuidados posteriores a la parada (traslado al hospital, hipotermia si está indicada, etc.).</p>"
+  },
+
+{
+    "tema": "Tema 16. Síncope",
+    "pregunta": "1. En relación con el tratamiento de los pacientes con síncope, señale la respuesta correcta:",
+    "opciones": [
+      "1. El tratamiento del síncope reflejo es fundamentalmente farmacológico.",
+      "2. La estimulación con marcapasos en el síncope recurrente asociado a un mecanismo hipotensor ha demostrado ser eficaz.",
+      "3. Los fármacos betabloqueantes reducen la mortalidad de los síncopes reflejos.",
+      "4. Las contracciones musculares isotónicas son útiles en pacientes jóvenes con síncope reflejo y pródromos."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad intermedia sobre el tratamiento de los síncopes vasovagales (también llamados reflejos, cuando existe un estímulo desencadenante, o neuromediados). El tratamiento se basa en la educación del paciente: indicar que se trata de una entidad benigna, y enseñar a reconocer los pródromos para adoptar el decúbito ante su presencia (evitando con ello los traumatismos). Otra medida higiénico-dietética útil son las maniobras contrapresivas con miembros inferiores cuando aparecen los pródromos (contraer los músculos de las piernas para aumentar la precarga y tratar con ello de evitar el síncope). Así, la respuesta inicialmente dada por correcta por el Ministerio fue la 4; sin embargo, finalmente se anuló la pregunta porque realmente las contracciones musculares deberían ser isométricas (en lugar de isotónicas). Respecto al tratamiento farmacológico, tiene muy poca eficacia; en el pasado se usaron los betabloqueantes, que a día de hoy no se recomiendan. Por último, el implante de marcapasos solo tiene utilidad si el mecanismo predominante del síncope es el cardioinhibidor (en síncopes vasodepresores no tiene utilidad); en dichos pacientes con síncopes vasovagales cardioinhibitorios de repetición, para evitar tener que poner un marcapasos, se ha desarrollado una técnica denominada cardioneuroablación: se realizan lesiones de radiofrecuencia con catéteres de ablación en la posición que ocupan los plexos ganglionares que inervan el corazón desde el interior de las aurículas, con el objetivo de abolir el efecto de la inervación parasimpática sobre el corazón (y evitar así la cardioinhibición).</p>"
+  },
+  {
+    "tema": "Tema 16. Síncope",
+    "pregunta": "2. ¿Cuál de los siguientes criterios se considera de alto riesgo en la estratificación de un síncope?:",
+    "opciones": [
+      "1. Síncope producido al rotar la cabeza o presionar el seno carotídeo.",
+      "2. Síncope durante el esfuerzo o en decúbito supino.",
+      "3. Síncope después de una visión, sonido u olor desagradable.",
+      "4. Bloqueo aurículoventricular de segundo grado Mobitz I."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad sencilla/moderada. Un síncope que se produce en sedestación/decúbito o durante el esfuerzo aumenta de forma muy considerable la probabilidad de que se trate de un cuadro cardiogénico y por tanto confiere a la historia clínica características de alto riesgo. Determinadas alteraciones del ECG también constituyen un criterio de alto riesgo. No obstante el BAV de segundo grado tipo I es criterio de alto riesgo sólo si la historia sugiere claramente causa arrítmica (bradicardia extrema).</p>"
+  },
+  {
+    "tema": "Tema 16. Síncope",
+    "pregunta": "3. Pregunta vinculada a la imagen n.º 1. Un hombre de 82 años, con antecedentes de miocardiopatía dilatada, acude a urgencias por síncopes recurrentes en la última semana. Se realiza un electrocardiograma que muestra:",
+    "opciones": [
+      "1. Bloqueo de rama derecha con hemibloqueo posterior.",
+      "2. Bloqueo de rama derecha con hemibloqueo anterior.",
+      "3. Bloqueo completo de rama izquierda.",
+      "4. Bloqueo de rama derecha."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta directa sobre interpretación de un ECG: ritmo sinusal (P positiva en I, II, aVF), PR en torno a 200 ms (límite alto de la normalidad), QRS ancho (unos 4 cuadraditos: 160 ms) con morfología de bloqueo de rama derecha (positivo en V1) y hemibloqueo izquierdo anterior. El hemibloqueo izquierdo anterior se define por la presencia de un eje superior izquierdo más allá de -30º. Para ello, el patrón de QRS debe positivo en I-aVL y negativo en II-III-aVF, en aVR da igual: si leemos 'Pe' cuando el QRS es positivo, 'Ne' cuando es negativo y 'Da' cuando da igual, leyendo las derivaciones de miembros por orden (I-II-III-aVR-aVL-aVF) queda la siguiente regla mnemotécnica: 'PeNeNeDaPeNa'. La repolarización tiene alteraciones secundarias a la presencia de bloqueo de rama derecha. (T negativa en I-aVL y V1-V3).</p>"
+  },
+  {
+    "tema": "Tema 16. Síncope",
+    "pregunta": "4. Una chica de 18 años sufre una pérdida de conciencia al regresar a su domicilio tras una noche de fiesta sin dormir. Ha notado un breve mareo, la han visto pálida y se ha caído. Ha tenido convulsiones durante unos 10 segundos y se ha orinado. Se recupera en menos de un minuto, orientada y consciente de la situación. Vomita. Cuenta que el año anterior tuvo un cuadro similar. ¿Si usted la atendiera en urgencias, cuál le parece la actitud más adecuada?:",
+    "opciones": [
+      "1. Pensar en síncope vasovagal y dar el alta.",
+      "2. Solicitar un TAC craneal e iniciar tratamiento antiepiléptico.",
+      "3. Solicitar analítica y remitirla a consulta del neurólogo.",
+      "4. Pensar en intoxicación etílica aguda, hacer TAC craneal y punción lumbar y administrar tiamina IV."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Nos presentan un caso clínico típico de síncope vasovagal. Paciente joven que, tras una situación típica (depresión de sueño; otras serían después de comer, en ambientes con aglomeraciones y mucho calor, con la micción, con la tos…), tiene un síncope precedido por pródromos (sensación de mareo) y recuperación rápida posterior. En este caso, si la exploración física es normal y el ECG también es normal (no nos dan la opción de hacer un ECG), se puede diagnosticar de síncope vasovagal (cuyo diagnóstico es clínico) y dar de alta con recomendaciones para evitar los síncopes (tumbarse y poner las piernas en alto si nota los pródromos, y evitar las situaciones desencadenantes si es que las hay).</p>"
   }
 ]
