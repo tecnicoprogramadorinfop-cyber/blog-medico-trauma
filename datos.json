@@ -1988,5 +1988,130 @@
     ],
     "correcta": 4,
     "comentario": "<p>Pregunta en la que la técnica de examen puede ayudar mucho. Nos preguntan por la cardiopatía que tendrá mucha ascitis, y nos presentan tres cardiopatías 'izquierdas' (estenosis aórtica, miocardiopatía hipertrófica, miocardiopatía dilatada) y dos cardiopatías 'derechas' (hipertensión pulmonar y pericarditis constrictiva). Nos quedaremos, evidentemente, con las cardiopatías derechas, que son las que tienen como síntoma típico la ascitis. En cuanto a la respuesta correcta, es la pericarditis constrictiva la que se asocia típicamente a ascitis recidivante, rebelde al tratamiento, y que suele ser desproporcionada para el grado de edemas periféricos (en miembros inferiores) del paciente.</p>"
+  },
+
+{
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "1. Ante un recién nacido a término cianótico con pO2 de 30 mmHg, hipertrofia de ventrículo derecho en el electrocardiograma e imagen 'de huevo' en la radiografía de tórax ¿cuál de los siguientes es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Dextro-transposición de grandes arterias.",
+      "2. Persistencia del ductus arterioso.",
+      "3. Tetralogía de Fallot.",
+      "4. Enfermedad de Ebstein."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Caso clínico de dificultad intermedia en el que debemos realizar diagnóstico diferencial de las cardiopatías congénitas cianóticas. De las opciones que nos presentan, las únicas cardiopatías cianóticas son la transposición de grandes arterias (TGA) y la tetralogía de Fallot. La TGA produce cianosis desde el nacimiento, mientras que la tetralogía de Fallot no suele manifestarse con cianosis al nacimiento, sino que esta empieza a manifestarse durante la lactancia, típicamente durante el llanto. Además, en el enunciado nos indican que en la radiografía de tórax observamos una imagen de 'huevo' (corazón ovalado con pedículo estrecho), típico de la TGA, mientras que en el Fallot nos hablarían de un corazón con forma de 'zueco'.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "2. Con respecto a las comunicaciones interventriculares (CIV) en la infancia, señale la respuesta INCORRECTA:",
+    "opciones": [
+      "1. Exceptuando la válvula aórtica bicúspide, la CIV es la cardiopatía congénita más frecuente.",
+      "2. Las CIV localizadas en la porción media y apical del tabique interventricular son de tipo muscular.",
+      "3. La repercusión clínica y la necesidad de tratamiento dependen del tamaño de la comunicación.",
+      "4. Las CIV membranosas son las más frecuentes y la que tienen más probabilidad de cierre espontáneo."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad moderada sobre cardiopatías congénitas. La CIV es la cardiopatía congénita más frecuente en neonatos y la segunda en adultos después de la valvulopatía aórtica bicúspide. Se trata de defectos del cierre del tabique interventricular, en su mayoría (80%) en la porción membranosa (parte más proximal del tabique). Aunque esta localización es proclive al cierre espontáneo, la localización más asociada a la autorresolución es la CIV muscular.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "3. Dentro de las cardiopatías cianóticas destaca la tetralogía de Fallot. En relación con este cuadro, señale la respuesta INCORRECTA:",
+    "opciones": [
+      "1. En la prueba de hiperoxia con O2 al 100% no se eleva significativamente la saturación de O2.",
+      "2. Es típica la presencia de hiperaflujo sanguíneo pulmonar.",
+      "3. Ante toda sospecha debe administrarse precozmente una perfusión de prostaglandina E1.",
+      "4. La silueta cardiaca presenta la típica imagen de corazón en bota."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Se trata de una pregunta que puede asustar de inicio pero que es fácilmente acertable: tetralogía de Fallot, que es la cardiopatía congénita cianótica más frecuente. Consiste, entre otros hallazgos, de una estenosis del tracto de salida de VD, con CIV acompañante que implica: 1) dificultad para la evacuación de sangre a la arteria pulmonar (por la obstrucción), lo que produce hipoaflujo pulmonar, y 2) shunt derecha > izquierda sobre la CIV. Es una causa a descartar ante un recién nacido cianótico. Uno de los tests de utilidad es el de la hiperoxia, en el cual, si la causa es pulmonar típicamente se produce un aumento de la saturación arterial de oxígeno, mientras que en caso de las cardiopatías congénitas la respuesta es escasa o nula. La prostaglandina E i.v. se recomienda junto con otra serie de medidas generales en las cardiopatías congénitas cianóticas para permitir la estabilización y como puente a tratamientos más avanzados.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "4. Muchacho de 15 años de edad, afecto de una cardiopatía congénita tipo comunicación interauricular ostium secundum, con cortocircuito izquierda-derecha hemodinámicamente significativo. ¿Cuál de los siguientes hallazgos apoyaría el diagnóstico?:",
+    "opciones": [
+      "1. Presencia de cianosis.",
+      "2. Soplo sistólico de eyección pulmonar y desdoblamiento amplio y fijo del 2º R.",
+      "3. Cifras de presión arterial diastólica cercanas a 0.",
+      "4. Ausencia de pulsos en extremidades inferiores."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta clásica que se contesta utilizando un mantra habitual de las cardiopatías congénitas en el MIR: los pacientes con CIA presentan desdoblamiento amplio y fijo del segundo ruido. Además, existirá soplo eyectivo pulmonar por hiperaflujo. La cianosis aparece en casos de inversión del cortocircuito (derecha-izquierda): síndrome de Eisenmenger. La opción 4 se observaría en pacientes con coartación de aorta severa, y la opción 3 es una invención.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "5. Niño de 9 años que acude a consulta por fatigabilidad y disnea de esfuerzo progresiva. Al nacer se le había descubierto un soplo cardiaco, pero no acudió a revisiones. En la exploración física la cara y las manos están rosadas, mientras que las extremidades inferiores están cianóticas. ¿Qué anomalía explicaría estos hallazgos?:",
+    "opciones": [
+      "1. Tetrología de Fallot.",
+      "2. Comunicación interventricular con hipertensión pulmonar.",
+      "3. Ductus arterioso persistente con síndrome de Eisenmenger.",
+      "4. Coartación de aorta."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta trampa en la que hay que leer dos veces para no fallar. Ante un niño con clínica cardiológica y diferencias entre brazos y piernas la mente puede dirigirnos ante una coartación de aorta. Pero ¡ojo!, la coartación de aorta se manifiesta, en el niño mayor, como hipertensión arterial, y las diferencias entre brazos y piernas se encuentran en las cifras de PA y la intensidad de los pulsos. En cambio, el niño de la pregunta tiene clínica de insuficiencia cardiaca, y las diferencias entre brazos y piernas son de coloración. Tiene cianosis, luego entre las opciones debemos elegir una cardiopatía cianógena. Las cardiopatías cianógenas que nos presentan son la tetralogía de Fallot y la situación de Eisenmenger. La tetralogía de Fallot se manifestaría con crisis de cianosis con el llanto durante la lactancia (no pasa desapercibida hasta la infancia, como en este caso). Por ello, nos quedamos por descarte con el ductus arterioso en situación de Eisenmenger. La situación de Eisenmenger puede aparecer en cualquier cardiopatía congénita con shunt izquierda-derecha (CIA, CIV, ductus arterioso persistente...) que dejamos evolucionar a su suerte; llega un momento que el hiperaflujo pulmonar genera hipertensión pulmonar severa e irreversible y el sentido del shunt se invierte a derecha-izquierda, convirtiendo la cardiopatía en cianótica. La clínica es de hipertensión pulmonar (disnea y fatigabilidad con los esfuerzos) y el pronóstico es malo. En dicha situación, está contraindicado el cierre del defecto que motivó el problema. Como curiosidad del ductus arterioso persistente en situación de Eisenmenger, como el ductus comunica la arteria pulmonar con la aorta distalmente a la salida de la subclavia, la cianosis aparecerá en los territorios distales a la subclavia (abdomen y piernas); en la cabeza y brazos no habrá cianosis.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "6. Ante un recién nacido con una cardiopatía congénita sin plétora pulmonar pensaría en:",
+    "opciones": [
+      "1. Comunicación interventricular.",
+      "2. Tronco arterioso persistente.",
+      "3. Atresia tricuspídea.",
+      "4. Ductus arterioso."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla y teórica sobre las cardiopatías congénitas. Las cardiopatías con shunt izquierda-derecha cursan con plétora pulmonar, y aquéllas con shunt derecha-izquierda con hipoaflujo pulmonar. La comunicación interventricular, el truncus y el ductus arterioso persistente tienen shunt izquierda-derecha (plétora), mientras que una atresia tricúspide dará obligatoriamente hipoaflujo pulmonar.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "7. ¿Cuál de las siguientes cardiopatías congénitas NO se considera como cardiopatía que produce sobrecarga de volumen?:",
+    "opciones": [
+      "1. Comunicación interauricular.",
+      "2. Comunicación interventricular.",
+      "3. Defectos del tabique aurículo-ventricular.",
+      "4. Coartación de la aorta.",
+      "5. Conducto arterioso persistente."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta teórica sencilla sobre la clasificación de las cardiopatías congénitas. Las cardiopatías congénitas que tienen 'agujeros' implican un shunt que produce sobrecarga de volumen. Así, para seleccionar la cardiopatía sin sobrecarga de volumen, debemos elegir la que no tenga un 'agujero': la coartación de aorta, que es una cardiopatía con flujo pulmonar normal. El ductus arterioso persistente es como si fuera un agujero entre la aorta y la arteria pulmonar, aunque en vez de un agujero sea un conducto que debido a una diferencia de presiones produce un flujo de sangre desde la aorta hasta la arteria pulmonar (cuando las resistencias pulmonares bajan). Por otra parte, por técnica de examen fijaos que la opción 3 incluye a las opciones 1 y 2, luego no podría ser ninguna de esas 3 opciones la correcta: sólo deberíamos dudar entre la 4 y la 5.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "8. Pregunta vinculada a la imagen n.º 13. Niño de 12 años que acude a consulta de Pediatría de Atención Primaria por cuadro de fiebre, vómitos, dolor abdominal y diarrea. En la auscultación cardiopulmonar presenta soplo sistólico eyectivo II/VI en foco pulmonar con segundo ruido desdoblado fijo, siendo el resto de la exploración física normal. Para la valoración del soplo el pediatra le realiza un ECG que se muestra a continuación. En relación con la interpretación del mismo, indique a continuación la respuesta correcta:",
+    "opciones": [
+      "1. Es un ECG normal.",
+      "2. Presenta un bloqueo auriculoventricular de primer grado como única alteración.",
+      "3. Presenta un eje del QRS extremo izquierdo.",
+      "4. Presenta un eje del QRS desviado hacia la derecha con patrón rsR´.",
+      "5. Hay signos claros de hipertrofia ventricular izquierda."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Nos presentan un caso clínico en el que la frase 'desdoblamiento fijo del 2R' ya nos indica la patología que tiene el paciente (comunicación interauricular -CIA-). Nos piden en esta pregunta interpretar el ECG: ritmo sinusal a unos 100 lpm, con PR discretamente prolongado (en torno a 200 ms), QRS ancho con morfología de bloqueo de rama derecha (patrón rSR’ en V1 y presencia de onda S ancha en V6) y eje desviado a la derecha (complejos QRS predominantemente negativos en I y positivos en aVF). No hay anomalías en la repolarización (en presencia de bloqueo de rama derecha puede haber T negativa en V2 y es normal). Así, la respuesta correcta es la 4: rSR’ (bloqueo de rama derecha) y eje derecho. Estos hallazgo son típicos de la CIA ostium secundum, mientras que en la CIA ostium primum también hay bloqueo de rama derecha pero el eje suele estar desviado a la izquierda.</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "9. Pregunta vinculada a la imagen n.º 13. ¿Cuál sería la sospecha del pediatra y qué otras pruebas complementarias se le realizarían para confirmarlo?:",
+    "opciones": [
+      "1. Sospecharía un soplo inocente y no le haría más pruebas.",
+      "2. Dado que presenta un hemibloqueo anterior izquierdo podría tratarse de un canal auriculoventricular parcial (CIA ostium primun y cleft mitral) por lo que se le realizarían una Rx tórax y un ecocardiograma.",
+      "3. Dado que presenta un eje derecho y un patrón rsR´ podría tratarse una comunicación interauricular tipo ostium secundum y se le realizaría una Rx tórax y un ecocardiograma para confirmarlo.",
+      "4. Sería preciso plantear la implantación de un marcapaso.",
+      "5. Como existen datos de hipertrofia ventrículo izquierdo le realizaría estudio familiar para descartar miocardiopatía hipertrófica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El cuadro clínico incluye una de esas frases que implica, nada más verla, una patología concreta en el MIR: 'desdoblamiento fijo del 2R' es sinónimo de comunicación interauricular (CIA). Además, es típico auscultar un soplo pulmonar por hiperaflujo, como nos indican en el enunciado. La CIA ostium secundum es la más frecuente, y además se asocia típicamente en el ECG a eje eléctrico desviado a la derecha (como es nuestro caso), mientras que en la CIA ostium primum el eje está desviado típicamente a la izquierda. En cualquier cardiopatía congénita, las pruebas diagnósticas iniciales a realizar son ECG, radiografía de tórax y ecocardiograma (esta última es la prueba que proporciona el diagnóstico de certeza).</p>"
+  },
+  {
+    "tema": "Tema 13. Cardiopatías congénitas",
+    "pregunta": "10. Mujer de 45 años, con antecedentes de soplo cardiaco detectado en edad pediátrica. Ingresa en el Servicio de Urgencias por cuadro de palpitaciones, cansancio fácil y edemas maleolares. La exploración física pone de manifiesto ausencia de cianosis. Saturación de Oxígeno por pulsioxímetro 97%. TA: 120/80 mmHg. Ritmo cardiaco irregular a 100 lpm. Soplo sistólico eyección (2/6) en foco pulmonar. 2.º R desdoblado, amplio y fijo. No estertores. Ligera hepatomegalia (2-3 cm). Ligeros edemas maleolares. ECG: arritmia completa por fibrilación auricular a 100 lpm. AQRS: +120º. Trastorno de conducción de la rama derecha del haz de His. ¿Cuál es su orientación diagnóstica?:",
+    "opciones": [
+      "1. Comunicación interventricular.",
+      "2. Estenosis aórtica.",
+      "3. Estenosis mitral.",
+      "4. Comunicación interauricular.",
+      "5. Conducto arterioso persistente."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla. Puede parecer un caso enrevesado, pero se trata de una paciente con una cardiopatía congénita ('soplo en la infancia'), y en el enunciado nos dan una información definitiva: la presencia en el MIR de un desdoblamiento amplio y fijo del segundo tono cardiaco es sinónimo de comunicación interauricular. El resto de datos concuerdan con dicha sospecha: hay un soplo sistólico pulmonar por hiperaflujo, no hay cianosis (es una cardiopatía no cianógena a menos que se desarrolle hipertensión pulmonar), y en el ECG hay bloqueo de rama derecho y eje eléctrico del QRS desviado a la derecha (>90º).</p>"
   }
 ]
