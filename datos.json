@@ -2285,5 +2285,30 @@
     ],
     "correcta": 0,
     "comentario": "<p>Nos presentan un caso clínico típico de síncope vasovagal. Paciente joven que, tras una situación típica (depresión de sueño; otras serían después de comer, en ambientes con aglomeraciones y mucho calor, con la micción, con la tos…), tiene un síncope precedido por pródromos (sensación de mareo) y recuperación rápida posterior. En este caso, si la exploración física es normal y el ECG también es normal (no nos dan la opción de hacer un ECG), se puede diagnosticar de síncope vasovagal (cuyo diagnóstico es clínico) y dar de alta con recomendaciones para evitar los síncopes (tumbarse y poner las piernas en alto si nota los pródromos, y evitar las situaciones desencadenantes si es que las hay).</p>"
+  },
+
+{
+    "tema": "Dermatología. Tema 1. Generalidades",
+    "pregunta": "1. Pregunta vinculada a la imagen n.º 4. Hombre de 68 años que consulta al dermatólogo por lesiones cutáneas ulceradas perianales. El dermatólogo se plantea dentro del diagnóstico diferencial un pioderma gangrenoso, una enfermedad ampollosa y una etiología infecciosa. Realiza una biopsia para estudio histológico y solicita también estudio de immunofluorescencia directa. La inmunofluorescencia directa es negativa y se muestra la histología de la lesión. ¿Cuál es el diagnóstico anatomopatológico de la lesión cutánea perianal?:",
+    "opciones": [
+      "1. Pioderma gangrenoso.",
+      "2. Pénfigo vulgar.",
+      "3. Infección micótica.",
+      "4. Infección por el virus del herpes simple."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Primera vez en el examen MIR que nos ponen una imagen de anatomía patológica cutánea. En ella apreciamos una acantólisis, con la expresión clínica de una ampolla o vesícula. Con este dato, entre las respuestas que nos dan nos orientaría hacia el diagnóstico de pénfigo vulgar o del virus del herpes. En el enunciado nos indica que la inmunofluorescencia directa es negativa, por lo que descartamos la opción 2 de pénfigo vulgar. Además, en la imagen se observan células gigantes multinucleadas, queratinocitos balonizados, muy sugestivos de infección por virus herpes simple.</p>"
+  },
+  {
+    "tema": "Dermatología. Tema 1. Generalidades",
+    "pregunta": "2. Desde el punto de vista anatomopatológico, un granuloma es:",
+    "opciones": [
+      "1. Un agregado de histiocitos.",
+      "2. Un agregado de linfocitos.",
+      "3. Un agregado de células plasmáticas.",
+      "4. Sinónimo de tejido de granulación."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La histología típica de un granuloma es un agregado de histiocitos.</p>"
   }
 ]
