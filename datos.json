@@ -1791,5 +1791,202 @@
     ],
     "correcta": 1,
     "comentario": "<p>Caso clínico florido de miocardiopatía hipertrófica (MCH) en el que nos dan el diagnóstico hecho al presentarnos el ecocardiograma del paciente. Recordad que la hipertrofia ventricular, como en este caso, suele ser asimétrica. El gradiente dinámico de 70 mmHg convierte este caso en MCH obstructiva, y además tiene insuficiencia mitral secundaria que interpretamos por lo tanto como debida a SAM (movimiento sistólico del velo anterior mitral). Respecto al tratamiento, se usan en casos sintomáticos beta-bloqueantes (primera elección) o calcio-antagonistas no dihidropiridínicos (verapamilo o diltiazem). La digoxina está contraindicada, por ser inotropo positivo. Este paciente tiene indicación de desfibrilador automático implantable (DAI) por la historia familiar de muerte súbita y la historia de síncope no filiado (aunque tienen pinta de cardiogénico) y la presencia de un gradiente obstructivo (otros factores que aumentan el riesgo de muerte súbita son la edad, el grosor ventricular y el tamaño de la aurícula izquierda. No parece tener relación con el grado de disnea). La miectomía septal es una opción invasiva para pacientes sintomáticos refractarios al tratamiento médico.</p>"
+  },
+
+{
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "1. Hombre de 70 años sometido hace 5 días a cirugía de revascularización coronaria que acude a urgencias por un síncope tras el que persiste sensación de mareo. En la exploración destaca tensión arterial 70/40 mmHg, ruidos cardiacos disminuidos y distensión venosa yugular con fenómeno de alternancia eléctrica en el electrocardiograma. ¿Cuál de los siguientes diagnósticos es más probable?:",
+    "opciones": [
+      "1. Síndrome coronario agudo.",
+      "2. Pericarditis.",
+      "3. Taponamiento cardiaco.",
+      "4. Endocarditis."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Caso clínico sencillo, en el que nos presentan a un paciente que, tras una cirugía cardiaca, presenta hipotensión arterial con ingurgitación yugular; estos dos datos clínicos combinados, en ausencia de congestión pulmonar, deben hacernos sospechar un taponamiento cardiaco, un tromboembolismo de pulmón o un infarto de ventrículo derecho (esto último en el contexto de un IAM inferior, como complicación del mismo). El ECG muestra alternancia eléctrica, dato muy característico del taponamiento cardiaco, que nos lleva finalmente a marcar dicha opción.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "2. En relación con el taponamiento cardíaco, ¿cuál de las siguientes afirmaciones es cierta?:",
+    "opciones": [
+      "1. Las manifestaciones ecocardiográficas y los cambios hemodinámicos se producen con anterioridad a la aparición de las manifestaciones clínicas.",
+      "2. Es típica la hipotensión, la taquicardia, la disminución de la presión venosa yugular y unos ruidos cardíacos atenuados.",
+      "3. El volumen de líquido pericárdico necesario para producir taponamiento es similar en una pericarditis aguda que en una pericarditis crónica.",
+      "4. El pulso paradójico es un dato de la exploración física característico que se define como un descenso de 5-10 mmHg en la tensión arterial sistólica durante la inspiración."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad moderada. En el taponamiento cardiaco la triada básica es taquicardia, hipotensión e ingurgitación yugular. Como en la mayoría de enfermedades, los cuadros de instauración brusca son mucho peor tolerados clínicamente que los crónicos. De la misma forma e igual que ocurre en otros escenarios (p.ej: cascada de la isquemia miocárdica), las manifestaciones clínicas aparecen tardíamente. En el taponamiento cardiaco primero se produce la caída tensional, seguida de taquicardización compensadora, hallazgos que deben levantar sospecha sobre esta entidad, apareciendo finalmente las manifestaciones clínicas.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "3. Pregunta vinculada a la imagen n.º 23. Mujer de 25 años que acude a urgencias por dolor torácico de 2 días de evolución asociado a febrícula termometrada de hasta 37,6 ºC. Este dolor se localiza a nivel precordial, no se modifica con el ejercicio físico y empeora con el decúbito supino. Analíticamente destaca una proteína C reactiva discretamente elevada y leucocitosis moderada. El electrocardiograma se muestra en la imagen. Con respecto al tratamiento de esta patología señale la respuesta correcta:",
+    "opciones": [
+      "1. Lo más probable es que se trate de un infarto agudo de miocardio. Avisaría a Cardiología para realización de coronariografía urgente.",
+      "2. Los fármacos más utilizados son los AINEs.",
+      "3. La colchicina está contraindicada en esta patología.",
+      "4. Lo más correcto sería iniciar tratamiento antibiótico empírico con una fluoroquinolona."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla. Mujer joven con dolor torácico que sugiere origen pericardítico (duración prolongada, empeora con el decúbito); aunque no nos indiquen que sea punzante u otras características del dolor, sería el origen más probable en este caso. Además, existen datos de inflamación (leucocitosis, febrícula, elevación de PCR). En el ECG se observa ritmo sinusal, QRS estrecho y elevación cóncava y difusa del segmento ST (se observa en derivaciones de cara inferior y de V4 a V6; no localiza ningún territorio coronario), hallazgo típico de pericarditis aguda. No se observa descenso del PR, que es un dato muy específico pero poco sensible. El tratamiento de la pericarditis aguda consiste en AINE a dosis plena durante un mínimo de 2 semanas (se mantiene hasta que se normalice el ECG y los parámetros de inflamación), junto con colchicina durante 3 meses para prevenir recidivas.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "4. Ante un paciente con pericarditis aguda y derrame pericárdico grave ¿cuál de las siguientes medidas es INCORRECTA?:",
+    "opciones": [
+      "1. Ingreso para monitorización estrecha de la aparición de signos de taponamiento.",
+      "2. Administración de diuréticos que faciliten la desaparición del derrame.",
+      "3. Ingreso y consideración de pericardiocentesis.",
+      "4. Administración de antiinflamatorios no esteroideos."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla. La presencia de derrame pericárdico severo en una pericarditis aguda es un criterio de mal pronóstico que indica hospitalización para recibir tratamiento. Además, habrá que observar la evolución del derrame, y si aparecen signos de taponamiento drenarlo mediante pericardiocentesis. Si no hay datos de taponamiento, no es necesario drenar el derrame.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "5. Hombre de 45 años diagnosticado de hipertensión arterial con mal control ambulatorio, que acude por fiebre de 38,8°C desde 2 días antes, dolor retroesternal intenso que se irradia a cuello y a ambos brazos, que disminuye cuando se inclina hacia delante y aumenta con el decúbito supino. En el ECG se observa elevación del segmento ST en las derivaciones I, II y AVF y de V1 a V6, sin alteración del complejo QRS. En el ecocardiograma se observa un derrame pericárdico moderado. ¿Cuál de los siguientes criterios indica mal pronóstico y aconseja el ingreso hospitalario?:",
+    "opciones": [
+      "1. Curso agudo (comienzo agudo del dolor torácico).",
+      "2. Antecedente de hipertensión arterial mal controlada.",
+      "3. Fiebre superior a 38°C.",
+      "4. La presencia de derrame pericárdico."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad moderada. Nos proponen un caso clínico fácil de diagnosticar de pericarditis aguda (dolor torácico que se modifica con movimientos posturales, fiebre, elevación difusa del ST, derrame pericárdico). Los predictores de mal pronóstico en la pericarditis aguda, que indican ingreso hospitalario para recibir tratamiento (en lugar de hacerlo ambulatoriamente) son: Fiebre >38°C, Curso subagudo, Miopericarditis (elevación de troponina), Derrame pericárdico severo o taponamiento cardiaco, Falta de respuesta al tratamiento con AINE tras 1 semana, Pacientes en tratamiento previo con inmunosupresores o anticoagulantes.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "6. Pregunta vinculada a la imagen n.º 8. Hombre de 61 años consulta por fatigabilidad progresiva, sensación de plenitud abdominal, debilidad muscular y pérdida de unos 8 Kg de peso en el curso del último año. Es originario de Pakistán, con barrera idiomática que dificulta el interrogatorio. Es fumador activo, refiere cuadros catarrales frecuentes, sin otros antecedentes de interés. A la exploración física destaca por su delgadez y un tinte ictérico de escleróticas. Presenta ingurgitación yugular que parece aumentar en inspiración, hepatomegalia de 3 cm por debajo del reborde costal derecho, matidez desplazable en flancos y leve edema bimaleolar. La radiografía lateral de tórax es la que muestra la imagen. Independientemente de que se deba realizar un estudio en profundidad de los diversos problemas detectados en la historia y exploración, ¿cuál de las siguientes es la prueba de mayor utilidad a realizar a continuación?:",
+    "opciones": [
+      "1. TC de tórax.",
+      "2. Ecografía abdominal.",
+      "3. Pruebas de funcionalismo respiratorio.",
+      "4. Serología de hepatitis B y C."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Caso clínico complejo en el que la imagen es clave porque nos da directamente el diagnóstico, aunque no leyéramos el enunciado. La radiografía muestra calcificación pericárdica, hallazgo diagnóstico por sí mismo de pericarditis constrictiva en un paciente con clínica compatible. El cuadro clínico (síndrome constitucional) es difícil de interpretar sin contar con la prueba de imagen, pero muestra un caso con semiología clara de insuficiencia cardiaca derecha: edemas en miembros inferiores, ingurgitación yugular con signo de Kussmaul (aumento de la presión venosa yugular en inspiración), hepatomegalia y ascitis (matidez desplazable en flancos). Ante un caso de pericarditis constrictiva, se deben realizar pruebas de imagen con vistas a planificar la cirugía (pericardiocentesis), principalmente ecocardiograma y RM cardiaca (TC de tórax en ausencia de disponibilidad de RM).</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "7. Pregunta vinculada a la imagen n.º 9. Mujer de 53 años, con antecedentes de carcinoma de mama en estadio IV, diagnosticado en 2017, en seguimiento por Oncología. Acude al servicio de urgencias por disnea de reposo y malestar general de una semana de evolución. A la exploración física destaca taquipnea a 28 respiraciones/minuto, frecuencia cardiaca 130 lpm, PA 80/50 mmHg y distensión venosa yugular. Con respecto a los hallazgos del ECG que se le realiza (imagen) y a la sospecha clínica, señale la respuesta CORRECTA:",
+    "opciones": [
+      "1. Presenta criterios electrocardiográficos de sobrecarga ventricular derecha.",
+      "2. El ritmo que se observa es flutter (aleteo) auricular común con conducción 2:1.",
+      "3. La prueba diagnóstica de imagen de elección es un ecocardiograma transtorácico urgente.",
+      "4. Dada la sospecha clínica, se debe iniciar rápidamente la administración de diurético de asa intravenoso para reducir la congestión venosa sistémica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad moderada que presenta un caso clínico de disnea progresiva asociada a hipotensión arterial e ingurgitación yugular (hipertensión venosa sistémica), junto con taquicardia sinusal. La coexistencia de hipotensión arterial e hipertensión venosa sistémica debe hacer sospechar un taponamiento cardiaco. Además, la paciente es oncológica (factor de riesgo), y el ECG muestra taquicardia sinusal y bajos voltajes (compatible con la presencia de derrame pericárdico severo). Otro hallazgo del ECG es el descenso del intervalo PR, poco frecuente pero muy específico de situaciones con irritación pericárdica, como en la pericarditis aguda. Ante la sospecha de taponamiento cardiaco, la prueba diagnóstica de elección es el ecocardiograma transtorácico, y el tratamiento de elección si se confirma el diagnóstico es la pericardiocentesis urgente.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "8. Sobre la auscultación del corazón, señale la respuesta FALSA:",
+    "opciones": [
+      "1. En la estenosis aórtica grave se puede auscultar un desdoblamiento inverso o paradójico del segundo ruido, que es mayor durante la espiración.",
+      "2. En la insuficiencia aórtica grave se puede auscultar un soplo mesodiastólico de baja tonalidad en el foco mitral.",
+      "3. En el mixoma auricular se puede auscultar un ruido diastólico de tonalidad grave, que se aprecia de forma intermitente en algunas posturas.",
+      "4. En la pericarditis aguda se puede auscultar un roce en el borde esternal izquierdo, que se aprecia mejor con el paciente en decúbito, al final de la inspiración."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta difícil de semiología. La opción incorrecta es la 4, dado que el roce pericárdico se ausculta mejor con el paciente inclinado hacia adelante y en espiración (esta posición acerca el pericardio a la superficie del tórax). En las opciones 2 y 3, los soplos referidos son de estenosis mitral: en el caso de insuficiencia aórtica es el soplo de Austin-Flint, y en el caso del mixoma auricular es típico que en determinadas posturas el mixoma (habitualmente anclado por un pedículo al septo interauricular en la aurícula izquierda) se desplace y obstruya la válvula mitral.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "9. Pregunta vinculada a la imagen n.º 3. Mujer de 44 años intervenida de neoplasia de colon mediante laparotomía en línea media sin incidencias remarcables. Al cabo de unas horas de postoperatorio, presenta de forma progresiva mal estado general, intranquilidad y disconfort. En el momento de su exploración tiene buen estado de conciencia, está afebril pero sudorosa, taquicárdica (132 l/min), con hipotensión arterial (82/52 mmHg), frecuencia respiratoria de 24 por min y una saturación arterial de oxígeno del 97%. La auscultación respiratoria es normal y está rítmica. La palpación abdominal es algo dolorosa y los drenajes quirúrgicos tienen débito escaso. Revisa una radiografía de tórax realizada para comprobación de una vía central sin apreciar patología cardiopulmonar relevante. En la analítica urgente objetiva un leve descenso de la hemoglobina respecto al preoperatorio. En este contexto Vd. realiza una ecografía ecoFAST focalizada en hipocondrio derecho (imagen 1) y ventana cardiaca subxifoidea (imagen 2). ¿Cuál es su mejor opción terapéutica?:",
+    "opciones": [
+      "1. Aviso urgente a cirugía para revaloración de la paciente por probable sangrado intraabdominal como complicación de la intervención quirúrgica.",
+      "2. Oxígeno a alto débito, sueroterapia intensiva, iniciar noradrenalina endovenosa y antibioterapia por sospecha de sepsis.",
+      "3. Pericardiocentesis ecoguiada y en función del resultado, revisar posteriormente la causa del posible derrame pericárdico.",
+      "4. Considerar fibrinolisis dada la alta probabilidad clínica de tromboembolismo pulmonar agudo grave."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Paciente con hipotensión arterial tras una laparotomía. Se deben por tanto descartar complicaciones de la intervención como sangrado activo que precise reintervención. Se realiza para ello un ecoFAST. En la imagen de la izquierda se observa que entre el hígado y el riñón no existe líquido libre, por lo que se descarta la hipótesis del sangrado. Sin embargo, en la imagen de la derecha se observa derrame pericárdico severo, que junto con la clínica de hipotensión arterial (y presión venosa yugular elevada, que no nos indican pero seguramente exista) da el diagnóstico de taponamiento cardiaco. Por lo tanto, debe realizarse una pericardiocentesis urgente, e intentar investigar cómo es posible que tras una laparotomía exista derrame pericárdico, lo cual es rarísimo. Se puede realizar guiada por ecografía (ya que tenemos un ecógrafo en la mano), por radioscopia, o simplemente con referencias anatómicas (mejor siempre utilizar guía radiológica o ecográfica).</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "10. Un hombre de 45 años, con antecedentes de un cuadro febril y dolor torácico, acude al hospital con disnea y taquipnea. En la exploración física las cifras de presión arterial están bajas, la presión venosa yugular elevada con un seno x descendente prominente y tiene pulso paradójico. ¿Qué diagnóstico sospecharía?:",
+    "opciones": [
+      "1. Miocardiopatía dilatada.",
+      "2. Derrame pericárdico con taponamiento cardiaco.",
+      "3. Pericarditis constrictiva.",
+      "4. Cardiopatía isquémica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Caso clínico clásico en el MIR. Hipotensión arterial + ingurgitación yugular es el diagnóstico clínico de sospecha de un taponamiento cardiaco. El antecedente de fiebre y dolor torácico (pensamos en pericarditis aguda) refuerza la sospecha clínica. Además, nos dicen que el seno 'x' está aumentado, pero no nos dicen nada del seno 'y' (que en el taponamiento está disminuido pero en la pericarditis constrictiva está aumentado), y nos dicen que el paciente tiene pulso paradójico, características típicas de las enfermedades con afectación predominante del corazón derecho (entre las opciones que nos dan, el taponamiento y la pericarditis constrictiva). Por todo ello, la opción más probable es el taponamiento.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "11. Paciente de 36 años de edad que consulta por presentar dolor torácico constante, constrictivo, que se irradia a ambos brazos y que se intensifica en decúbito dorsal. En la exploración su médico objetiva que dicho dolor se alivia al sentarse con el cuerpo hacia adelante. Tras realizar un estudio exhaustivo del paciente usted lo diagnostica de pericarditis idiopática aguda. Señale la respuesta FALSA:",
+    "opciones": [
+      "1. No existe una prueba específica para el diagnóstico de pericarditis aguda idiopática por lo que el diagnóstico es de exclusión.",
+      "2. Deben de evitarse los anticoagulantes porque su uso puede causar hemorragia en la cavidad pericárdica.",
+      "3. No existe un tratamiento específico, pero puede indicarse el reposo en cama y ácido acetilsalicílico.",
+      "4. Debe de informar a su paciente que la pericarditis recurre en más de un 75% de los pacientes."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Parecía una pregunta tipo caso clínico, pero ¡no! El autor nos da el diagnóstico y realiza una pregunta teórica repetida y asequible sobre la pericarditis. La pericarditis no tiene ninguna prueba diagnóstica específica, sino que se llega al diagnóstico por la suma de datos compatibles (al menos 2 de estos 4: dolor pericardítico, roce pericárdico, derrame pericárdico, ECG compatible). El tratamiento consiste en antiinflamatorios y colchicina, incluyendo reposo inicial. No deben usarse anticoagulantes para evitar la transformación hemorrágica de un eventual derrame pericárdico (archipreguntado en el MIR). Por último, existe un cierto riesgo de recurrencias (15-30% si no se usa colchicina, aproximadamente la mitad si el tratamiento incluye colchicina), pero en ningún caso es tan alto como del 75%.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "12. ¿Qué tratamiento prescribiría a una paciente con historia previa de pericarditis aguda que ingresa por un nuevo episodio, para evitar recurrencias?:",
+    "opciones": [
+      "1. Colchina asociada a aspirina o antiinflamatorios.",
+      "2. Prednisona.",
+      "3. Tratamiento tuberculostático.",
+      "4. Prednisona asociada a aspirina o antiinflamatorios."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. El tratamiento de la pericarditis aguda es AINE durante 2 semanas asociado a colchicina 3 meses para prevenir recurrencias. El Ministerio sacó como anulada la pregunta directamente porque en la opción correcta (opción 1) hay una errata (en vez de colchicina pone 'colchina'), aunque se entendía perfectamente y lo normal es que la pregunta no se hubiera anulado.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "13. Pregunta vinculada a la imagen n.º 4. Hombre de 34 años, deportista, que presenta un cuadro de dolor torácico opresivo, continuo, irradiado a espalda que se acentúa con la inspiración profunda, de 4 días de evolución, sin fiebre. Refiere un cuadro de amigdalitis hace 2 meses. Auscultación cardiaca rítmica sin soplos. No presenta datos de alteración hemodinámica ni insuficiencia cardiaca. Analítica normal, salvo discreta leucocitosis. Al llegar a urgencias se realiza un ECG que se muestra en la figura. A la espera del resultado de los marcadores de lesión miocárdica, su diagnóstico más probable en este paciente es:",
+    "opciones": [
+      "1. Infarto subagudo de miocardio anteroseptal.",
+      "2. Síndrome de Tietze.",
+      "3. Dolor torácico osteomuscular con ECG de deportista.",
+      "4. Pericarditis aguda.",
+      "5. Angina inestable."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Nos presentan un caso clínico 'de libro' de una pericarditis aguda: paciente sin factores de riesgo cardiovascular, con antecedente infeccioso y dolor torácico de días de duración que se modifica con movimientos respiratorios. El ECG confirma la sospecha clínica: ritmo sinusal con elevación cóncava del segmento ST relativamente difusa (no se ve en todas las derivaciones, pero sí se ve en varias caras del corazón: V3-V4, y discretamente en II-III-aVF) y descenso del intervalo PR (con ascenso especular en aVR), que es un dato muy específico de pericarditis.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "14. Pregunta vinculada a la imagen n.º 4. En este paciente, el procedimiento y/o tratamiento de elección que recomendaría es:",
+    "opciones": [
+      "1. Realización de cateterismo urgente.",
+      "2. Angioplastia primaria.",
+      "3. Fibrinolisis.",
+      "4. Prednisona 10 mg/12 horas.",
+      "5. Antiinflamatorios en tratamiento prolongado."
+    ],
+    "correcta": 4,
+    "comentario": "<p>El tratamiento de elección de la pericarditis aguda son los antiinflamatorios no esteroideos (ibuprofeno o aspirina, habitualmente) a dosis plenas y durante periodos prolongados (habitualmente 4-6 semanas). Se asocia colchicina 3 meses para prevenir recurrencias.</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "15. En lo que se refiere al taponamiento pericárdico, ¿cuál de los siguientes enunciados NO es correcto?:",
+    "opciones": [
+      "1. La radiografía de tórax resulta muy útil para el diagnóstico.",
+      "2. El registro venoso yugular permite objetivar un colapso x muy profundo.",
+      "3. Es habitual la presencia de pulso arterial paradójico.",
+      "4. El colapso auricular derecho es muy sensible para el diagnóstico.",
+      "5. El colapso ventricular derecho es muy específico para el diagnóstico."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta que repasa los aspectos semiológicos más característicos del taponamiento cardiaco, como son el pulso paradójico y el seno X prominente en el pulso venoso yugular. Por otra parte, en cuanto a los signos ecocardiográficos de taponamiento, primero se colapsa la aurícula derecha (por estar a menor presión), luego su colapso será más frecuente (más sensible). El ventrículo derecho se colapsa después y sólo en casos graves, luego es un hallazgo infrecuente (poco sensible) pero muy específico (si el ventrículo derecho está colapsado, existirá taponamiento con gran probabilidad). La respuesta incorrecta es la 1: la radiografía de tórax permite sospechar la presencia de derrame pericárdico importante cuando existe cardiomegalia con morfología de corazón 'en cantimplora', pero no la presencia de taponamiento: puede existir derrame pericárdico severo en ausencia de taponamiento cardiaco (sobre todo si el derrame es crónico).</p>"
+  },
+  {
+    "tema": "Tema 12. Enfermedades del pericardio",
+    "pregunta": "16. En un paciente con clínica de insuficiencia cardiaca que presenta una ascitis desproporcionadamente elevada en relación al edema periférico, la etiología más probable sería:",
+    "opciones": [
+      "1. Una estenosis aórtica grave.",
+      "2. Una miocardiopatía dilatada con disfunción ventricular izquierda significativa.",
+      "3. Una hipertensión pulmonar primaria.",
+      "4. Una miocardiopatía hipertrófica obstructiva.",
+      "5. Una pericarditis constrictiva."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta en la que la técnica de examen puede ayudar mucho. Nos preguntan por la cardiopatía que tendrá mucha ascitis, y nos presentan tres cardiopatías 'izquierdas' (estenosis aórtica, miocardiopatía hipertrófica, miocardiopatía dilatada) y dos cardiopatías 'derechas' (hipertensión pulmonar y pericarditis constrictiva). Nos quedaremos, evidentemente, con las cardiopatías derechas, que son las que tienen como síntoma típico la ascitis. En cuanto a la respuesta correcta, es la pericarditis constrictiva la que se asocia típicamente a ascitis recidivante, rebelde al tratamiento, y que suele ser desproporcionada para el grado de edemas periféricos (en miembros inferiores) del paciente.</p>"
   }
 ]
