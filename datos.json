@@ -2113,5 +2113,54 @@
     ],
     "correcta": 3,
     "comentario": "<p>Pregunta sencilla. Puede parecer un caso enrevesado, pero se trata de una paciente con una cardiopatía congénita ('soplo en la infancia'), y en el enunciado nos dan una información definitiva: la presencia en el MIR de un desdoblamiento amplio y fijo del segundo tono cardiaco es sinónimo de comunicación interauricular. El resto de datos concuerdan con dicha sospecha: hay un soplo sistólico pulmonar por hiperaflujo, no hay cianosis (es una cardiopatía no cianógena a menos que se desarrolle hipertensión pulmonar), y en el ECG hay bloqueo de rama derecho y eje eléctrico del QRS desviado a la derecha (>90º).</p>"
+  },
+
+{
+    "tema": "Tema 14. Enfermedades de las venas y linfáticos",
+    "pregunta": "1. Mujer de 75 años con antecedentes de insuficiencia venosa crónica que acude a urgencias por edema unilateral infrapoplíteo de extremidad inferior derecha, diagnosticándose de trombosis venosa profunda de venas gemelares derechas. Dado que no presenta ninguna otra comorbilidad ni clínica de embolia pulmonar se plantea el alta hospitalaria con tratamiento y seguimiento en consultas externas. ¿Cuál de estos fármacos es el MENOS indicado para iniciar tratamiento anticoagulante?:",
+    "opciones": [
+      "1. Rivaroxaban.",
+      "2. Enoxaparina.",
+      "3. Acenocumarol.",
+      "4. Fondaparinux."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Las trombosis venosas profundas (TVP) se tratan con anticoagulación: durante 3 meses en casos de causas reversibles, 6-12 meses en casos idiopáticos, o de por vida en pacientes con causas no reversibles o con TVP recurrente. En cuanto a los fármacos anticoagulantes, pueden utilizarse heparinas de bajo peso molecular, fondaparinux, o anticoagulantes de acción directa (más utilizados en la actualidad). El acenocumarol está en desuso, pero si se utiliza, siempre se debe comenzar con HBPM y, tras unos días, iniciar acenocumarol (INR objetivo 2-3), dado que es protrombótico los primeros días de administración.</p>"
+  },
+  {
+    "tema": "Tema 14. Enfermedades de las venas y linfáticos",
+    "pregunta": "2. Mujer de 43 años, nadadora profesional, sin antecedentes de interés, que refiere hinchazón y pesadez de brazo derecho de 72 horas de evolución. En la exploración destaca edema de miembro superior derecho con presencia de venas dilatadas en región pectoral. En relación con el enfoque diagnóstico, señale la respuesta INCORRECTA:",
+    "opciones": [
+      "1. El eco-Doppler color es de gran valor como primera prueba diagnóstica.",
+      "2. Debe realizarse una radiografía simple de tórax para detectar anomalías óseas.",
+      "3. La angio-TC permite el diagnóstico de confirmación.",
+      "4. Debe realizarse una flebografía para confirmar la presencia de trombosis venosa axilosubclavia."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta novedosa acerca de la trombosis venosa profunda de miembros superiores. El síndrome de Paget-Schroetter implica la trombosis venosa subclavia a nivel de la unión costoclavicular. En ese punto, la vena atraviesa un desfiladero óseo que le hace particularmente vulnerable a este nivel. Los movimientos reiterativos del brazo (como la natación) pueden dañar la íntima vascular a ese nivel estableciendo la lesión que precipita la trombosis. Este cuadro supone en torno al 30% de las TVP de miembros superiores y en torno al 3% del total de TVPs. El cuadro clínico consiste generalmente en dolor de la extremidad, tumefacción y circulación colateral a nivel de hombro y pecho. La ecografía es la prueba diagnóstica inicial, con una sensibilidad superior al 80%. Otras pruebas de imagen como la TC pueden ser útiles para descartar anomalías óseas o regionales que puedan precipitar sufrimiento venoso o para confirmar en casos de ecografía normal y sospecha alta. La flebografía es una prueba cruenta en desuso.</p>"
+  },
+  {
+    "tema": "Tema 14. Enfermedades de las venas y linfáticos",
+    "pregunta": "3. Mujer de 34 años, fumadora, sin antecedentes de interés ni toma de anticonceptivos, que acude a urgencias por presentar dolor en la pierna derecha de varias horas de evolución. La paciente refiere que está de vacaciones y ha estado paseando por la ciudad todo el día. En la exploración física sólo destaca la presencia de hinchazón en la región de la pantorrilla. Está preocupada porque una amiga, que es médico, le ha sugerido que puede ser una trombosis. ¿Cuál debe ser su proceder diagnóstico?:",
+    "opciones": [
+      "1. Dada la potencial gravedad de la enfermedad tromboembólica venosa y tratándose de una paciente joven hay que asegurarse que no tiene nada mediante la realización de un eco-doppler.",
+      "2. La paciente tiene una probabilidad previa baja en base a la historia y los hallazgos en la exploración, por lo que lo más adecuado es realizar una determinación de dímeros D, que, de ser negativos, descartarían la presencia de una trombosis venosa sin requerir pruebas adicionales.",
+      "3. Al no estar inmovilizada la probabilidad clínica de presentar una trombosis es muy baja, así que no requiere estudios adicionales.",
+      "4. En todos los pacientes en los que se sospeche una trombosis venosa aguda hay que realizar de forma urgente una determinación de dímeros-D para el diagnóstico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad intermedia. Se trata de un caso clínico de baja probabilidad pre-test de tener trombosis venosa profunda (TVP): mujer joven sin factores de riesgo, con dolor aparentemente mecánico, tras ejercicio físico, y con exploración física poco sugerente (tan solo presenta hinchazón en la pierna, no se indica que tenga calor o rubor local). El diagnóstico de la TVP se basa en la clínica, la determinación de D-dímeros y la ecografía. En este caso, en el que la probabilidad pre-test es baja, la mejor prueba complementaria es una determinación de D-dímeros, por su alto valor predictivo negativo. La ecografía se realizaría de entrada en casos de alta probabilidad pre-test.</p>"
+  },
+  {
+    "tema": "Tema 14. Enfermedades de las venas y linfáticos",
+    "pregunta": "4. La localización más frecuente de la trombosis venosa profunda es:",
+    "opciones": [
+      "1. Plexos venosos de los músculos sóleos.",
+      "2. Sector femoral en el muslo.",
+      "3. Sector iliaco.",
+      "4. Vena cava inferior."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La localización más frecuente de la trombosis venosa profunda es la pantorrilla (plexos venosos de los sóleos). No obstante, la pregunta es impugnable, dado que distintas series indican que la localización más frecuente es el territorio femoral superficial (en el muslo). Esto es así, de todos modos, porque dicha localización es la más frecuentemente diagnosticada con ecografía. La ecografía vascular detecta con buena sensibilidad trombos en la ingle (territorio femoral) o el hueco poplíteo, pero en las pantorrillas es más difícil. Además, los trombos limitados a las pantorrillas pueden ser subclínicos.</p>"
   }
 ]
