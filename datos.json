@@ -2310,5 +2310,170 @@
     ],
     "correcta": 0,
     "comentario": "<p>La histología típica de un granuloma es un agregado de histiocitos.</p>"
+  },
+
+{
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "1. Pregunta asociada a la imagen 16. (MIR2023) Varón de 40 años diabético e hipertenso que acude por presentar desde hace 3 meses lesiones eritematosas descamativas en las palmas y las plantas de entre 0,5 y 2 cm, asintomáticas. No tiene otras lesiones en el momento actual. ¿Ante este cuadro clínico, cuál de estas entidades sería la MENOS PROBABLE?:",
+    "opciones": [
+      "1. Psoriasis.",
+      "2. Liquen plano.",
+      "3. Sífilis.",
+      "4. Gonorrea."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Los clavos sifilíticos son una de las manifestaciones clínicas más específicas de la sífilis secundaria. Debe descartarse este diagnóstico ante la existencia de pápulas eritematodescamativas circulares a nivel palmoplantar. Su descamación –blanquecina y periférica, en forma de “collarete”– es un hallazgo sumamente característico de la enfermedad. No obstante, el objetivo de esta pregunta, más que pedir un diagnóstico afirmativo, es saber cuál es la opción “menos probable”. Debido al tipo de lesión elemental objetivada en la imagen, tanto la psoriasis como el liquen plano (dermatosis eritematodescamativas por excelencia) entrarían en el diagnóstico diferencial, siendo la gonorrea la opción menos compatible:</p><ul><li>La gonorrea es sinónimo de uretritis gonocócica (etimológicamente significa “flujo de semen”). La gran mayoría de los casos cursan con una secreción uretral purulenta muy abundante. Al no especificarse en el enunciado, debe asumirse que el paciente no ha tenido este síntoma.</li><li>Neisseria gonorrhoeae afecta a la piel en forma de infección gonocócica diseminada. En ella, se observan pápulas y, sobre todo, pústulas cutáneas rodeadas por un halo eritematoso (ausentes en la imagen).</li><li>La queratodermia blenorrágica es la manifestación cutánea clave de la artritis reactiva. Sus lesiones son difícilmente distinguibles de la psoriasis palmoplantar. Respecto a su etiología, se ha asociado tanto a infecciones gastrointestinales (por ejemplo, Yersinia enterocolitica) como a infecciones genitales no gonocócicas.</li></ul><p>Aun así, esta pregunta lleva a confusión, ya que el liquen plano no suele cursar con afectación palmoplantar; y, cuando lo hace, casi siempre es pruriginoso (90-94% de los casos lo son en las series publicadas). Por lo tanto, en esta pregunta debe elegirse entre una opción “imposible” (gonorrea) y una opción “poco probable” (liquen plano).</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "2. (MIR 2023) Mujer de 24 años intervenida hace un año de endometriosis tras presentar episodios de dolor abdominal intensos especialmente relacionados con el ciclo menstrual, acompañados ocasionalmente de náuseas y vómitos. A pesar de la intervención no ha apreciado ninguna mejoría, con progresivo empeoramiento y extensión del dolor a todo el cuerpo, junto con debilidad de extremidades. Los análisis rutinarios son normales, los anticuerpos antinucleares y el factor reumatoide son negativos, solo existe alguna analítica aislada con un Na de 132 mEq/L y alguna ALT (GOT) discretamente elevada. Ecografía abdominal y TC abdominopélvica recientes normales. Hace dos meses le diagnosticaron de depresión y fibromialgia. El tratamiento antidepresivo y analgésico con derivados opiáceos no parece tener ningún efecto. Lleva meses sin apenas levantarse de la cama. Nos piden una segunda opinión. Indica cuál de las siguientes pruebas diagnósticas deberíamos comprobar que ha sido realizada:",
+    "opciones": [
+      "1. Estudio del gen MEFV.",
+      "2. Porfobilinógeno y ácido aminolevulínico en orina.",
+      "3. Anticuerpos antimitocondriales en sangre.",
+      "4. Calprotectina en heces."
+    ],
+    "correcta": 1,
+    "comentario": "<p>En el enunciado exponen el cuadro sintomático de una mujer joven con dolor abdominal recurrente catamenial (relacionado con los ciclos menstruales), neuropatía sensitivo-motora (dolor y debilidad generalizados) y depresión grave, con gran dificultad para realizar las actividades básicas de la vida diaria. Aunque en la vida real llegar al diagnóstico certero sería complicado y requeriría un alto grado de pericia médica, en el MIR es fácil acertar esta pregunta por descarte:</p><ul><li>Las mutaciones en el gen MEFV se han asociado al desarrollo de fiebre mediterránea familiar (Opción 1 incorrecta). La sintomatología relatada no es compatible con esta enfermedad, ya que la paciente no ha presentado ni fiebre periódica, ni episodios recidivantes de serositis (ascitis o derrame pleural) ni placas cutáneas erisipeloides.</li><li>Los anticuerpos antimitocondriales son el pilar serológico más importante para establecer el diagnóstico de colangitis biliar primaria. Sin embargo, no tiene sentido solicitar esta determinación, ya que no tiene alteraciones en el perfil colestásico (la GGT y la FA no están alteradas).</li><li>Es poco probable que la paciente tenga un trastorno inflamatorio intestinal (como la EII), ya que no mencionan ni alteraciones en el ritmo de deposiciones, ni productos patológicos en las heces, ni manifestaciones mucocutáneas sugestivas (estomatitis aftosa, fístulas perianales o enterocutáneas, eritema nodoso, pioderma gangrenoso…) Por ello, la calprotectina fecal tiene escasa utilidad para poder alcanzar el diagnóstico.</li></ul><p>De este modo, podría seleccionarse la opción 2 por descarte. Las porfirias son un grupo de enfermedades (fundamentalmente genéticas, aunque hay variantes adquiridas) secundarias a déficits enzimáticos en la vía de la síntesis del grupo hemo. Esto condiciona la acumulación de metabolitos tóxicos (como el porfobilinógeno o el ácido aminolevulínico). Las manifestaciones clínicas serán diferentes según los productos sean hidrófilos o lipófilos. A pesar de que generalmente suelen cursar con manifestaciones cutáneas, hay dos formas exclusivamente viscerales (la porfiria aguda intermitente y el déficit de ALA sintetasa). Estas cursan típicamente con dolor abdominal, neuropatía proximal motora y manifestaciones psiquiátricas, que suelen aparecer precipitadas por diferentes factores, siendo uno de los más frecuentes la menstruación.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "3. (MIR 2019) Pregunta vinculada a la imagen n.º 16. Pintor de 30 años que acude a urgencias por cuadro de dolor abdominal acompañado de parestesias en extremidades. En la exploración física está agitado, con presión arterial de 185/100 mm Hg y frecuencia cardiaca de 120 lpm. Se recoge una muestra de orina (tubo A) y se añade un par de gotas de orina del paciente a una solución de p-dimetilamino benzaldehido en HCl (reactivo de Ehrlich) apreciándose un cambio de coloración (tubo B). Ante la sospecha clínica y en espera de la confirmación diagnóstica, ¿cuál es la actitud terapéutica más correcta?:",
+    "opciones": [
+      "1. Administrar soluciones glucosadas y hem arginato i.v.",
+      "2. Administrar edetato cálcico disódico i.v.",
+      "3. Iniciar tratamiento con fenoxibenzamida seguido de labetalol.",
+      "4. Iniciar terapia de sustitución enzimática con agalsidasaalfa."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta extremadamente difícil. Nos están contando un caso clínico de porfiria aguda intermitente, una enfermedad poco frecuente que se caracteriza por dolor abdominal y otra clínica acompañante más inespecífica como hipertensión, taquicardia, alteraciones neurológicas y psiquiátricas. Los niveles de porfobilinógeno en orina se elevan rápidamente en las crisis. Se recomienda la medición de la actividad enzimática y el mapeo de ADN para ayudar a confirmar el tipo de porfiria aguda y facilitar la identificación de familiares asintomáticos, pero podemos sospecharla tras observar un cambio de coloración en orina al añadir el reactivo de Ehrlich, como nos cuentan en la pregunta. La actitud más adecuada es iniciar rápidamente tratamiento con hem arginato IV.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "4. (MIR 2019) Hombre de 37 años que acude a la consulta por presentar unas lesiones papulosas de disposición arciforme, asintomáticas, en el dorso de la mano. El dermatólogo no le da ninguna importancia, aunque para confirmar el diagnóstico le realiza una biopsia cutánea donde aparte de otros signos, se aprecia necrobiosis del colágeno. El diagnóstico más probable es:",
+    "opciones": [
+      "1. Liquen plano.",
+      "2. Xantoma tuberoso.",
+      "3. Sarcoidosis cutánea.",
+      "4. Granuloma anular."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Nos están describiendo la lesión típica que corresponde a un granuloma anular. Recordad que la localización más típica es en el dorso de la mano. En la histología encontraremos necrobiosis del colágeno.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "5. (MIR 2017) Mujer de 45 años de edad, con antecedentes de xeroftalmía y xerostomía, que acude en julio del 2014 por presentar una erupción de lesiones eritematosas anulares, de bordes más activos, en escote y parte superior de la espalda desde hace 15 días, coincidiendo con unas vacaciones en Menorca. En el momento de la exploración observamos que algunas de las lesiones tienden a resolverse sin dejar cicatriz. Tiene buen estado general y el resto de la exploración física es normal. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Lupus eritematoso subagudo.",
+      "2. Tiña corporis.",
+      "3. Porfiria cutánea tarda.",
+      "4. Eritema anular centrífugo."
+    ],
+    "correcta": 0,
+    "comentario": "<p>El lupus cutáneo subagudo se presenta típicamente en mujeres jóvenes y zonas fotoexpuestas, a modo de lesiones eritematodescamativas con borde anular sobreelevado, que resuelven sin dejar cicatriz.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "6. (MIR 2015) Pregunta vinculada a la imagen n.º 14. Un hombre de 68 años consulta por una pérdida del estado general en forma de astenia y anorexia y pérdida de 12 Kg en los últimos tres meses. La exploración física únicamente muestra un paciente delgado y la lesión en la planta de los pies que puede observarse en la figura. ¿Cuál le parece el diagnóstico más probable y/o actitud más adecuada?:",
+    "opciones": [
+      "1. Buscaría factores de inmunodepresión, pues la lesión parece corresponder a una sarna noruega.",
+      "2. La lesión cutánea parece una callosidad en una zona de apoyo fisiológico, por lo que, de momento, no la consideraría relacionada con la pérdida del estado general.",
+      "3. La lesión sugiere una forma palmo-plantar de psoriasis.",
+      "4. Parece una forma de queratosis seborreica difusa asociada a la edad.",
+      "5. Sugiere una queratodermia plantar paraneoplásica."
+    ],
+    "correcta": 4,
+    "comentario": "<p>En la pregunta nos hablan de signos y síntomas de un síndrome constitucional (astenia, anorexia, pérdida de peso…), por lo que hay que sospechar un cuadro paraneoplásico. En la imagen se observa una hiperqueratosis plantar, lo que nos lleva definitivamente a marcar como correcta la opción 5.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "7. (MIR 2015) Pregunta vinculada a la imagen n.º 14. Supongamos que el paciente no refiere ningún antecedente familiar de interés, nunca ha tomado drogas ilícitas ni recibe tratamiento médico habitual. Una analítica realizada en una mutua privada muestra una anemia microcítica e hipocroma, una función tiroidea normal, una serología para el VIH negativa y una determinación de arsénico también negativa. La radiografía de tórax es normal. Para proseguir el estudio se podrían realizar numerosas pruebas. ¿Cuál cree Ud. que nos podría ayudar más en este momento?:",
+    "opciones": [
+      "1. Un aspirado de médula ósea.",
+      "2. Un estudio inmunológico completo con ANA, ANCA y complemento.",
+      "3. No haría más pruebas inmediatamente y seguiría la evolución clínica durante un mes.",
+      "4. Una fibrogastroscopia.",
+      "5. Una biopsia de la lesión plantar."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Aun sin saber a qué cuadro pertenece el caso descrito, nos dicen que el paciente presenta anemia microcítica, por lo que la primera prueba a realizar sería una endoscopia. Además, sabemos que la queratodermia palmoplantar paraneoplásica suele asociarse a neoplasias de vías aéreas o digestivas altas, lo que encaja perfectamente con la respuesta 4, donde nos indica solicitar una fibrogastroscopia. La histología es inespecífica y el resto de respuestas no nos aportan información relevante.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "8. (MIR 2015) El prurito es una manifestación típica de todas las siguientes enfermedades, salvo:",
+    "opciones": [
+      "1. Linfoma de Hodgkin.",
+      "2. Policitemia vera.",
+      "3. Micosis fungoide.",
+      "4. Mastocitosis sistémica.",
+      "5. Leucemia aguda mieloblástica."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta que se contesta por descarte: entre las enfermedades hematológicas en las que típicamente puede aparecer prurito destacan el linfoma de Hodgkin, la policitemia vera, la mastocitosis sistémica y la micosis fungoide. La leucemia aguda mieloblástica no parece asociarse con este síntoma (opción 5 correcta).</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "9. (MIR 2015) De los siguientes enunciados, uno NO es un desencadenante de las crisis abdominopsiconeurológicas en la porfiria aguda. Indique cuál:",
+    "opciones": [
+      "1. La fase lútea del ciclo menstrual.",
+      "2. Los fármacos inductores enzimáticos hepáticos.",
+      "3. Las infecciones.",
+      "4. Una dieta restrictiva en proteínas.",
+      "5. Los inhibidores de la proteasa empleados en la infección por el VIH."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta complicada porque es un tema poco preguntado en el MIR. Todas las opciones son potenciales desencadenantes de crisis de porfiria aguda, excepto la 4. El ayuno o las dietas hipocalóricas son un clásico desencadenante, pero se refiere especialmente a la dieta baja en hidratos de carbono, no de proteínas. Todas las demás son ciertas.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "10. (MIR 2015) ¿Cuál de los siguientes contextos clínicos debe hacernos sospechar un proceso paraneoplásico y, por tanto, nos obliga a realizar un despistaje de neoplasia maligna?:",
+    "opciones": [
+      "1. Niño de 13 años con púrpura palpable en miembros inferiores y nalgas, artralgias y dolor abdominal.",
+      "2. Hombre de 36 años con maculo-pápulas con ampolla central “en diana” en dorso manos, palmas y antebrazos con erosiones y ulceraciones en mucosa oral.",
+      "3. Mujer de 44 años con eritema en ambas regiones malares y dorso nasal, fotosensibilidad y eritema palmar en yemas de dedos de las manos.",
+      "4. Hombre de 27 años con máculas despigmentadas bien delimitadas de forma simétrica en región peribucal, periorbitaria y en la parte distal de dedos de manos y pies junto con alopecia en placa en región occipital con tallos pilosos cortos y rotos sin descamación ni eritema.",
+      "5. Mujer de 68 años con debilidad muscular progresiva en raíz de miembros, edema y exantema periorbitario violáceo y pápulas queratósicas en cara dorsal de las articulaciones interfalángicas."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Concepto ya preguntado en el MIR 2014. Nos están describiendo un eritema en heliotropo con pápulas de Gottron en una paciente con debilidad muscular proximal, por lo que el diagnóstico es de dermatomiositis, y obliga a descartar neoplasia en mayores de 40 años. Los tumores que más se asocian con la dermatomiositis paraneoplásica son los ginecológicos, sobre todo el de ovario. De las demás opciones, la 1 corresponde a una púrpura palpable (probablemente una púrpura de Schönlein-Henoch ya que se presenta en un niño que además presenta dolor abdominal); la 2 corresponde a un eritema multiforme; la 3, a un lupus; y la 4, a un paciente con vitíligo y alopecia areata.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "11. (MIR 2014) Pregunta vinculada a la imagen n.º 2. Mujer de 67 años con antecedentes de HTA mal controlada, en tratamiento con insulina por diabetes mellitus y controlada por un servicio de hematología para estudio de síndrome mielodisplásico. Hace 3 semanas inicia una lesión pustulosa de bordes necróticos que ha crecido hasta condicionar una gran úlcera con el aspecto que muestra la imagen adjunta. Dolor intenso. ¿Cuál de los siguientes diagnósticos le parece más probable?:",
+    "opciones": [
+      "1. Infiltración cutánea específica de su proceso mieloproliferativo.",
+      "2. Necrobiois lipoídica.",
+      "3. Úlcera por microangiopatía diabética.",
+      "4. Pioderma gangrenoso.",
+      "5. Úlcera hipertensiva."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Ante una úlcera dolorosa con fondo necrótico y bordes sobreelevados, en un paciente con sindrome mieloproliferativo, estamos en el MIR hablando de un pioderma gangrenoso. Recordad que tiene fenómeno de patergia positivo.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "12. (MIR 2014) Pregunta vinculada a la imagen n.º 2. El mismo tipo de patología puede darse en otros contextos. Señale en cuál de ellos es más probable:",
+    "opciones": [
+      "1. Hipotiroidismo.",
+      "2. Hipertiroidismo.",
+      "3. Colitis ulcerosa.",
+      "4. Esclerodermia.",
+      "5. Glucagonoma."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El pioderma gangrenoso es en el 50% de las ocasiones idiopático. El resto se asocia a otras enfermedades; la más frecuente es la colitis ulcerosa, aunque también se asocia a síndromes mieloproliferativos, la artritits reumatoide y la enfermedad de Behçet.</p>"
+  },
+  {
+    "tema": "Tema 2. Manifestaciones dermatológicas de enfermedades sistémicas",
+    "pregunta": "13. (MIR 2014) Pregunta vinculada a la imagen n.º 9. Para descartar situaciones que puedan simular las manifestaciones de la paciente y establecer un diagnóstico diferencial deberemos proseguir con el interrogatorio. Uno de los siguientes hábitos o antecedentes sería difícilmente relacionable con las alteraciones faciales observadas. Señale cuál: Asociada a la pregunta 17, con el enunciado siguiente: Una paciente de 64 años de edad consulta por fatigabilidad fácil de unos meses de evolución y pérdida del apetito, aunque no ha objetivado pérdida de peso. Nos llama la atención, al observarla, la facies que presenta (ver imagen). Antes de proseguir con el interrogatorio y la exploración clínica, se nos ocurre una hipótesis diagnóstica. ¿Cuál de las siguientes pruebas analíticas cree que nos orientaría mejor en nuestra sospecha diagnóstica?:",
+    "opciones": [
+      "1. Hábito de estirarse los pelos (tricotilomanía).",
+      "2. Una enfermedad de transmisión sexual.",
+      "3. Contacto con personas o áreas geográficas con lepra.",
+      "4. Ingesta de fármacos.",
+      "5. Antecedentes de hiperuricemia."
+    ],
+    "correcta": 4,
+    "comentario": "<p>En el diagnóstico diferencial de la madarosis (pérdida de pelo en las cejas o pestañas) deben incluirse: trastornos del tiroides (hipo e hipertiroidismo), enfermedades autoinmunes como el lupus cutáneo o la esclerodermia, enfermedades de la piel (dermatitis atópica...), sífilis, lepra, deficiencias nutricionales (hierro, zinc, marasmo...), la tricotilomanía, fármacos, tóxicos (talio, arsénico, bismuto...), o algunas neoplasias (sobre todo cutáneas y hematológicas). La hiperuricemia NO es una causa descrita.</p>"
   }
 ]
