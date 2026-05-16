@@ -2475,5 +2475,140 @@
     ],
     "correcta": 4,
     "comentario": "<p>En el diagnóstico diferencial de la madarosis (pérdida de pelo en las cejas o pestañas) deben incluirse: trastornos del tiroides (hipo e hipertiroidismo), enfermedades autoinmunes como el lupus cutáneo o la esclerodermia, enfermedades de la piel (dermatitis atópica...), sífilis, lepra, deficiencias nutricionales (hierro, zinc, marasmo...), la tricotilomanía, fármacos, tóxicos (talio, arsénico, bismuto...), o algunas neoplasias (sobre todo cutáneas y hematológicas). La hiperuricemia NO es una causa descrita.</p>"
+  },
+
+{
+    "tema": "Tema 3. Dermatosis eritematoescamosas",
+    "pregunta": "1. (MIR 2024) De las siguientes afirmaciones en relación con la psoriasis ¿cuál es la correcta?:",
+    "opciones": [
+      "1. El fenómeno de Koebner indica que la psoriasis es una enfermedad asociada a comorbilidades metabólicas y articulares.",
+      "2. El principal tratamiento sistémico de la psoriasis palmoplantar se basa en ciclos cortos de corticoides orales.",
+      "3. La psoriasis es un trastorno crónico inmunomediado, con una herencia autosómica recesiva y factores desencadenantes ambientales, como traumatismos, infecciones, medicamentos o estrés psicológico.",
+      "4. Los hallazgos histológicos típicos incluyen acantosis con crestas elongadas, hipogranulosis, hiper y paraqueratosis, vasos dilatados y agregados de neutrófilos en la epidermis."
+    ],
+    "correcta": 3,
+    "comentario": "<p>La anatomía patológica de la psoriasis se caracteriza por una hiperplasia epidérmica con hiperqueratosis orto- y paraqueratósica, hipogranulosis y acúmulos focales de neutrófilos, proliferación y tortuosidad de los vasos papilares en la dermis (respuesta 4 correcta). El fenómeno de Koebner es típico de la psoriasis y de algunas otras dermatosis inflamatorias pero no se asocia a comorbilidades metabólicas ni articulares (opción 1 incorrecta). Los corticoides orales no son el tratamiento de elección en la psoriasis e incluso clásicamente se han relacionado con rebrotes pustulosos (opción 2 incorrecta). Si bien es frecuente que exista cierta agregación familiar, la psoriasis no sigue un patrón de herencia mendeliano (opción 3 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 3. Dermatosis eritematoescamosas",
+    "pregunta": "2. (MIR 2021) Pregunta vinculada a la imagen n.º 10. Varón de 45 años, diabético e hipertenso que acude porque desde hace 3 meses presenta placas eritematosas con descamación blanca en cuero cabelludo, tronco, rodillas y codos (ver imagen), con afectación de 4 uñas de las manos. Refiere prurito y decaimiento. ¿Cuál de las siguientes opciones terapéuticas es la más adecuada?:",
+    "opciones": [
+      "1. Prednisona oral.",
+      "2. Leflunomida.",
+      "3. Adalimumab.",
+      "4. Rituximab."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Nos describen y nos muestran claramente una psoriasis en placas bastante extensa; entre los fármacos que nos indican, el único que tiene aprobación para la psoriasis es el adalimumab. Aunque no sería probablemente el fármaco de primera elección en este caso, ya que probaríamos antes con tratamientos sistémicos como el metotrexato, retinoides, ciclosporina, o con fototerapia, en este caso es la única respuesta que tenemos correcta. Recordad que los corticoides orales no se utilizan en la psoriasis en placas, la leflunomida se utiliza en artritis psoriásica pero no tiene efecto a nivel cutáneo y el rituximab no está tampoco indicado para la psoriasis.</p>"
+  },
+  {
+    "tema": "Tema 3. Dermatosis eritematoescamosas",
+    "pregunta": "3. (MIR 2018) Pregunta vinculada a la imagen n.º 26. Hombre de 26 años que presenta desde hace 7 años brotes de placas eritemato-escamosas en el cuero cabelludo, codos, región sacra, periumbilical y rodillas. Ha seguido diferentes tratamientos (acitretino, metotrexate, ciclosporina, fototerapia) que han sido tan solo parcialmente eficaces o le han causado efectos adversos. ¿Cuál de los siguientes fármacos tiene indicación aprobada para nuestro paciente?:",
+    "opciones": [
+      "1. Abatacept.",
+      "2. Ustekinumab.",
+      "3. Leflunomida.",
+      "4. Tocilizumab."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Se trata de un paciente con placas eritematodescamativas en piernas, compatibles clínicamente con una psoriasis. Ha realizado ya varios tratamientos sistémicos, por lo que nos proponen otras alternativas terapéuticas. De ellas, sólo el ustekinumab está aprobado para psoriasis. Ustekinumab es un tratamiento biológico anti IL 12 y 23.</p>"
+  },
+  {
+    "tema": "Tema 3. Dermatosis eritematoescamosas",
+    "pregunta": "4. (MIR 2016) El virus de la hepatitis C se ha descrito como uno de los factores implicados en la etiopatogenia de los siguientes procesos, EXCEPTO en uno:",
+    "opciones": [
+      "1. Crioglobulinemia mixta.",
+      "2. Porfiria cutánea tarda.",
+      "3. Liquen plano.",
+      "4. Psoriasis pustulosa generalizada de von Zumbuch."
+    ],
+    "correcta": 3,
+    "comentario": "<p>En ningún tipo de psoriasis se ha descrito el virus de la hepatitis C como implicado en su etiología. Todas las demás pueden estar relacionadas con este virus.</p>"
+  },
+  {
+    "tema": "Tema 3. Dermatosis eritematoescamosas",
+    "pregunta": "5. (MIR 2016) Un paciente acude a urgencias por presentar una eritrodermia con fiebre y malestar general. En la exploración se aprecia en las uñas la presencia de piqueteado ungueal y unas zonas amarillentas distales en mancha de aceite. ¿Cuál es la enfermedad primaria que ha originado el cuadro?:",
+    "opciones": [
+      "1. Linfoma cutáneo.",
+      "2. Dermatitis atópica.",
+      "3. Psoriasis.",
+      "4. Ictiosis."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Todas las opciones podrían presentarse clínicamente como una eritrodermia, y si no nos dieran más datos no podríamos contestar la pregunta. Sin embargo, las alteraciones ungueales, con el piqueteado ungueal y la “mancha de aceite” hacen que nos decantemos por psoriasis como la enfermedad primaria que presenta el paciente.</p>"
+  },
+  {
+    "tema": "Tema 4. Dermatosis ampollares",
+    "pregunta": "1. (MIR 2024) Las siguientes enfermedades sistémicas pueden cursar con síntomas otorrinolaringológicos. Señale aquella que puede afectar con mayor frecuencia (aproximadamente 70-80 % de los casos) a la cavidad nasal, la cavidad bucal y la orofaringe, y que en la mitad de los casos puede existir también afectación laríngea:",
+    "opciones": [
+      "1. Penfigoide.",
+      "2. Policondritis recidivante.",
+      "3. Sarcoidosis.",
+      "4. Pénfigo."
+    ],
+    "correcta": 3,
+    "comentario": "<p>La dermatosis ampollosa que cursa más frecuentemente con afectación mucosa es el pénfigo vulgar (opción 4 correcta). La mayoría de los pacientes presentan estomatitis erosiva, siendo común la extensión a otras mucosas. La opción 1 (penfigoide) es incorrecta. La afectación de mucosas en el penfigoide ampolloso es más infrecuente (10-30%) y suele estar limitada a la cavidad oral. El penfigoide de membranas mucosas afecta frecuentemente a la mucosa oral (60-90%) y conjuntival (40-65%), pero es más raro que se extienda a otras localizaciones. La afectación oral en la policondritis recidivante y en la sarcoidosis es excepcional (opciones 2 y 3 incorrectas).</p>"
+  },
+  {
+    "tema": "Tema 4. Dermatosis ampollares",
+    "pregunta": "2. (MIR 2020) Pregunta vinculada a la imagen n.º 5. Mujer de 50 años, sin antecedentes de interés, que presenta desde hace 3 meses unas lesiones dolorosas en la boca (lengua, paladar, mucosa oral) que no han mejorado a pesar de haber realizado múltiples tratamientos tópicos. Las lesiones le dificultan la ingesta y refiere haber perdido 7 kg de peso. En las últimas semanas le han aparecido unas lesiones en el tronco y en la exploración se observan varias erosiones y alguna costra. Al frotar alrededor de las erosiones la piel vecina se despega fácilmente. ¿Cuál de los siguientes hallazgos NO encontraríamos en esta paciente?:",
+    "opciones": [
+      "1. Depósitos de IgG y C3 en la membrana basal.",
+      "2. Depósitos de IgG y C3 intercelulares.",
+      "3. Anticuerpos frente a la desmogleína 1.",
+      "4. Anticuerpos frente a la desmogleína 3."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Nos describen una paciente de edad media con erosiones en boca y posteriormente en tronco, con despegamiento de la piel al frotar la piel perilesional (signo de Nikolsky). Es la descripción típica del pénfigo vulgar. La opción falsa es la 1, que corresponde a un penfigoide ampolloso. Todos los demás hallazgos podríamos encontrarlos en un pénfigo vulgar.</p>"
+  },
+  {
+    "tema": "Tema 4. Dermatosis ampollares",
+    "pregunta": "3. (MIR 2017) Pregunta vinculada a la imagen n.º 10. Mujer de 80 años con antecedentes de hipertensión arterial, dislipemia y artrosis cervical en tratamiento con enalapril/hidroclorotiazida y simvastatina desde hace años y esporádico con paracetamol. Consulta por lesiones cutáneas pruriginosas en tronco y extremidades de 2 semanas de evolución para las que no ha realizado tratamiento médico (Imagen). La paciente se encuentra hemodinámicamente estable y afebril cuando acude al servicio de urgencias. Señale la opción correcta:",
+    "opciones": [
+      "1. En la biopsia cutánea realizada de una lesión de reciente aparición esperaría encontrar espongiosis epidérmica, vesículas espongióticas y un infiltrado eosinofílico.",
+      "2. Las lesiones son compatibles con una pustulosis exantemática aguda generalizada por lo que iniciaría tratamiento con amoxicilina/clavulánico por vía oral.",
+      "3. Con la sospecha de una enfermedad ampollosa autoinmune se realiza una biopsia de las lesiones para inmunofluorescencia directa. Se cursa ingreso hospitalario y se inicia tratamiento con prednisona a dosis de 1mg/kg/día.",
+      "4. Con la sospecha de eccema diseminado se realiza biopsia de lesiones para hematoxilinaeosina y se inicia tratamiento con prednisona a dosis de 1mg/kg/día."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta controvertida. Nos comentan una paciente de edad avanzada con lesiones pruriginosas. Aunque en la imagen las lesiones no son las más típicas de penfigoide, porque no se ven ampollas tensas sino más bien erosiones, el hecho de ser una paciente de edad avanzada con lesiones pruriginosas y sin afectación de mucosas nos orienta más a penfigoide. En cualquier caso pensaríamos en una enfermedad ampollosa, por lo que dada la extensión de las lesiones lo correcto sería ingresar para tratamiento con corticoides y estudio. Es una pregunta controvertida porque en el caso de haber sido un penfigoide, en su fase inicial eccematosa podría mostrar la histología comentada en la respuesta 1, pero nos parece que la respuesta 3 es más correcta.</p>"
+  },
+  {
+    "tema": "Tema 4. Dermatosis ampollares",
+    "pregunta": "4. (MIR 2015) ¿Cuál de las siguientes enfermedades cutáneas está asociada con la enfermedad celíaca?:",
+    "opciones": [
+      "1. Dermatitis atópica.",
+      "2. Dermatitis herpetiforme.",
+      "3. Moluscum contagioso.",
+      "4. Granuloma anular.",
+      "5. Rosácea."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta clásica del MIR donde nos preguntan por la asociación entre dermatitis herpetiforme (recordad que es una enfermedad ampollosa que se manifiesta como placas simétricas en codos, rodillas y zona lumbar, muy pruriginosas) y la enfermedad celiaca. Por este motivo, como parte del tratamiento de la dermatitis herpetiforme hay que realizar una dieta exenta de gluten.</p>"
+  },
+  {
+    "tema": "Tema 4. Dermatosis ampollares",
+    "pregunta": "5. (MIR 2014) Ante un paciente con sospecha de penfigoide ampolloso, ¿cuál de las siguientes pruebas deberíamos realizar para confirmar el diagnóstico?:",
+    "opciones": [
+      "1. Dermatoscopia.",
+      "2. Cultivo del contenido de una ampolla.",
+      "3. Biopsia de la piel para cultivo.",
+      "4. Biopsia de la piel para estudio histológico e inmunofluorescencia directa.",
+      "5. Analítica con determinación de anticuerpos antinucleares y anti DNA."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Para diagnosticar una enfermedad ampollosa es importante realizar una biopsia para estudio anatomopatológico y así determinar si la ampolla es intra o subepidérmica, y otra biopsia para realizar inmunofluorescencia directa (IFD) y así determinar qué inmunoglobulina se deposita y dónde lo hace, así como el C3. Igualmente siempre tenemos que tener en cuenta la clínica de presentación, la edad y antecedentes. En el caso del pemfigoide ampolloso las ampollas son subepidérmicas con eosinófilos, y en la IFD se deposita IgG y/o C3 en la membrana basal. Habitualmente se presenta en ancianos en forma de ampollas tensas sobre piel urticariforme muy pruriginosas.</p>"
+  },
+  {
+    "tema": "Tema 5. Paniculitis",
+    "pregunta": "1. (MIR 2018) Un hombre de 74 años acude a su consulta por presentar síndrome constitucional con pérdida de 5 kilos de peso en el último mes, junto a astenia. Refiere que en las tres últimas semanas, además, ha observado la aparición de lesiones rojizas en piernas que en ocasiones drenan un material oleoso, asociándose también dolor abdominal y costal, así como dolor y rubor en tobillos y rodillas. Usted decide realizar una biopsia y observa que en el tejido celular subcutáneo aparecen “células fantasma”. Las manifestaciones clínicas del paciente y este hallazgo de la biopsia cutánea le llevará a realizar una de las siguientes pruebas para hacer el diagnóstico definitivo:",
+    "opciones": [
+      "1. Endoscopia digestiva: adenocarcinoma gástrico.",
+      "2. TC abdominal: cáncer de páncreas.",
+      "3. TC torácico: sarcoidosis ganglionar (síndrome de Löfgren).",
+      "4. Cultivo de los nódulos cutáneos: tuberculosis cutánea (lupus vulgar)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Se trata de un paciente con síndrome constitucional, dolor abdominal y que presenta lesiones tipo paniculitis en las que se detectan células fantasma. Dichas células nos deben hacer pensar en una pancreatitis o un cáncer pancreático.</p>"
   }
 ]
