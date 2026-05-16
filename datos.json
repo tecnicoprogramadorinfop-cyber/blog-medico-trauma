@@ -2610,5 +2610,430 @@
     ],
     "correcta": 1,
     "comentario": "<p>Se trata de un paciente con síndrome constitucional, dolor abdominal y que presenta lesiones tipo paniculitis en las que se detectan células fantasma. Dichas células nos deben hacer pensar en una pancreatitis o un cáncer pancreático.</p>"
+  },
+
+{
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "1. (MIR 2024) Ante un caso de sarna en un paciente inmunocompetente, señale la respuesta INCORRECTA:",
+    "opciones": [
+      "1. El tratamiento de elección es permetrina tópica al 5 % desde la línea mandibular hasta los dedos de los pies, dejando actuar entre 8 y 14 horas.",
+      "2. Es preciso lavar la ropa usada en las 48 horas previas y otras ropas del hogar al menos a 50 grados, lavado en seco o en su defecto poner la ropa en bolsas de plástico durante 15 días, para eliminar el parásito correctamente.",
+      "3. La medida del efecto terapéutico del tratamiento es a través de la desaparición del picor en las primeras 48 horas.",
+      "4. En caso de fracaso del tratamiento tópico o sarna nodular, el tratamiento de elección en nuestro entorno es la ivermectina oral en dosis única."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El picor y las lesiones cutáneas de la escabiosis son secundarios a una reacción de hipersensibilidad de tipo IV frente al ácaro, sus huevos o los escíbalos. Por ello, es típico que puedan persistir hasta 2-4 semanas después de haber alcanzado la curación parasitológica (opción 3 incorrecta). Según ficha técnica, la ivermectina solo debe repetirse a las 2 semanas si no se ha alcanzado la curación parasitológica (opción 4 incorrecta). No obstante, esta opción es polémica, ya que las guías española y europea recomiendan, en todos los casos, la administración de una segunda dosis de ivermectina a los 7-14 días. El resto de las opciones son verdaderas.</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "2. (MIR 2024) Paciente de 26 años sin antecedentes de interés que consulta por engrosamiento y cambio de color de la parte distal de la uña del dedo gordo del pie derecho. A la exploración se observa una muy probable onicomicosis de la uña, sin otras lesiones o uñas afectadas. Sobre esta situación clínica es cierto que:",
+    "opciones": [
+      "1. El tratamiento con amorolfina tópica al 5 % dos veces por semana por un periodo de 3 meses suele ser efectivo.",
+      "2. Si la lesión afectara la matriz ungueal el tratamiento debe prolongarse hasta los 6-9 meses.",
+      "3. El tratamiento oral de elección en este caso es la griseofulvina.",
+      "4. En casos de resistencia una opción es el tratamiento con itraconazol oral 200 mg cada 24 horas durante 12 semanas."
+    ],
+    "correcta": 3,
+    "comentario": "<p>La duración del tratamiento con antifúngicos tópicos en onicomicosis de uñas del pie debe ser de 9-12 meses (opción 1 incorrecta). La afectación de la matriz ungueal es indicación de tratamiento sistémico. Independientemente del principio activo escogido (terbinafina o itraconazol), su duración será habitualmente de 3 meses (opción 2 incorrecta). La griseofulvina no está comercializada en España (opción 3 incorrecta). La resistencia a tratamientos tópicos es indicación de manejo con terbinafina o itraconazol sistémicos (opción 4 correcta).</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "3. (MIR 2023) Respecto de la escabiosis o sarna, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "1. Es una infestación cutánea muy contagiosa causada por el Sarcoptes scabiei.",
+      "2. Se trata de una erupción polimorfa en la que confluyen lesiones producidas por el propio ácaro que se localizan en los pliegues interdigitales y las muñecas, y en menor medida en las axilas, en las mamas y en el pene.",
+      "3. En los casos muy persistentes del adulto las lesiones suelen generalizarse por el tronco y la cara.",
+      "4. El análisis mediante dermatoscopia del final del trayecto de un surco puede poner en evidencia el ácaro, que se ve en forma de ala delta."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La escabiosis o sarna (también conocida como 'picor de los 7 años') es una ectoparasitosis secundaria a la infestación epidérmica por Sarcoptes scabiei var. hominis. El ser humano es el único reservorio conocido del ácaro. El mecanismo de transmisión más importante es el contacto (> 15 minutos) directo con las lesiones cutáneas, aunque también se han descrito casos de adquisición por fómites. Presenta una alta tasa de contagio, ocasionando brotes epidémicos especialmente en viviendas hacinadas, residencias, albergues, centros penitenciarios e incluso hospitales (opción 1 correcta). En el tegumento cutáneo de los afectados se observan diferentes tipos de lesiones elementales (erupción polimorfa, opción 2 correcta): nódulos, pápulas, costras, escamas… Su presentación clínica es sumamente característica, debiendo descartarse escabiosis ante toda erupción pruriginosa con respeto cefálico (opción 3 incorrecta) y recrudecimiento nocturno del prurito. En la exploración dermatológica pueden observarse surcos acarinos, más frecuentemente en la superficie volar de las muñecas, pliegues interdigitales y pies (opción 2 correcta). Si se magnifican con la dermatoscopia, se observan túneles córneos curvilíneos repletos de aire, huevos y escíbalos (heces). En su extremo se visualiza la hembra (color marrón), a modo de 'tuneladora'. Este hallazgo se denomina 'signo del ala delta' (opción 4 correcta) y se considera patognomónico de la enfermedad.</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "4. (MIR 2020) En una paciente menor de edad, todas las infecciones siguientes se deben sospechar como causadas por contacto sexual, una vez que se ha descartado la transmisión perinatal. Solo una de ellas tiene un origen probablemente NO sexual en niñas pequeñas. Indique cuál:",
+    "opciones": [
+      "1. Neisseria gonorrhoeae faringea.",
+      "2. Chlamydia trachomatis genital.",
+      "3. Molluscum contagiosum del área genital.",
+      "4. Trichomona vaginalis."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Los moluscos contagiosos es una infección vírica típica de niños, que se transmite por contacto directo o a través de fomites. En adultos normalmente suele ser debido a transmisión sexual, y aunque puede ser sospechoso en niños si únicamente lo presentan en esa zona, normalmente en niñas pequeñas NO suele tener ese origen. Todas las demás opciones nos deben hacer sospechar como causadas por contacto sexual.</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "5. (MIR 2019) Pregunta vinculada a la imagen n.º 11. En relación a las lesiones dermatológicas de la imagen señale la respuesta correcta:",
+    "opciones": [
+      "1. Es una dermatosis producida por herpes virus.",
+      "2. El tratamiento de elección es imiquimod.",
+      "3. Se considera una zoonosis de frecuente trasmisión al ser humano.",
+      "4. Se incluye dentro de las enfermedades de transmisión sexual."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Las lesiones que vemos en la imagen son moluscos contagiosos, una infección vírica causada por un poxvirus (no herpes). No es una zoonosis, y se suele transmitir por contacto directo o por fómites. El imiquimod es una alternativa de tratamiento pero no es tratamiento de elección. Se puede plantear observación, ya que suelen remitir solos, u otros tratamientos como curetaje, crioterapia, tratamientos tópicos... La respuesta correcta es la 4. Aunque es una infección muy frecuente en niños, cuando afecta a adultos en zona genital se considera de transmisión sexual.</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "6. (MIR 2019) Pregunta vinculada a la imagen n.º 12. Hombre de 35 años diagnosticado de enfermedad de Hodgkin estadio IIB en tratamiento con quimioterapia protocolo ABVD. A los 7 días tras el 4º ciclo de tratamiento presenta la lesión cutánea de la imagen. Entre los antecedentes epidemiológicos se recoge que convive con un gato y que su hijo de 5 años ha presentado un cuadro mononucleósico reciente. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Infección diseminada por CMV.",
+      "2. Herpes zoster.",
+      "3. Síndrome de Sweet.",
+      "4. Toxicidad cutánea por bleomicina."
+    ],
+    "correcta": 1,
+    "comentario": "<p>En la imagen vemos lesiones siguiendo una distribución metamérica en un paciente inmunosuprimido. Aunque nos dan otros datos para intentar despistarnos, la opción correcta es que se trata de un herpes zoster. La imagen quizás no es la más adecuada ya que no se visualizan vesículas, pero en los estadios más iniciales en ocasiones sólo se ven placas eritematoedematosas. La pista está en que siguen una distribución metamérica y estamos ante un paciente inmunodeprimido.</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "7. (MIR 2016) Un hombre de 58 años refería una historia de 3 semanas de evolución con lesiones cutáneas progresivas, medianamente dolorosas, en su brazo izquierdo. Había empezado como una lesión eritematosa en su pulgar izquierdo. Tenía unas estrías rojizas visibles como líneas de conexión entre las lesiones. El paciente no presentaba fiebre ni otros síntomas generales. Había estado trabajando en su jardín pero no recordaba haberse hecho ninguna herida. El diagnóstico etiológico se realizó por cultivo de una biopsia cutánea. ¿Cuál es el agente causal más probable de este proceso?:",
+    "opciones": [
+      "1. Dermatofitosis por Microsporum gypseum.",
+      "2. Infección cutánea por Staphylococcus aureus.",
+      "3. Esporotricosis.",
+      "4. Infección cutánea por Mycobacterum marinum."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La esporotricosis es una micosis subcutánea que aparece típicamente en jardineros, por inoculación de esporas tras un pinchazo accidental en manos o antebrazo. El cuadro clínico es bastante característico: en el lugar del pinchazo aparece una lesión ulcerada de evolución tórpida que se asocia a adenopatías y linfangitis regional, en la pregunta referida como 'estrías rojizas visibles como líneas de conexión entre las lesiones'. El Mycobacterium marinum, que origina el granuloma de los acuarios, también puede originar un patrón esporotricoide pero nos indicarían contacto con aguas o peceras.</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "8. (MIR 2016) Ante un paciente de 8 años de edad que acude por presentar desde hace 3 días lesiones pustulosas superficiales, erosiones y costras amarillentas alrededor de la boca pensaremos en:",
+    "opciones": [
+      "1. Eritema exudativo multiforme.",
+      "2. Impétigo contagioso.",
+      "3. Acné infantil.",
+      "4. Psoriasis pustuloso."
+    ],
+    "correcta": 1,
+    "comentario": "<p>El impétigo contagioso es una infección típicamente de la infancia que está causada habitualmente por el S. aureus o estreptococos del grupo A. La clínica se caracteriza por presentar costras melicéricas alrededor de los orificios naturales de la cara.</p>"
+  },
+  {
+    "tema": "Tema 6. Enfermedades infecciosas",
+    "pregunta": "9. (MIR 2014) Joven de 24 años que a los 3 días de un contacto sexual de riesgo presenta numerosas lesiones pustulosas, pequeñas, muy pruriginosas y que evolucionan a diminutas erosiones afectando todo el glande y cara interna del prepucio. Señale cuál es, entre las siguientes, la orientación diagnóstica más probable:",
+    "opciones": [
+      "1. Candidiasis genital.",
+      "2. Chancroide.",
+      "3. Sífilis secundaria.",
+      "4. Balanitis por Tricomonas.",
+      "5. Infección fúngica por dermatofitos."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La balanitis candidiásica es más frecuente en hombres no circuncidados. El coito con una mujer infectada es un factor de riesgo aunque también existen infecciones sin contacto sexual. Clínicamente observamos pápulas umbilicadas y pústulas eritematosas y dolorosas en el glande, que son maceradas por el prepucio sobreadyacente para originar erosiones. En ocasiones pueden formarse fisuras o úlceras.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "1. (MIR 2024) Pregunta asociada a la imagen 3. Hombre de 75 años, sin antecedentes personales de interés, agricultor jubilado, que acude a la consulta refiriendo que en los últimos 10 años ha notado la aparición progresiva en cuero cabelludo (es calvo desde hace años) de pequeñas placas eritematosas, muchas de ellas con descamación y rasposas al tacto, siendo la mayoría asintomáticas, si bien alguna le molesta al tacto. Ante este cuadro clínico y la imagen ¿cuál de los siguientes sería el diagnóstico?:",
+    "opciones": [
+      "1. Dermatitis seborreica.",
+      "2. Queratosis actínica.",
+      "3. Liquen nitidus.",
+      "4. Psoriasis."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Ante la aparición de pápulas y placas eritematodescamativas de tacto rasposo en personas de edad avanzada y zonas crónicamente fotoexpuestas como la cara o el cuero cabelludo debemos pensar por su incidencia en queratosis actínicas (respuesta 2 correcta). Aun siendo asintomáticas y pese a que el riesgo de transformación a carcinoma espinocelular es relativamente bajo (se estima <10%), se trata de lesiones premalignas que por ende se recomienda tratar, bien con técnicas ablativas (como la crioterapia) o con tratamientos del campo de cancerización (como el imiquimod, el 5-fluorouracilo, la terapia fotodinámica o la tirbanibulina) cuando el área de daño actínico es muy extensa. La palpación de lesiones muy sobreelevadas, irregulares o infiltradas debe hacernos plantear la posibilidad de un carcinoma epidermoide establecido, que puede descartarse mediante biopsia. La psoriasis (con grandes placas bien delimitadas y descamación gruesa plateada) y la dermatitis seborreica (lesiones descamativas de tacto untuoso) pueden afectar también al cuero cabelludo pero son dermatosis inflamatorias de inicio más precoz y curso en brotes (opciones 1 y 4 incorrectas). El liquen nitidus es otra dermatosis inflamatoria poco frecuente, más habitual en fototipos altos, que cursa con aparición de micropápulas brillantes de color carne poco sintomáticas, que se localizan sobre todo en tronco y extremidades y tienden a resolverse de forma espontánea (opción 3 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "2. (MIR 2024) Pregunta asociada a la imagen 23. Mujer de 84 años que consulta a su médico de familia por la lesión en el párpado inferior de 2 meses de evolución que aparece en la imagen. ¿Cuál de los siguientes diagnósticos es el más probable?:",
+    "opciones": [
+      "1. Carcinoma basocelular ulcerado.",
+      "2. Blefaritis.",
+      "3. Orzuelo externo.",
+      "4. Dermatitis eccematosa."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La aparición de una lesión de estas características (pápula perlada brillante de bordes bien definidos con telangiectasias en superficie), en áreas de piel sana pero crónicamente fotoexpuesta, y especialmente en personas de edad avanzada, debe hacernos pensar en un carcinoma basocelular (opción 1 correcta). Se trata de neoplasias malignas de crecimiento lento (meses o años) que ocasionalmente pueden ulcerarse produciendo costras y/o sangrado leve. El tratamiento de elección es la cirugía. Un crecimiento y/o ulceración más rápidos pueden plantarnos el diagnóstico diferencial con un queratoacantoma. Para distinguirlos es útil recurrir a la dermatoscopia (donde la presencia de hallazgos como vasos arboriformes, estructuras en hoja o rueda de carro o nidos ovoides puede orientarnos hacia un carcinoma basocelular). Los orzuelos tienen un patrón de instauración más agudo que habitualmente asocia flogosis, no son tan superficiales y están peor delimitados (respuesta 3 incorrecta). Por su parte, las blefaritis o dermatitis de los párpados (respuestas 2 y 4 superponibles y por tanto incorrectas) tampoco estarían bien delimitadas y se caracterizan por prurito y descamación.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "3. (MIR 2024) Mujer de 71 años con fototipo II e intenso daño actínico y antecedentes personales de melanoma in situ en la espalda, tres carcinomas basocelulares en la cara y un carcinoma epidermoide en el brazo. Consulta por una lesión pigmentada en la pierna. Tras la extirpación de la lesión, la histopatología muestra un melanoma de extensión superficial Breslow 0,6 milímetros sin ulceración ni regresión. ¿Cuál es la actitud recomendada?:",
+    "opciones": [
+      "1. Realizar una cirugía con ampliación de márgenes de 1 cm.",
+      "2. Realizar una cirugía con ampliación de márgenes de 1 cm y biopsia de ganglio centinela.",
+      "3. Dado que es un segundo melanoma requiere tratamiento con la terapia dirigida dabrafenib + trametinib.",
+      "4. Dado que tiene múltiples tipos de cáncer cutáneo se podría beneficiar de un tratamiento con inmunoterapia, como nivolumab o pembrolizumab."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Ante un diagnóstico de melanoma debemos plantearnos siempre cuánto ampliar los márgenes quirúrgicos y cómo abordar la posible extensión ganglionar. La ampliación de márgenes dependerá exclusivamente del Breslow, siendo 1 cm una magnitud adecuada para melanomas invasores con Breslow entre 0 y 1 mm (opción 1 correcta). En caso de no detectar adenopatías palpables (como sugiere el enunciado), se recomienda insistir en la búsqueda realizando una biopsia de ganglio centinela en aquellos melanomas ulcerados o con Breslow mayor o igual a 0.8 mm (respuesta 2 incorrecta). Los antecedentes personales de melanoma (excepto si la lesión actual fuera una metástasis del primero) o de otros cánceres cutáneos, que además en este caso ya se han resuelto, no justifican el uso de terapias dirigidas ni inmunoterapia (opciones 3 y 4 incorrectas).</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "4. (MIR 2022) Pregunta vinculada a la imagen n.º 5. Mujer de 90 años de edad que presenta desde hace un mes y medio la lesión de la imagen. La lesión ha crecido rápidamente, sangra con facilidad y le ocasiona ligero dolor. De entre las siguientes opciones ¿cuál es la más probable?:",
+    "opciones": [
+      "1. Carcinoma de células escamosas cutáneo invasivo.",
+      "2. Carcinoma basocelular esclerodermiforme.",
+      "3. Sarcoma de Kaposi.",
+      "4. Lupus vulgar."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Nos preguntan por un paciente de edad avanzada con una lesión cutánea de aspecto tumoral, queratósica, que refieren sangra con facilidad y le produce dolor. Aunque clínicamente no nos genera muchas dudas con un epitelioma basocelular, el tiempo de evolución tan corto ya nos confirmaría que debe tratarse de un carcinoma escamoso. El sarcoma de Kaposi y el lupus vulgar clínicamente son muy diferentes.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "5. (MIR 2022) Pregunta vinculada a la imagen n.º 6. Mujer de 70 años que consulta por lesiones cutáneas de 1 año de evolución, sin otra sintomatología asociada. Niega antecedentes personales de interés. En la exploración presenta 20 placas eritematosas finamente descamativas y discretamente atróficas, de tamaños de 4 a 10 cm en glúteos, ambas axilas y mamas, sin otros hallazgos. La anatomía patológica muestra un infiltrado en dermis superficial de linfocitos atípicos en banda, con marcado epidermotropismo y formación de microabscesos intraepidérmicos. La analítica sanguínea completa fue normal. De los siguientes ¿cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Linfoma de Hodgkin cutáneo.",
+      "2. Síndrome de Sézary.",
+      "3. Linfoma no Hodgkin cutáneo tipo T.",
+      "4. Psoriasis pustulosa."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Nos preguntan por una paciente con lesiones que describen como placas finas descamativas, en cuya histología se pueden observar linfocitos atípicos, epidermotropismo (¡palabra clave!) y microabscesos intraepidérmicos (de Pautrier). No son placas eritematodescamativas ni con pústulas para pensar en psoriasis (aunque la presencia de linfocitos atípicos en la histología ya nos harían descartarla como opción). Nos falta una eritrodermia y afectación en sangre para pensar en síndrome de Sézary. Estamos ante una micosis fungoide, un linfoma no Hodgkin de linfocitos T.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "6. (MIR 2021) Pregunta vinculada a la imagen n.º 9. Mujer de 85 años, trabajadora del campo jubilada, que presenta desde hace un año y medio en la nariz una lesión papulosa, redondeada y brillante que le sangra con facilidad y crece lentamente. De entre las opciones señaladas, ¿cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Queratoacantoma.",
+      "2. Carcinoma basocelular.",
+      "3. Queratosis actínica hipertrófica.",
+      "4. Herpes simple crónico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Imagen y pregunta que describe perfectamente un carcinoma basocelular, tumor de queratinocitos basales con las características de pápula perlada o brillante y que crece lentamente durante años, siendo difícil que dé metástasis. Los queratoacantomas son lesiones de rápido crecimiento que suelen presentar un tapón córneo central que deja imagen crateriforme. Las queratosis actínicas hipertróficas suelen ser más rasposas, escamosas o costrosas y pequeñas, y suelen tener aspecto de cuerno cutáneo. La opción de herpes simple debería tener vesículas.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "7. (MIR 2021) ¿Cuál de los siguientes criterios diagnósticos es considerado como criterio mayor para realizar el diagnóstico de mastocitosis sistémica?:",
+    "opciones": [
+      "1. Triptasa sérica total superior a 20 ng/ml.",
+      "2. Infiltrados densos multifocales de mastocitos (>15 mastocitos por agregado) en médula ósea u otros tejidos extracutáneos.",
+      "3. Fenotipo superficial de mastocitos anómalos con expresión de CD25 o CD2 o ambos.",
+      "4. Morfología alterada de los mastocitos (fusiformes, núcleo excéntrico bilobulado o multilobulado, citoplasma hipogranulado)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sobre una mastocitosis sistémica, en donde hay un incremento de mastocitos, células que se originan en la médula ósea, por lo que la demostración de este incremento de mastocitos en médula ósea o en otros tejidos extracutáneos mediante biopsia será el criterio diagnóstico mayor. Todo el resto de respuestas son criterios menores que nos orientan el diagnóstico. En las mastocitosis cutáneas hay un aumento de mastocitos en la piel, y las lesiones suelen tener el signo de Darier por la liberación de histamina ante el frote. Normalmente no suele haber implicación sistémica y son mastocitos incrementados aislados en la piel, pero para descartarlo se suele hacer un primer screening midiendo la triptasa sérica o la metilhistamina en orina, y si estas están elevadas realizaremos la biopsia de médula u otros tejidos extracutáneos.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "8. (MIR 2018) Pregunta vinculada a la imagen n.º 20. Niño de 3 años cuyos padres refieren que presenta lesión en cara interna de antebrazo derecho, detectada a los tres meses del nacimiento que en ocasiones se enrojece y le produce picor. ¿Cuál es el diagnóstico más probable y qué actitud llevaría a cabo?:",
+    "opciones": [
+      "1. Mastocitoma, observación ya que probablemente involucione.",
+      "2. Nevus sebáceo, extirpación.",
+      "3. Angiofibroma, exploración de superficie corporal completa y estudio genético.",
+      "4. Nevus melanocítico congénito, seguimiento y control fotográfico."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Se trata de un niño con una placa eritemato-marronácea. Probablemente se trate de un mastocitoma, ya que presenta signo de Darier, pues comentan que en ocasiones se enrojece y produce picor. Dado que suele desaparecer, la actitud más correcta sería la observación.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "9. (MIR 2018) Pregunta vinculada a la imagen n.º 27. Hombre de 54 años diagnosticado de melanoma diseminado en tratamiento con vemurafenib. Seis semanas después de iniciar el tratamiento refiere la aparición de una lesión cutánea de rápido crecimiento (ver imagen). ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Botón de Oriente.",
+      "2. Metástasis en tránsito de melanoma.",
+      "3. Queratoacantoma.",
+      "4. Carcinoma basocelular."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La imagen muestra una lesión cupuliforme con tapón córneo central compatible clínicamente con un queratoacantoma, que puede aparecer como efecto adverso en contexto de tratamiento con los inhibidores de BRAF.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "10. (MIR 2018) Acude a su consulta una mujer diabética con una úlcera maleolar de aproximadamente 10 años de evolución. Ha requerido curas tópicas contínuas pero la herida nunca ha terminado de cerrarse por segunda intención. Usted observa que uno de los bordes de la úlcera comienza a mamelonarse. ¿Cuál debe ser su actitud inmediata?:",
+    "opciones": [
+      "1. Ingreso hospitalario y tratamiento antibiótico por vía intravenosa.",
+      "2. Biopsia de la zona mamelonada.",
+      "3. Realizar curas con pomadas enzimáticas desbridantes.",
+      "4. Cobertura de la úlcera con injerto de piel."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Si una herida o una úlcera no cura debemos pensar en un carcinoma espinocelular. Es por esto que es importante realizar una biopsia para descartar malignidad.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "11. (MIR 2018) Señale la variable de la que dependerá, fundamentalmente, la decisión sobre los márgenes quirúrgicos en el tratamiento de un caso de melanoma cutáneo:",
+    "opciones": [
+      "1. Diámetro mayor de la lesión, en milímetros.",
+      "2. Máximo espesor de la lesión, en milímetros (índice de Breslow).",
+      "3. Presencia de ulceración en la lesión.",
+      "4. Mitosis por milímetro cuadrado (índice mitótico)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>El Breslow es un índice que mide el grosor en milímetros del melanoma, y es con lo que nos basamos para realizar el margen quirúrgico.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "12. (MIR 2017) Un hombre de 43 años consulta por presentar un nevus congénito en brazo que en el último mes ha cambiado de forma y color. Se realiza extirpación quirúrgica de la lesión y el diagnóstico anatomopatológico es el siguiente: melanoma de extensión superficial no ulcerado de 1,3 mm de invasión vertical, 1 mitosis/mm2, que dista 2 mm del margen de resección más próximo. En la exploración física no se palpan adenopatías regionales ¿Cuál es la actitud a seguir a continuación?:",
+    "opciones": [
+      "1. Realizar una PET/TC para investigar si existen metástasis viscerales.",
+      "2. Realizar ampliación de márgenes quirúrgicos a 1 cm y biopsia selectiva de ganglio centinela.",
+      "3. Realizar ampliación de márgenes quirúrgicos a 1 cm y linfadenectomía axilar.",
+      "4. Sólo es necesario realizar ampliación de márgenes quirúrgicos a 2 cm y después seguimiento periódico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Se trata de un melanoma invasivo. Dado que el Breslow es de 1,3 mm (>1 mm) se deben ampliar los márgenes a 1-2 cm. Como no se palpan adenopatías, se debe hacer técnica del ganglio centinela porque el Breslow es >0,8 mm. Recuerda que si nos hubieran dicho que se palpan adenopatías, estaría directamente indicada la linfadenectomía total.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "13. (MIR 2015) Pregunta vinculada a la imagen n.º 16. Paciente de 84 años que presenta una lesión tumoral ulcerada que se muestra en el cuero cabelludo de más de 20 años de evolución. No adenopatías locoregionales palpables. Evidentemente la lesión deberá ser biopsiada para confirmación diagnóstica pero, a priori, ¿cuál de los siguientes diagnósticos le parece más probable?:",
+    "opciones": [
+      "1. Tumor de células de Merkel.",
+      "2. Carcinoma basocelular.",
+      "3. Carcinoma escamoso.",
+      "4. Melanoma maligno amelanótico.",
+      "5. Linfoma cutáneo de células B."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Paciente con un tumor en cuero cabelludo de más de 20 años de evolución que no ha producido ni siquiera adenopatías loco-regionales, por lo que tenemos que pensar en un cáncer cutáneo de lento crecimiento y poco agresivo. De todas las opciones, la única que encaja con esta descripción es el carcinoma basocelular. La fotografía ayuda a confirmar el diagnóstico ya que presenta una tumoración ulcerada, de bordes bien definidos sobreelevados, con brillo perlado, que probablemente corresponde a la variedad ulcus rodens del epitelioma basocelular.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "14. (MIR 2015) Pregunta vinculada a la imagen n.º 16. En caso de tratar a la paciente quirúrgicamente con márgenes de resección adecuados, ¿qué pronóstico considera más probable?:",
+    "opciones": [
+      "1. Curación muy probable, con moderada posibilidad de recidiva local y muy remota posibilidad de metástasis a distancia.",
+      "2. Recidiva local con una probabilidad aproximada del 50%.",
+      "3. Probabilidad de metástasis ganglionares superior al 50%.",
+      "4. Probabilidad de metástasis a distancia superior al 30%.",
+      "5. En este caso no debe plantearse el tratamiento quirúrgico como única opción terapéutica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta controvertida. La cirugía es el tratamiento de primera opción en el epitelioma basocelular. Con unos márgenes de resección adecuados la curación es muy probable y el riesgo de diseminación es muy bajo, por lo que la opción 1 es correcta. Sin embargo, nuestro paciente tiene 84 años y es más que probable que presente otras comorbilidades, aunque no nos especifican ninguna en la pregunta. Por otro lado, el gran tamaño de la lesión, y la localización de éste, nos hace pensar en otras opciones de tratamiento, como el vismodegib (útil en basocelulares localmente avanzados) o la radioterapia (que se emplea ante tumores de gran tamaño, pacientes de alto riesgo quirúrgico, o tumores con alto compromiso funcional o estético), por lo que la opción 5 también podría considerarse correcta. Finalmente, el Ministerio dio como correcta la opción 1.</p>"
+  },
+  {
+    "tema": "Tema 8. Neoplasias cutáneas",
+    "pregunta": "15. (MIR 2014) ¿Cuál es el factor pronóstico más importante en el Melanoma Estadio 1?:",
+    "opciones": [
+      "1. Nivel sérico de LDH.",
+      "2. Espesor tumoral medido en el índice de Breslow.",
+      "3. La presencia de ulceración clínica o histológica.",
+      "4. Número de metástasis.",
+      "5. El índice mitótico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Esta pregunta ha sido repetida casi literalmente varios años. En el melanoma el factor de peor pronóstico, si no existen metástasis a distancia ni ganglionares ni satelitosis (como es el caso del estadio I y II), es el índice de Breslow, el cual mide el grosor en mm de la tumoración desde la capa granulosa hasta la última célula tumoral en profundidad. La supervivencia es inversa al grosor tumoral.</p>"
+  },
+  {
+    "tema": "Tema 10. Alopecias",
+    "pregunta": "1. (MIR 2023) Pregunta asociada a la imagen 17. Mujer de 65 años que consulta porque en los últimos dos años ha ido notando pérdida del cabello en la línea anterior de implantación del cuero cabelludo (temporal y frontal), junto a la pérdida completa de las cejas. En la exploración de las mejillas y el mentón se aprecian pequeñas pápulas del color de la piel. Ante este cuadro clínico y la imagen que se muestra señale la respuesta correcta:",
+    "opciones": [
+      "1. Se trata de una alopecia reversible.",
+      "2. Es más frecuente en hombres.",
+      "3. La histopatología es similar a la del liquen plano pilaris.",
+      "4. Es un tipo poco frecuente de alopecia androgénica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La alopecia frontal fibrosante (AFF) es el tipo de alopecia cicatricial más frecuente en nuestro medio. Su prevalencia es mayor en mujeres. En el 80% los síntomas se inician a partir de la menopausia. Clínicamente se caracteriza por una pérdida, generalmente irreversible y escasamente sintomática, de unidades foliculares a nivel de la línea de implantación del pelo (frontal, temporal y ocasionalmente occipital). Un elevado porcentaje de pacientes presenta también madarosis supraciliar, pápulas faciales (son glándulas sebáceas obliteradas por el infiltrado inflamatorio) y numerosas arrugas longitudinales preauriculares (reflejo de la pérdida de elastina dérmica). La afectación de la barba es un dato característico en hombres. En la tricoscopia se observa pérdida de pelo velloso, eritema e hiperqueratosis perifoliculares. Histológicamente se aprecia un infiltrado inflamatorio liquenoide a lo largo del infundíbulo e istmo, siendo muy difícil de diferenciar microscópicamente del lichen plano pilaris. Respecto a su etiopatogenia, se ha postulado que sea secundaria a la exposición de xenoestrógenos u otros disruptores endocrinos presentes en diferentes productos (cosméticos, fotoprotectores químicos…) Por último, suele ofrecerse un tratamiento combinado a los afectados, que controle tanto la inflamación (corticoides tópicos, inhibidores de la calcineurina tópicos o hidroxicloroquina) como el estímulo hormonal (inhibidores de la 5α-reductasa, espironolactona).</p>"
+  },
+  {
+    "tema": "Tema 11. Eccemas",
+    "pregunta": "1. (MIR 2024) En un paciente de 16 años de edad que presenta desde hace varios meses, importante sequedad de la piel lesiones eccematosas en zonas de flexión, fundamentalmente en las fosas cubital y poplítea, de carácter muy pruriginoso que inducen al rascado, y que cursa con exacerbaciones y remisiones, el diagnóstico clínico más probable es:",
+    "opciones": [
+      "1. Dermatitis alérgica de contacto.",
+      "2. Dermatitis atópica.",
+      "3. Dermatitis seborreica.",
+      "4. Dermatitis dishidrótica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>La presencia de eccema en fosas antecubitales y huecos retropoplíteos es patognomónico de dermatitis atópica en el MIR (opción 2 correcta). La dermatitis seborreica cursa con placas eritematosas con descamación amarillenta untuosa en cuero cabelludo, surcos supraciliares y nasogenianos y región centrotorácica (opción 3 incorrecta). La dermatitis dishidrótica se manifiesta en forma de vesículas serosas milimétricas en las palmas, plantas y caras laterales de los dedos (opción 4 incorrecta). La dermatitis alérgica de contacto cursa con placas eccematosas en la zona de acción del alérgeno, con posibles lesiones a distancia (opción 1 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 11. Eccemas",
+    "pregunta": "2. (MIR 2024) Hombre de 35 años de edad con antecedentes de asma y alergia a antinflamatorios no esteroideos. Refiere que desde la infancia presenta lesiones en la piel localizadas en la cara y en los pliegues cutáneos, acompañadas de intenso prurito y que lograba controlar con emolientes y corticoides tópicos. Sin embargo, en los últimos 5 años ha ido empeorando con aumento del prurito e importante extensión de sus lesiones. Por ello ha recibido varias tandas de corticoides orales, ciclosporina y metotrexato con respuesta parcial e insuficiente. Ante esta situación ¿cuál de los siguientes fármacos biológicos está indicado?:",
+    "opciones": [
+      "1. Ustekinumab.",
+      "2. Dupilumab.",
+      "3. Certolizumab.",
+      "4. Bimekizumab."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Dupilumab fue el primer tratamiento biológico aprobado para la dermatitis atópica. Se trata de un anticuerpo monoclonal anti IL-4/IL-13. Está aprobado en el tratamiento de mantenimiento de las formas moderada-graves a partir de los 6 meses de edad. El Ministerio de Sanidad restringe su financiación a los pacientes que no hayan alcanzado un control adecuado a pesar de recibir ≥1 año tratamiento con ciclosporina o presentar una contraindicación para su uso (opción 2 correcta). El resto de las opciones son fármacos biológicos aprobados para el tratamiento de la psoriasis.</p>"
+  },
+  {
+    "tema": "Tema 11. Eccemas",
+    "pregunta": "3. (MIR 2020) Pregunta vinculada a la imagen n.º 10. Lactante de 25 días que presenta lesiones en la cara desde hace 2 días que se van acentuando. En la exploración se observan máculas eritematosas confluyentes, descamativas, con secreción serosa amarillenta, localizadas en ambas mejillas, surco nasogeniano, orejas y región retroauricular, frente y mentón. Resto de la exploración normal. ¿Qué diagnóstico es más probable?:",
+    "opciones": [
+      "1. Eritema toxoalérgico del recién nacido.",
+      "2. Dermatitis atópica.",
+      "3. Dermatitis seborreica.",
+      "4. Impétigo neonatal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta controvertida y finalmente anulada. En el enunciado nos presentan un lactante de 25 días que presenta desde hace 2 días lesiones eritematosas descamativas con secreción serosa amarillenta, en mejillas, surco nasogeniano, orejas y región retroauricular, frente y mentón. Todos estos datos nos harían pensar en una dermatitis seborreica (edad, 'amarillenta', afectación de surcos nasogenianos, retroauricular), que fue la opción que inicialmente dio por correcta el ministerio (opción 3). Sin embargo, la imagen acompañante nos muestra placas de aspecto eccematoso agudo RESPETANDO surcos nasogenianos, que correspondería más a una dermatitis atópica (opción 2). Debido a esta incongruencia enunciado-imagen, el ministerio decidió anular la pregunta.</p>"
+  },
+  {
+    "tema": "Tema 11. Eccemas",
+    "pregunta": "4. (MIR 2017) Pregunta vinculada a la imagen n.º 30. Un niño de 5 años presenta brotes recurrentes de eccemas muy pruriginosos desde hace meses. Su pediatra lo deriva al dermatólogo. ¿Cuál de las siguientes exploraciones complementarias debería realizar para establecer el diagnóstico?:",
+    "opciones": [
+      "1. Biopsia cutánea.",
+      "2. Analítica sanguínea con determinación de IgE.",
+      "3. Intradermorreacción con suero autólogo.",
+      "4. Ninguna, es suficiente con la anamnesis y exploración clínica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Se trata de un niño con dermatitis atópica, ya que cursa con brotes en forma de eccema pruriginoso en flexuras. No precisa de ninguna exploración complementaria. Si hicieramos una analítica la IgE estaría aumentada, pero no es necesaria.</p>"
+  },
+  {
+    "tema": "Tema 16. Toxicodermias",
+    "pregunta": "1. (MIR 2024) Mujer de 63 años en tratamiento con sulfamidas (trimetoprim-sulfametoxazol) vía oral por una infección de vías urinarias bajas. Acude a urgencias por presentar lesiones cutáneas y en mucosas (oral, conjuntival y genital). Las lesiones cutáneas tienen forma de máculas irregulares oscuras, con desprendimiento cutáneo y afectan a más del 30% de la superficie corporal. Se interpreta como una posible reacción farmacológica grave. ¿Cuál de los siguientes diagnósticos es más probable?:",
+    "opciones": [
+      "1. Eritema multiforme.",
+      "2. Síndrome de Stevens-Johnson.",
+      "3. Necrólisis epidérmica tóxica.",
+      "4. Síndrome de hipersensibilidad inducido por fármacos."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Ante un exantema que cursa con deterioro del estado general, afectación mucosa marcada y despegamiento cutáneo (signo de Nikolsky) debemos pensar siempre en el espectro síndrome Stevens-Johnson (SSJ) / necrólisis epidérmica tóxica (NET). La diferencia entre estas el porcentaje de superficie corporal afectada (menos del 10% en el SSJ -opción 2 incorrecta- y más del 30% en la NET, que conlleva una mortalidad elevada -opción 3 correcta-). Se trata de una verdadera urgencia dermatológica que requiere tratamiento de soporte en UCI o unidad de quemados, la retirada inmediata del fármaco desencadenante y la instauración de un tratamiento inmunosupresor. El eritema multiforme, habitualmente de menor extensión y sin despegamiento cutáneo, puede confundirse con un SSJ por el aspecto dianiforme de las lesiones, pero no progresa hacia SSJ/NET y habitualmente está causado por herpes simple (opción 1 incorrecta). En el síndrome de hipersensibilidad a fármacos (o DRESS), que también es una toxicodermia grave, son frecuentes la aparición de un exantema extenso con edema facial, eosinofilia absoluta y afectación multiorgánica; pero no son habituales ni la afectación mucosa ni el desarrollo de lesiones dianiformes o ampollosas, así como tampoco el despegamiento cutáneo (opción 4 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 16. Toxicodermias",
+    "pregunta": "2. (MIR 2020) Pregunta vinculada a la imagen n. º6. Paciente de 25 años con crisis epilépticas desde hace 1 año, en tratamiento con carbamazepina y fenitoína, que por falta de respuesta se cambió hace dos semanas a lamotrigina. Consulta por lesiones cutáneas que comenzaron hace 24 horas con edema facial, y que posteriormente se generalizaron en forma de rash eritematoso máculopapular. Presenta mal estado general, poliadenopatías y fiebre de 38,5°C. En la analítica destaca GOT 230 U/L, GPT 253 U/L, GGT 145 U/L y eosinofilia de 1200/μL. El diagnóstico más probable es:",
+    "opciones": [
+      "1. Sarampión.",
+      "2. Síndrome DRESS.",
+      "3. Síndrome de Stevens Johnson.",
+      "4. Angioedema."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Caso tipico de síndrome DRESS, que ya fue preguntado en el MIR 2019. Toxicodermia caracterizada por fiebre, edema facial, exantema maculopapuloso, malestar general, poliadenopatías, elevación de transaminasas y eosinofilia.</p>"
+  },
+  {
+    "tema": "Tema 16. Toxicodermias",
+    "pregunta": "3. (MIR 2020) Hombre de 60 años en tratamiento con carbamazepina por padecer epilepsia y que presenta fiebre (38,8°C), odinofagia, conjuntivitis, lesiones cutáneas parduzcas extendidas en una gran parte de la superficie corporal, de aspecto similar a una diana y que se acompañan de desprendimiento epidérmico (superior al 30%) al menor roce. Es muy probable que esté presentando un cuadro clínico de:",
+    "opciones": [
+      "1. Urticaria aguda de causa farmacológica.",
+      "2. Eritema exudativo minor secundario a fármacos.",
+      "3. Síndrome de Stevens-Johnson farmacológico.",
+      "4. Necrolisis tóxica epidérmica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Toxicodermia que cursa con fiebre, afectación oral y conjuntival y lesiones que nos describen como en diana con afectación de gran parte de la superficie corporal. El dato que más nos ayuda para pensar en necrolisis epidérmica tóxica (NET), además de esto, es que nos cuentan que hay un despegamiento epidérmico superior al 30%. Aunque a día de hoy el síndrome de Stevens-Johnson y la NET se consideran parte de un mismo espectro, el 'límite' que las separa es el porcentaje de superficie corporal con Nikolsky positivo. La afectación de un 30% o más, nos debe hacer pensar en NET.</p>"
+  },
+  {
+    "tema": "Tema 16. Toxicodermias",
+    "pregunta": "4. (MIR 2019) Paula de 27 años, acude a urgencias con un cuadro de enrojecimiento generalizado, fiebre y malestar general de 24 horas de evolución. En la guardería en la que trabaja ha tenido 4 niños con un cuadro viral asociado a exantema malar marcado. No es alérgica a ningún fármaco y está tomando minociclina 100 mg al día desde hace un mes por acné, así como ibuprofeno los dos últimos días por dolor menstrual. En la exploración física presenta un exantema generalizado, edema facial, adenopatías axilares y cervicales bilaterales. En la analítica destaca leucocitosis con eosinofilia, leve linfocitosis y un discreto aumento de transaminasas. ¿Cuál es la causa más probable?:",
+    "opciones": [
+      "1. Toxina del Stafilococcus aureus.",
+      "2. Coxsackie B 4.",
+      "3. Minociclina.",
+      "4. Virus difícil de filiar, posiblemente el mismo que el cuadro de la guardería."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta difícil en la que nos intentan despistar contándonos el antecedente epidemiológico de una infección vírica. En realidad de se trata de un DRESS (Drug Rash with Eosinophilia and Systemic Symptoms). Es una toxicodermia grave caracterizada por fiebre, exantema (típico edema facial), adenopatías, alteraciones hematológicas (leucocitosis a menudo con linfocitos atípicos y eosinófilos) y afectación visceral (hepática, nefrológica, neumológica). El fármaco responsable suele haberse iniciado entre 2 y 8 semanas previamente, por lo que en este caso el tratamiento con minociclina nos apoya el diagnóstico.</p>"
+  },
+  {
+    "tema": "Tema 16. Toxicodermias",
+    "pregunta": "5. (MIR 2017) En relación a las formas clínicas del eritema multiforme, todas las afirmaciones siguientes son correctas EXCEPTO:",
+    "opciones": [
+      "1. Las formas minor se asocian a la infección por virus del Herpes simple y se caracterizan por las denominadas lesiones en diana.",
+      "2. Las formas major, o síndrome de Stevens-Johnson, se caracterizan por la ausencia de afectación de las mucosas.",
+      "3. La afectación de las mucosas en las formas minor se observa en alrededor del 25% de los casos y se limita a la mucosa oral.",
+      "4. La necrolisis epidérmica tóxica, cuadro caracterizado por el despegamiento de amplias áreas de la piel, representa la forma más grave de eritema multiforme major y se relaciona con la ingesta de fármacos."
+    ],
+    "correcta": 1,
+    "comentario": "<p>En el síndrome de Stevens Johnson casi siempre hay afectación de las mucosas.</p>"
+  },
+  {
+    "tema": "Tema 16. Toxicodermias",
+    "pregunta": "6. (MIR 2016) Pregunta vinculada a la imagen n.º 30. Una niña de 7 años ingresa en el hospital por presentar un cuadro de 72 horas de evolución de fiebre de hasta 38,5 ºC, malestar general y dificultad para la deglución. A la exploración presenta una erupción cutánea generalizada cuyas características se pueden apreciar en la imagen. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Síndrome de la piel escaldada.",
+      "2. Síndrome de Stevens-Johnson.",
+      "3. Enfermedad mano-pie-boca atípica.",
+      "4. Penfigoide ampolloso."
+    ],
+    "correcta": 1,
+    "comentario": "<p>En la imagen observamos un cuadro cutáneo agudo en forma de máculas eritematopurpúricas con despegamiento y formación de ampollas y abundantes costras en la mucosa oral. Se trata de un síndrome de Stevens-Johnson, que es un tipo de toxicodermia grave que afecta la piel y las mucosas, acompañado de mal estado general. Habitualmente el origen es farmacológico y puede afectar otros epitelios, lo que justificaría la disfagia de la paciente. En el síndrome de la piel escaldada y el pemfigoide habitualmente el estado general y las mucosas están conservados. El síndrome mano-pie-boca tiende a ser un cuadro más banal.</p>"
   }
 ]
