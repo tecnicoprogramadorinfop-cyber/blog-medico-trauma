@@ -3035,5 +3035,288 @@
     ],
     "correcta": 1,
     "comentario": "<p>En la imagen observamos un cuadro cutáneo agudo en forma de máculas eritematopurpúricas con despegamiento y formación de ampollas y abundantes costras en la mucosa oral. Se trata de un síndrome de Stevens-Johnson, que es un tipo de toxicodermia grave que afecta la piel y las mucosas, acompañado de mal estado general. Habitualmente el origen es farmacológico y puede afectar otros epitelios, lo que justificaría la disfagia de la paciente. En el síndrome de la piel escaldada y el pemfigoide habitualmente el estado general y las mucosas están conservados. El síndrome mano-pie-boca tiende a ser un cuadro más banal.</p>"
+  },
+
+{
+    "tema": "Tema 1. Anatomía y fisiología hepática",
+    "pregunta": "1. (MIR 2019) Pregunta vinculada a la imagen n.º 3. En este corte ecográfico longitudinal de línea axilar anterior derecha, ¿qué estructura NO se identifica?:",
+    "opciones": [
+      "1. Diafragma.",
+      "2. Músculo psoas.",
+      "3. Glándula suprarrenal.",
+      "4. Receso hepatorrenal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta algo compleja sobre anatomía. En este corte longitudinal ecográfico situado en la línea axilar anterior derecha se aprecia en primer lugar el hígado, posteriormente el receso hepatorrenal y finalmente el riñón derecho (la corteza renal es isoecogénica respecto al parénquima hepático en condiciones normales y la médula renal es siempre hiperecogénica). Cuando el hígado se encuentra infiltrado de grasa (esteatosis alcohólica o no alcohólica, siendo mucho más común ésta última) se vuelve más hiperecogénico respecto a la corteza renal. El diafragma se puede ver como la línea hiperecogénica en el borde más posterior del hígado. Lo que no se puede visualizar, por encontrarse en localización supero-medial con respecto al riñón (salvo que esté hiperplasiada o tenga un tumor de gran tamaño) es la glándula suprarrenal. El músculo psoas se puede ver en personas delgadas (con poca cantidad de grasa perirrenal) posterior al riñón, como ocurre en la imagen.</p>"
+  },
+  {
+    "tema": "Tema 2. Técnicas diagnósticas",
+    "pregunta": "1. (MIR 2020) En relación con las proteínas plasmáticas, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "1. La albúmina se sintetiza en el hígado y se metaboliza en numerosos tejidos, permitiéndoles a los mismos aprovechar los aminoácidos provenientes de su degradación.",
+      "2. La albúmina es la proteína mayoritaria del plasma, por ello participa en el mantenimiento de la presión oncótica.",
+      "3. La albúmina interviene en el transporte de bilirrubina directa o conjugada, como así también de ácidos grasos, calcio, y algunas vitaminas, hormonas y fármacos.",
+      "4. Al existir numerosas variantes genéticas de la albúmina, es posible observar una doble banda de albúmina en un proteinograma, que se conoce como bisalbuminemia, pero que carece de significación clínica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta que puede parecer difícil por ser poco clínica, pero en realidad no es demasiado compleja. La bilirrubina indirecta, antes de ser captada por el hepatocito para su glucuronización, circula en sangre unida a la albúmina. Por tanto, la respuesta acertada (por incorrecta) es la 3. Las otras opciones sí corresponden a características de la albúmina.</p>"
+  },
+  {
+    "tema": "Tema 2. Técnicas diagnósticas",
+    "pregunta": "2. (MIR 2020) Hombre de 42 años con antecedente de cirrosis hepática compensada, traído a urgencias por ictericia, fiebre, aumento del perímetro abdominal y deterioro significativo del estado general. ¿Cuál de los siguientes parámetros analíticos NO le aportaría información acerca del pronóstico?:",
+    "opciones": [
+      "1. Albúmina sérica.",
+      "2. Índice internacional normalizado (INR).",
+      "3. Bilirrubina total sérica.",
+      "4. Transaminasas (valor de ALT y AST)."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta muy sencilla sobre un concepto fácil y repetido en numerosas ocasiones. Al tratarse de marcadores de daño hepático, las transaminasas (ALT y AST) no se relacionan ni con la gravedad ni con el pronóstico de la patología hepática. Las otras tres opciones que nos presentan son conocidos marcadores de función hepática, que además se encuentran contenidos en la clasificación de Child-Pugh.</p>"
+  },
+  {
+    "tema": "Tema 2. Técnicas diagnósticas",
+    "pregunta": "3. (MIR 2020) Hombre de 55 años remitido a la consulta por detectarse en un examen de salud hipertransaminasemia y esteatosis hepática en la ecografía. Es hipotiroideo en tratamiento sustitutivo y diabético bien controlado con metformina. Bebe alcohol muy ocasionalmente. En la exploración física destaca una obesidad tipo I (índice de masa corporal, IMC 33 kg/m2). La analítica muestra: aspartato aminotransferasa (AST) 87 UI/L, alanino aminotransferasa (ALT) 65 UI/L, gammaglutamiltransferasa (GGT) 100 UI/L, colesterol total 230 mg/dL, glucemia basal 132 mg/dl. Bilirrubina, fosfatasa alcalina, hormonas tiroideas y ferritina normales. Coagulación normal. La serología de hepatitis vírica (VHA, VHB y VHC) y de autoinmunidad (ANA, AMA, AML, antiLKM) son negativas. Señale la afirmación más apropiada:",
+    "opciones": [
+      "1. Tiene una esteatosis hepática sin riesgo de desarrollar cirrosis ni hepatocarcinoma, por lo que es suficiente el control metabólico periódico.",
+      "2. Está indicado realizar una biopsia hepática por la sospecha de hepatitis autoinmune.",
+      "3. Es útil realizar una elastografía de transición (FibroScan ®) para determinar la existencia o no de fibrosis.",
+      "4. Está indicado sustituir la metformina por pioglitazona que ha demostrado ser más eficaz para mejorar la esteatosis hepática."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Nos presentan un paciente con un claro síndrome metabólico. Además, el paciente presenta alteraciones del perfil hepático (patrón mixto: citolisis y colestasis). El resto del estudio de hepatopatía crónica es negativo. La respuesta 1 es falsa porque la esteatosis hepática puede condicionar esteatohepatitis y ésta desarrollar cirrosis hepática y carcinoma hepatocelular. La 2 es falta porque no existe ninguna sospecha de patología autoinmune (estudio inmunidad negativo). Los fármacos más prometedores son los que mejoran la resistencia a la insulina (como la metformina y las glitazonas); no obstante, no es necesario sustituir la metformina por glitazonas. La respuesta correcta es la 3, evitando así la realización de una biopsia hepática.</p>"
+  },
+  {
+    "tema": "Tema 3. Hiperbilirrubinemia y colestasis",
+    "pregunta": "1. (MIR 2014) Un chico de 17 años, deportista y sin antecedentes de interés, acude al médico por presentar ictericia conjuntival ocasionalmente. Niega ingesta de fármacos y dolor abdominal. En los análisis realizados se observan cifras de ALT, AST, GGT, y FA normales, con bilirrubina total de 3,2 mg/dl y bilirrubina directa de 0,4 mg/dl. No tiene anemia y el hígado es ecográficamente normal. ¿Cuál es su diagnóstico?:",
+    "opciones": [
+      "1. Síndrome de Rotor.",
+      "2. Coledocolitiasis.",
+      "3. Síndrome de Dubin-Johnson.",
+      "4. Hepatitis aguda.",
+      "5. Síndrome de Gilbert."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta conceptual sobre el síndrome de Gilbert: se caracteriza por hiperbilirrubinemia leve a expensas de bilirrubina indirecta, con ecografía y perfil hepático normal y sin signos de hemólisis u otra causa de elevación de la bilirrubina indirecta. Con todo ello podemos decir que estamos ante es un síndrome de Gilbert sin ser necesario realizar más tests diagnósticos ni de provocación. Se trata de una condición frecuentísima (hasta 10% población general), benigna y en la que el paciente presenta brotes de hiperbilirrubinemia indirecta ante infecciones, ayuno, falta de sueño, menstruación, etc.</p>"
+  },
+  {
+    "tema": "Tema 3. Hiperbilirrubinemia y colestasis",
+    "pregunta": "2. (MIR 2014) El procedimiento inicial de elección para investigar una posible obstrucción de las vías biliares es:",
+    "opciones": [
+      "1. Ecografía hepatobiliar.",
+      "2. Colangiopancreatografia retrógrada endoscópica (CPRE).",
+      "3. Colangiorresonancia Magnética.",
+      "4. Tomografía computarizada. TC abdominal.",
+      "5. Colangiografía transhepática percutánea."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. Ante una elevación de enzimas de colestasis y/o bilirrubina directa la primera prueba a realizar es la ecografía abdominal, para saber si la causa es una patología que dilata las vías biliares (extrahepática), o no (intrahepática). Si la ecografía es normal, se realiza una determinación de anticuerpos antimitocondriales; si éstos son positivos tendríamos el diagnóstico de colangitis biliar primaria. Si estos anticuerpos fueran negativos, deberíamos realizar una colangioRM para hacer un estudio más fino de la vía biliar.</p>"
+  },
+  {
+    "tema": "Tema 4. Hepatitis aguda viral",
+    "pregunta": "1. (MIR 2019) Acude a consulta un hombre de 70 años refiriendo que hace una hora se ha pinchado de forma accidental en el parque con una aguja conectada a una jeringa abandonada con restos de sangre. El paciente no ha padecido hepatitis B ni ha recibido vacunación. ¿Cuál es la actitud más correcta?:",
+    "opciones": [
+      "1. Administrar una dosis de gammaglobulina frente a VHB y una dosis de vacuna.",
+      "2. Administrar una dosis de gammaglobulina frente a VHB y vacunación completa.",
+      "3. Administrar una dosis de gammaglobulina frente a VHB y realizar antisepsia de la zona.",
+      "4. Realizar antisepsia de la zona y vacunación completa."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla sobre profilaxis postexposición al VHB en un paciente adulto no inmunizado. Se debe administrar la pauta de vacunación completa siempre que el paciente no esté inmunizado así como una dosis de Ig.</p>"
+  },
+  {
+    "tema": "Tema 4. Hepatitis aguda viral",
+    "pregunta": "2. (MIR 2017) Un profesional sanitario, no vacunado frente al Virus de la hepatitis B (VHB), se pincha accidentalmente con una aguja con sangre de un paciente con infección crónica por dicho virus. ¿Cuál de las siguientes actuaciones a realizar, en el más breve espacio de tiempo posible, sobre el profesional sanitario es la correcta?:",
+    "opciones": [
+      "1. Administrar una primera dosis de vacuna frente al VHB y simultáneamente coadministrar la inmunoglobulina antihepatitis B.",
+      "2. Administrar una primera dosis de vacuna frente al VHB y simultáneamente iniciar el tratamiento con el antiviral ribavirina.",
+      "3. Administrar la inmunoglobulina antihepatitis B y simultáneamente iniciar el tratamiento con el antiviral ribavirina.",
+      "4. Administrar únicamente la inmunoglobulina antihepatitis B."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad media en la que es importante fijarse en dos detalles: 1) que el paciente expuesto no está vacunado, y 2) que el sujeto fuente tiene una hepatitis crónica, dando por hecho riesgo de infección. En este caso la profilaxis postexposición incluye la vacunación frente a la enfermedad junto con la administración de inmunoglobulina antihepatitis B de forma inmediata, que puede ser simultánea a la primera dosis de la vacuna.</p>"
+  },
+  {
+    "tema": "Tema 5. Hepatitis viral crónica",
+    "pregunta": "1. (MIR 2018) Con respecto a la infección por el virus de la hepatitis C (VHC), señale la respuesta correcta:",
+    "opciones": [
+      "1. En el mundo, la vía de transmisión más frecuente del VHC es la vertical.",
+      "2. Si el VHC se adquiere en edad adulta, se cronifica en el 5-10% de los casos.",
+      "3. La mayoría de los pacientes con infección crónica por el VHC presentan anticuerpos anti VHC positivos.",
+      "4. La infección aguda por el VHC cursa con ictericia franca en más del 80% de los casos."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil sobre conceptos generales de la infección por VHC. La vía de transmisión es parenteral, bien por transfusión de hemoderivados (en infecciones antiguas) o por compartir agujas o cuchillas de afeitar con un paciente infectado. La primoinfección rara vez cursa como hepatitis aguda sintomática, pero sí cronifica en un 80% de los casos. En general, los anticuerpos anti-VHC son positivos, y seguirán siéndolo incluso después de alcanzada la respuesta viral sostenida.</p>"
+  },
+  {
+    "tema": "Tema 5. Hepatitis viral crónica",
+    "pregunta": "2. (MIR 2016) Una de las siguientes afirmaciones referidas a los virus de la hepatitis NO es correcta. Indíquela:",
+    "opciones": [
+      "1. En contraste con el VHB y VHC, la transmisión por sangre del VHA es poco común, porque la viremia es breve y de bajo título.",
+      "2. El VHE es un virus defectivo que usa el antígeno del superficie del VHB como su proteína de envoltura.",
+      "3. La polimerasa codificada por el VHB actúa como una transcriptasa inversa usando el RNAm vírico como molde para la síntesis de los genomas de DNA progenie.",
+      "4. La detección del HBsAg durante más de seis meses indica un estado del portador crónico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Respecto a la opción 1 recordar que la principal vía de transmisión del VHA es la enteral por lo que la viremia suele ser baja y de escaso título. La 2 es falsa ya que el virus defectivo que requiere del HBsAg es el VHD (hepatitis Delta). La 3 es cierta, la polimerasa del VHB tiene actividad transcriptasa inversa (por este motivo hay fármacos que son activos frente al VHB y al VIH como Lamivudina o Tenofovir). La 4 es cierta: es por la persistencia del HBsAg más de seis meses cómo se define que un paciente es portador crónico del VHB (sea HBe Ag negativo o positivo).</p>"
+  },
+  {
+    "tema": "Tema 5. Hepatitis viral crónica",
+    "pregunta": "3. (MIR 2016) Indique la situación clínica que, en relación con la infección por virus de la hepatitis B, presenta un paciente de 5 años procedente de Nigeria, con exploración física normal y con la siguiente serología frente a hepatitis B: HBsAg + / ANTI-HBs – / HbeAg – / ANTI-HBe + / ANTI-HBc IgM – / ANTI-HBc IgG + / DNA VHB +:",
+    "opciones": [
+      "1. Infección aguda.",
+      "2. Infección crónica.",
+      "3. Paciente vacunado.",
+      "4. Portador asintomático."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Por los datos sociodemográficos (niño procedente de Nigeria) ya podemos pensar que el VHB es de transmisión vertical. La serología nos dice que tiene VHB (HBsAg+) crónico (antiHBcIgG+). Por lo tanto no se trata ni de una infección aguda (opción 1 incorrecta) ni de una persona vacunada (opción 3 incorrecta). Portador asintomático es un término que no debe utilizarse (opción 4 incorrecta) y que en la nomenclatura antigua hacía referencia a la infección crónica HBeAg negativa. Se trata por tanto de una infección crónica (HBeAg negativa) en un paciente que ha adquirido la misma por vía vertical.</p>"
+  },
+  {
+    "tema": "Tema 5. Hepatitis viral crónica",
+    "pregunta": "4. (MIR 2016) Uno de los siguientes fármacos NO se utiliza en el tratamiento de la hepatitis crónica B:",
+    "opciones": [
+      "1. Entecavir.",
+      "2. Adefovir.",
+      "3. Tenofovir.",
+      "4. Sofosbuvir."
+    ],
+    "correcta": 3,
+    "comentario": "<p>El entecavir, el adefovir y el tenofovir (respuestas 1, 2 y 3 respectivamente) son fármacos antivirales orales que son análogos de nucleósidos/nucleótidos que suprimen la replicación del VHB inhibiendo la polimerasa, aunque normalmente deben administrarse de forma indefinida. El Adefovir ya no se utiliza porque generaba muchas resistencias virales (que no se han visto con Entecavir ni con Tenofovir). El Sofosbuvir es un antiviral oral de acción directa (AAD) usado en el tratamiento de la hepatitis crónica por VHC. Es un inhibidor de la polimerasa NS5B y suele ser la base la mayoría de pautas de AAD como SOF + Velpatasvir o SOF + VEL + Voxilaprevir.</p>"
+  },
+  {
+    "tema": "Tema 5. Hepatitis viral crónica",
+    "pregunta": "5. (MIR 2014) Los hepatocitos en vidrio esmerilado son característicos de:",
+    "opciones": [
+      "1. Hepatitis crónica por VHB.",
+      "2. Hepatitis crónica por VHC.",
+      "3. Hepatitis crónica por VH delta.",
+      "4. Hepatitis por tóxicos.",
+      "5. Hepatitis por alcohol."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta difícil por referirse a la anatomía patológica de las hepatitis virales. Las preguntas referentes a anatomía patológica son muy infrecuentes, por ello no es útil saber información muy específica sobre la histología de las enfermedades para el MIR. Simplemente recordar, por si se repitiera esta pregunta, que los hepatocitos en vidrio esmerilado son típicos del VHB.</p>"
+  },
+  {
+    "tema": "Tema 5. Hepatitis viral crónica",
+    "pregunta": "6. (MIR 2014) ¿Cuál de los siguientes virus de la hepatitis es subsidiario de tratamiento con inhibidores de la proteasa viral?:",
+    "opciones": [
+      "1. El virus de la hepatitis C.",
+      "2. El virus de la hepatitis B.",
+      "3. El virus de la hepatitis A.",
+      "4. El virus de la hepatitis E.",
+      "5. El virus TTV."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Los inhibidores de proteasa viral se utilizan en el VHC y acaban en -previr: Grazoprevir, Paritaprevir, Simeprevir, etc.</p>"
+  },
+  {
+    "tema": "Tema 6. Hepatitis autoinmune (HAI)",
+    "pregunta": "1. (MIR 2024) Niña de 10 años que presenta en un análisis una importante elevación de transaminasas, que persiste en controles posteriores. Entre los estudios complementarios destaca la presencia en sangre de anticuerpos antimicrosómicos de hígado-riñón tipo 1 (anti-LKM-1). El cuadro que presenta tiene todas las características siguientes, EXCEPTO una de las siguientes:",
+    "opciones": [
+      "1. Hipogammaglobulinemia.",
+      "2. En la biopsia hepática presentará una típica hepatitis de interfase.",
+      "3. Es más frecuente en el sexo femenino.",
+      "4. Se trata de una hepatitis autoinmune tipo 2."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La hepatitis autoinmune consiste en un ataque inmunitario contra los hepatocitos. Es más frecuente en mujeres 4/1 (respuesta 3 correcta). Existen dos tipos. La tipo 2 presenta anticuerpos anti-LKM, es menos frecuente (25%), de peor pronóstico y más afecta a pacientes en edad pediátrica (respuesta 4 correcta). La lesión histológica típica es la necrosis en la zona de la interfase o hepatitis periportal (respuesta 2 correcta). Existe una hipergammaglobulinemia a expensas de IgG (respuesta 1 incorrecta, y por tanto la que había que seleccionar).</p>"
+  },
+  {
+    "tema": "Tema 6. Hepatitis autoinmune (HAI)",
+    "pregunta": "2. (MIR 2015) ¿Cuál de los siguientes fármacos NO se emplea en el tratamiento de la hepatitis autoinmune?:",
+    "opciones": [
+      "1. Prednisona",
+      "2. Azatioprina.",
+      "3. Budesonida.",
+      "4. Lamivudina.",
+      "5. Micofenolato mofetil."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sobre el tratamiento de una entidad que está 'de moda', la hepatitis autoinmune. Se trata de un ataque autoinmunitario contra los hepatocitos, típico de mujeres jóvenes con otras enfermedades autoinmunes asociadas (más frecuentemente enfermedad tiroidea). Se puede presentar como una hepatitis crónica, cirrosis y en ocasiones como hepatitis aguda e, incluso, fallo hepático fulminante. El diagnóstico es por descarte (excluyendo otras causas de hepatopatía más habituales como virus, alcohol y otros tóxicos y esteatohepatitis no alcohólica) en un paciente con transaminasas elevadas, aumento de IgG, presencia de algún autoanticuerpo (sobre todo ANA, AML, antiLKM) e histología compatible (hepatitis de interfase e infiltrado linfoplasmocitario). El tratamiento se basa en el uso de corticoesteroides (prednisona o budesonida) asociados habitualemente a azatioprina. El micofenolato se usa como tratamiento de mantenimiento en caso de efectos adversos a azatioprina. La lamivudina es una análogo de nucleósido con actividad frente al VIH y el VHB. Actualmente es poco usada en VHB, donde se ha sustituido por entecavir o tenofovir al no generar estos últimos resistencias.</p>"
+  },
+  {
+    "tema": "Tema 7. Insuficiencia hepática aguda y grave (hepatitis fulminante)",
+    "pregunta": "1. (MIR 2019) El pasado mes de octubre tras las primeras lluvias del otoño acude a un bosque de encinas con unos amigos para recolectar setas. Encuentran unos hongos similares a champiñones silvestres aunque uno de sus amigos le advierte que una de las setas parece tratarse de una amanita phalloides. Unas 8 horas después de la ingesta de las setas comienza con dolor abdominal, vómitos y diarrea, aunque estos síntomas desaparecen en las siguientes 24 horas. Señale de entre las siguientes la respuesta FALSA:",
+    "opciones": [
+      "1. El lugar de recolección es importante a la hora de valorar una intoxicación por setas.",
+      "2. La cantidad de setas ingerida puede influir en el pronóstico.",
+      "3. Dada la desaparición de los síntomas nuestro amigo no llevaba razón.",
+      "4. La aparición precoz de síntomas (menos de 6 horas) supone un mejor pronóstico."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sobre un patología rara pero grave, de la que desafortunadamente todos los años se ven casos. Se trata de una intoxicación por una de las setas más letales que existen (Amanita Haploides). La ingesta de una seta de tan sólo 50g es mortal. Sus toxinas (Anatoxina alfa y faloidina) son termoestables por lo que resisten al cocinado y al desecado. La faloidina es responsable de un cuadro inicial de gastroenteritis grave. Tras un periodo de latencia de 6-20 horas comienza la gastroenteritis. Posteriormente y tras una aparente recuperación de la GEA comienzan a notarse los efectos de la amatoxina alfa que produce necrosis hepática masiva y fallo hepático fulminante así como fallo renal por NTA. Muchos pacientes requieren trasplante hepático urgente para sobrevivir. El manejo conservador incluye carbón activado, N-acetilcisteína iv, hidratación iv penicilina G iv. También puede utilizarse silibilina (aislada del cardo mariano).</p>"
+  },
+  {
+    "tema": "Tema 8. Hepatopatía alcohólica (HPA)",
+    "pregunta": "1. (MIR 2014) Mujer de 50 años que acude al servicio de urgencias por astenia, anorexia, pérdida de peso, ictericia, fiebre y dolor abdominal. No refiere antecedentes recientes de transfusión sanguínea, contactos sexuales de riesgo ni adicción a drogas de uso parenteral. Consumo habitual de 60 gramos diarios de alcohol durante los últimos cinco años, consumo que ha incrementado durante el mes previo por problemas familiares. Temperatura 38,5 ºC, tensión arterial 100/60 mmHg. En la exploración física se observa desorientación temporoespacial, malnutrición, asterixis, ictericia y hepatomegalia dolorosa. No ascitis ni datos de irritación peritoneal. En los exámenes de laboratorio destacan leucocitos 15.000/microlitro con 90% de polimorfonucleares, hematíes 3 millones/mm3, hemoglobina 10 g/dl, volumen corpuscular medio 115 fl, bilirrubina 15 mg/dl de predominio directo, AST (GOT) 300 UI/l, ALT (GPT) 120 UI/l, GGT 635 UI/l, prolongación del tiempo de protrombina mayor del 50%. ¿Cuál es el diagnóstico más probable del cuadro que presenta la paciente?:",
+    "opciones": [
+      "1. Absceso hepático.",
+      "2. Colecistitis aguda.",
+      "3. Colangitis aguda.",
+      "4. Hepatitis alcohólica.",
+      "5. Pancreatitis aguda."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Caso clínico típico de hepatitis alcohólica aguda con antecedente de sobreingesta etílica en paciente con alcoholismo crónico, clínica compatible y datos de insuficiencia hepática. La exploración física nos pone de manifiesto estigmas de hepatopatía crónica y descompensación en forma de encefalopatía hepática. Es muy importante que, si por la clínica y datos referidos hasta ahora no deducimos el diagnóstico, debemos detectar lo que siempre preguntan en el MIR de esta patología, que es un predominio de la AST respecto a ALT (AST/ALT >2).</p>"
+  },
+  {
+    "tema": "Tema 9. Enfermedad hepática grasa no alcohólica",
+    "pregunta": "1. (MIR 2022) Pregunta vinculada a la imagen n.º 4. Se realizó una biopsia hepática en una paciente de 37 años con obesidad y alteración de las transaminasas (figura 2014) que demostró una intensa esteatosis que afectaba al 70% de los hepatocitos. A los 7 años, tras ser diagnosticada de esclerosis múltiple y ganar peso, se repitió la biopsia (figura 2021). ¿Cuál de las siguientes afirmaciones describe mejor la evolución?:",
+    "opciones": [
+      "1. La esteatosis es menos intensa en la segunda biopsia, lo que es signo de buen pronóstico.",
+      "2. En la segunda biopsia no hay datos de inflamación ni degeneración balonizante, lo que es signo de buen pronóstico.",
+      "3. La segunda biopsia muestra una situación estable.",
+      "4. La presencia de fibrosis en puentes demuestra la progresión de la enfermedad."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fácil sobre el hígado graso. Nos presentan una primera imagen donde se ve una esteatosis macrovesicular con grandes gotas de grasa en el interior de los hepatocitos y balonización, todo ello compatible con hígado graso. Con el paso del tiempo vemos que (segunda foto) han aparecido tractos fibrosos y están empezando a delimitarse nódulos de regeneración. Esto sugiere que la enfermedad ha progresado y estamos ya ante una cirrosis. El hecho de que la paciente haya ganado peso nos ayuda también a acertar la pregunta.</p>"
+  },
+  {
+    "tema": "Tema 9. Enfermedad hepática grasa no alcohólica",
+    "pregunta": "2. (MIR 2020) Pregunta vinculada a la imagen n.º 1. Mujer de 40 años con obesidad mórbida, que se somete a cirugía bariátrica. Durante la intervención quirúrgica se realiza también una biopsia hepática. ¿Qué tipo de lesión histológica observamos?:",
+    "opciones": [
+      "1. Esteatosis.",
+      "2. Esteatohepatitis.",
+      "3. Cirrosis.",
+      "4. Hepatitis crónica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de anatomía patológica compleja porque nos obliga a diferenciar entre esteatosis simple y esteatohepatitis (esteatosis + inflamación con balonización hepatocitaria). La única manera fiable de diferenciar entre estas dos variantes de la enfermedad hepática grasa no alcohólica (NAFLD en inglés) es la histología. Un 25% de la población presenta esteatosis hepática, siendo un porcentaje menor los que desarrollan esteatohepatitis con riesgo de progresión a cirrosis y hepatocarcinoma. La grasa se ve como gotas vacías dentro de los hepatocitos.</p>"
+  },
+  {
+    "tema": "Tema 9. Enfermedad hepática grasa no alcohólica",
+    "pregunta": "3. (MIR 2018) ¿Cuál de los siguientes fármacos se ha demostrado eficaz en la reducción de la fibrosis en paciente con esteatohepatitis no alcohólica?:",
+    "opciones": [
+      "1. Pioglitazona.",
+      "2. Pentoxifilina.",
+      "3. Ácido ursodesoxicólico.",
+      "4. Fenofibrato."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sobre una de las enfermedades más 'de moda' en la hepatología. La enfermedad hepática grasa no alcohólica es la manifestación hepática del síndrome metabólico, por lo que afecta a una proporción creciente de la población (se estima que en España un 25% de la población adulta tiene el hígado graso). Sólo un pequeño porcentaje de los afectados progresarán a esteatohepatitis y fibrosis hepática, con riesgo final de cirrosis y hepatocarcinoma. La primera medida a aplicar son las medidas higiénico-dietéticas para la pérdida del 7-10% del peso corporal de manera lenta y progresiva (esto es muy efectivo y cura la enfermedad grasa en muchas ocasiones, pero muy pocos pacientes logran una pérdida de peso sustancial y mantenida). Respecto a fármacos se están llevando ensayos clínicos en fase II y III con hasta 40 moléculas diferentes. Las glitazonas se han asociado a una mejoría en la fibrosis hepática, pero la evidencia viene de estudios observacionales y no de ensayos aleatorizados. Por tanto, en la actualidad no existe por el momento ningún fármaco aprobado específicamente para esta indicación de enfermedad hepática grasa no alcohólica. Como anécdota, el consumo de café también ha demostrado mejorar la fibrosis hepática en esta y otras enfermedades hepáticas, por lo que hay autores que proponen prescribirlo como recomendación dietética (asociado, evidentemente, a una abstención completa de consumo de alcohol).</p>"
+  },
+  {
+    "tema": "Tema 10. Otras causas de cirrosis",
+    "pregunta": "1. (MIR 2022) Mujer de 25 años en estudio por una hepatopatía de origen autoinmune, con importante colestasis. Refiere prurito intenso y aparición de lesiones cutáneas sugestivas de xantomas. Niveles de colesterol total 800 mg/dL con colesterol LDL 395 mg/dL. Indique la respuesta correcta respecto a su enfermedad:",
+    "opciones": [
+      "1. Se trata de una hipercolesterolemia secundaria a colestasis.",
+      "2. Es imprescindible realizar un test genético para descartar una hipercolesterolemia familiar.",
+      "3. Dados los niveles de colesterol total y de colesterol LDL se trata de una hipercolesterolemia familiar homocigota.",
+      "4. La eliminación del colesterol es fundamentalmente renal, por lo que hay que excluir una causa primaria de hipercolesterolemia."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla sobre la colangitis biliar primaria, ya que nos dan todos los datos clave para sospecharla: sexo femenino, joven, hepatopatía “autoinmune”, colestasis, xantelasmas… Recordad que en esta patología se produce típicamente aumento de colesterol, que generalmente no requiere tratamiento, ya que no se ha demostrado un aumento del riesgo cardiovascular en estos pacientes.</p>"
+  },
+  {
+    "tema": "Tema 10. Otras causas de cirrosis",
+    "pregunta": "2. (MIR 2019) Hombre de 29 años de edad, tratado por una colitis ulcerosa desde hace 2 años y sin episodios de descompensación en los últimos 6 meses. Refiere un dolor sordo en hipocondrio derecho y astenia en el último mes. La exploración física no demuestra ninguna alteración significativa y en los análisis se observa una bilirrubinemia total de 1,2 mg/dL (bilirrubina directa 0,7 mg/dL), aspartato aminotransferasa 89 UI/L, alanino amino-transferasa 101 UI/L, fosfatasa alcalina 1.124 UI/L, gamma glutamiltransferasa 345 UI/L, albuminemia 38 g/L y tasa de protrombina 100%. Señale cuál de las siguientes enfermedades padece con mayor probabilidad:",
+    "opciones": [
+      "1. Enfermedad biliar primaria.",
+      "2. Hepatitis autoinmune.",
+      "3. Coledocolitiasis.",
+      "4. Colangitis esclerosante primaria."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta prototípica sobre una de las complicaciones más graves que pueden tener los pacientes con colitis ulcerosa: el desarrollo de una colangitis esclerosante primaria. Paciente con colitis ulcerosa y colestasis disociada = Colangitis esclerosante primaria. Más del 75% de los pacientes con CEP tienen asociada una colitis ulcerosa que además suele tener rasgos atípicos (respeto del recto, ileítis por reflujo, predominio en colon derecho y mayor riesgo de displasia y CCR). Está indicado hacer una colonoscopia al diagnóstico de toda CEP para buscar una CU, si el paciente no la tiene diagnosticada.</p>"
   }
 ]
