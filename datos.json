@@ -4765,5 +4765,214 @@
     ],
     "correcta": 3,
     "comentario": "<p>Pregunta fácil. La elevación de la inmunoglobulina IgG4 es un marcador muy sensible y específico que nos sirve para el diagnóstico de pancreatitis autoinmune (en concreto la tipo 1) cuando tenemos la sospecha clínica, analítica y radiológica de dicha entidad (respuesta correcta 4). El resto de respuestas son marcadores de autoinmunidad, algunos de ellos muy inespecíficos, como es el caso de los ANCA (respuestas 1, 2 y 3 incorrectas).</p>"
+  },
+
+{
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2024) 135. Mujer de 62 años que consulta por dolor abdominal persistente, pérdida de peso no intencionada de 10kg en los últimos tres meses, ictericia y acolia. En las últimas horas presenta vómitos de retención gástrica. Las analíticas muestran elevación de bilirrubina y enzimas hepáticas así como hipopotasemia. La TC abdominal revela una masa en la cabeza del páncreas y proceso uncinado que provoca obstrucción de la vía biliar, infiltración inextirpable vascular, distensión y retención gástrica. Tras estabilizarla se efectúa ecoendoscopia con biopsia que demuestra la existencia de un adenocarcinoma pancreático con estenosis infranqueable del duodeno. ¿Cuál de las siguientes es la mejor actitud terapéutica?:",
+    "opciones": [
+      "1. Doble derivación bilio-digestiva.",
+      "2. Intervención de Whipple.",
+      "3. Intervención de Puestow.",
+      "4. Coledocoduodenostomía."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Esta pregunta nos presenta el caso clínico de un tumor de cabeza pancreática irresecable que provoca una estenosis de duodeno, así como una obstrucción de la vía biliar extrahepática. En este caso no sería adecuado plantear una cirugía curativa (duodenopancreatectomía cefálica o Whipple) ya que no se trata de una lesión resecable; lo más adecuado sería realizar otras opciones paliativas que permitan derivar la vía biliar y la vía digestiva, como bien dicta la respuesta 1; otra opción correcta sería la colocación de endoprótesis biliar y/o duodenal. La intervención de Puestow no sería correcta, ya que aunque es una técnica derivativa del conducto pancreático principal (pancreático-yeyunostomía longitudinal) no resolvería los dos principales problemas que plantean.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2023) 15. Pregunta asociada a la imagen 15. Mujer de 70 años con antecedente de oclusión intestinal por bezoar en 2019 y dilatación del colédoco y de la vía biliar intrahepática de causa desconocida. En una TC reciente se evidencia una lesión quística con áreas sólidas de 28 cm, localizada en la cabeza del páncreas, en conexión con el conducto de Wirsung sin condicionar dilatación del mismo. No hay signos de infiltración local ni metástasis a distancia. Se decide realizar una duodenopancreatectomía cefálica. Se muestra una imagen macroscópica y una imagen microscópica de la lesión. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Neoplasia mucinosa quística.",
+      "2. Neoplasia mucinosa papilar intraductal de rama secundaria.",
+      "3. Neoplasia sólida-pseudopapilar.",
+      "4. Neoplasia mucinosa papilar intraductal con componente invasivo de rama principal."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sobre los tumores pancreáticos que cada vez están más de moda en el MIR. Una lesión quística que comunica con el Wirsung sin dilatarlo es por definición un TPMI de rama lateral (respuesta 2). La neoplasia mucinosa quística afecta típicamente a mujeres y suele estar en la cola del páncreas y no comunica con el Wirsung. La neoplasia sólida pseudopapilar es un tumor muy raro que afecta principalmente a mujeres jóvenes y que también asienta en la cola. Aunque la respuesta está clara, finalmente la pregunta se anuló por el error de 28 cm en lugar de 2,8 cm.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2023) 130. Paciente de 71 años que consulta por ictericia con bilirrubina total 6 mg/dL (bilirrubina directa 4 mg/dL), transaminasas normales y elevación de GGT 349 U/L y fosfatasa alcalina 260 U/L. En la ecografía de abdomen se aprecia dilatación de la vía biliar intra y extrahepática. No tiene dolor y refiere pérdida de peso de unos 5 kg en el último mes. Se le realiza una colangiopancreatografía retrógrada endoscópica apreciándose una estenosis abrupta del colédoco distal. ¿Cuál es su primera sospecha diagnóstica?:",
+    "opciones": [
+      "1. Colangitis esclerosante primaria.",
+      "2. Coledocolitiasis.",
+      "3. Cáncer de páncreas.",
+      "4. Hepatitis aguda."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta muy fácil e importante. Ante una ictericia indolora con síndrome constitucional debemos siempre sospechar y descartar un cáncer de páncreas. Además, nos refuerzan la sospecha diciéndonos que en la ecografía y en la CPRE se objetiva una estenosis ABRUPTA de colédoco distal junto con dilatación retrógrada de la vía biliar.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2022) 3. Pregunta vinculada a la imagen n.º 3. Mujer de 81 años que consulta por ictericia, dolor epigástrico, astenia y anorexia. La TC abdominal muestra en la cabeza del páncreas una lesión sólida, mal delimitada, de 24 x 24 mm, que contacta focalmente con la vena mesentérica superior y comporta dilatación de la vía biliar. No se observa un claro contacto con otras estructuras vasculares principales. Con la sospecha de proceso neoformativo se indica la intervención quirúrgica. Se muestra una imagen macroscópica y una microscópica de la lesión pancreática. El estudio inmunohistoquímico realizado en la pieza de resección muestra positividad para citoqueratina 7 y negatividad para sinaptofisina, tripsina, CK20 y CDX2. ¿Cuál es el diagnóstico anatomopatológico de la lesión pancreática?:",
+    "opciones": [
+      "1. Adenocarcinoma ductal.",
+      "2. Cistadenoma seroso.",
+      "3. Neoplasia mucinosa quística.",
+      "4. Pancreatitis autoinmune asociada a enfermedad por IgG4."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta vinculada a imagen anatomopatológica, sencilla por tratarse de un tema muy preguntado. Observamos una masa/neoplasia en la cabeza del páncreas en una paciente anciana que debuta con dolor, pérdida de peso e ictericia obstructiva. Simplemente viendo que es una imagen sólida podemos descartar las opciones 2 y 3, puesto que son neoplasias con componente quístico. Por otro lado, la histología e inmunohistoquímica (ni la presentación clínica en una paciente octogenaria) no corresponden a una pancreatitis autoinmune. Vemos en la AP microscópica que la neoplasia forma glándulas y que existe una abundante reacción estromal, típica del adenocarcinoma pancreático, que es la neoplasia más frecuente del páncreas (y la de peor pronóstico).</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2021) 147. El cáncer de páncreas localmente avanzado:",
+    "opciones": [
+      "1. Es una presentación clínica infrecuente (menor del 10%).",
+      "2. Tiene una supervivencia mediana inferior a 3 meses.",
+      "3. Es candidato a quimio-radioterapia neoadyuvante.",
+      "4. Es mínimamente sintomático."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta anulada. La mayor parte de los tumores pancreáticos se diagnostican en fases avanzadas (estadio localmente avanzado o metastásico) lo que condiciona su mal pronóstico. Menos de un 10% de los pacientes tienen un tumor localizado al diagnóstico (respuesta 1 falsa). El retraso diagnóstico se explica en parte porque es un tumor poco sintomático en fases iniciales, pero no en fases avanzadas (respuesta 4 falsa). Aunque inicialmente se dio por correcta la opción 3, el tratamiento con quimio-radioterapia neoadyuvante se realiza solo en tumores borderline con vistas a una posterior intervención quirúrgica. Los pacientes con tumores localmente avanzados, son irresecables y candidatos, por tanto, a quimioterapia paliativa con o sin radioterapia.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2021) 148. Mujer de 72 años sin antecedentes de interés. Tras un cólico renal complicado se encuentra casualmente en la TC abdominal una lesión quística en cola de páncreas de 2 cm, junto con múltiples lesiones quísticas renales bilaterales. La ultrasonografía endoscópica muestra una lesión poliquística formada por múltiples vesículas con calcificación central en cola de páncreas sin conexión con el conducto de Wirsung. El análisis del líquido es compatible con un cistoadenoma seroso. De las siguientes, ¿cuál es la actitud más correcta con respecto al manejo de esta paciente?:",
+    "opciones": [
+      "1. Resección quirúrgica (pancreatectomía corporocaudal).",
+      "2. Punción guiada mediante ultrasonografía endoscópica y etanolización de la misma.",
+      "3. Seguimiento de la lesión mediante RM.",
+      "4. Trasplante de riñón-páncreas."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil. Nos presentan una lesión quística benigna del cuerpo-cola del páncreas, típica de mujeres de unos 60 años que sólo requiere vigilancia y no es necesaria su resección salvo complicaciones (dolor, hemorragia, pancreatitis…).</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2019) 85. Aproximadamente el 90% de los tumores malignos del páncreas exocrino son adenocarcinomas ductales. ¿Cuál de las siguientes situaciones define adecuadamente la relación entre diabetes y cáncer de páncreas?:",
+    "opciones": [
+      "1. Los pacientes con diabetes de larga evolución tienen un riesgo superior al 50% de desarrollar cáncer de páncreas.",
+      "2. La diabetes está presente en un tercio de los pacientes con cáncer de páncreas avanzado y en muchos de ellos es de instauración reciente.",
+      "3. En la mayoría de pacientes con cáncer de páncreas, la diabetes se instaura cuando aparece ictericia.",
+      "4. La diabetes desaparece después de la exéresis del tumor."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta atípica sobre el cáncer de páncreas y su relación con la diabetes. Se piensa que la diabetes mellitus es un factor de riesgo para el desarrollo de cáncer de páncreas. Hasta un cuarto de los pacientes pueden tener DM al diagnóstico. Se desconoce su relación causal pero su riesgo aumenta en diabéticos con el paso del tiempo hasta un 40% (respuesta 1 incorrecta). Recordad que ante un paciente de edad avanzada, con instauración reciente de diabetes mellitus de mal control, debemos descartar un cáncer de páncreas (respuesta 2 correcta). En el cáncer de páncreas la ictericia suele aparecer de forma precoz y la diabetes de forma más tardía (respuesta 3 incorrecta). La respuesta 4 es algo confusa, pues hay diabetes mellitus que desaparecen con la resección del tumor, pero lo más adecuado sería si pusiera 'puede desaparecer', ya que no ocurre siempre.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2019) 227. Mujer de 76 años con clínica de ictericia indolora de 3 semanas de evolución. En el estudio con ecografía abdominal se identifica una lesión de 3 cm en cabeza pancreática. ¿Cuál es el primer estudio complementario para el diagnóstico y estadificación de esta lesión?:",
+    "opciones": [
+      "1. PET-TC.",
+      "2. Ecoendoscopia.",
+      "3. TC toraco-abdomino-pélvico con contraste.",
+      "4. Colangiopancreatografía retrógada endoscópica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La prueba de elección para el estadiaje del cáncer de páncreas es el TAC tóraco-abdómino-pélvico que evalúa TNM (respuesta 3 correcta), en cambio el PET-TAC no tiene cabida en esta patología (respuesta 1 incorrecta). La ecoendoscopia evalúa la T, la N y la presencia de compromiso vascular en caso de dudas con el TAC y además, permite realizar PAAF para estudio histológico (respuesta 2 incorrecta). En el cáncer de páncreas, la CPRE sirve como método paliativo generalmente para inserción de prótesis biliares que sirvan como drenaje biliar en casos de obstrucción (respuesta 4 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2018) 75. Respecto a la cirugía de resección del adenocarcinoma de cabeza de páncreas señale cuál es la técnica más empleada:",
+    "opciones": [
+      "1. La duodenopancreatectomía cefálica con linfadenectomía regional.",
+      "2. La pancreaticoyeyunostomía, que consiste en la derivación del ducto pancreático al intestino.",
+      "3. La pancreatectomía corporo-caudal por laparoscopia.",
+      "4. La enucleación del tumor sin necesidad de linfadenectomía."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta fácil y que no podemos fallar. Cuando tenemos un paciente con un tumor de cabeza de páncreas hay que hacer una duodenopancreatectomía cefálica con linfadenectomía locorregional (opción 1 correcta, 3 falsa). La opción 2 se puede realizar endoscópicamente o con cirugía en pacientes con dolor abdominal mal controlado con fármacos (otra indicación sería el dolor mal controlado en pacientes con pancreatitis crónica). La opción 4 no tiene sentido en esta pregunta.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2018) 87. ¿Qué afirmación sobre el cáncer de páncreas es correcta?:",
+    "opciones": [
+      "1. Los factores de riesgo implicados en esta neoplasia incluyen tabaquismo, obesidad y pancreatitis aguda.",
+      "2. La prueba diagnóstica de imagen más adecuada es la TC helicoidal sin contraste y doble fase.",
+      "3. Es necesaria la confirmación diagnóstica anatomopatológica preoperatoria antes de realizar el tratamiento quirúrgico con finalidad curativa.",
+      "4. La alteración genética detectada con más frecuencia es la delección del gen p16."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Es una pregunta difícil pero a la vez interesante. La opción 1 es falsa ya que la pancreatitis aguda no es un factor de riesgo para el desarrollo del cáncer de páncreas (recordad que sí que lo es la pancreatitis crónica y que ante una pancreatitis crónica o una reagudización de una pancreatitis crónica, debemos sospechar y descartar una neoplasia subyacente). La opción 2 es falsa ya que para el diagnóstico con TC de un cáncer de páncreas necesitamos contraste (recordad que el cáncer de páncreas es hipovascular a diferencia del hepatocelular, y que por tanto lo veremos una como lesión hipodensa). A día de hoy, sólo es necesario una confirmación citohistológica del cáncer de páncreas en caso de tumores que recibirán neoadyuvancia o que son irresecables; en los resecables no es necesario (la explicación es que si tenemos una masa de páncreas sospechosa y es resecable, vamos a extirparla, incluso aunque haya falsos negativos en los estudios microscópicos). Respuesta 3 incorrecta. Por descarte, la opción 4 es la correcta (difícil). Recordad ese dato puntual por si vuelve a entrar, pero no le deis muchas más vueltas.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2016) 66. ¿Cuál de las siguientes afirmaciones es FALSA respecto a la estadificación del cáncer de páncreas?:",
+    "opciones": [
+      "1. La estadificación local puede realizarse con RM y TC.",
+      "2. La invasión tumoral arterial es un criterio de irresecabilidad.",
+      "3. La infiltración focal de la vena mesentérica superior no es una contraindicación a la cirugía.",
+      "4. La biopsia preoperatoria de los tumores pancreáticos es habitualmente necesaria para decidir el tratamiento quirúrgico."
+    ],
+    "correcta": 3,
+    "comentario": "<p>La primera opción es cierta: las técnicas de elección para el estadiaje son TAC y RMN, reservándose la ecoendoscopia para mejor caracterización en casos dudosos. La invasión arterial tumoral puede ser criterio de irresecabilidad o convertir a un tumor en borderline-resecable en función de los vasos afectados y los grados que afecte al vaso. Los criterios de irresecabilidad son metástasis a distancia (incluye adenopatías no regionales); afectación arterial: contacto >180º con arteria mesentérica superior, contacto >180º con tronco celíaco, contacto con primera rama yeyunal de la arteria mesentérica superior, contacto con la aorta; afectación venosa: oclusión (trombosis/tumor) o contacto de la vena mesentérica superior o vena porta irreconstruible. Con esto se deduce que la opción 2 la deberían haber especificado más pues dependiendo del grado de contacto con la arteria y el tipo de arteria sería resecable o no. Además, la respuesta 3 también debería especificarse un poco más aunque ya remarcan afectación focal de la v. mesentérica superior, con tan solo esa información no podemos deducir si es una infiltración reconstruible o no. Por ello esta pregunta podría ser impugnable y anulable. Por último, no hay que hacer biopsia ante un tumor que va ser operado, sino que la biopsia se realiza en un paciente con metástasis que va a ir a quimioterapia. Por ello, la 4 es falsa y es la que dieron como correcta.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2016) 79. ¿Cuál de las siguientes opciones es FALSA en relación al tumor mucinoso papilar intraductal pancreático?:",
+    "opciones": [
+      "1. Se consideran lesiones premalignas.",
+      "2. Pueden afectar tanto al conducto pancreático principal como a las ramas secundarias y se caracterizan por presentar epitelio productor de mucina.",
+      "3. La presencia de nódulos en la pared de la lesión no constituye un signo de alarma.",
+      "4. Cuando afecta a las ramas secundarias, la resección quirúrgica está indicada si es mayor de 3 cm."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta que con 'técnica de examen MIR' podría acertarse. La neoplasia mucinosa papilar intraductal (NPMI) es un tumor quístico que tiene un excelente pronóstico en comparación con otras neoplasias pancreáticas, pero no debemos olvidar que a pesar de que su porcentaje de malignización es bajo, puede degenerar y convertirse en neoplasia (respuesta 1 es cierta). Debemos conocer que hay dos tipos de NPMI: los que afectan al conducto pancreático principal o de Wirsung y los que afectan a ramas secundarias y son una dilatación difusa del conducto pancreático principal y/o sus colaterales con defectos de repleción constatados por técnicas de imagen (correspondientes a globos de mucina o tumor), y salida de moco a través de una papila (respuesta 2 cierta). En esta respuesta la palabra 'pueden' nos ha de llamar la atención. La cirugía está indicada en todos los subtipos que presenten estigmas de alto riesgo (Ictericia obstructiva producida por una lesión quística pancreática, realce de componente sólido intraquístico ó conducto pancreático principal ≥10mm). Además, estaría también indicada si hay alguna característica de alarma (tamaño del quiste >30 mm, engrosamiento o realce de paredes; Conducto pancreático principal de 6-9 mm; nódulos murales no realzados; estenosis de la rama principal con atrofia de páncreas distal ó adenopatías) y después se realice una ecoendoscopia que muestre nódulo mural, conducto principal con posible infiltración o citología positiva. Por ello, la respuesta 3 es la falsa y la es cierta. Con algo de sentido común, un nódulo intramural nos ha de hacer sospechar 'malignidad' y además por descarte, podría señalarse esta respuesta como correcta.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2016) 4. Pregunta vinculada a la imagen n.º 4. Mujer de 65 años. Consulta por síndrome constitucional asociado a dolor abdominal epigástrico progresivo irradiado a espalda, de dos meses de evolución. El diagnóstico de sospecha de adenocarcinoma de páncreas se confirma por biopsia guiada por ecoendoscopia. Se realiza TC de abdomen tras administración de contraste intravenoso para valoración de estructuras vasculares próximas al tumor pancreático, a fin de establecer su posible afectación. (ver imagen). ¿Qué estructura vascular está ausente, trombosada por infiltración tumoral, condicionando circulación colateral en la pared gástrica?:",
+    "opciones": [
+      "1. Vena mesentérica superior.",
+      "2. Vena coronaria estomáquica.",
+      "3. Vena esplénica.",
+      "4. Vena porta."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Se trata de una paciente con adenocarcinoma de páncreas a quién realizan un TC abdominal con contraste para descartar afectación vascular. Se trata de una reconstrucción coronal donde se observa la vena esplénica con un trayecto afilado y además se observa la circulación colateral en la pared gástrica. Esta pregunta se podía contestar también con la pista que nos dan de que su trombosis ha provocado la aparición de circulación colateral (varices) gástrica pues la trombosis de la vena esplénica lo puede desencadenar. Dado que no tiene afectación de la vena mesentérica superior o vena porta ni arteria mesentérica superior, tronco celiaco, aorta o vena cava sería en principio un tumor resecable.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2015) 46. En relación con los tumores mucinosos papilares intraductales de páncreas, señalar el enunciado INCORRECTO:",
+    "opciones": [
+      "1. Son tumores potencialmente malignos.",
+      "2. Su frecuencia se ha incrementado notablemente en la última década.",
+      "3. Se distinguen tres subtipos: de conducto principal, de conducto secundario y mixto.",
+      "4. Deben ser extirpados tan pronto como se diagnostiquen, excepto la variedad de conducto principal.",
+      "5. Su primera manifestación clínica puede ser un cuadro de pancreatitis aguda."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta compleja por referirse a un tema poco preguntado. El tumor pancreático más frecuente, de lejos, y el más preguntado en el MIR, es el adenocarcinoma y es el que se debe dominar. También hay que tener cierta idea de los tumores neuroendocrinos (gastrinoma, insulinoma...) que asientan en el páncreas. En esta ocasión nos preguntan por un tumor más raro pero que está en aumento (opción 2). El Tumor Papilar Mucinoso Intraductal (TPMI) del páncreas se engloba dentro del grupo de los tumores quísticos pancreáticos (junto al cistoadenoma mucinoso y seroso). El TPMI se diferencia del cistoadenoma mucinoso por afectar a pacientes de mayor edad y surgir de los conductos pancreáticos, como su nombre indica. Son tumores con potencial de malignidad (opción 1) bajo y con baja tasa de crecimiento y extensión metastásica. Pueden afectar al conducto pancreático principal o de Wirsung (siendo éstos los más frecuentes y con mayor potencial maligno), a conductos secundarios o ser mixtos (opción 3). Suele presentarse clínicamente en paciente de edad avanzada con síndrome constitucional, elevación de enzimas pancreáticas y es bastante frecuente (30-80%) el antecedente de episodios de pancreatitis aguda (opción 5). También puede manifestarse con síntomas que recuerdan a una pancreatitis crónica obstructiva. La ecoendoscopia juega un papel fundamental en el diagnóstico y diagnóstico diferencial (sobre todo con la pancreatitis crónica). El tratamiento variará según la localización, el potencial de malignidad y las características del paciente, pero como ya hemos comentado antes, los que afectan a conducto principal suelen ser con más frecuencia malignos (opción 4 falsa). La principal modalidad terapéutica es la cirugía, con tasas globales de resecabilidad del 90%.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2014) 1. Pregunta vinculada a la imagen n.º 1. Hombre de 40 años sin antecedentes de interés. Desde hace 4 semanas, refiere cuadro de deposiciones diarreicas, asociado a ictericia de piel y mucosas, coluria, hipocolia y dolor en hipocondrio derecho, acompañado de pérdida de peso (10 kg aprox.) y prurito intenso. En la analítica destaca: Bilirrubina total: 15,3 mg/dl. Alaninaaminotransferasa: 70 U/l Aspartatoaminotransferasa: 85 U/l. Serología para hepatitis negativa y elevación del CA 19-9. Se realiza TC abdominal. Se muestran 3 secciones axiales. En relación a los hallazgos de la prueba radiológica, ¿cuál de las siguientes afirmaciones es cierta?:",
+    "opciones": [
+      "1. Se observa una masa tumoral en cabeza de páncreas que condiciona dilatación biliar y ductal compatible con adenocarcinoma.",
+      "2. Presencia de engrosamiento difuso del páncreas con Wirsung arrosariado compatible con pancreatitis linfoplasmocitaria.",
+      "3. Se identifica una masa tumoral en infundíbulo vesicular compatible con adenocarcinoma vesicular.",
+      "4. Se observan voluminosas adenopatías tumorales en hilio hepático que producen dilatación de la vía biliar.",
+      "5. Presencia de múltiples lesiones focales hepáticas sólidas compatibles con metástasis hepáticas difusas."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Paciente joven que presenta cuadro subagudo de ictericia, dolor abdominal y pérdida de peso. Aunque la edad nos puede despistar, la tríada clínica acompañada de una imagen con una masa pancreática en la cabeza del páncreas, la dilatación del Wirsung y de la de vía biliar intra y extrahepática sugiere adenocarcinoma pancreático. Además, podemos ver que la vesícula biliar está distendida pero libre y no hay metástasis hepáticas.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2014) 2. Pregunta vinculada a la imagen n.º 1. En el paciente anterior ¿cuál de los siguientes tratamientos está indicado?:",
+    "opciones": [
+      "1. Drenaje biliar por vía endoscópica retrógrada y quimioterapia sistémica.",
+      "2. Duodenopancreatectomía cefálica con resección vascular.",
+      "3. Embolización hepática con esferas cargadas de quimioterapia.",
+      "4. Drenaje biliar transparietohepático y quimioterapia sistémica.",
+      "5. Tratamiento con corticoides."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta que podría ser impugnable. La opción correcta de tratamiento del adenocarcinoma pancreático de cabeza de páncreas según el Ministerio es la duodenopancreatectomía cefálica o cirugía de Whipple. El problema de la pregunta es debido a que sólo se dispone de tres cortes axiales que definen mal la masa y puede hacer dudar de la invasión de las estructuras vasculares. En el caso de que exista invasión vascular venosa, la cirugía no está siempre contraindicada. En pacientes seleccionados se puede realizar ésta con un fin curativo, aunque lo más frecuente es dar antes tratamiento neoadyuvante para disminuir la masa y seleccionar a los pacientes con mejor pronóstico. En este caso preguntan el tratamiento primario de este tipo de tumor, que asumimos que no tiene invasión vascular ni a distancia, por lo que la respuesta finalmente aceptada es la 2.</p>"
+  },
+  {
+    "tema": "Tema 34. Tumores pancreáticos",
+    "pregunta": "(MIR 2014) 40. El cáncer de páncreas más frecuente es:",
+    "opciones": [
+      "1. El tumor papilar mucinoso intraductal.",
+      "2. El carcinoma neuroendocrino de páncreas.",
+      "3. El cistoadenocarcinoma de páncreas.",
+      "4. El insulinoma maligno.",
+      "5. El adenocarcinoma ductal de páncreas."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta de anatomía patológica muy sencilla y tercera pregunta sobre tumores del páncreas. El tumor pancreático más frecuente es el adenocarcinoma pancreático, que representa el 90% de los tumores de la glándula pancreática.</p>"
   }
 ]
