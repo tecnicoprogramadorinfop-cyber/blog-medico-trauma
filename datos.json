@@ -4974,5 +4974,152 @@
     ],
     "correcta": 4,
     "comentario": "<p>Pregunta de anatomía patológica muy sencilla y tercera pregunta sobre tumores del páncreas. El tumor pancreático más frecuente es el adenocarcinoma pancreático, que representa el 90% de los tumores de la glándula pancreática.</p>"
+  },
+
+{
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2024) 42. Un paciente acude a consulta recientemente diagnosticado de esofagitis eosinofílica y tras exponerle las opciones de tratamiento prefiere hacer tratamiento dietético con dieta de exclusión de dos alimentos. ¿Cuáles son los alimentos que tendría que retirar de la dieta?:",
+    "opciones": [
+      "1. Huevo y trigo.",
+      "2. Leche de vaca y pescado.",
+      "3. Legumbres y leche de vaca.",
+      "4. Leche de vaca y trigo."
+    ],
+    "correcta": 3,
+    "comentario": "<p>La esofagitis eosinofílica está causada por una reacción de hipersensibilidad tipo IV mediada por linfocitos TCD4, con lo que los test de hipersensibilidad habituales, basados en IgE, no son útiles. Por este motivo, es muy difícil identificar los alimentos responsables, tanto a la hora de caracterizar la enfermedad en general como a la hora de tomar decisiones terapéuticas en un paciente en particular. Las dietas de exclusión de alimentos se basan en la observación empírica de que, al retirar determinados alimentos, las biopsias de cierto porcentaje de los pacientes mejoran. Estos son, por orden de frecuencia: la leche, el trigo, huevo, legumbres, frutos secos, y pescados/mariscos. La única forma de identificar el precipitante, o los precipitantes, en un paciente en concreto consiste en eliminarlos y reintroducirlos en la dieta de manera estructurada realizando biopsias de control. La dieta de 2 alimentos excluye la leche y el trigo (respuesta 4 correcta). La dieta de 4 alimentos excluye los 4 alimentos más frecuentemente implicados. La dieta de 6 alimentos es difícil de seguir y su rendimiento es similar al de la dieta de 4 alimentos, por lo que está prácticamente en desuso.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2023) 40. En relación con la esofagitis eosinofílica, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "1. El diagnóstico de certeza se realiza mediante endoscopia digestiva alta y biopsia.",
+      "2. El tratamiento inicial es recomendar dieta de eliminación de aquellos alimentos en los que se demuestran reacciones positivas in vivo o in vitro.",
+      "3. La inflamación subyacente indica un mecanismo patogénico de hipersensibilidad Th1.",
+      "4. La inmunoterapia específica frente a los alérgenos respiratorios y alimentarios a los que se ha demostrado sensibilización es una práctica habitual."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta anulada. De las opciones que nos presentan, la única claramente correcta es la 1. La esofagitis eosinofílica es una enfermedad emergente que aún estamos caracterizando, y que ahora sabemos que obedece a un mecanismo de hipersensibilidad de perfil Th2 (respuesta 3 incorrecta). Aunque en la práctica se suele empezar por el tratamiento antisecretor, es verdad que el tratamiento inicial puede ser una dieta de eliminación; lo que no es correcto es guiar la dieta por la reacción a las pruebas de alergia, dado que se ha comprobado repetidamente que la correlación entre ambas es muy pobre y decrece con la edad (respuesta 2 incorrecta). Por lo mismo, la inmunoterapia específica frente a alérgenos específicos es práctica habitual, pero no para el tratamiento de la esofagitis eosinofílica, y no modifica el curso de la misma (respuesta 4 incorrecta). Finalmente la pregunta fue anulada, suponemos que por un error de redacción del enunciado.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2022) 209. En la endoscopia oral de un paciente con pirosis de larga evolución se aprecia una mucosa rosada ascendente en llamas, sin erosiones ni úlceras. Se toman biopsias esofágicas que demuestran la presencia de epitelio metaplásico, con 34 eosinófilos por campo y sin displasia. El diagnóstico más probable es:",
+    "opciones": [
+      "1. Esófago de Barrett.",
+      "2. Esofagitis eosinofílica.",
+      "3. Enfermedad por reflujo gastro-esofágico no erosiva.",
+      "4. Esofagitis grado B de Los Ángeles."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla sobre un concepto muy preguntado en el MIR: el esófago de Barrett. Nos presentan un paciente con pirosis de larga evolución (principal factor de riesgo). Siempre se describe igual: una mucosa asalmonada/rosada que asciende por el esófago con longitud variable. Recordad que el diagnóstico requiere de biopsias para confirmar la metaplasia intestinal. El resto de opciones se descartan fácilmente: en la esofagitis eosinofílica debe haber más de 15 eosinófilos y los hallazgos son completamente distintos, en la esofagitis grado B debería haber erosiones y en la ERGE no erosiva la endoscopia debería ser normal.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2020) 2. Pregunta vinculada a la imagen n.º 2. Hombre de 20 años con antecedentes de asma, que consulta por disfagia e impactación alimentaria. Se le realiza una endoscopia digestiva alta con toma de biopsias esofágicas. ¿Con qué diagnóstico es compatible esta biopsia de esófago proximal?:",
+    "opciones": [
+      "1. Esofagitis por reflujo.",
+      "2. Esófago de Barrett.",
+      "3. Esofagitis eosinofílica.",
+      "4. Esofagitis por Candida."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil, por repetida, que deberías poder contestar sin mirar la imagen. Paciente varón, joven, con antecedentes de perfil alérgico, y disfagia obstructiva, en el MIR es siempre una esofagitis eosinofílica. La biopsia muestra un epitelio con infiltrado con predominio de eosinófilos. Recuerda que el criterio diagnóstico son más de 15 eosinófilos por campo de gran aumento.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2019) 14. Pregunta vinculada a la imagen n.º 14. Una mujer de 68 años, diagnosticada de hipercolesterolemia en tratamiento con simvastatina, consulta por disfagia y odinofagia intensas de una semana de evolución. Se realiza una gastroscopia (ver imagen). ¿Cuál de las siguientes afirmaciones es correcta?:",
+    "opciones": [
+      "1. Aunque no existen datos de inmunosupresión, no puede descartarse la etiología herpética.",
+      "2. La etiología más probable es farmacológica, dado su tratamiento actual con simvastatina.",
+      "3. La infección por citomegalovirus es la causa más frecuente de estas lesiones en personas inmunocompetentes.",
+      "4. La presencia de células gigantes y de cuerpos de inclusión eosinofílicos en el estudio histopatológico de las biopsias, confirmarían la etiología candidiásica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta compleja sobre esofagitis en forma de imagen mediante una úlcera esofágica aislada. El dato de la toma de simvastatina no tiene relevancia en esta pregunta ya que la simvastatina no produce úlceras esofágicas, respuesta 2 incorrecta. La esofagitis medicamentosa más frecuente suele ser por antibióticos (tetraciclinas, doxicilinas) y por bifosfonatos. La infección por CMV es frecuente en pacientes inmunodeprimidos, siendo la Cándida la infección más frecuente en pacientes inmunocompetentes (respuesta 3 incorrecta). En el estudio histológico de la cándida, observaríamos inflamación, presencia de hifas y/o levaduras (respuesta 4 incorrecta). La esofagitis herpética en general suele presentarse en pacientes inmunodeprimidos pero puede darse también en pacientes inmunocompetentes como es nuestro caso (respuesta 1 correcta).</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2018) 5. Pregunta vinculada a la imagen n.º 5. Carlos tiene 31 años y es la tercera vez que acude este año a urgencias por presentar episodios de impactación esofágica tras la ingesta de carne que han precisado de su extracción por endoscopia oral. Como antecedentes cabe reseñar que presenta asma bronquial y es alérgico a los frutos secos. Señale la respuesta verdadera en base a los hallazgos esofágicos encontrados en una nueva endoscopia oral:",
+    "opciones": [
+      "1. La imagen corresponde a la tráquea, el endoscopista ha entrado a la vía respiratoria.",
+      "2. La sospecha diagnóstica debería confirmarse con histología tomando biopsias de esófago distal y proximal.",
+      "3. Si el paciente refiere dolor torácico la imagen es diagnóstica de espasmo esofágico difuso.",
+      "4. La imagen corresponde a una acalasia."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla sobre esofagitis eosinofílica, una patología en auge que es muy susceptible de seguir siendo preguntada en el MIR. Se trata de un paciente joven, con antecedentes de atopia y con problemas de disfagia; todo ello apunta a este diagnóstico. Además se aprecia en la endoscopia la típica imagen del esófago traquealizado. Para confirmar el diagnóstico debe hacerse una biopsia de la mucosa y constatar la presencia de más de 15 eosinófilos por campo de gran aumento (opción 2 cierta). La opción 1 no es cierta, aunque es algo que puede ocurrir durante una endoscopia oral y obliga a retirar rápidamente el endoscopio de la vía respiratoria y valorar la estabilidad del paciente (en ocasiones se puede complicar con bronco o laringoespasmo), la opción 3 no tiene una imagen endoscópica característica y la opción 4 se vería como un megaesofágo dilatado, con retención de saliva y alimentos y dificultad para progresar a través del esfínter esofágico inferior/cardias.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2018) 40. El hallazgo histológico que permite un diagnóstico de esófago de Barret en una biopsia es la presencia de:",
+    "opciones": [
+      "1. Epitelio plano papilomatoso.",
+      "2. Epitelio columnar especializado con células caliciformes.",
+      "3. Infiltrado inflamatorio mononuclear.",
+      "4. Acantosis glucogénica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta fácil. La descripción de los hallazgos histológicos corresponde precisamente a la definición de un esófago de Barrett, que no es otra cosa que una metaplasia del epitelio plano poliestratificado del esófago a otro de tipo intestinal (columnar con células caliciformes). Recuerda que la periodicidad del seguimiento dependerá del grado de displasia asociado a la metaplasia.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2017) 12. Pregunta vinculada a la imagen n.º 12. Paciente de 58 años con clínica de pirosis de larga evolución. Se realiza una endoscopia digestiva alta que se muestra en la imagen. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Esófago de Barrett.",
+      "2. Esofagitis péptica.",
+      "3. Esofagitis eosinofílica.",
+      "4. Enfermedad de Mallory-Weiss."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla con una de las imágenes endoscópicas típicas que mejor debéis recordar. Se trata de un paciente con ERGE de larga evolución y varón >50 años (factores de riesgo para presentar Barrett). En la endoscopia se objetiva una mucosa no erosionada ni ulcerada por lo que no se trata de una esofagitis péptica (opción 2 falsa). Asimismo tampoco hay un desgarro mucoso ni el paciente ha vomitado (opción 4 falsa). Recordad que la esofagitis eosinofílica da un aspecto traquealizado al esófago (opción 3 falsa). La imagen es muy característica de un Barrett (opción 1 cierta) ya que la línea Z normal ha perdido su morfología al existir una lengüeta de mucosa columnar (asalmonada) que asciende desde la unión gastroesofágica. El diagnóstico debe ser confirmado tomando biopsias de dicha lengüeta (metaplasia columnar de tipo intestinal).</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2016) 71. Joven de 18 años de edad con antecedentes de asma, alergia a pólenes, ácaros y pelo de gato, acude a urgencia refiriendo sensación de detención de alimentos a nivel retroesternal con práctica incapacidad para deglutir su propia saliva. Refiere episodios similares en otras ocasiones que han cedido de forma espontánea en pocos minutos. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Esófago de Barrett.",
+      "2. Anillo esofágico distal (Schaztki).",
+      "3. Esofagitis infecciosa.",
+      "4. Esofagitis eosinofílica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Varón joven con antecedentes de atopia que presenta disfagia intermitente es claramente esofagitis eosinofílica. El esófago de Barrett sería en un paciente con reflujo de larga evolución y en general no provoca disfagia. El anillo de Schaztki provoca disfagia intermitente pero se asocia a pirosis y no a atopia. La esofagitis infecciosa es una enfermedad más infrecuente que puede dar disfagia, fiebre, odinofagia o dolor torácico.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2016) 233. Acude a consultas de pediatría un niño de 13 años de edad por presentar sensación de pirosis durante y tras las comidas y disfagia ocasional, que aumenta con la ingesta de alimentos sólidos como la carne. En los antecedentes familiares destacar que su madre está diagnosticada de hernia hiatal. En los antecedentes personales nos refiere alergia a pólenes, ácaros y látex. En la exploración física, no muestra hallazgos significativos salvo lesiones eccematosas en huecos poplíteos y antecubitales. ¿Cuál de las siguientes pruebas complementarias NO realizaría de acuerdo a los diagnósticos más probables?:",
+    "opciones": [
+      "1. Endoscopia digestiva superior.",
+      "2. pHmetría esofágica de 24 horas.",
+      "3. Test de aliento con carbono 13 para Helicobacter pylori.",
+      "4. Estudio baritado esófago-gastro-duodenal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Se presenta un caso clínico correspondiente a un paciente con antecedentes familiares de hernia de hiato y personales de alergia y atopia, con sintomatología de reflujo gastroesofágico y disfagia a sólidos. Dicha sintomatología podría corresponder a una entidad conocida como esofagitis eosinofílica. Esta es una enfermedad primaria del esófago caracterizada por síntomas esofágicos y/o gastrointestinales altos, principalmente disfagia e impactación alimentaria, e intolerancia a los alimentos y síntomas de reflujo gastroesofágico. Para su diagnóstico precisa la presencia de >15 eosinófilos por campo en biopsias de mucosa esofágica. Por lo tanto, en el caso clínico presentado, estarían indicadas todas las exploraciones complementarias que permitieran el diagnóstico de dicha entidad, descartando previamente y a través de un tránsito esofago-gastro-duodenal baritado la presencia de una hernia hiatal que pudiera también explicar la presencia de reflujo gastro-esofágico.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2015) 39. Respecto a la enfermedad por reflujo gastroesofágico, ¿cuál de los siguientes enunciados es cierto?:",
+    "opciones": [
+      "1. La intensidad y frecuencia de pirosis tiene poca relación con la presencia y gravedad de esofagitis endoscópica.",
+      "2. La mayoría de los pacientes con enfermedad por reflujo gastroesofágico presentan esofagitis en la endoscopia.",
+      "3. El tratamiento con inhibidores de la bomba de protones suele conseguir un buen control de los síntomas pero no es superior a placebo en la curación endoscópica de la esofagitis.",
+      "4. El esófago de Barrett puede progresar a displasia epitelial de bajo grado, displasia epitelial de alto grado y finalmente a carcinoma escamoso de esófago.",
+      "5. Los programas endoscópicos de cribado y vigilancia han demostrado de forma inequívoca ser capaces de reducir la mortalidad en pacientes con esófago de Barrett."
+    ],
+    "correcta": 0,
+    "comentario": "<p>En la ERGE, la intensidad y frecuencia de la clínica no se correlaciona con las lesiones endoscópicas y/o histológicas (opción 1 correcta). De hecho, la mayoría de pacientes sintomáticos tendrían endoscopia digestiva normal (opción 2 incorrecta) y, por ello en muchos casos no está indicada la gastroscopia. El tratamiento con inhibidores de la bomba de protones suele conseguir un buen control de los síntomas y además es un muy buen tratamiento de las lesiones por esofagitis (opción 3 falsa). El esófago de Barret en muchos casos puede ser asintomático y hay que controlarlo con endoscopias y biopsias, porque puede progresar a displasia y finalmente a adenocarcinoma (opción 4 incorrecta). Por técnica MIR, la opción 5 es falsa ya que sale la palabra “inequívoca”.</p>"
+  },
+  {
+    "tema": "Tema 36. Enfermedades inflamatorias del esófago",
+    "pregunta": "(MIR 2014) 85. ¿Qué enfermedad sospecharíamos en un paciente joven que refiere historia frecuente de disfagia a sólidos y a líquidos con impactaciones de alimentos repetidas, sin clínica de pirosis y en el que en la endoscopia oral se observan múltiples anillos esofágicos concéntricos con mucosa normal (aspecto traquealizado)?:",
+    "opciones": [
+      "1. Esofagitis herpética.",
+      "2. Esofagitis eosinofílica.",
+      "3. Esofagitis candidiásica.",
+      "4. Esofagitis por citomegalovirus.",
+      "5. Adenocarcinoma de esófago."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta esperada por ser una enfermedad emergente y en investigación. La esofagitis eosinofílica es una enfermedad que hay que sospechar ante un varón joven que presenta disfagia intermitente para sólidos, o incluso impactación alimentaria, y con antecedente de atopia frecuentemente. En la endoscopia se observa una imagen característica, aunque no patognomónica, que es la aparición de anillos esofágicos que hacen que el esófago tenga aspecto de tráquea. El diagnóstico diferencial es con el anillo de Schatzki, que también provoca el mismo tipo de disfagia, pero se asocia a pirosis y en la endoscopia se oberva sólo un anillo justo por encima del cardias.</p>"
   }
 ]
