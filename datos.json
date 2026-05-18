@@ -3553,5 +3553,308 @@
     ],
     "correcta": 4,
     "comentario": "<p>Pregunta compleja. Hay que destacar que cada 3-4 años nos encontramos una pregunta sobre tumores benignos. La hiperplasia nodular focal (HNF) es un tumor típico de mujeres entre 30-40 años, es hipervascular en la TC con contraste, y en el estudio histológico de la lesión pueden observarse, además de hepatocitos, conductos biliares y otras células hepáticas (a diferencia del adenoma hepático, típico también de mujeres jóvenes que toman anticonceptivos, que sólo tiene hepatocitos). Una característica típica de la HNF es la presencia de una cicatriz central de forma estrellada que puede ser visible en las técnicas de imagen (ecografía y, sobre todo, RM). El adenoma es el que se relaciona con los anticonceptivos, y tiene riesgo de malignización y hemorragia.</p>"
+  },
+
+{
+    "tema": "Tema 13. Lesiones hepáticas causadas por fármacos",
+    "pregunta": "1. (MIR 2021) Varón de 43 años sin antecedentes de interés que consulta por un cuadro de diez días de evolución de ictericia de piel y mucosas, coluria y acolia. No refiere dolor abdominal, pérdida de peso ni otra clínica, salvo prurito generalizado. Niega consumo de alcohol. No toma medicación salvo ibuprofeno ocasional por dolores musculares tras actividad deportiva. La analítica muestra una bilirrubina aumentada a expensas de directa. Una ecografía urgente muestra un hígado normal, colesterolosis vesicular y ausencia de dilatación de vía biliar, sin otras alteraciones de interés. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Colangitis aguda por barro biliar.",
+      "2. Hepatitis tóxica por ibuprofeno.",
+      "3. Colangiocarcinoma.",
+      "4. Síndrome de Gilbert."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Tenemos ante nosotros un caso clínico de hepatitis aguda (ictericia, coluria, acolia, prurito y ecografía con hígado normal en el cual no se ve obstrucción de la vía biliar). La opción de colangitis aguda es fácilmente descartable al no cumplirse la tríada de Charcot que la define (y al no apreciarse litiasis ni barro en la ecografía). El colangiocarcinoma es también fácilmente descartable en base a los datos clínicos (paciente joven, sin dilatación de la vía biliar, sin síndrome constitucional). El síndrome de Gilbert es también fácilmente descartado por dos motivos: porque no produce ictericias francas como una hepatitis aguda y porque la ictericia es a expensas de la bilirrubina indirecta. La opción que nos queda es una hepatotoxicidad idiosincrásica por AINE (Ibuprofeno), que son una causa relativamente habitual dado su amplio uso en la población general.</p>"
+  },
+  {
+    "tema": "Tema 13. Lesiones hepáticas causadas por fármacos",
+    "pregunta": "2. (MIR 2019) ¿Cuál de los siguientes fármacos es la causa más frecuente de hepatotoxicidad en nuestro medio?:",
+    "opciones": [
+      "1. Fosfomicina.",
+      "2. Isoniazida.",
+      "3. Amoxicilina-clavulánico.",
+      "4. Eritromicina."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla sobre un concepto repetido en el MIR. La hepatotoxicidad idiosincrásica (dosis independiente) por Amoxicilina/Clavulánico es la más frecuente en nuestro medio.</p>"
+  },
+  {
+    "tema": "Tema 13. Lesiones hepáticas causadas por fármacos",
+    "pregunta": "3. (MIR 2015) Un hombre de 25 años consulta por ictericia. Practica el culturismo y se ha inyectado esteroides anabolizantes sustitutos del 17 alfa-alquil, tres semanas antes. Por una amigdalitis había tomado amoxicilina-clavulánico que retiró hace 15 días. Analítica: AST 1200 UI/L (límite superior normal, lsn 40), ALT 1300 UI/L (lsn 40), GGT 150 UI/L (lsn 50), fosfatasa alcalina 180 UI/L (lsn 105), bililrrubina total 4,8 mg/dL con predominio de bilirrubina directa. Serología de virus B: Anti-HBs y Anti-HBc positivos. La ecografía sugiere esteatosis grado I. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Hepatitis por amoxicilina-clavulánico.",
+      "2. Hepatitis por esteroides anabólicos.",
+      "3. Hepatitis aguda por virus B.",
+      "4. Esteatohepatitis no alcohólica.",
+      "5. Colestasis por fármacos."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta dudosa, ya que disponemos de pocos datos para poder decantarnos entre las dos opciones más probables. Se trata de un paciente joven con al menos dos factores de riesgo de hepatopatía (esteroides anabolizantes y amoxicilina-clavulánico), con un cuadro de hepatitis aguda con predominio citolítico y una elevación discreta de la bilirrubina. La opción 3 la descartamos ya que el paciente tiene una serología de VHB ya curada (anti-HBs y anti-HBc IgG). La opción 4 se descarta ya que el paciente sólo tiene una esteatosis leve y un cuadro de esteatohepatitis no alcohólica no cursa de una forma tan aguda ni con tanta citolisis. Asimismo, la opción 5 se puede descartar ya que el paciente no presenta un cuadro colestásico, sino más bien citolítico como ya hemos dicho. La duda razonable se produce entre la 1 y la 2. La amoxicilina-clavulánico es un antibiótico muy utilizado y en la actualidad el ácido clavulánico es la principal causa de daño hepático inducido por fármacos en la mayoría de las series de EE.UU. y Europa. Se estima que el daño hepático idiosincrásico por este fármaco aparace en 1/2.500 prescripciones. La toxicidad puede aparecer desde pocos días hasta 8 semanas tras la toma del fármaco (media 3 semanas), y típicamente el paciente ya ha terminado el ciclo antibiótico cuando aparece. El patrón de daño hepático típico es de predominio colestásico, aunque también puede ser mixto o de predominio citolítico. Por otro lado, tenemos los esteroides anabolizantes, cuyo uso está en aumento sobre todo en pacientes como el del caso (uso ilícito y con fines de mejorar el rendimiento deportivo). Estos fármacos se han implicado con diversos patrones de daño hepático: elevación transitoria de transaminasas, síndrome colestásico agudo, daño vascular hepático (peliosis), hiperplasia nodular regenerativa y desarrollo de tumores como adenomas y carcinoma hepatocelular. Así pues, tanto la opción 1 o como 2 la podrían ser correctas, pero el Ministerio dio como correcta la amoxicilina-clavulánico, dado que es más frecuente.</p>"
+  },
+  {
+    "tema": "Tema 14. Hepatopatías metabólicas e infiltrativas",
+    "pregunta": "1. (MIR 2024) En relación con el metabolismo del hierro y su control mediado por hepcidina, es cierto que:",
+    "opciones": [
+      "1. La caída en la presión parcial de oxígeno promueve la activación del factor inducible por hipoxia (HIF), que aumenta la expresión de hepcidina.",
+      "2. El aumento de hierro sérico o la inflamación estimulan la síntesis de hepcidina en el hígado, que regula negativamente la función de la ferroportina.",
+      "3. La hepcidina disminuye la absorción intestinal de hierro a través de la inactivación del transportador de metales bivalentes 1 (DMT1).",
+      "4. En la hemocromatosis hereditaria de tipo 1, las mutaciones en la proteína de la hemocromatosis humana (HFE) causan un aumento de la producción de hepcidina."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla sobre el metabolismo del hierro y la hepcidina, tema importante para entender la hemocromatosis hereditaria, así como los principales tipos de anemia en la población. La hepcidina es una proteína de síntesis hepática que actúa regulando negativamente un canal de hierro conocido como ferroportina (opción 2 correcta). Ante un exceso de hierro o ante la inflamación (puesto que es un reactante de fase aguda), la hepcidina aumenta (respuesta 2 correcta de nuevo). La opción 1 no es correcta puesto que en esa situación la síntesis de hepcidina disminuiría. La 3 no es correcta puesto que la hepcidina logra eso (reducir la absorción intestinal de hierro) mediante la regulación negativa de la ferroportina. Por último, la 4 no es correcta puesto que en la HH las mutaciones en el gen HFE producen un déficit (y no un aumento) en la producción de hepcidina.</p>"
+  },
+  {
+    "tema": "Tema 14. Hepatopatías metabólicas e infiltrativas",
+    "pregunta": "2. (MIR 2021) Pregunta vinculada a la imagen n.º 6. Hombre de 55 años, fumador y con hábito enólico hasta hace 3 meses. Ingresa por deterioro del estado general e ictericia. En la exploración física se palpa hepatomegalia y en la analítica se constata fracaso renal con una creatinina de 4,6 mg/dl. Durante el ingreso presenta shock séptico por Staphylococcus aureus y abdomen agudo que se atribuye a isquemia entérica secundaria al shock séptico, por lo que se indica laparotomía exploradora donde se aprovecha para realizar una biopsia hepática. ¿Cuál es el diagnóstico anatomopatológico de la lesión hepática?:",
+    "opciones": [
+      "1. Cirrosis.",
+      "2. Infiltración por carcinoma.",
+      "3. Amiloidosis.",
+      "4. Hepatitis alcohólica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad alta que se contesta 'por descarte'. Es una de las pocas preguntas en las que la imagen nos puede ayudar a descartar alguna opción. Nos presentan un paciente que ingresa por ictericia, hepatoesplenomegalia y fracaso renal agudo importante. Nos intentan confundir diciéndonos que tiene antecedentes de consumo de alcohol, pero ¡ojo!, el paciente ya no bebe desde hace 3 meses (lo que descarta una HAA) y no nos dicen nada para pensar que sea cirrótico. Además, las patologías propiamente del hígado (cirrosis, hepatocarcinoma, HAA) no justificarían el fracaso renal tan marcado que trae el paciente. Este fracaso renal es la clave para pensar en que existe algo infiltrativo tanto a nivel hepático, esplénico como renal. Respecto a las opciones: -carcinoma: la infiltración hepática por un tumor no explicaría la esplenomegalia ni el fracaso renal. -la HAA tiene una forma de presentación muy típica: paciente con consumo crónico de alcohol que lo incrementa en las últimas semanas tras algún desencadenante (divorcio, despido etc.). Podemos descartar esta opción porque el paciente no bebe desde hace 3 meses. Además, esta opción no explicaría la esplenomegalia ni el fracaso renal. -Cirrosis: podríamos pensar en esto debido a la esplenomegalia (como dato de hipertensión portal). No obstante, no justifica el fracaso renal. Además, mirando la imagen podemos descartarlo fácilmente (veríamos nódulos de regeneración separados por tractos fibrosos). La afectación hepática en la amiloidosis es frecuente; sin embargo, suele ser asintomática y manifestarte como hepatomegalia con discreta elevación de las enzimas de colestasis. La hiperbilirrubinemia y la insuficiencia hepática aguda grave son excepcionales.</p>"
+  },
+  {
+    "tema": "Tema 14. Hepatopatías metabólicas e infiltrativas",
+    "pregunta": "3. (MIR 2019) Con respecto al estudio genético de la Hemocromatosis Hereditaria tipo 1 (gen HFE), señalar la respuesta FALSA:",
+    "opciones": [
+      "1. Es la prueba de elección en el cribado de la enfermedad.",
+      "2. Es útil en la evaluación de riesgo en familiares de individuos afectos.",
+      "3. El gen HFE está en el locus del Complejo Mayor de Histocompatibilidad (HLA) en el cromosoma 6, en humanos.",
+      "4. Las mutaciones C282Y y H63D en el gen HFE son muy prevalentes en la población caucásica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla sobre una enfermedad hereditaria sistémica muy frecuente en nuestro medio: la hemocromatosis hereditaria tipo 1 (la asociada al gen HFE y la única que hay que saber para el MIR). El gen HFE se sitúa en el locus HLA en el cromosoma 6 y las mutaciones más frecuentes en población caucásica son la C282Y y la H63D. Puede ser útil en el despistaje de familiares (si no han heredado dos alelos de susceptibilidad difícilmente van a desarrollar sobrecarga férrica, por lo que se considera una enfermedad autosómica recesiva). La prueba de cribado (más sensible) en pacientes con sospecha de sobrecarga férrica es la determinación de ferritina y del índice de saturación de transferrina.</p>"
+  },
+  {
+    "tema": "Tema 14. Hepatopatías metabólicas e infiltrativas",
+    "pregunta": "4. (MIR 2018) La hepcidina tiene un papel central en la homeostasis del hierro. ¿Cuál de estas afirmaciones es cierta?:",
+    "opciones": [
+      "1. Su ausencia determina la sobrecarga de hierro.",
+      "2. El exceso de la misma permite aumentar la absorción intestinal de hierro.",
+      "3. Se produce principalmente en el riñón.",
+      "4. Su síntesis no está influida por el hierro ingerido."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad media sobre el metabolismo hepático del hierro a través de la hepcidina. La hepcidina inhibe la liberación desde los macrófagos y la absorción intestinal de hierro en los enterocitos (opción 2 falsa). Su síntesis hepática (opción 3 falsa) aumenta cuando la ingesta y reservas de hierro son adecuadas (opción 4 falsa). En la hemocromatosis hereditaria su síntesis se encuentra alterada, por lo que no existe este mecanismo regulatorio y todo el hierro disponible en la dieta se absorbe y se acaba acumulando en los diferentes órganos y tejidos (opción 1 cierta).</p>"
+  },
+  {
+    "tema": "Tema 14. Hepatopatías metabólicas e infiltrativas",
+    "pregunta": "5. (MIR 2018) Un hombre de 25 años consulta por temblor. La exploración objetiva disartria y distonía. Tiene una historia familiar de enfermedad psiquiátrica y trastornos del movimiento. ¿Qué prueba diagnóstica considera más acertada?:",
+    "opciones": [
+      "1. DATSCAN.",
+      "2. Estudio de conducción nerviosa.",
+      "3. Electroencefalograma.",
+      "4. Cobre en orina de 24 horas."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fundamentalmente de Neurología aunque se estudie en Digestivo. La enfermedad de Wilson es una rara enfermedad hereditaria que suele manifestarse casi siempre antes de los 40-50 años de edad. Los órganos principalmente afectados son el hígado (pudiéndose manifestar como hepatopatía crónica/cirrosis o como fallo hepático agudo) y el SNC, en forma de enfermedad neuro-psiquiátrica. Es bastante característico, dentro de la afectación neurológica, el parkinsonismo y los trastornos del movimiento. De las opciones que nos ofrecen, el cobre en orina de 24 horas (que estará aumentado) es la más específica para confirmar el diagnóstico de sospecha. La ceruloplasmina sérica (proteína transportadora del cobre) se encuentra disminuida y es habitualmente la primera prueba de cribado que se pide en pacientes con sospecha de Wilson.</p>"
+  },
+  {
+    "tema": "Tema 15. Enfermedades de la vesícula biliar",
+    "pregunta": "1. (MIR 2024) Pregunta asociada a la imagen 14. Paciente de 54 años que acude a realizarse una ecografía abdominal como control de una enfermedad de Crohn. Nunca ha presentado cólicos biliares y no tiene otra comorbilidad relevante. En la imagen se muestran los hallazgos de la ecografía (izquierda modo B y derecha con contraste IV). De las siguientes, señale la afirmación correcta:",
+    "opciones": [
+      "1. A pesar de que nunca ha tenido síntomas de origen biliar está indicada la colecistectomía como prevención del cáncer de vesícula biliar.",
+      "2. Dado que está asintomático y no tiene riesgo aumentado de cáncer de vesícula biliar no se recomienda la colecistectomía y no es preciso seguimiento por este motivo.",
+      "3. La imagen no es suficientemente concluyente como para tomar una decisión terapéutica. Sería necesario ampliar el estudio con RM y/o PET/TC.",
+      "4. No está indicada la colecistectomía por estar asintomático, pero sí el seguimiento periódico."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta difícil donde nos presentan un paciente joven con enfermedad de Crohn al que le hacen una ecografía intestinal con contraste intravenoso (en estos pacientes se realiza ecografía abdominal de este modo para ver la inflamación de las asas de intestino delgado). En este caso nos lo dirigen hacia el hígado y la vía biliar, en concreto a la vesícula donde se objetiva una imagen hiperecogénica en su interior. Esta imagen en un principio puede parecer una colelitiasis, pero hay que fijarse muy bien y saber que tiene 3 características importantes: 1) no deja sombra acústica posterior, por lo que no es una piedra; 2) al poner contraste intravenoso se ve que el contraste realza la imagen, por lo que se descarta de nuevo una piedra. 1) y 2) son compatibles con un pólipo vesicular. Y 3) es una imagen que mide más de 1 cm, lo que implica que hay que extirparla por el riesgo de desarrollar un cáncer de vesícula biliar. Por tanto, la respuesta correcta es la 1.</p>"
+  },
+  {
+    "tema": "Tema 15. Enfermedades de la vesícula biliar",
+    "pregunta": "2. (MIR 2023) Pregunta asociada a la imagen 8. Mujer de 82 años que acude a urgencias por un cuadro de dolor abdominal localizado en flanco derecho, irradiado a espalda y febrícula de 37,3 ºC. Se realiza ecografía abdominal que en hipocondrio derecho muestra los resultados de la imagen. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Colecistitis aguda.",
+      "2. Enfermedad de Caroli.",
+      "3. Vesícula en porcelana.",
+      "4. Cólico biliar."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta relativamente sencilla al tratarse de un caso clínico súper típico incluso sin mirar la imagen. Un dolor en el hipocondrio derecho continuo (no es un cólico pues), en una mujer anciana (el sexo femenino y la edad son dos claros factores de riesgo de patología biliar), con fiebre e irradiación a la espalda (típicamente a la zona escapular) debe hacernos sospechar una colecistitis. La paciente no está ictérica ni tiene coluria por lo que la sospecha de colangitis aguda es baja. En la ecografía se ve una vesícula biliar repleta de las típicas litiasis con sombra posterior, con sus paredes desdibujadas y claramente engrosadas.</p>"
+  },
+  {
+    "tema": "Tema 15. Enfermedades de la vesícula biliar",
+    "pregunta": "3. (MIR 2022) Mujer de 69 años que acude a urgencias por un cuadro de vómitos, estreñimiento, retortijones y distensión abdominal. En la exploración se observa abdomen distendido, sin dolor a la palpación, con ruidos intestinales metálicos. En la radiografía simple de abdomen en bipedestación se observan múltiples niveles hidroaéreos y aerobilia. De los siguientes, el diagnóstico más probable es:",
+    "opciones": [
+      "1. Colecistitis enfisematosa.",
+      "2. Fitobezoar.",
+      "3. Íleo biliar.",
+      "4. Colitis isquémica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Caso clínico fácil que debemos conocer por su recurrencia en el MIR. Nos presentan una paciente con síntomas de obstrucción intestinal (vómitos, RHA metálicos, abdomen distendido) y nos hablan de la vía biliar (aerobilia). Este cuadro es muy típico de un paciente que ha presentado una fístula bilio-entérica (por eso entra aire en la vía biliar), ha soltado una piedra al intestino y se ha producido una obstrucción por la piedra en la válvula íleo-cecal. Este cuadro es compatible con íleo biliar y su tratamiento es quirúrgico.</p>"
+  },
+  {
+    "tema": "Tema 15. Enfermedades de la vesícula biliar",
+    "pregunta": "4. (MIR 2020) Pregunta vinculada a la imagen n.º 22. Mujer de 85 años que acude a urgencias por náuseas, vómitos y distensión abdominal. No refiere cirugías abdominales previas pero sí varios episodios de colecistitis. En la analítica urgente se evidencia discreta leucocitosis con desviación izquierda y PCR elevada. Se aporta radiografía simple de abdomen y TC abdominal. ¿Cuál de las siguientes actuaciones considera más recomendable?:",
+    "opciones": [
+      "1. Colecistectomía laparoscópica.",
+      "2. Sonda nasogástrica descompresiva.",
+      "3. Enterolitotomía quirúrgica.",
+      "4. Resección segmentaria de ileon terminal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Nos presentan un claro caso de íleo biliar debido a la impactación de una colelitiasis en la válvula íleo-cecal secundaria a una fístula colecistoentérica. En la prueba de imagen se observa dilatación de asas de delgado con niveles hidroaéreos, pudiendo en un 25% observar el cálculo calcificado como en nuestro caso. El tratamiento consiste en extracción quirúrgica de la litiasis (enterolitotomía) urgente.</p>"
+  },
+  {
+    "tema": "Tema 15. Enfermedades de la vesícula biliar",
+    "pregunta": "5. (MIR 2020) ¿Cuál de los siguientes factores NO se asocia al desarrollo de cálculos de pigmento en la vesícula biliar?:",
+    "opciones": [
+      "1. Hemolisis crónica.",
+      "2. Anemia perniciosa.",
+      "3. Infección crónica de vías biliares.",
+      "4. Colangitis biliar primaria."
+    ],
+    "correcta": 3,
+    "comentario": "<p>El concepto por el que nos están preguntando en este caso es que la colangitis biliar primaria es una enfermedad de vía biliar intrahepática (y como tal, no cursa con cálculos). La hemólisis crónica y la eritropoyesis ineficaz asociada a las anemias megaloblásticas dan lugar a cálculos pigmentarios por exceso de bilirrubina no conjugada, que precipita en la vía biliar extrahepática. La infección crónica de la vía biliar también puede causar cálculos pigmentarios, por desconjugación de la bilirrubina por parte de las enzimas bacterianas.</p>"
+  },
+  {
+    "tema": "Tema 15. Enfermedades de la vesícula biliar",
+    "pregunta": "6. (MIR 2019) ¿Cuál de las siguientes afirmaciones es FALSA en relación a la ecografía/ultrasonografía de vesícula y vías biliares?:",
+    "opciones": [
+      "1. Es una prueba sensible, económica, fiable y reproducible.",
+      "2. Se considera la prueba de elección de la evaluación inicial de ictericia o síntomas de enfermedad biliar.",
+      "3. Facilita el diagnóstico de colecistitis aguda cuando hay engrosamiento de la pared vesicular y líquido pericolecístico.",
+      "4. Permite distinguir los cálculos vesiculares (no dejan sombra posterior) de pólipos de vesícula (dejan una sombra evidente)."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta muy fácil. Debemos recordar que todas las respuestas son correctas menos la última. Los cálculos biliares se ven hiperecogénicos y generalmente SI dejan sombra acústica posterior y los pólipos vesiculares se ven también hiperecogénicos pero NO dejan sombra acústica posterior.</p>"
+  },
+  {
+    "tema": "Tema 15. Enfermedades de la vesícula biliar",
+    "pregunta": "7. (MIR 2017) Pregunta vinculada a la imagen n.º 13. Mujer de 65 años sin antecedentes patológicos de interés que acude a Urgencias de un Hospital por náuseas y molestias persistentes en hipocondrio derecho que se han agudizado en las últimas 24 horas; se acompaña de anorexia con cierto grado de astenia y sensación distérmica. A su entrada en Urgencias está febril (38,2 ºC), normotensa (125/75 mm Hg), y con dolor a la palpación selectiva en hipocondrio derecho; el resto de la exploración física es anodina. La analítica realizada rebela como únicos parámetros alterados una leucocitosis de 13.000/mm3 con neutrofilia asociada. En este contexto clínico el cirujano de guardia solicita una ecografía abdominal. Señale la respuesta correcta:",
+    "opciones": [
+      "1. La ecografía muestra una vesícula biliar distendida, de paredes engrosadas y edematosas, con litiasis infundibular. Estos hallazgos sugieren el diagnóstico de colecistitis aguda litiásica.",
+      "2. La ecografía muestra una vesícula biliar distendida, de paredes engrosadas y edematosas, sin evidencia de litiasis vesicular. Estos hallazgos sugieren el diagnóstico de colecistitis aguda alitiásica.",
+      "3. La ecografía muestra una vesícula biliar poco distendida de paredes engrosadas (por su poca distensión) sin evidencia de litiasis. Estos hallazgos excluyen el diagnóstico de colecistitis aguda litiásica.",
+      "4. En este contexto clínico, la primera prueba a realizarse debería ser siempre la TC abdominal pues muestra mayor sensibilidad en la detección de litiasis vesicular."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla con un caso típico de colecistitis aguda litiásica. Se trata de una paciente que acude por dolor de características biliares que asocia datos de infección e inflamación sistémica (fiebre, leucocitosis con neutrofilia) así como datos de inflamación vesicular (dolor selectivo a la palpación/signo de Murphy). El diagnóstico se confirma combinando el signo de Murphy y la litiasis infundibular (muy probablemente enclavada), que se visualiza como imagen ecogénica en forma de teja con sombra acústica posterior; además el diagnóstico se apoya de otros signos como una pared vesicular engrosada que mide hasta 5 mm (normal <4 mm) tal y como indican en la imagen.</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "1. (MIR 2024) Mujer de 73 años que acude a urgencias por prurito, ictericia, astenia y pérdida de peso de un mes de evolución. Recientemente ha recibido tratamiento con amoxicilina/clavulánico por una infección urinaria. Se realiza una ecografía que informa de dilatación de la vía biliar intra y extrahepática con vesícula biliar distendida. De las siguientes ¿cuál es la primera sospecha diagnóstica y actitud?:",
+    "opciones": [
+      "1. Toxicidad por fármacos. Retirada del antibiótico.",
+      "2. Colecistitis aguda. Colecistectomía urgente.",
+      "3. Coledocolitiasis distal. Solicitar una colangiorresonancia magnética.",
+      "4. Tumoración maligna obstructiva de colédoco distal. Solicitar una TC abdominal para estudio de extensión local y a distancia"
+    ],
+    "correcta": 3,
+    "comentario": "<p>Se trata de un caso de ictericia progresiva e indolora, con datos ecográficos compatibles con obstrucción de vía biliar principal. Este cuadro es altamente sugestivo de causa tumoral, ya sea por un adenocarcinoma de cabeza de páncreas o un colangiocarcinoma de colédoco distal (respuesta 4 correcta).</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "2. (MIR 2023) Paciente de 45 años con un episodio de colecistitis hace tres meses en el que se encontró colelitiasis por ecografía. Ahora presenta fosfatasa alcalina alta y en una nueva ecografía litiasis vesiculares de pequeño tamaño con vía biliar de 1 cm de diámetro. ¿Qué exploración de las siguientes realizaría antes de la intervención quirúrgica?:",
+    "opciones": [
+      "1. Colangiografía retrógrada endoscópica.",
+      "2. Ecoendoscopia.",
+      "3. Colangiografía transparietohepática.",
+      "4. Colangiorresonancia."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta algo compleja. Tal y como nos enuncian la pregunta, cabe esperar que en la vía biliar que está dilatada y tiene una causa clara (colelitiasis) exista una coledocolitiasis y por tanto antes de la cirugía haya que limpiar la vía biliar con una CPRE. Pero la pregunta es un poco enrevesada, y siendo estrictos, las indicaciones de CPRE sin necesidad de otras pruebas de imagen son: 1) dilatación + ICTERICIA, o 2) cuadro de COLANGITIS BILIAR. En este caso, como no se da ninguna de esas dos opciones cabe pensar que es necesario una prueba de imagen previa a la cirugía para saber la causa de la dilatación, siendo la menos invasiva entre ecoendoscopia o RMN, la colagio-RMN (respuesta 4 correcta).</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "3. (MIR 2020) Pregunta vinculada a la imagen n.º 4. Mujer de 55 años intervenida quirúrgicamente por lesión tumoral hepática. Se muestra una imagen macroscópica del tumor y del parénquima no tumoral, y una imagen microscópica del tumor, que corresponde a uno de los siguientes diagnósticos:",
+    "opciones": [
+      "1. Hepatocarcinoma sobre hígado normal.",
+      "2. Hepatocarcinoma sobre hígado cirrótico.",
+      "3. Colangiocarcinoma sobre hígado normal.",
+      "4. Colangiocarcinoma sobre hígado cirrótico."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta muy difícil y que parece estar en parte hecha para ir a cogernos en el error. Se ve en la imagen macroscópica claramente que el hígado es cirrótico con multitud de micronódulos evidentes al corte. La lesión blanquecina corresponde con el tumor y muchos de los opositores contestarían rápidamente 'hepatocarcinoma' ya que es bien sabido que es el principal tumor primario en la cirrosis (90% de los casos). No obstante, los pacientes con cirrosis también tienen el riesgo aumentado de desarrollar colangiocarcinomas (y formas mixtas conocidas como hepatocolangiocarcinoma). La clave para dar con la respuesta correcta era mirar la imagen de la anatomía patológica microscópica, donde se aprecia que el tumor contiene multitud de estructuras biliares (conductos con epitelio cuboideo simple) y no está formado únicamente por láminas hepatocitarias. En resumen, se trata de una pregunta compleja pero que nos obliga a recordar que la cirrosis no sólo es factor de riesgo de hepatocarcinoma, sino también de colangiocarcinoma.</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "4. (MIR 2020) Mujer de 67 años, obesa, que acude a urgencias por dolor abdominal en cuadrante superior derecho del abdomen, fiebre de 39,5 °C y orinas muy oscuras. Ante este cuadro se debería sospechar en primer lugar:",
+    "opciones": [
+      "1. Colecistitis aguda alitiásica.",
+      "2. Coledocolitiasis.",
+      "3. Colecistitis aguda litiásica.",
+      "4. Colangitis ascendente."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Nos presentan un caso de colangitis aguda = fiebre + dolor abdominal + coluria (que traduce hiperbilirrubinemia, por lo que la paciente presentará ictericia también). La obesidad es un factor de riesgo para el desarrollo de colelitiasis. Lo de 'ascendente' es bastante discutible, ya que las colangitis ascendentes se deben a postesfinterotomías endoscópicas o postderivaciones biliodigestivas quirúrgicas, pero está claro que es una colantigitis y que a pesar de ese apellido erróneo, no nos debe temblar el pulso para marcar la 4.</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "5. (MIR 2019) Mujer de 50 años que acude a urgencias por cuadro de dolor en hipocondrio derecho, fiebre e ictericia. La ecografía informa de colecistitis aguda litiásica con dilatación de la vía biliar principal por posible coledocolitiasis. ¿Qué considera más apropiado hacer primero?:",
+    "opciones": [
+      "1. Cirugía urgente.",
+      "2. Colangiorresonancia magnética.",
+      "3. TC abdominal.",
+      "4. Colangiopancreatografía endoscópica con esfinterotomía."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Se trata de una paciente con un cuadro de colangitis aguda que presenta la triada de Charcot (diagnóstico clínico). Con la prueba de imagen (ecografía abdominal) nos indican que la etiología del cuadro es debida a una coledocolitiasis y por tanto no es necesario realizar más pruebas de imagen (respuestas 2 y 3 incorrectas). Debemos indicar una CPRE urgente para realización de esfinterotomía biliar y extracción de la coledocolitiasis (repuesta 4 correcta). La colecistitis aguda que asocia la paciente es un cuadro menos grave que la colangitis aguda y por eso debemos resolver esta última en primer lugar. Incluso, la colecistitis aguda podríamos tratarla con antibioterapia y luego con cirugía programada (respuesta 1 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "6. (MIR 2018) Pregunta vinculada a la imagen n.º 6. Mujer de 84 años con antecedente de colecistectomía que presenta dolor abdominal e ictericia. Se realizó una colangiopancreatografía retrógrada endoscópica (CPRE). ¿Cúal es el diagnóstico correcto?:",
+    "opciones": [
+      "1. Síndrome de Mirizzi.",
+      "2. Neoplasia de páncreas.",
+      "3. Coledocolitiasis.",
+      "4. Estenosis postquirúrgica del colédoco."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. Nos presentan a una mujer colecistectomizada (no nos indican cuándo fue) que presenta dolor abdominal e ictericia. En la colangiografía realizada durante una CPRE no se objetiva ninguna estenosis pero sí un defecto de repleción compatible con coledocolitiasis. Como dato 'freak' tened en cuenta que una coledocolitiasis residual es aquélla que se 'suelta al colédoco' durante una colecistectomía y una colecolitiasis recidivante es la que aparece tras 2 meses después de la colecistectomía. En este caso sería recidiva.</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "7. (MIR 2016) ¿Cuál de los siguientes NO se considera factor de riesgo de carcinoma de la vesícula biliar?:",
+    "opciones": [
+      "1. Litiasis biliar.",
+      "2. Alcoholismo crónico.",
+      "3. Vesícula en porcelana.",
+      "4. Pólipo vesicular de 15 mm."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta poco esperada en el MIR ya que se trata de un tumor poco frecuente (aunque con alto potencial de malignidad). Es una pregunta impugnable. Los principales factores de riesgo típicos relacionados con el desarrollo de carcinoma de vesícula biliar (CVB) que debemos recordar son: la presencia de colelitiasis (litiasis >1 cm) que es el factor más importante; colangiocarcinoma; vesícula de porcelana (en algunas fuentes aún sigue constando que es controvertido); antecedente familiar de primer grado de cáncer de vesícula; síndrome de Lynch; enfermedad inflamatoria intestinal; colangitis esclerosante primaria; anomalías congénitas de los conductos biliares; displasia de la vía biliar intrahepática; adenomiomatosis segmentaria en pacientes mayores de 60 años y portador crónico de Salmonella Typhi o Paratyphi. No obstante, en un metaanálisis reciente consta los pacientes con consumo enólico severo tiene aumentado el riesgo de cáncer de vesícula. Por ello y porque la vesícula de porcelana sigue siendo un factor de riesgo controvertido debería ser anulada.</p>"
+  },
+  {
+    "tema": "Tema 16. Patología de la vía biliar",
+    "pregunta": "8. (MIR 2015) Una mujer de 49 años acude de Urgencias por presentar tiritona, fiebre de 39 ºC, dolor en hipocondrio derecho, ictericia y vómitos. La exploración revela TA 100/50 mmHg. FC 110 lpm. Postración y dolor a la palpación en cuadrante derecho, con Murphy positivo. La analítica muestra leucocitosis con desviación izquierda y la ecografía abdominal, colelitiasis, coledocolitiasis y dilatación de la vía biliar extrahepática. Se inicia tratamiento empírico con antibiótico y fluidoterapia. ¿Cuál es el procedimiento más eficaz para realizar a continuación?:",
+    "opciones": [
+      "1. Mantener tratamiento antibiótico y medidas de soporte con colecistectomía reglada posterior.",
+      "2. Colecistectomía laparoscópica.",
+      "3. Colocación de un drenaje biliar externo.",
+      "4. Colecistectomía urgente con canulación del colédoco.",
+      "5. Colangiopancreatografía retrógrada endoscópica con esfinterotomía."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta sencilla. El cuadro clínico es típico de la colangitis (triada de Charcot con fiebre, ictericia y dolor). La colangitis se trata con antibioterapia de amplio espectro y resucitación inicial del cuadro séptico. A continuación hay que drenar la vía biliar, normalmente mediante CPRE. La colecistectomía se difiere hasta estar seguros que se ha evacuado todo el material de la vía biliar y la colocación de un drenaje biliar externo se deja como segunda opción en caso de que no se pueda realizar la CPRE.</p>"
+  },
+  {
+    "tema": "Tema 17. Anatomía y fisiología gástrica",
+    "pregunta": "1. (MIR 2019) Las ramas del nervio vago entran a la cavidad abdominal a través del:",
+    "opciones": [
+      "1. Ligamento arqueado lateral.",
+      "2. Hiato esofágico.",
+      "3. Orificio de la vena cava inferior.",
+      "4. Hiato aórtico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta memorística y directa. En este caso, destacan que las ramas del vago, que acompañan al esófago intratorácico, progresan hasta el abdomen acompañando a este órgano, a través del hiato esofágico. Recuerda que el vago acompaña al esófago en el tórax y en su entrada al abdomen.</p>"
+  },
+  {
+    "tema": "Tema 17. Anatomía y fisiología gástrica",
+    "pregunta": "2. (MIR 2017) En el estudio de la secreción gástrica, ¿cuál de las siguientes pruebas carece de valor?:",
+    "opciones": [
+      "1. Test de la ureasa.",
+      "2. Determinación de pepsinógenos.",
+      "3. Estimulación con pentagastrina.",
+      "4. Prueba de la comida ficticia."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta rara y compleja que se puede contestar fácilmente recordando que el test de la ureasa es un método para el diagnóstico de la infección por H. pylori y que por lo tanto no valora, en principio, la secreción ácida gástrica. Los pepsinógenos enzimas digestivas producidas por las células principales del estómago y su disminución (Pepsinógeno 1 menor de 30 ug/L y un ratio Pepsinogeno 1/Pepsinógeno 3 menor o igual a 3) es un marcador no invasivo de atrofia gástrica y por tanto de hipo o aclorhidria. La pentagastrina es un análogo de la gastrina y constituye un potente estímulo y permite valorar la secreción máxima ácida (MAO en inglés). Por último y al menos a modo de curiosidad porque su utilidad en la práctica clínica habitual es nula, el test de la comida ficticia sirve para evaluar la fase cefálica (mediada por el nervio vago al oler y empezar a saborear los alimentos antes de deglutirlos) de la secreción ácida. Consiste en medir la acidez gástrica antes y después de dar al paciente una comida ficticia (es decir, una comida en la que se le de a a oler y a probar pero que luego deben escupir en vez de deglutir). En condiciones normales la secreción ácida debe aumentar un 50% con esta comida ficticia que estimula la fase cefálica.</p>"
   }
 ]
