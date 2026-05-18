@@ -4448,5 +4448,322 @@
     ],
     "correcta": 3,
     "comentario": "<p>El síndrome de intestino irritable es un trastorno funcional de la motilidad intestinal que consiste en la aparición de dolor abdominal asociado a los cambios del ritmo intestinal. Se trata de un diagnóstico de exclusión: por tanto, cualquier dato de organicidad (alteraciones de laboratorio, dolor o diarrea nocturnas, pérdida de peso) nos tienen que hacer pensar en un diagnóstico alternativo. No necesariamente cursa en forma de diarrea: existen formas clínicas con predominio de diarrea, de estreñimiento o mixtas. Cabe mencionar que la respuesta dada por correcta es altamente matizable, puesto que en pacientes menores de 50 años, con diarreas poco llamativas, sin datos de alarma (como podrían ser los antecedentes familiares de cáncer de colon o de enfermedad inflamatoria intestinal), no sería preciso hacer colonoscopia para establecer el diagnóstico si los estudios analíticos y los cultivos fueran negativos y el paciente cumpliera los criterios diagnósticos.</p>"
+  },
+
+{
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "1. (MIR 2024) ¿Cuál de los siguientes genes puede estar afectado en familias que desarrollan tumores malignos de colon en sucesivas generaciones?:",
+    "opciones": [
+      "1. RAS.",
+      "2. p53.",
+      "3. BRCA1.",
+      "4. MLH1."
+    ],
+    "correcta": 3,
+    "comentario": "<p>La mutación de los genes MSH2, MSH6, MLH1, o PMS2, que codifican para proteínas reparadoras del ADN conocidas como proteínas MMR (missmatch repair) tienen como consecuencia la inestabilidad de microsatélites (MSI-H). Cuando esta condición se transmite a la descendencia por mutaciones en la línea germinal, se constituye el síndrome de Lynch, que resulta ser el fenotipo de cáncer colorrectal hereditario más prevalente. Además de cáncer colorrectal, aumenta el riesgo de 25-60% para cáncer de endometrio en mujeres, 6-13% de cáncer gástrico y 4-12% de cáncer de ovario. Sobre las otras respuestas, la herencia de mutación germinal de BRCA-1 aumenta el riesgo de cáncer de mama y ovario. La mutación de p53 o RAS es muy frecuente en la oncogénesis muchos tipos de tumores, entre ellos el cáncer colorrectal, pero en la línea somática. Cuando se hereda una mutación de p53 en la línea germinal se constituye un síndrome de predisposición al cáncer hereditario que se conoce como Li Fraumeni.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "2. (MIR 2024) Hombre de 45 años que presenta un pólipo sesil de aspecto macroscópicamente benigno en colon sigmoide. Extraído mediante polipectomía endoscópica, la biopsia muestra un adenocarcinoma. ¿Cuál de los siguientes hallazgos anatomopatológicos indica alto riesgo de recurrencia y es indicación de colectomía segmentaria?:",
+    "opciones": [
+      "1. Tumor T1 con invasión de la submucosa sm3.",
+      "2. Distancia al borde de sección de 2,5 mm.",
+      "3. Tumor bien diferenciado.",
+      "4. Ausencia de invasión linfovascular."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta fácil y directa sobre el CCR invasivo, que se define cuando la lesión tumoral alcanza la submucosa (respuesta correcta 1). El resto de respuestas son marcadores de buen pronóstico.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "3. (MIR 2024) ¿Cuál de los siguientes datos NO es relevante antes de iniciar un tratamiento adyuvante con fluorouracilo a un paciente intervenido de cáncer de colon?:",
+    "opciones": [
+      "1. El aclaramiento de creatinina.",
+      "2. Determinación de la dihidropirimidina deshidrogenasa (DPD).",
+      "3. Síntomas previos de neurotoxicidad.",
+      "4. Antecedentes de cardiopatía isquémica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta algo compleja sobre los efectos secundarios y complicaciones que hay que tener en cuenta cuando iniciamos un tratamiento con flurouracilo (o 5-fluorouracilo, 5-FU) en un paciente con cáncer colorrectal. Este quimioterápico se encuentra entre los más utilizados en neoplasias digestivas y en el CCR forma parte de esquemas como los famosos Folfox o Folfirinox. La opción 1 es cierta, y lo es prácticamente siempre cuando tenemos que pautar tratamientos con terapias potencialmente muy tóxicas (siempre evaluar función renal y hepática del paciente). La opción 2 es cierta, la DPD es la enzima encargada de metabolizar este fármaco y los pacientes con deficiencia de DPD presentan un mayor riesgo de toxicidad relacionada con las fluoropirimidinas como el 5-FU, que incluye, por ejemplo, estomatitis, diarrea, mucositis y neutropenia. La opción 3 no es correcta (y es la respuesta, por tanto, a la pregunta), la neurotoxicidad es un efecto secundario muy característico de los platinos (como el oxaliplatino) pero no de las fluoropirimidinas. Por último, la opción 4 es correcta ya que la cardiotoxicidad sí es característica del 5-FU: Se ha asociado cardiotoxicidad con la terapia con fluoropirimidina, incluyendo infarto de miocardio, angina, arritmias, miocarditis, muerte súbita, miocardiopatía de estrés (takotsubo) y cambios electrocardiográficos (incluyendo casos muy raros de prolongación del QT). Estos eventos adversos son más frecuentes en pacientes que reciben perfusión continua de 5-fluorouracilo que en aquellos que reciben por inyección en bolo. El historial previo de enfermedad arterial coronaria puede ser un factor de riesgo para algunas reacciones adversas cardíacas. Por cierto, otro grupo de quimioterápicos que típicamente pueden producir cardiotoxicidad son las antraciclinas, utilizadas mucho en el cáncer de mama y cánceres hematológicos.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "4. (MIR 2024) Según el Programa de Actividades Preventivas y Promoción de la Salud de la semFyC, así como de la US Preventive Task Force y la American Cancer Society, ¿a partir de qué edad se recomienda, con una recomendación tipo A, iniciar las pruebas de cribado de cáncer colorrectal, en población general asintomática?:",
+    "opciones": [
+      "1. A partir de los 40 años.",
+      "2. A partir de los 50 años.",
+      "3. A partir de los 60 años.",
+      "4. A partir de los 65 años."
+    ],
+    "correcta": 1,
+    "comentario": "<p>El cribado en la población que llamamos de riesgo medio (esto es, población asintomática sin historia familiar sugestiva de CCR hereditario) se inicia a los 50 años según las recomendaciones más habituales. Recuerda que el aumento de casos en pacientes menores de 50 años ha motivado que cada vez se hable más de adelantar el cribado a los 45 o incluso los 40 años; no obstante, no se trata de una recomendación establecida a día de hoy.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "5. (MIR 2024) En un paciente con cáncer de colon metastásico ¿cuál de las siguientes determinaciones moleculares se deben realizar antes de comenzar el tratamiento sistémico?:",
+    "opciones": [
+      "1. EGFR, NRAS, KRAS, proteínas reparadoras, HER2.",
+      "2. NRAS, KRAS, BRAF, proteínas reparadoras.",
+      "3. EGFR, NRAS, KRAS, BRAF, proteínas reparadoras.",
+      "4. NRAS, KRAS, BRAF, proteínas reparadoras, PI3K."
+    ],
+    "correcta": 1,
+    "comentario": "<p>En un paciente con CCR metastásico deben determinarse K-RAS y N-RAS, ya que los fármacos biológicos anti-EGFR como el cetuximab o el panitumumab solo se pueden administrar en caso de K-RAS y N-RAS no mutado, es decir nativo o wild type. BRAF es otro de los genes implicados en la vía de señalización de EGFR y su determinación tiene transcendencia pues su mutación puede predecir falta de respuesta a tratamiento con anti-EGFR, y ser preferible entonces el empleo de otros agentes biológicos como el bevacizumab (anti-VEGF). La inestabilidad de microsatélites se determina porque su presencia indica probable futilidad terapéutica con la quimioterapia convencional, y por otro lado predice mejor respuesta a inmunoterapia como el pembrolizumab (respuesta 2 correcta).</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "6. (MIR 2021) La escisión mesorrectal total junto con resección anterior de recto en el tratamiento del cáncer de recto medio-bajo pretende:",
+    "opciones": [
+      "1. Realizar una anastomosis con mayor facilidad.",
+      "2. Realizar una anastomosis más baja.",
+      "3. Disminuir el número de recurrencias locales.",
+      "4. Disminuir el intervalo libre de enfermedad."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La escisión total del mesorrecto consiste en la exéresis del tejido linfograso perirrectal incluyendo los márgenes laterales y circunferenciales. La extirpación del mesorrecto hacia el suelo pélvico se aplica en cánceres del tercio medio al tercio inferior, ya que en los de recto superior se extirpa unos 5 cm por debajo del tumor primario y no el mesorrecto en su totalidad.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "7. (MIR 2020) Con respecto al síndrome de Lynch o carcinoma colorrectal no polipósico hereditario, señale la respuesta correcta:",
+    "opciones": [
+      "1. Es un trastorno autosómico recesivo.",
+      "2. El fenotipo incluye predominio de tumores malignos del colon en el lado derecho.",
+      "3. La progresión pólipo-cáncer es más lenta que en el cáncer de colon esporádico.",
+      "4. Los tumores malignos extracolónicos suelen asentar en pulmón o hígado."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta asequible a pesar de ser de memoria. El síndrome de Lynch es el síndrome de cáncer colorrectal hereditario no polipósico más frecuente (2%). Es un trastorno AD (respuesta 1 incorrecta), cuya progresión pólipo-cáncer es más rápida que en el carcinoma colorrectal esporádico (respuesta 3 incorrecta), y que puede presentar otros tumores en la denominada 'esfera Lynch' (generalmente endometrio, ovario, intestino delgado, estómago, urotelio): respuesta 4 incorrecta. La mayoría de los pacientes presentan pólipos o carcinoma colorrectal en colon derecho (respuesta 2 verdadera).</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "8. (MIR 2019) Señale la respuesta INCORRECTA respecto a los mecanismos de carcinogénesis en el cáncer colorrectal:",
+    "opciones": [
+      "1. La presencia de una alteración en los mecanismos de reparación del ADN que afectan a las proteínas del sistema MMR (MissMatch Repair) da lugar a un exceso de mutaciones e inestabilidad de microsatélites. Esto ocurre en aproximadamente el 15% de los cánceres colorrectales esporádicos y en los asociados al síndrome de Lynch.",
+      "2. El cáncer colorrectal hereditario no polipósico se asocia a la presencia de mutaciones germinales en genes reparadores del ADN (MLH1, MLH2, MSH6, PMS2).",
+      "3. Las mutaciones germinales en el gen APC se asocian al cáncer colorrectal asociado a la poliposis hereditaria.",
+      "4. El cáncer colorrectal hereditario no polipósico se hereda con carácter autosómico recesivo."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Esta pregunta incluye conceptos sobre CCR hereditario no polipósico o síndrome de Lynch, así como de poliposis adenomatosa familiar (PAF). El síndrome de Lynch se debe a mutaciones germinales en los genes reparadores de ADN que se heredan de forma autosómica dominante. Esto tiene como consecuencia un fenotipo característico que denominamos inestabilidad de microsatélites (IMS). Recuerda que este fenotipo puede darse también en un 15% de tumores esporádicos, simplemente por las mutaciones aleatorias que tienen lugar durante la oncogénesis del tumor, por lo que ante un hallazgo de IMS es obligatorio confirmar la sospecha de Lynch con un estudio genético. La PAF (en este caso denominada poliposis hereditaria) se debe a mutaciones germinales del gen APC, que también se heredan con patrón autosómico dominante.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "9. (MIR 2019) Los anticuerpos monoclonales dirigidos frente al receptor del factor de crecimiento epidérmico (EGFR), como el cetuximab o panitumumab están indicados en una de las siguientes situaciones:",
+    "opciones": [
+      "1. Tratamiento adyuvante de pacientes con cáncer de colon estadio III y presencia de sobreexpresión de EGFR.",
+      "2. Tratamiento neoadyuvante de pacientes con cáncer de recto estadio III en combinación con radioterapia, con mutaciones en K-Ras y/o N-Ras.",
+      "3. Tratamiento adyuvante en combinación con quimioterapia en pacientes con cáncer de recto estadios II y III, con sobreexpresión de EGFR.",
+      "4. Tratamiento de pacientes con cáncer colorrectal avanzado (estadio IV) sin mutaciones en K-Ras ni N-Ras."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Los anticuerpos antiEGFR se emplean como tratamiento adyuvante en cáncer de colon metastásico (estadío IV). Para ello, el único requisito imprescindible es que no haya mutaciones de K-Ras ni N-ras, dado que son las dianas del anticuerpo, y si éstos no están en su estado nativo el fármaco no tendrá utilidad en este paciente. No te líes con las distinciones entre cáncer de colon y cáncer de recto: recuerda que, a efectos de quimioterapia, el cáncer de recto tiene el mismo manejo que el cáncer de colon de otras localizaciones.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "10. (MIR 2018) Hombre de 52 años de edad derivado al servicio de digestivo por cuadro de hematoquecia, tenesmo y reducción del diámetro de las heces. Se realizan una serie de pruebas, diagnosticándose un adenocarcinoma de sigma sin metástasis a distancia. El paciente es intervenido quirúrgicamente y remitido a la consulta de oncología médica para valorar tratamiento quimioterápico complementario. ¿Cuál de los siguientes factores es de mal pronóstico tras la resección quirúrgica y habrá que tener en cuenta a la hora de planificar el tratamiento de quimioterapia?:",
+    "opciones": [
+      "1. La presencia de anemia al diagnóstico.",
+      "2. La existencia de antecedentes familiares de cáncer colorrectal.",
+      "3. El tamaño de la lesión primaria y la diferenciación histológica.",
+      "4. La perforación o adhesión del tumor a órganos adyacentes."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad media por las múltiples respuestas que pueden hacernos dudar. La opción 4 nos plantea una clara situación en la que debemos plantear QT al paciente ya que el cáncer colorrectal (CCR) se ha extendido por fuera de la capa serosa (perforando o adhiriéndose a otros órganos). Opción 4 correcta. La presencia de anemia no es un factor de mal pronóstico ya que el paciente podría tenerla por otra causa (recordad que en cambio, es un factor de alarma del CCR). La existencia de antecedentes familiares de CCR es un factor de riesgo para tener CCR pero no es un motivo para darle QT a un paciente que tiene dicho tumor. El tamaño en este caso no importa ni tiene significado para darle al paciente QT, en cambio el grado de diferenciación histológica sí (aquí podríamos dudar con la opción 4). En todo caso, la opción 3 es falsa ya que nos ponen una suma de factores, es decir, el tamaño y el grado de diferenciación y, como hemos explicado, el tamaño no lo es.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "11. (MIR 2018) Mujer de 65 años sin antecedentes personales de interés, intervenida de adenocarcinoma de sigma que infiltra la serosa (T4) con afectación de 2 ganglios de 35 aislados (N1). En el estudio de extensión no se evidencian metástasis a distancia (M0). ¿Cuál es el siguiente paso a realizar?:",
+    "opciones": [
+      "1. Determinar mutación de KRAS y NRAS para poder administrar un anti-EFGR en caso de no ser mutado.",
+      "2. Asociar al tratamiento con quimioterapia bevacizumab en caso de ser mutado.",
+      "3. Administrar una combinación de quimioterapia con fluorouracilo y oxaliplatino.",
+      "4. Realizar tratamiento con radioterapia al tener afectación ganglionar."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil. La opción 4 es falsa porque, de entrada para el MIR, la RT está sólo indicada en el cáncer de recto y no en el cáncer de colon. Por tanto la respuesta correcta es la número 3: necesita QT adyuvante ya que es un estadio III. En casos con metástasis a distancia (M1), se puede añadir a la QT adyuvante fármacos biológicos como anti-EFGR o bevacizumab (respuesta 1 y 2 incorrectas).</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "12. (MIR 2017) Un hombre de 65 años, sin otras enfermedades asociadas y con buen estado general, presenta una recaída metastásica hepática de un adenocarcinoma de colon por el que había sido intervenido hace 3 años. La TC demuestra que las lesiones hepáticas son múltiples y afectan a todos los segmentos. El estudio molecular de la biopsia hepática muestra mutaciones de K-ras. ¿Qué tratamiento inicial considera más adecuado para el paciente?:",
+    "opciones": [
+      "1. Trasplante hepático.",
+      "2. Quimioterapia y anticuerpo anti-EGFR (cetuximab).",
+      "3. Quimioterapia protocolo FOLFOX.",
+      "4. Tratamiento paliativo de los síntomas sin administración de quimioterapia."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad media-baja sobre el manejo de las metástasis hepáticas en paciente con antecedente de cáncer colorrectal (CCR). Se trata de un paciente una recaída de un CCR tratado quirúrgicamente hace 3 años en forma de metástasis hepáticas múltiples. En este caso, no está indicada la metastasectomía ya que el paciente presenta más de 3 metástasis porque nos dicen que afecta a todos los segmentos hepáticos. No existe indicación de trasplante hepático cuando existen metástasis hepáticas por CCR (respuesta 1 incorrecta). En el enunciado nos comentan que existe mutación del K-Ras y en estas situaciones no está indicado el tratamiento con anti-EGFR (respuesta 2 falsa). No es razonable indicar directamente el tratamiento paliativo en un paciente en el que nos dicen que tiene un buen estado general (respuesta 4 falsa). Por tanto, este paciente se beneficia de una quimioterapia con protocolo FOLFOX (fluorouracilo + oxaliplatino), siendo la respuesta 3 la correcta.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "13. (MIR 2016) La existencia de hipertrofia congénita del epitelio pigmentario de la retina es típica en los pacientes con:",
+    "opciones": [
+      "1. Poliposis adenomatosa familiar.",
+      "2. Síndrome de Peutz-Jeghers.",
+      "3. Síndrome de Cronkhite-Canada.",
+      "4. Síndrome de Cowden."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sobre las manifestaciones extraintestinales de los síndrome polipósicos. Recordad que el más frecuente de ellos es la poliposis adenomatosa familiar (y sus variantes fenotípicas síndrome de Gardner y de Turcot) donde es típico la hipertrofia del epitelio pigmentario de la retina en el fondo de ojo. Las opciones 2 y 4 son síndromes más raros que se caracterizan por poliposis de tipo hamartomatosos. La opción 3 es el único síndrome polipósico esporádico/no hereditario (a diferencia de los otros tres) y así fue preguntado previamente en el MIR.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "14. (MIR 2016) Paciente de 57 años, diagnosticado de adenocarcinoma de colon estadio T3N1M0. Fue tratado con resección seguida de quimioterapia postoperatoria FOLFOX (fluorouracilo, leucovorín y oxaliplatino) durante seis meses. En un control rutinario, dos años después, se detecta elevación de antígeno carcinoembrionario (CEA) a 30 ng/mL (previo menor de 2 ng/mL). No tiene síntomas, el examen físico es anodino, la radiografía de tórax es normal. En la TC se aprecia una masa de 3 cm en el lóbulo hepático derecho, que capta en PET. No se observan otras alteraciones en TC ni en PET. ¿Qué actitud le parece más correcta?:",
+    "opciones": [
+      "1. Quimioterapia con FOLFIRI (fluorouracilo, leucovorin e irinotecán) más bevacizumab.",
+      "2. Monoquimioterapia con capecitabina.",
+      "3. Valoración por cirugía de resección de la lesión hepática.",
+      "4. Radioterapia hepática."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Nos presentan un paciente de 57 años con antecedentes de cáncer colorrectal T3N1M0 tratado mediante resección quirúrgica y que después recibió quimioterapia adyuvante. Durante su control rutinario dos años después, se objetiva un dato importante: una elevación de CEA en la analítica acompañada de la visualización en pruebas de imagen de una nueva lesión hepática única situada en el lóbulo derecho, que en este contexto, nos ha de hacer pensar en una metástasis tardía. Debemos recordar por un lado que en la actualidad la quimioterapia está indicada sólo en pacientes con ganglios positivos o metástasis a distancia (estadios III y IV). Por otro lado, en las metástasis seleccionadas (pulmonares aisladas o hasta tres metástasis hepáticas pequeñas), puede estar indicada la cirugía. Uniendo ambos conceptos y resumiendo, tenemos a un paciente con una única metástasis hepática sin otras alteraciones en el TC o el PET, esto es a priori, ausencia de recidiva colorrectal o afectación ganglionar, por lo que estaría indicada la metastasectomía hepática (respuesta 3 correcta, respuesta 1 y 2 incorrectas). La radioterapia hepática no se usa en la práctica clínica actual (respuesta 4 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "15. (MIR 2016) En un programa de cribado de cáncer de colon, a un paciente de 52 años se le realiza una colonoscopia. Todo el colon es de aspecto normal, salvo el hallazgo de un pólipo pediculado de 2 cm en sigma que se extirpa con asa de diatermia. El resultado anatomopatológico nos indica que existe un carcinoma 'in situ' limitado a la cabeza del pólipo. Tiene una TC toracoabdominal informado como normal. Indique cuál sería la conducta correcta a seguir:",
+    "opciones": [
+      "1. Resección segmentaria del colon afecto.",
+      "2. Vigilancia periódica endoscópica.",
+      "3. Resección local de la base del pólipo.",
+      "4. Sigmoidectomía más linfadenectomía."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Nos presentan a un paciente de edad media al que en un programa de cribado de CCR se le realiza una polipectomía endoscópica de un pólipo pediculado. En la anatomía patológica se objetiva un carcinoma 'in situ', es decir, un carcinoma que no sobrepasa la capa 'muscularis mucosae'. En este caso, con la resección endoscópica es suficiente como tratamiento ya que no existe invasión de la capa submucosa y por lo tanto, no está indicado el tratamiento quirúrgico (respuestas 1 y 4 incorrectas). Además nos indican que el carcinoma está limitado a la cabeza del pólipo, por lo que no parece razonable realizar una nueva colonoscopia para resecar la base pediculada (respuesta 3 incorrecta). En este tipo de situaciones, lo que hay que hacer es un seguimiento estrecho del paciente con colonoscopias periódicas (respuesta 2 correcta).</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "16. (MIR 2015) Hombre de 80 años, con antecedentes de HTA, cardiopatía isquémica y EPOC, al que se le realiza una rectocolonoscopia completa por presentar rectorragia, con los siguientes hallazgos: lesión polipoidea de 3 cm de diámetro situada a 10 cm del margen anal, que ocupa la mitad de la circunferencia. Resto de exploración sin hallazgos hasta ciego. En la biopsia del pólipo se aprecia un adenocarcinoma limitado a la submucosa. Ecografia endorrectal: uT1N0. RM pélvica: T1N0. TC: Sin evidencia de enfermedad a distancia. ¿Cuál será la decisión terapeutica más probable que se tome en la Comisión Multidisciplinar de Tumores?:",
+    "opciones": [
+      "1. Amputación abdomino-perineal de recto.",
+      "2. Radioterapia neoadyuvante y resección anterior baja de recto por vía laparoscópica.",
+      "3. Microcirugía transanal endoscópica.",
+      "4. Resección anterior baja de recto vía laparotómica.",
+      "5. Resección anterior baja de recto vía laparoscópica y radioterapia adyuvante."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad media. Se trata de una pregunta compleja que se facilita al ser muy similar a una ya preguntada en el MIR. Se trata de un paciente de edad avanzada y pluripatológico que presenta un cáncer de recto en estadío inicial (T1N0). En este tipo de pacientes una cirugía resectiva tradicional tiene una alta morbimortalidad y por ello se prefiere una técnica de resección local (recordar la regla: paciente muy malo y tumor muy bueno, resección local). El posible aumento de las recidivas con ésta técnica se ve ampliamente compensado por el menor riesgo de la cirugía. Así pues, sólo nos queda la opción 3 que es la correcta. En este caso se decide una cirugía mínimamente invasiva (microcirugía transanal endoscópica o TEM) por tratarse de una lesión a 10 cm del margen anal. De hecho, esta misma localización dificultaría la resección convencional.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "17. (MIR 2015) ¿Qué estudios se deben realizar en un adenocarcinoma con diferenciación mucinosa prominente de colon ascendente diagnosticado en un hombre de 32 años?:",
+    "opciones": [
+      "1. Reordenamiento del gen MYC.",
+      "2. Análisis de inestabilidad de microsatélites.",
+      "3. Estudio de mutaciones del gen RET.",
+      "4. Estudio de mutaciones de BRCA1-2.",
+      "5. Estudios de mutaciones de TP53."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Estamos ante un paciente muy joven, con CCR en colon derecho y tipo histológico mucinoso (la histología mucinosa ya fue preguntada de forma indirecta en otro MIR). Son todos datos que deben hacernos sospechar un síndrome de Lynch o CCR hereditario no polipósico. Recordad que se trata de una enfermedad genética autosómica dominante con penetrancia alta producida por mutaciones en genes reparadores del DNA como hMSH2, hMSH o hMLH1 que producen inestabilidad de microsatélites. Son pacientes con muy alto riesgo de adenomas de alto grado y carcinomas sincrónicos y metacrónicos, de predominio en colon derecho. Existe un tipo 1 (sólo CCR) y un tipo 2 (que asocia CCR con otros tumores llamados de la 'esfera Lynch' como endometrio, ovario, estómago, intestino delgado, vía biliar y vía urinaria).</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "18. (MIR 2014) En cuanto a la poliposis intestinal, ¿cuál de los siguientes síndromes NO es hereditario?:",
+    "opciones": [
+      "1. Síndrome de Gardner.",
+      "2. Síndrome de Cronkhite-Canada.",
+      "3. Síndrome de Turcot.",
+      "4. Poliposis juvenil.",
+      "5. Síndrome de Peutz-Jeghers."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta muy difícil. El síndrome de Cronkhite-Canada es un síndrome esporádico (no hereditario) de poliposis gastrointestinal generalizada raro, que típicamente se asocia a hiperpigmentación mucocutánea, alopecia, problemas de absorción con desnutrición, y distrofia ungueal.</p>"
+  },
+  {
+    "tema": "Tema 30. Tumores del intestino delgado y grueso",
+    "pregunta": "19. (MIR 2014) A un hombre de 55 años, padre de un hijo celíaco, con anemia ferropénica y aumento reciente del ritmo deposicional, se le ha realizado una determinación de los alelos HLA-DQ2 y HLA-DQ8 que ha resultado negativa. ¿Qué estudio diagnóstico es el más apropiado en este caso?:",
+    "opciones": [
+      "1. Determinación de anticuerpos antitransglutaminasa IgA.",
+      "2. Endoscopia digestiva alta con toma de biopsias duodenales.",
+      "3. Test de D-xilosa.",
+      "4. Evaluar la respuesta a dieta sin gluten.",
+      "5. Colonoscopia."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Esta pregunta hay que leerla con cautela. Nos dan un antecedente familiar de hijo celíaco y clínica típica de enfermedad celíaca, para distraernos y sólo pensar en dicha enfermedad. Pero hay un dato muy importante que nos hace resolver la pregunta. Más del 99% de los pacientes con enfermedad celíaca tienen un genotipo de HLA positivo para DQ2 (95%) o DQ8. Por ello, la ausencia de DQ2 y DQ8 tien un valor predictivo negativo de un 99%, que prácticamente descarta esta enfermedad. Además, estamos ante un varón >50 años con anemia ferropénica y cambio del ritmo intestinal, luego lo fundamental es descartar cáncer colorrectal y realizar una colonoscopia.</p>"
+  },
+  {
+    "tema": "Tema 32. Pancreatitis aguda",
+    "pregunta": "1. (MIR 2020) Hombre de 57 años que acude a urgencias por un dolor epigástrico de elevada intensidad, irradiado a espalda y a hipocondrio derecho, junto a náuseas y vómitos de 12 horas de evolución. En la exploración se encuentra afebril, estable hemodinámicamente, lúcido y con buena perfusión. En la analítica destacan: 18.1 leucocitos (80% neutrófilos), siendo el resto del hemograma normal. La bioquímica es normal, incluyendo calcio, LDH y triglicéridos, excepto una amilasa de 3.000 U/L. Señale la respuesta correcta:",
+    "opciones": [
+      "1. El cuadro clínico sugiere una colangitis aguda.",
+      "2. El paciente tiene probablemente una isquemia mesentérica aguda.",
+      "3. No es necesario realizar prueba de imagen en urgencias o en todo caso una ecografía abdominal.",
+      "4. Es preciso realizar una TC abdominal urgente."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Nos presentan una pancreatitis aguda (dolor abdominal en epigastrio irradiado hacia espalda y en cinturón hacia hipocondrio derecho con elevación de amilasa). Para su diagnóstico nos vale con una clínica compatible y analítica con elevación de encimas pancreáticas (respuesta 4 incorrecta). Para el estudio etiológico podemos realizar una ecografía para ver si el paciente presenta colelitiasis (respuesta correcta 3). Una colangitis aguda daría fiebre e hiperbilirrubinemia o ictericia (respuesta 1 incorrecta). En la isquemia mesentérica aguda nos hubieran presentado un paciente con factores de riesgo cardiovascular o con fibrilación auricular (respuesta 2 incorrecta).</p>"
+  },
+  {
+    "tema": "Tema 32. Pancreatitis aguda",
+    "pregunta": "2. (MIR 2017) Mujer de 64 años, obesa, con dolor epigástrico intenso irradiado en cinturón, febrícula, hiperamilasemia marcada, hematocrito del 48% y creatinina sérica discretamente elevada. En la TC abdominal se evidencia un páncreas con agrandamiento difuso, contorno irregular, inflamación alrededor de la glándula y una acumulación de líquido intrapancreática. ¿Cuál de estas opciones es CIERTA en relación al manejo de la paciente?:",
+    "opciones": [
+      "1. La reanimación mediante fluidoterapia enérgica es básica en el tratamiento.",
+      "2. Debe administrarse desde el inicio antibioterapia con fines profilácticos para evitar la necrosis infectada.",
+      "3. La nutrición parenteral total está indicada a partir de las 48-72 horas.",
+      "4. El uso de inhibidores de la proteasa (aprotinina) ha demostrado un efecto beneficioso en estos casos."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta de dificultad media sobre el manejo del cuadro que nos presentan, compatible con una pancreatitis aguda. En el momento del diagnóstico, lo más importante que tenemos que tener en cuenta es la fluidoterapia intravenosa durante las primeras horas del cuadro para evitar complicaciones posteriores como es el caso de la necrosis pancreática (respuesta 1 correcta). Por otro lado, no está indicada la administración de antibioterapia al inicio y menos aún sin haber demostrado que existe infección de una necrosis (repuesta 2 falsa). Está indicado iniciar nutrición enteral lo antes posible, esto es, cuando el paciente no presente datos de íleo paralítico y el dolor inicial haya desaparecido, reservando la nutrición parenteral para los casos de intolerancia o mala evolución (respuesta 3 falsa). Por último, no está indicado el uso de inhibidores de la proteasa en este caso (respuesta 4 falsa). Clásicamente se apostaba por una fluidoterapia 'intensiva'; sin embargo, en el estudio WATERFALL, coordinado por investigadores españoles, se objetivó que una fluidoterapia más moderada (en comparación con la intensiva clásica) ofrecía mejores resultados y seguridad. En lo que respecta a esta pregunta, la opción correcta no cambia a la luz de estos datos que acabamos de comentar, y sigue siendo la 1 sin duda alguna.</p>"
+  },
+  {
+    "tema": "Tema 32. Pancreatitis aguda",
+    "pregunta": "3. (MIR 2016) Pregunta vinculada a la imagen n.º 14. Paciente de 40 años, fumador de 25 paquetes/año. Consumidor de alcohol de 20 UBEs (Unidades de bebida estándar)/día en los últimos meses. Diagnosticado de infección por el VHC hace 8 años sin tratamiento. Relata un cuadro de dolor abdominal de varios días de evolución 2 meses antes por el que no llegó a consultar y que duró aproximadamente 1 semana. Consulta ahora por dolor abdominal inicialmente en epigastrio y posteriormente difuso. En el momento del ingreso se aprecia mal estado general, edemas en extremidades inferiores y un abdomen distendido con signos de ascitis. En la analítica practicada en una muestra de sangre se apreciaron los siguientes datos: creatinina 0,68 mg/dL (0,4-1,2), glucosa 84 mg/dL (75-115), AST 21 UI/L (0-35), ALT 15 UI/L (0-35), albúmina 21 g/L (35-52), bilirrubina 0,6 mg/dL (0,3-1,2), hemoglobina 10,7 g/dL, plaquetas 288.000/mm3, leucocitos 8.200/mm3, ratio del tiempo de protrombina 1,12 (0,8-1,2). Se realizó una TC abdominal que se presenta en la imagen asociada y también una paracentesis obteniéndose un líquido amarillento claro con los siguientes datos analíticos: glucosa 68 mg/dL, albúmina 17 g/L, bilirrubina 0,4 mg/dL, amilasa 3200 U/L y 200 células/mm3 (70% neutrófilos). Con los datos disponibles, ¿cuál es, entre los siguientes, el diagnóstico más probable en este caso?:",
+    "opciones": [
+      "1. Pseudoquiste pancreático con ascitis pancreática.",
+      "2. Neoplasia quística pancreática con ascitis por carcinomatosis.",
+      "3. Peritonitis secundaria por perforación del tubo digestivo.",
+      "4. Descompensación ascítica en paciente con hepatopatía crónica avanzada."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Se trata de un paciente con factores de riesgo para pancreatitis (fumador y muy bebedor) con un episodio de probable pancreatitis aguda hace unas semanas ('dolor abdominal de varios días hace 2 meses que le duró una semana y por el que no llegó a consultar'). Acude posteriormente por ascitis. A pesar de que el paciente presente factores de riesgo de cirrosis/hepatopatía crónica (bebedor + VHC), no parece ser el caso por los datos de la exploración y de la analítica (bilirrubina, INR, plaquetas normales). Además, si calculamos el gradiente de albúmina nos da: 2,1 − 1,7 = 0,4 (gradiente sin hipertensión portal). Por último, la imagen (reconstrucción coronal de TC de abdomen con contraste i.v. y contraste oral) muestra un gran quiste en región pancreática así como una cantidad muy considerable de líquido libre intraperitoneal con amilasa muy alta. Con todo, la opción correcta es la 1. Así, se trata de un paciente que tuvo una pancreatitis aguda por la que no consultó y que vuelve meses después con una complicación tardía importante (pseudoquiste grande + ascitis pancreática por probable rotura del mismo).</p>"
+  },
+  {
+    "tema": "Tema 33. Pancreatitis crónica",
+    "pregunta": "1. (MIR 2023) Pregunta asociada a la imagen 22. Varón de 75 años con dolor abdominal intermitente, dispepsia y pérdida de peso. Se realiza TC abdominal con contraste de la que se muestra una imagen. Además de la observación casual de un quiste renal izquierdo ¿cuál de los siguientes hallazgos se encuentra?:",
+    "opciones": [
+      "1. Tumoración en cola pancreática con calcificaciones e invasión tumoral de arteria esplénica.",
+      "2. Calcificaciones pancreáticas difusas en cuerpo y cola pancreática, indicativas de pancreatitis aguda.",
+      "3. Tumoración en cabeza pancreática con calcificaciones e invasión tumoral de arteria esplénica.",
+      "4. Calcificaciones pancreáticas difusas en cuerpo y cola pancreática, indicativas de pancreatitis crónica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fácil sobre una imagen bonita donde nos enseñan un claro caso de pancreatitis crónica calcificada con una clínica típica. El resto de opciones son falsas: no nos cuentan clínica típica de cáncer de páncreas (síndrome constitucional + ictericia indolora), aunque recordad que dentro del contexto de pancreatitis crónica siempre debemos estar pendientes de si el paciente desarrolla un cáncer de páncreas (la pancreatitis crónica es una causa de cáncer de páncreas). La pancreatitis aguda no da calcificaciones.</p>"
+  },
+  {
+    "tema": "Tema 33. Pancreatitis crónica",
+    "pregunta": "2. (MIR 2021) En la TC de abdomen con contraste intravenoso realizada para estudio de pancreatitis crónica, ¿cuál de los siguientes hallazgos es típico de esta enfermedad?:",
+    "opciones": [
+      "1. Ensanchamiento del marco duodenal.",
+      "2. Áreas focales de necrosis pancreática.",
+      "3. Aumento en el realce glandular en fase arterial.",
+      "4. Dilatación de conducto pancreático."
+    ],
+    "correcta": 3,
+    "comentario": "<p>De todas las opciones que nos dan, la que típicamente se asocia a pancreatitis crónica es la dilatación del conducto pancreático principal o de Wirsung. El resto de hallazgos son inespecíficos o se pueden ver en pacientes con pancreatitis aguda, o que hayan tenido una pancreatitis aguda en el pasado, pero no hablan de pancreatitis crónica como tal.</p>"
+  },
+  {
+    "tema": "Tema 33. Pancreatitis crónica",
+    "pregunta": "3. (MIR 2018) Mujer de 58 años con antecedente de tiroiditis de Riedel. Presenta dolor abdominal, pérdida de peso e ictericia obstructiva. Ante la sospecha radiológica de carcinoma de páncreas, se realiza una duodenopancreatectomía cefálica. En el estudio anatomopatológico no encontramos un carcinoma, sino abundantes células inflamatorias con tendencia a rodear ductos, marcada fibrosis, flebitis obliterante y más de 50 células plasmáticas IgG4+ por campo de gran aumento. ¿Cuál es el diagnóstico?:",
+    "opciones": [
+      "1. Hamartoma pancreático.",
+      "2. Pancreatitis autoinmune.",
+      "3. Malacoplaquia.",
+      "4. Pancreatitis del surco."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad media sobre pancreatitis autoinmune (PAI). Se trata de una rara causa de pancreatitis crónica que ya ha sido varias veces preguntada en el MIR. La PAI tipo 1 se asocia a afectación sistémica por IgG4 y a otras enfermedades fibrosantes (como la tiroiditis de Riedel). La PAI tipo 2 se suele asociar a enfermedad inflamatoria intestinal y no se relaciona con las IgG4. En muchas ocasiones el diagnóstico es histológico y puede confundirse con una lesión neoplásica debido a su presentación clínica como la de este caso (ictericia obstructiva, pérdida de peso...).</p>"
+  },
+  {
+    "tema": "Tema 33. Pancreatitis crónica",
+    "pregunta": "4. (MIR 2017) El marcador serológico más útil para el diagnóstico de una pancreatitis autoinmune tipo I es:",
+    "opciones": [
+      "1. El anticuerpo anticitoplasma de los neutrófilos (ANCA).",
+      "2. El anticuerpo antimitocondrial (AMA).",
+      "3. El anticuerpo antimicrosomal.",
+      "4. El nivel de Ig G4."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fácil. La elevación de la inmunoglobulina IgG4 es un marcador muy sensible y específico que nos sirve para el diagnóstico de pancreatitis autoinmune (en concreto la tipo 1) cuando tenemos la sospecha clínica, analítica y radiológica de dicha entidad (respuesta correcta 4). El resto de respuestas son marcadores de autoinmunidad, algunos de ellos muy inespecíficos, como es el caso de los ANCA (respuestas 1, 2 y 3 incorrectas).</p>"
   }
 ]
