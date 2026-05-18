@@ -3442,5 +3442,116 @@
     ],
     "correcta": 3,
     "comentario": "<p>Pregunta clásica sobre la monitorización de la respuesta a diuréticos en la ascitis. La mejor forma de evaluar la respuesta es la pérdida de peso por parte del paciente, y más directamente el balance hídrico negativo. La opción 1 es falsa porque para calcular el balance hídrico hay que tener en cuenta la ingesta. Se podría dudar con la natriuresis en 48 horas, pero hay que recordar siempre que la natriuresis viene condicionada por el consumo de sal, luego un sodio alto en orina podría traducirnos únicamente una ingesta de sal subrepticia y por tanto este paciente ganaría peso.</p>"
+  },
+
+{
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "1. (MIR 2024) En un paciente con esteatosis hepática metabólica (antes enfermedad hepática por depósito de grasa) el riesgo de desarrollo de hepatocarcinoma en comparación con otras etiologías frecuentes como la hepatopatía alcohólica o la hepatitis C, se caracteriza por:",
+    "opciones": [
+      "1. Aparecer en personas más jóvenes.",
+      "2. Se beneficia de los programas de diagnóstico precoz.",
+      "3. Aparece más fecuentemente en fases previas a la cirrosis.",
+      "4. Presenta una incidencia acumulada anual mayor que en la hepatitis C."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El CHC asociado a NASH tiene la particularidad de ser 5 veces más frecuente en fases precirróticas, respuesta correcta 3.</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "2. (MIR 2023) Varón de 58 años con cirrosis compensada Child A-5 secundaria a hígado graso no alcohólico, sin otros antecedentes. Refiere astenia sin anorexia ni pérdida de peso. En una ecografía abdominal de cribado y posteriormente en una TC toracoabdominal trifásica se detectan cuatro lesiones hepáticas (una de ellas de 6 cm), hipervasculares en fase arterial y con lavado en fase venosa, con invasión de vena porta y sin metástasis extrahepáticas. No se observa ascitis. ¿Cuál de los siguientes es el mejor tratamiento?:",
+    "opciones": [
+      "1. Quimioembolización transarterial.",
+      "2. Sorafenib.",
+      "3. Trasplante hepático.",
+      "4. Ablación con radiofrecuencia."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Paciente con cirrosis por NASH (Non-Alcoholic SteatoHepatitis), compensado (esto es fundamental para elegir el tratamiento), que tiene un hepatocarcinoma multinodular que supera Milán (4 nódulos e invasión portal). El hecho de presentar invasión portal tumoral lo convierte en un estadío avanzado o estadío BCLC-C. El TAC tiene comportamiento típico (LI-RADS 5) que confirma nuestro diagnóstico de sospecha de carcinoma hepatocelular. El tratamiento de elección para este estadío es el tratamiento sistémico. Clásicamente ha sido sorafenib (opción 2 correcta, puesto que es el único tratamiento sistémico que nos dan). Actualmente el sorafenib ha sido superado por la combinación de antiangiogénico + inmunoterapia: atezolizumab + bevacizumab.</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "3. (MIR 2022) Pregunta vinculada a la imagen n.º 16. Varón de 47 años sin antecedentes de interés que acude a urgencias por fiebre de hasta 39 ºC con escalofríos y sudoración, de una semana de evolución, acompañada de dolor epigástrico y malestar general. Se realiza TC abdominopélvica con contraste endovenoso que se muestra en la imagen. ¿Cuál de los siguientes diagnósticos es más probable?:",
+    "opciones": [
+      "1. Absceso hepático.",
+      "2. Hemangioma hepático.",
+      "3. Hepatocarcinoma.",
+      "4. Hiperplasia nodular focal con necrosis en su interior."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta muy fácil sobre una lesión sólida de hígado vista por TC. Nos presentan a un paciente con fiebre y dolor abdominal, lo que nos ha de hacer pensar en algo infeccioso (respuestas 1 ó 4, siendo la opción 1 la más frecuente y por tanto la respuesta correcta).</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "4. (MIR 2022) Paciente de 55 años con cirrosis hepática alcohólica, abstinente, sin datos de hipertensión portal. Análisis: AST 34 U/L (normal <37 U/L); ALT 19 U/L (normal <41 U/L); bilirrubina total 0,78 mg/dl (normal <1 mg/dl); alfafetoproteína 7 ng/ml (normal <10 ng/ml). Se realiza una ecografía hepática que detecta una lesión ocupante de espacio hipoecogénica de 1,5 cm de diámetro. La resonancia magnética muestra una lesión con captación en fase arterial y lavado en fase venosa. ¿Qué actitud de las siguientes es más correcta?:",
+    "opciones": [
+      "1. Realizar biopsia del nódulo, ya que el tamaño es inferior a 2 cm.",
+      "2. Repetir la ecografía a los 3 meses.",
+      "3. Indicar un trasplante hepático.",
+      "4. Solicitar estudio de extensión."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Ante una lesión con comportamiento típico de hepatocarcinoma (hipervascular en fase arterial con lavado precoz en fase venosa) que asienta sobre un hígado cirrótico, no es preciso confirmar el diagnóstico mediante biopsia. Lo que sí necesitamos para poder plantear tratamiento es un estudio de extensión, incluyendo una TC toracoabdominopélvica. Recuerda que la RMN es excelente para estadificación local, pero no descarta la presencia de metástasis a distancia.</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "5. (MIR 2018) Un hombre de 67 años con cirrosis alcohólica en seguimiento por el servicio de hepatología es diagnosticado de un hepatocarcinoma de 3 cm de diámetro localizado en el lóbulo izquierdo, segmento 3. Sometido a estudio para valoración del tratamiento a seguir se demuestra que el paciente no tiene hipertensión portal, presenta una función hepática normal un MELD score de 7 y un Child-Pugh grado A. La alfa-fetoproteína es inferior a 50 ng/mL y no se han objetivado metástasis a distancia. ¿Cuál es el tratamiento más indicado en este paciente?:",
+    "opciones": [
+      "1. Aplicar inyección de etanol percutánea.",
+      "2. Resección hepática.",
+      "3. Trasplante hepático.",
+      "4. Quimioembolización transarterial."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla sobre el manejo de un paciente con hepatocarcinoma. Se trata de un paciente Child A, compensado y sin hipertensión portal que tiene un tumor resecable de sólo 3 cm (estadío A del BCLC). En estos pacientes, sin contraindicaciones quirúrgicas y sin hipertensión portal que contraindique la resección, el tratamiento más efectivo es la resección del nódulo tumoral (opción 2 correcta). La ablación percutánea (con inyección de etanol o radiofrecuencia) ofrece peores resultados que la cirugía, especialmente en tumores mayores de 2 cm, y se reservaría para pacientes no candidatos a cirugía. El trasplante hepático no está indicado ante tumores únicos resecables y, además, no nos indican que el paciente lleve el tiempo necesario de abstinencia alcohólica (6 meses) como para considerarlo candidato a trasplante. La quimioembolización es un tratamiento con intención paliativa, indicado en estadíos más avanzados (BCLC-B) con tumores que sobrepasan criterios de Milán.</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "6. (MIR 2017) En el diagnóstico de carcinoma hepatocelular, señale la respuesta correcta:",
+    "opciones": [
+      "1. El estudio histológico es obligatorio en todos los casos.",
+      "2. En pacientes cirróticos el diagnóstico se puede realizar mediante técnicas de imagen dinámicas.",
+      "3. En pacientes cirróticos el diagnóstico se puede realizar ante la sospecha clínica y niveles de la alfa fetoproteína mayores de 100 ng/dL.",
+      "4. La arteriografía es la única técnica que demuestra de forma fiable la característica fundamental de este tumor que es la hipervascularización arterial."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta fácil. Un hepatocarcinoma se diagnostica mediante ecografía abdominal seguida de una prueba de imagen, generalmente TC, que muestre hipercaptación en fase arterial y lavado precoz en fase venosa. Si el TC es inconcluyente está indicada la RM. Sólo en el caso que a pesar de TC y RM dudemos de si tiene hepatocarcinoma, está indicada la biopsia o PAAF de la lesión. A diferencia de otros tumores, no es necesario el diagnóstico histológico sino que la mayoría de veces se realiza con las pruebas de imagen (respuesta 2 correcta). La biopsia hepática puede tener complicaciones graves; además, tiene falsos negativos y puede producir diseminación cutánea del tumor. La alfafetoproteína sólo es útil en el seguimiento del hepatocarcinoma. La arteriografía no se usa para el diagnóstico.</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "7. (MIR 2017) hombre de 57 años con cirrosis hepática etílica, en abstinencia de más de 6 años, tiene una función hepática en grado A de Child, varices esofágicas grado II y buena situación clínica (ECOG 1). Es diagnosticado de un carcinoma hepatocelular en el lóbulo hepático derecho, de 8 cm de diámetro y con trombosis de la rama portal adyacente. El tratamiento más indicado es:",
+    "opciones": [
+      "1. Trasplante hepático.",
+      "2. Resección quirúrgica.",
+      "3. Quimioembolización transarterial con microesferas liberadoras de fármacos (TACE-DEB).",
+      "4. Sorafenib."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Paciente con hepatocarcinoma que supera criterios de Milán (nódulo >5 cm e invasión tumoral portal) sobre hígado cirrótico con hipertensión portal (varices). Dado que tiene varices y supera Milán no podemos realizar resección quirúrgica. El hecho de superar Milán también descarta la opción de trasplante hepático y radiofrecuencia. La quimioembolización está contraindicada cuando hay trombosis portal, sea tumoral (invasión portal) o por trombo, pues hay riesgo de insuficiencia hepática por isquemia al embolizar. Por tanto, solo tenemos la opción de tratamiento sistémico. Clásicamente se ha utilizado Sorafenib, que es la opción que es correcta en esta pregunta. Sin embargo, el tratamiento en primera línea actualmente de elección es el Atezolizumab + Bevacizumab.</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "8. (MIR 2015) ¿Cuál de los siguientes enunciados es correcto con respecto a los hemangiomas hepáticos?:",
+    "opciones": [
+      "1. Pueden asociarse al síndrome de Kasabach-Merritt (trombocitopenia y coagulopatía de consumo), especialmente los hemangiomas gigantes.",
+      "2. Se debe indicar la exéresis quirúrgica desde el momento que se diagnostique si su diámetro es mayor de 3 cm.",
+      "3. La opción terapéutica más recomendable para este tipo de tumor es la embolización percutánea.",
+      "4. El mejor método para su confirmación diagnóstica es la biopsia percutánea de la lesión hepática.",
+      "5. La RM hepática no suele ofrecer mucha ayuda para su caracterización diagnóstica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>El hemangioma es la lesión tumoral benigna más frecuente. En casos raros, hemangiomas gigantes pueden causar una coagulopatía de consumo conocida como síndrome de Kasabach -Merritt que se manifiesta con trombocitopenia, coagulación intravascular diseminada, y sangrado sistémico (opción 1 correcta). Las mejores pruebas para confirmar el diagnóstico son la RM o la TC (opciones 4 y 5 incorrectas). La biopsia hepática debe ser evitada si las características radiológicas de un hemangioma están presentes. Independientemente del tamaño, no se indicará ningún tratamiento en pacientes asintomáticos. En los pocos pacientes que estén sintomáticos (compresión de órganos o dolor abdominal) se valorará cirugía como tratamiento (opción 3 incorrecta pues la mejor opción terapéutica es la cirugía).</p>"
+  },
+  {
+    "tema": "Tema 12. Abscesos y tumores hepáticos",
+    "pregunta": "9. (MIR 2014) ¿Cuál de las siguientes afirmaciones sobre la hiperplasia nodular focal hepática es cierta?:",
+    "opciones": [
+      "1. Se considera que su aparición está relacionada con el consumo de anticonceptivos.",
+      "2. El riesgo de hemoperitoneo por rotura es similar al del adenoma.",
+      "3. Existe riesgo de degeneración tumoral.",
+      "4. Se comporta como una lesión focal hipovascular en la tomografía computarizada con administración de contraste.",
+      "5. En el estudio histológico de la lesión además de hepatocitos pueden observarse conductos biliares y otras células hepáticas."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta compleja. Hay que destacar que cada 3-4 años nos encontramos una pregunta sobre tumores benignos. La hiperplasia nodular focal (HNF) es un tumor típico de mujeres entre 30-40 años, es hipervascular en la TC con contraste, y en el estudio histológico de la lesión pueden observarse, además de hepatocitos, conductos biliares y otras células hepáticas (a diferencia del adenoma hepático, típico también de mujeres jóvenes que toman anticonceptivos, que sólo tiene hepatocitos). Una característica típica de la HNF es la presencia de una cicatriz central de forma estrellada que puede ser visible en las técnicas de imagen (ecografía y, sobre todo, RM). El adenoma es el que se relaciona con los anticonceptivos, y tiene riesgo de malignización y hemorragia.</p>"
   }
 ]
