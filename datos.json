@@ -3318,5 +3318,129 @@
     ],
     "correcta": 3,
     "comentario": "<p>Pregunta prototípica sobre una de las complicaciones más graves que pueden tener los pacientes con colitis ulcerosa: el desarrollo de una colangitis esclerosante primaria. Paciente con colitis ulcerosa y colestasis disociada = Colangitis esclerosante primaria. Más del 75% de los pacientes con CEP tienen asociada una colitis ulcerosa que además suele tener rasgos atípicos (respeto del recto, ileítis por reflujo, predominio en colon derecho y mayor riesgo de displasia y CCR). Está indicado hacer una colonoscopia al diagnóstico de toda CEP para buscar una CU, si el paciente no la tiene diagnosticada.</p>"
+  },
+
+{
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "1. (MIR 2020) Paciente con cirrosis hepática estadio B de Child con ascitis y antecedentes de peritonitis bacteriana espontánea (PBE). ¿Cuál de las siguientes pautas de tratamiento antibiótico se considera adecuada como profilaxis de la PBE?:",
+    "opciones": [
+      "1. Vancomicina 500 mg/día.",
+      "2. Norfloxacino 400 mg/día.",
+      "3. Metronidazol 250 mg/día.",
+      "4. Amoxicilina 1000 mg/día."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta sencilla. Todo paciente que haya pasado un episodio previo de peritonitis bacteriana espontánea, mientras siga teniendo ascitis, debe recibir profilaxis secundaria con norfloxacino (hasta que mejore la función hepática y desaparezca la ascitis, o bien se trasplante).</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "2. (MIR 2018) En relación con la anatomía de la vena porta una de las siguientes afirmaciones es FALSA:",
+    "opciones": [
+      "1. Anatómicamente se forma por detrás del cuello del páncreas.",
+      "2. Al igual que muchas otras venas del organismo, sus paredes tienen válvulas.",
+      "3. En el hilio hepático suele estar detrás de la arteria hepática.",
+      "4. Su bifurcación presenta menos variantes anatómicas que los conductos biliares."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta compleja sobre algunos detalles anatómicos del sistema venoso portal. La vena porta lleva el flujo de todo el tubo digestivo, páncreas y bazo hacia el hígado. Se forma tras el cuello pancreático (opción 1 cierta) mediante la confluencia de las venas esplénica y mesentérica superior. La vena mesentérica inferior suele drenar a la esplénica aunque puede hacerlo hacia la mesentérica superior. La porta se dirige hacia el hilio hepático (en el ligamento gastrohepático), situándose entre la vena cava (que queda posterior) y la arteria hepática y colédoco que quedan anteriores (opción 3 cierta). Al llegar al hígado se bifurca en dos ramas, derecha e izquierda, para cada lóbulo hepático, presentando a este nivel menos variantes anatómicas que los conductos bilares (opción 4 cierta). El sistema venoso portal carece de válvulas (opción 2 correcta).</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "3. (MIR 2017) Acude a su consulta un hombre de 63 años con antecedente de cirrosis hepática alcohólica estable, que no realiza seguimiento ni tratamiento tras haber estado viviendo en el extranjero. No presenta datos de encefalopatía, hay ascitis moderada a la exploración y en la analítica presenta una bilirrubina de 1,8 mg/dL, una albúmina de 3,4 g/dL y una actividad de protrombina del 50% (Child-Pugh B-8). Aporta pruebas complementarias realizadas hace dos años: una ecografía abdominal sin ascitis, vena porta de 15 mm de diámetro y esplenomegalia, así como una endoscopia oral con presencia de varices esofágicas grado IV, si bien no ha tenido hasta la fecha hemorragia digestiva alta conocida. ¿Cuál de las siguientes afirmaciones le parece la MENOS adecuada para este paciente?:",
+    "opciones": [
+      "1. Aunque esté estable y no tenga fiebre ni dolor, debe realizarse una paracentesis diagnóstica, al ser el primer episodio conocido de ascitis.",
+      "2. Está indicado realizar una nueva ecografía para descartar causas que puedan provocar una ascitis de novo (trombosis de vena porta, hepatocarcinoma, etc.).",
+      "3. Está indicado el inicio de tratamiento con betabloqueantes no cardioselectivos porque presenta varices grandes, aunque nunca haya sangrado, ya que prolongan la supervivencia.",
+      "4. La instauración del tratamiento diurético debemos iniciarla en un periodo corto de hospitalización para asegurarnos que no aparece fallo renal o hiponatremia grave asociada."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Paciente con cirrosis hepática alcohólica con primera descompensación ascítica. Está por ello indicado realizar una paracentesis diagnóstica para calcular el gradiente de albúmina (si >1,1 ascitis por hipertensión portal) y saber las proteínas en líquido ascítico (por si fuera necesario profilaxis primaria de peritonitis bacteriana espontánea): respuesta 1 correcta. Además, dado que es cirrótico debemos hacer ecografía abdominal cada 6 meses para screening de hepatocarcinoma (hace 2 años que no se ha realizado ecografía: respuesta 2 correcta). Está indicada la profilaxis primaria dado que tienen varices de gran tamaño (grado IV) con betabloqueantes no cardioselectivos o carvedilol (respuesta 3 correcta). El primer tratamiento a instaurar en un paciente con ascitis es la dieta hiposódica ± diuréticos. La opción 4 es incorrecta porque pone “debemos” iniciar diuréticos cuando en ocasiones sólo con dieta hiposódica es suficiente. Además, si iniciásemos diuréticos sí haría falta un control de función renal e iones pero no tiene por qué hacerse estando hospitalizado.</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "4. (2017) En el diagnóstico diferencial de un paciente con ascitis, el gradiente seroascítico de albúmina es muy importante. ¿Cuál de las siguientes situaciones clínicas NO se asocia a un gradiente mayor de 1,1 g/dL?:",
+    "opciones": [
+      "1. Cirrosis hepática.",
+      "2. Carcinomatosis peritoneal.",
+      "3. Síndrome de Budd-Chiari",
+      "4. Insuficiencia hepática aguda (hepatitis fulminante)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta fácil. La única ascitis que no es provocada por gradiente de hipertensión portal y, por tanto, tiene gradiente de albúmina <1,1 g/dL, es la carcinomatosis peritoneal.</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "5. (MIR 2016) Pregunta vinculada a la imagen n.º 12. ¿Cuál de los siguientes hallazgos NO esperaría encontrar en el líquido que se muestra en la imagen?:",
+    "opciones": [
+      "1. Triglicéridos 90 mg/dL.",
+      "2. Proteínas totales 3 g/dL.",
+      "3. Leucocitos >500/mm3.",
+      "4. Gradiente de albúmina 0.9 g/dL."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta relativamente compleja ya que no nos aportan datos clínicos y tan sólo disponemos del aspecto del líquido ascítico obtenido por paracentesis diagnóstica (paracentesis que está siendo realizada en una localización atípica ya que habitualmente suele pincharse en la fosa iliaca izquierda para evitar que el ciego pueda ser puncionado si accedemos por fosa ilíaca derecha). A simple vista parece un líquido turbio o quiloso (el líquido ascítico normal, por ejemplo en una cirrosis, es completamente claro y trasparente). Las opciones 2, 3 y 4 (proteínas altas, leucocitos altos y gradiente seroascítico de albúmina de no hipertensión portal) van en el mismo sentido ya que serían todas ellas posibles en un líquido infectado y/o con quiloso. La que sería menos posible encontrar en una ascitis opaca y con sospecha de ascitis quilosa serían unos triglicéridos tan bajos (habitualmente son mayores a 200 e incluso mayores de 1000).</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "6. (MIR 2016) ¿Cuál de las siguientes técnicas de endoscopia digestiva, está asociada a mayor riesgo de complicaciones mayores?:",
+    "opciones": [
+      "1. Ecoendoscopia digestiva alta diagnóstica.",
+      "2. Esclerosis de varices esofágicas.",
+      "3. Colonoscopia diagnóstica en paciente con dolicocolon.",
+      "4. Polipectomía de pólipo en colon descendente de morfología sesil."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Las técnicas que se asocian a más complicaciones son las terapéuticas y por ello ya podemos descartar la ecoendoscopia y la colonoscopia diagnósticas. De entre las técnicas endoscópicas terapéuticas (opción 2 y 4) la que tiene más complicaciones es la esclerosis de las varices. La polipectomía puede complicarse en forma de hemorragia (<5%) o perforación (1/1000) especialmente si los pólipos son de gran tamaño y planos y situados en el colon derecho. Aunque esta pregunta podría ser impugnable porque no consta el tamaño del pólipo, dado que nos dicen que es sésil y en colon izquierdo podemos deducir que el riesgo es bajo. En cambio, la escleroterapia de las varices esofágicas ha sido sustituida por la ligadura con bandas como terapéutica de la hemorragia por varices por su elevado riesgo de complicaciones y menor eficacia. La esclerosis de varices tiene una tasa de complicación de 35%-78% (ulceración, hemorragia, estenosis, perforación), con una mortalidad de 1%-5%; así que la opción correcta es la 2.</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "7. (MIR 2016) Un hombre de 67 años, diagnosticado de cirrosis hepática y bebedor activo, ingresa por cuadro de distensión abdominal progresiva con malestar difuso, de dos semanas de evolución. No refiere fiebre ni otros síntomas. A la exploración destaca matidez cambiante a la percusión abdominal, con ausencia de edemas. Se realiza una paracentesis diagnóstica, encontrando un líquido ligeramente turbio, con 2300 células/mL, de las cuales 30% son linfocitos, 60% polimorfonucleares y 10% hematíes. ¿Cuál es la primera medida terapéutica que pautaría en este paciente de forma inmediata?:",
+    "opciones": [
+      "1. Restricción de sal y líquidos.",
+      "2. Tratamiento diurético con espironolactona oral.",
+      "3. Tratamiento con una cefalosporina de tercera generación.",
+      "4. Paracentesis evacuadora."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Se trata de un paciente con cirrosis hepática que presenta una descompensación en forma de ascitis (distensión abdominal y matidez cambiante a la exploración física) que además está infectada ya que tiene más de 250 PMN (líquido turbio, leucocitos de 2300 con 60% PMN). En la peritonitis bacteriana espontánea (PBE) el control de la ascitis es secundario pues los diuréticos y las paracentesis de grandes volúmenes pueden provocar insuficiencia renal si ya tiene PBE. Así, en este paciente lo más importante es iniciar ceftriaxona i.v. También estaría indicado iniciar albúmina i.v para evitar el síndrome hepatorrenal aunque actualmente se piensa que habría pacientes con cirrosis poco avanzada que no es necesario y por ello seguramente no lo han incluido en la respuesta. Sólo cuando la PBE se cure iniciaremos el tratamiento de la ascitis.</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "8. (MIR 2015) Hombre de 66 años de edad, diagnosticado previamente de cirrosis hepática de etiología alcohólica, que es traído al servicio de Urgencias por aumento del perímetro abdominal y desorientación temporoespacial. En la exploración física se constata la existencia de ascitis y de 'flapping tremor' o asterixis. ¿Cuál de las siguientes exploraciones debe realizarse con carácter urgente?:",
+    "opciones": [
+      "1. Una tomografía computarizada craneal para descartar un accidente cerebro-vascular.",
+      "2. Una ecografía abdominal para confirmar la presencia de ascitis.",
+      "3. Una paracentesis exploradora para descartar una peritonitis bacteriana espontánea.",
+      "4. Un electroencefalograma para confirmar la existencia de encefalopatía hepática.",
+      "5. Una tomografía computarizada abdominal para descartar un carcinoma hepatocelular."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Se trata de una pregunta sencilla. En el MIR debemos ir siempre de lo más frecuente y sencillo a lo más raro y complejo. Se trata de un paciente cirrótico conocido que acude a Urgencias con ascitis y clínica encefalopática. Lo primero que debemos de hacer en este contexto es descartar una infección como causa de descompensación, por lo que solicitaremos: análisis de sangre, sedimento de orina, urocultivo, hemocultivos, radiografía de tórax y, sobre todo, haremos una paracentesis diagnóstica para descartar la presencia de peritonitis bacteriana espontánea (PBE) mediante el contaje de neutrófilos en líquido ascítico (superior o igual a 250 en la PBE). La clínica de la PBE es muy variable e inespecífica (dolor abdominal, diarreas, encefalopatía, deterioro de la función renal...), y debe descartarse siempre esta entidad ante cualquier paciente cirrótico con ascitis que presente un deterioro clínico-analítico ya que los síntomas típicos de peritonitis (dolor abdominal, fiebre, sensibilidad a la palpación) los presentan como mucho el 50% de los pacientes. No es necesaria una ecografía abdominal porque el paciente ya presenta ascitis clínicamente evidente (en pacientes con poca ascitis o dudas puede ser muy útil para valorar el lugar de punción).</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "9. (MIR 2014) Mujer de 80 años que consulta por presentar, desde hace 1 mes, aumento progresivo del perímetro abdominal. Durante los 4-5 meses previos nota astenia, anorexia y adelgazamiento no precisado. En la exploración física se aprecia ascitis a tensión y edemas maleolares, sin otros signos relevantes. Una ecografía y TC de abdomen demuestran la presencia de ascitis, de densidad homogénea, sin apreciarse implantes peritoneales ni masas abdominales o pélvicas. Hígado, páncreas, suprarrenales, bazo y riñones sin hallazgos significativos. Se realiza paracentesis a través de aguja gruesa, obteniéndose con dificultad un líquido algo amarillento, denso y gelatinoso. ¿Cuál es la etiología más probable?:",
+    "opciones": [
+      "1. Descompensación hidrópica secundaria a cirrosis hepática.",
+      "2. Ascitis quilosa por linfoma no Hodgkin.",
+      "3. Tuberculosis peritoneal.",
+      "4. Metástasis peritoneal de adenocarcinoma.",
+      "5. Ascitis secundaria a pericarditis constrictiva"
+    ],
+    "correcta": 3,
+    "comentario": "<p>Cuando el caso clínico que se nos presenta no nos orienta a patología hepática o el aspecto del líquido es atípico, hay que investigar otras causas de ascitis. A ello nos ayuda el gradiente de albúmina (albúmina sérica – albúmina líquido ascítico); cuando es >1,1 g/dl, la ascitis es por hipertensión portal. En este caso nos tenemos que fijar en otros datos para llegar al diagnóstico. Vamos a intentar responder a la pregunta por descarte: la respuesta 1 no puede ser porque la TC y la ecografía verían el hígado dismórfico; la respuesta 2 es incorrecta pues si nos describieran un líquido ascítico quiloso nos dirían que es blanquinoso, de aspecto lechoso y además en un linfoma veríamos probablemente adenopatías en la TC; la tuberculosis peritoneal puede producir la misma clínica, pero nos pondrían un paciente más joven, probablemente con derrame pleural o patología pulmonar, y además no es causa de ascitis gelatinosa; la respuesta 5 es incorrecta pues la clínica no es sugestiva de pericarditis constrictiva y además no produce ascitis gelatinosa. La respuesta correcta es la 4: a favor de ascitis por carcinomatosis peritoneal por adenocarcinoma está la edad de la paciente, el síndrome tóxico como única clínica y que el líquido es de aspecto gelatinoso. Están descritas como causas de líquido ascítico gelatinoso (líquido viscoso amarillento, filante) el pseudomixoma peritoneal y las neoplasias de ovario (que sería lo más frecuente en una mujer de 80 años). Nos gustaría que en la TC describieran implantes peritoneales, pero no lo hacen y esto aumenta la dificultad de la pregunta. Por eso la mejor técnica para contestarla es por descarte.</p>"
+  },
+  {
+    "tema": "Tema 11. Cirrosis hepática y sus complicaciones",
+    "pregunta": "10. (MIR 2014) En un paciente con cirrosis hepática ¿cuál de los siguientes es el procedimiento más útil para medir la respuesta de la ascitis al tratamiento diurético?:",
+    "opciones": [
+      "1. Medir el volumen de orina de 24 horas.",
+      "2. Medir el perímetro abdominal diariamente.",
+      "3. Determinar cada semana el gradiente de albúmina entre el suero y la ascitis.",
+      "4. Registrar el peso cada día.",
+      "5. Evaluar la natriuresis cada 48 horas."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta clásica sobre la monitorización de la respuesta a diuréticos en la ascitis. La mejor forma de evaluar la respuesta es la pérdida de peso por parte del paciente, y más directamente el balance hídrico negativo. La opción 1 es falsa porque para calcular el balance hídrico hay que tener en cuenta la ingesta. Se podría dudar con la natriuresis en 48 horas, pero hay que recordar siempre que la natriuresis viene condicionada por el consumo de sal, luego un sodio alto en orina podría traducirnos únicamente una ingesta de sal subrepticia y por tanto este paciente ganaría peso.</p>"
   }
 ]
