@@ -3856,5 +3856,94 @@
     ],
     "correcta": 0,
     "comentario": "<p>Pregunta rara y compleja que se puede contestar fácilmente recordando que el test de la ureasa es un método para el diagnóstico de la infección por H. pylori y que por lo tanto no valora, en principio, la secreción ácida gástrica. Los pepsinógenos enzimas digestivas producidas por las células principales del estómago y su disminución (Pepsinógeno 1 menor de 30 ug/L y un ratio Pepsinogeno 1/Pepsinógeno 3 menor o igual a 3) es un marcador no invasivo de atrofia gástrica y por tanto de hipo o aclorhidria. La pentagastrina es un análogo de la gastrina y constituye un potente estímulo y permite valorar la secreción máxima ácida (MAO en inglés). Por último y al menos a modo de curiosidad porque su utilidad en la práctica clínica habitual es nula, el test de la comida ficticia sirve para evaluar la fase cefálica (mediada por el nervio vago al oler y empezar a saborear los alimentos antes de deglutirlos) de la secreción ácida. Consiste en medir la acidez gástrica antes y después de dar al paciente una comida ficticia (es decir, una comida en la que se le de a a oler y a probar pero que luego deben escupir en vez de deglutir). En condiciones normales la secreción ácida debe aumentar un 50% con esta comida ficticia que estimula la fase cefálica.</p>"
+  },
+
+{
+    "tema": "Tema 18. Hemorragia digestiva",
+    "pregunta": "1. (MIR 2019) Mujer de 70 años, con antecedentes de consumo de AINEs. Acude a urgencias refiriendo melenas de 24 horas de evolución. A la exploración física, llama la atención una marcada palidez cutáneo-mucosa, con FC de 124 lpm y PA de 80/40 mmHg. ¿Cuál es la primera medida a tomar?:",
+    "opciones": [
+      "1. Interrogarle sobre sus antecedentes (AINEs, dosis, tipo, tiempo de consumo, historia ulcerosa previa, antecedente de hemorragia digestiva,…etc) y realizar tacto rectal.",
+      "2. Colocar sonda nasogástrica con lavado previo a la realización de endoscopia.",
+      "3. Realizar inmediatamente una endoscopia digestiva para establecer el diagnóstico y aplicar el tratamiento hemostático.",
+      "4. Canalizar al menos una vía periférica de grueso calibre para infusión de volumen y obtener determinaciones analíticas básicas."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta fácil y muy repetida en el MIR. Ante un cuadro sugestivo de hemorragia digestiva alta con datos de inestabilidad hemodinámica, lo primero (antes incluso de iniciar tratamiento específico) es iniciar medidas de estabilización, incluyendo asegurar la vía aérea y hacer reposición de la volemia.</p>"
+  },
+  {
+    "tema": "Tema 18. Hemorragia digestiva",
+    "pregunta": "2. (MIR 2017) Paciente de 63 años con antecedentes familiares de primer grado de cáncer colorrectal a los 56 años. En sus antecedentes personales destaca un episodio de rectorragia secundaria a síndrome hemorroidal hace 15 años por lo que se realizó una colonoscopia que fue normal y no ha vuelto a presentar rectorragia. Acude a urgencias por episodio de hematoquecia. FC 120 lpm y PA 70/40 mmHg. El análisis de sangre muestra una hemoglobina de 8 g/dL. Señale la respuesta INCORRECTA en lo que respecta al manejo de este paciente:",
+    "opciones": [
+      "1. Aun si no se logra la estabilidad hemodinámica hay que insistir en la preparación del colon.",
+      "2. Si la colonoscopia es normal, una endoscopia digestiva alta puede dar el diagnóstico en el 10-15% de los casos.",
+      "3. La colonoscopia es la exploración con la mejor relación coste/efectividad por su seguridad, sensibilidad y potencial terapéutico.",
+      "4. La gammagrafía con Tc99m es de contrastada utilidad si se sospecha un divertículo de Meckel."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta referente a la hemorragia digestiva baja (HDB), que todavía no había caído nunca en el MIR. La hematoquecia (sangre de color rojo oscuro o granate, mezclada con las heces) es un signo sugestivo de hemorragia digestiva baja aunque también puede ser producida por una hemorragia digestiva alta masiva con tránsito rápido (podría ser porque el paciente está inestable). Ante una hemoragia siempre lo más importante es estabilizar la paciente, por ello la opción 1 es incorrecta. No podemos hacer una prueba endoscópica en un paciente inestable. Ante una HDB inestable la primera prueba a realizar tras la estabilización es una endoscopia alta para descartar el probable origen alto en un 10-15% de los casos (opción 2 correcta). Ante una HDB inestable con endoscopia normal o HDB estable la única estrategia diagnóstica y terapéutica es la colonoscopia (respuesta 3 correcta). La HDB por diverticulo de Meckel es infrecuente y de personas jóvenes; se diagnostica mediante la gammagrafía con Tc99m (respuesta 4 correcta).</p>"
+  },
+  {
+    "tema": "Tema 18. Hemorragia digestiva",
+    "pregunta": "3. (MIR 2016) Un hombre de 52 años sin enfermedades concomitantes, acude a urgencias por melenas de 24 horas de evolución sin repercusión hemodinámica. Niega consumo de antiinflamatorios no esteroideos. El hematocrito es de 33% y el resto de la analítica es normal. La endoscopia digestiva alta realizada de forma urgente a las 6 horas del ingreso muestra un estómago normal, sin sangre ni restos hemáticos y una úlcera excavada de 8 mm de diámetro en cara anterior del bulbo duodenal con 'vaso visible' en su base y sin sangrado activo. ¿Cuál de las siguientes afirmaciones es cierta?:",
+    "opciones": [
+      "1. En la endoscopia inicial está indicado aplicar una terapéutica endoscópica y posteriormente instaurar tratamiento endovenoso con dosis altas de un inhibidor de la bomba de protones. Esta estrategia ha demostrado reducir el riesgo de recidiva hemorrágica y la mortalidad.",
+      "2. En la endoscopia inicial, dada la ausencia de sangrado activo, no está indicado aplicar una terapéutica endoscópica. Posteriormente, para reducir el riesgo de recidiva hemorrágica, se deberá instaurar tratamiento endovenoso con dosis altas de un inhibidor de la bomba de protones.",
+      "3. En la endoscopia inicial está indicado aplicar una terapéutica endoscópica. No se ha podido demostrar que instaurar posteriormente tratamiento endovenoso con dosis altas de un inhibidor de la bomba de protones aporte beneficio adicional alguno.",
+      "4. Dado que se trata de una úlcera complicada (hemorragia) la mejor opción terapéutica una vez resuelto el episodio hemorrágico, es una vagotomía y piloroplastia."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Paciente con hemorragia digestiva alta secundaria a úlcera duodenal con vaso visible (Forrest IIa) por lo que está indicado el tratamiento con inhibidores de la bomba de protones endovenoso (ha demostrado mejorar los estigmas endoscópicos) y tratamiento endoscópico. La opción 1 es la más correcta aunque para ser perfecta debería poner mantener el tratamiento con inhibidores de la bomba de protones ya iniciados a la llegada del paciente en lugar de instaurarlos. Y también lo más correcto sería si pusiera, una terapéutica endoscópica con dos tratamientos endoscópicos esto es, con hemostasia mixta.</p>"
+  },
+  {
+    "tema": "Tema 18. Hemorragia digestiva",
+    "pregunta": "4. (MIR 2015) Pregunta vinculada a la imagen n.º 2. Hombre de 65 años con antecedentes personales de hepatopatía crónica etílica en estadio funcional A de Child en tratamiento con ibuprofeno por lumbalgia, presenta cuadro de hematemesis de sangre roja. A su llegada a urgencias presenta tensión arterial de 120/60 mm Hg. En la analítica muestra como datos más destacados hemoglobina 10 gr/dL, plaquetas 250.000/?L, urea 85 mg/dL y creatinina 1.1 mg/dL. Se realiza endoscopia urgente que muestra la imagen. Ante dichos hallazgos cuál es la respuesta correcta:",
+    "opciones": [
+      "1. Tan solo es preciso realizar trasfusión de concentrados de hematíes y vigilar la estabilidad hemodinámica del paciente.",
+      "2. Los hallazgos endoscópicos sugieren una clasificación de Forrest III.",
+      "3. La colocación de bandas es el tratamiento endoscópico de elección ya que se trata de un paciente hepatópata.",
+      "4. Se necesita la realización de una endoscopia a las 12 h para vigilar la posibilidad de resangrado de manera sistemática.",
+      "5. Es precisa la realización de tratamiento endoscópico con adrenalina 1:10000 asociada a la colocación de un endoclip."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Nos presentan un paciente con hemorragia digestiva alta, dado que se presenta con hematemesis y además en la analítica destaca disociación urea-creatinina (urea elevada con creatinina normal por absorción de sangre en estómago, que eleva la urea). Con los antecedentes de hepatopatía (posible HDA por varices esofágicas) e ingesta de ibuprofeno (posible HDA por úlcera péptica) no podemos decir el origen de la HDA. Y, por ello, es una pregunta que no se puede contestar sin imagen. En ésta se observa en región prepilórica antral una lesión ulcerosa bien definida, plana, de bordes regulares, de 8-10 mm, que en su centro parece que tiene un coágulo adherido (aunque nos deberían decir que tras realizar lavados no se desprende). Debido a la calidad de la imagen podríamos dudar con un vaso visible o más raramente con puntos de hematina, pero en el primer caso el tratamiento es el mismo que con coágulo y si fuera puntos de hematina no habría opción correcta. Ante una HDA por úlcera péptica Forrest IIb (opción 2 incorrecta porque no hay fibrina y 3 también falsa pues no es un sangrado por varices), se realiza tratamiento endoscópico urgente con dos técnicas como son la adrenalina y un endoclip (opción 5 correcta). La opción 1 es incorrecta pues no se indica transfusión con hemoglobina superior a 7 g/dL excepto en paciente con comorbilidades. La opción 4 es falsa pues no es necesaria la revisión sistemática de una lesión ya tratada, sólo se indicaría en caso de persistencia o recidiva del sangrado.</p>"
+  },
+  {
+    "tema": "Tema 18. Hemorragia digestiva",
+    "pregunta": "5. (MIR 2015) Pregunta vinculada a la imagen n.º 2. En el caso anteriormente descrito y respecto al tratamiento farmacológico cuál es la afirmación correcta:",
+    "opciones": [
+      "1. No es preciso el tratamiento farmacológico ya que se ha identificado la lesión sangrante.",
+      "2. El tratamiento ideal para este paciente es la perfusión de somatostatina ya que se trata de un paciente hepatópata.",
+      "3. La utilización de omeprazol a altas dosis reduce la recidiva de sangrado.",
+      "4. La ranitidina es el fármaco de elección para evitar la toxicidad farmacológica al tratarse de un paciente con hepatopatía crónica.",
+      "5. La erradicación del Helicobacter pylori es la primera medida a tomar."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Ante una HDA por úlcera péptica con alto riesgo de recidiva (Forrest Ia, Ib, IIa o IIb) es necesario tratamiento endoscópico e inhibidores de la bomba de protones a dosis altas (80 mg) endovenosos durante 72 h (opción 3 correcta, opciones 1-2-4 incorrectas). Ante un paciente con úlcera péptica, ya sea duodenal o gástrica, y haya o no antecedente de AINEs, hay que investigar si existe infección por H. pylori, y si fuera así habrá que erradicarlo cuando el paciente esté estable y pueda tolerar vía oral (normalmente se inicia el tratamiento erradicador al alta a domicilio). Además habrá que recordar que en una úlcera gástrica hay que realizar controles endoscópicos y biopsias de la úlcera hasta asegurar de la curación de la misma.</p>"
+  },
+  {
+    "tema": "Tema 18. Hemorragia digestiva",
+    "pregunta": "6. (MIR 2015) Un paciente ingresa con el diagnóstico de hemorragia digestiva alta en situación hemodinámica estable. Se practica una gastroscopia que informa: “Lesión ulcerada en cara posterior del bulbo duodenal con hemorragia activa no pulsátil. Forrest Ib. Se practica esclerosis endoscópica con adrenalina consiguiéndose hemostasia”. Señala la afirmación correcta:",
+    "opciones": [
+      "1. La lesión descrita tiene un riesgo bajo de recidiva hemorrágica.",
+      "2. En caso de recidiva hemorrágica es imprescindible la intervención quirúrgica.",
+      "3. Por la localización de la lesión puede estar afectada la arteria gastroduodenal.",
+      "4. La descripción y localización de la úlcera sugieren una lesión de Dieulafoy.",
+      "5. En caso de intervención quirúrgica es obligatoria la práctica de una vagotomía troncular."
+    ],
+    "correcta": 2,
+    "comentario": "<p>En una HDA por úlcera péptica duodenal Forrest Ib (sangrado en babeo) el riesgo de reciva es alto (respuesta 1 incorrecta), y por ello el tratamiento de elección es el tratamiento endoscópico e inhibidores de la bomba de protones endovenosos durante 72 h. En caso de recidiva sin inestabilidad hemodinámica está indicado un nuevo tratamiento endoscópico. Sólo en el caso de recidiva hemorrágica inestable se valorará el tratamiento quirúrgico o la angiografía con embolización selectiva (respuesta 2 incorrecta). En los pocos casos que se precisa cirugía, ésta se basa en ligadura del vaso y sutura simple (respuesta 5 falsa). Anatómicamente, las úlceras localizadas en cara posterior del bulbo duodenal provocan hemorragia por lesión de la arteria gastroduodenal, y las de curvatura menor gástrica por lesión de la arteria gástrica izquierda (opción 3 correcta). La localización no es típica de Dielafoy (normalmente están en estómago) ni tampoco que la mucosa de alrededor esté ulcerada (normalmente la mucosa del Dielafoy es de aspecto normal).</p>"
+  },
+  {
+    "tema": "Tema 18. Hemorragia digestiva",
+    "pregunta": "7. (MIR 2014) Un paciente acude a un servicio de urgencias hospitalarias presentando hematemesis franca. En la valoración inicial el paciente está pálido y sudoroso, tiene una frecuencia cardiaca de 110 latidos por minuto y una presión arterial sistólica de 98 mmHg. ¿Cuál de las siguientes acciones NO realizaría en la atención inicial a este paciente?:",
+    "opciones": [
+      "1. Asegurar una adecuada oxigenación del paciente.",
+      "2. Canalizar dos vías periféricas de grueso calibre.",
+      "3. Utilizar el hematocrito como índice de pérdida hemática.",
+      "4. Reponer la volemia con soluciones de cristaloides.",
+      "5. Colocar una sonda nasogástrica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Estamos ante un paciente que presenta hemorragia digestiva alta grave en forma de hematemesis e inestabilidad hemodinámica. Ante ella debemos iniciar medidas generales independientes de la causa de la hemorragia que son la reposición de la volemia (para ello necesitamos dos vías periféricas de grueso calibre y reponer la volemia con sueroterapia o cristaloides), y asegurar la vía aérea y la oxigenación (pues con la anemia se altera el transporte de oxígeno). Además, debemos iniciar tratamiento con inhibidores de la bomba de protones y, en caso de sospecha de cirrosis, también con somatostatina/terlipresina. El uso de la sonda nasogátrica está en discusión y su colocación está a criterio del médico. Sin embargo, debe limitarse a los pacientes con hemorragia digestiva alta en los que se estime que los hallazgos puedan tener valor diagnóstico o pronóstico. Por último, como concepto ya preguntado en el MIR, el hematocrito en la hemorragia aguda no nos sirve como predictor de gravedad del sangrado.</p>"
   }
 ]
