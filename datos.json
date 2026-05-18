@@ -3945,5 +3945,508 @@
     ],
     "correcta": 2,
     "comentario": "<p>Estamos ante un paciente que presenta hemorragia digestiva alta grave en forma de hematemesis e inestabilidad hemodinámica. Ante ella debemos iniciar medidas generales independientes de la causa de la hemorragia que son la reposición de la volemia (para ello necesitamos dos vías periféricas de grueso calibre y reponer la volemia con sueroterapia o cristaloides), y asegurar la vía aérea y la oxigenación (pues con la anemia se altera el transporte de oxígeno). Además, debemos iniciar tratamiento con inhibidores de la bomba de protones y, en caso de sospecha de cirrosis, también con somatostatina/terlipresina. El uso de la sonda nasogátrica está en discusión y su colocación está a criterio del médico. Sin embargo, debe limitarse a los pacientes con hemorragia digestiva alta en los que se estime que los hallazgos puedan tener valor diagnóstico o pronóstico. Por último, como concepto ya preguntado en el MIR, el hematocrito en la hemorragia aguda no nos sirve como predictor de gravedad del sangrado.</p>"
+  },
+
+{
+    "tema": "Tema 19. Úlcera péptica",
+    "pregunta": "1. (MIR 2022) ¿Qué afirmación es correcta en relación con el omeprazol?:",
+    "opciones": [
+      "1. Es un potente antiácido.",
+      "2. Bloquea reversiblemente la bomba de hidrogeniones en el estómago.",
+      "3. Es un profármaco.",
+      "4. Tras disolverse su cubierta entérica en el estómago se une directamente a la bomba de protones de la célula parietal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Se trata de una pregunta teórica y directa sobre las características del omeprazol. El término 'antiácido' se emplea para aquellos fármacos que son bases y neutralizan directamente el ácido en la luz gástrica, como el almagato (sales de aluminio y magnesio). El omeprazol, en cambio, es lo que llamamos un antisecretor, función que realiza mediante el bloqueo irreversible de la bomba de protones de la célula parietal. Para ello, primero debe interactuar con el medio ácido del estómago y convertirse en un derivado tetracíclico activo, que es el que se une a la bomba de protones, bloqueando su función. Se trata, por tanto, de un profármaco (respuesta 3 correcta).</p>"
+  },
+  {
+    "tema": "Tema 19. Úlcera péptica",
+    "pregunta": "2. (MIR 2021) Paciente de 46 años intervenido hace un año de gastrectomía Bilroth II por úlcera péptica. Presenta un cuadro de dolor epigástrico y hemorragia digestiva alta. En la endoscopia se detectan úlceras tanto en estómago como en intestino delgado. Tras realizar estimulación con secretina IV no se aprecia aumento significativo de gastrina sérica. El cuadro corresponde muy probablemente a:",
+    "opciones": [
+      "1. Gastrinoma.",
+      "2. Síndrome de antro retenido.",
+      "3. Síndrome de asa aferente.",
+      "4. Carcinoma de muñón gástrico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>El antro gástrico retenido es una complicación típica de la gastrectomía tipo Billroth II cuando se hace para tratamiento de la úlcera péptica, y es una causa frecuente de recidiva de la úlcera en estos pacientes. Se caracteriza por la persistencia de mucosa antral en el muñón duodenal. El medio alcalino del asa aferente estimula la secreción de gastrina por las células G antrales. Esto a su vez provoca hipersecreción ácida, la cual es la responsable de la recidiva ulcerosa. Las otras opciones son incorrectas: un gastrinoma tendría un test de secretina positivo. El síndrome de asa aferente da clínica de perfil más mecánico, con distensión y vómitos. En cuanto al carcinoma del remanente gástrico, se trata de una complicación que suele aparecer de manera diferida, pasados 10 o incluso 20 años desde la cirugía.</p>"
+  },
+  {
+    "tema": "Tema 19. Úlcera péptica",
+    "pregunta": "3. (MIR 2017) Un hombre de 57 años de edad con artritis reumatoide sigue tratamiento habitual con corticoides. Está en estudio por presentar un cuadro de dolor en epigastrio, con náuseas ocasionales y disminución de apetito. En la análítica presenta: Hb 15 g/dL, Fe 55 ug/dL, PCR 3 mg/dL, VSG 42 mm a la primera hora. Fibrogastroscopia: hernia de hiato de 3 cm y una úlcera a nivel de antro, excavada, de 1 cm, con bordes elevados y regulares y con confluencia de pliegues, que se biopsia. El estudio histológico muestra signos de inflamación aguda y metaplasia intestinal. TC abdominal normal. ¿Qué actitud, de las que se mencionan a continuación, considera que es la más adecuada para el tratamiento de este paciente?:",
+    "opciones": [
+      "1. Tratamiento erradicador del Helicobacter pylori.",
+      "2. Tratamiento con inhibidores de la bomba de protones y una gastroscopia de control con biopsia a las 8 semanas.",
+      "3. Suspender corticoides.",
+      "4. Tratamiento quirúrgico (Billrroth I)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta impugnable. Nos presentan a un paciente con úlcera gástrica que, dado que no nos dicen nada, es Forrest III y que la primera biopsia muestra benignidad y metaplasia intestinal. Ante un paciente con úlcera gástrica hay que iniciar tratamiento con inhibidores de la bomba de protones durante 8 semanas, y aunque la biopsia sale benignidad hay que revisar la curación de la úlcera. Una biopsia de benignidad puede ser un falso negativo y por ello lo más importante es asegurarse que desaparece en controles endoscópicos con biopsias. Además, habrá que descartar si la úlcera ha sido producida por H. pylori aunque esto no es urgente dado que solo evitará recidivas. Los corticoides sin toma de AINE no está claro que puedan provocar úlcera. Por ello, la opción correcta debería poner IBP 8 semanas y control endoscópico con biopsias de la úlcera y test de ureasa a las 10-12 semanas.</p>"
+  },
+  {
+    "tema": "Tema 19. Úlcera péptica",
+    "pregunta": "4. (MIR 2016) Señale de entre las siguientes la complicación más probable que presenta el paciente intervenido, hace 20 años, de úlcera gástrica mediante antrectomía y gastroyeyunostomía (Billroth II) que acude a su consulta refiriendo dolor abdominal postpradial, distensión abdominal, diarrea y datos analíticos de malabsorción de grasas y de vitamina B12:",
+    "opciones": [
+      "1. Gastropatía por reflujo biliar.",
+      "2. Adenocarcinoma gástrico.",
+      "3. Síndrome de evacuación gástrica rápida (dumping).",
+      "4. Síndrome de asa aferente con sobrecrecimiento bacteriano."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Se trata de un paciente gastrectomizado que tiene dolor abdominal tras la ingesta lo que debe hacernos pensar en un síndrome de asa aferente, sin embargo para que el cuadro fuera típico deberían decirnos que mejora tras el vómito. Por otro lado, nos dan datos que hacen pensar que existe sobrecrecimiento bacteriano como son malabsorción de grasas y déficit de vitamina B12.</p>"
+  },
+  {
+    "tema": "Tema 19. Úlcera péptica",
+    "pregunta": "5. (MIR 2014) Los fármacos inhibidores de la bomba de protones administrados por vía oral:",
+    "opciones": [
+      "1. Neutralizan el ácido clorhídrico de la secreción gástrica.",
+      "2. Tiñen las heces de color negro.",
+      "3. Bloquean el receptor histaminérgico.",
+      "4. Bloquean el receptor de la gastrina.",
+      "5. Requieren cubierta entérica."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta compleja sobre farmacocinética de los inhibidores de la bomba de protones (IBP). Todos los IBP precisan de cubierta entérica porque a pH <4 (el pH del estómago es mucho menor) se ionizan, lo que impide su absorción intestinal y por tanto su acción. Así pues, necesitan dicha cubierta para ser absorbidos de forma correcta.</p>"
+  },
+  {
+    "tema": "Tema 19. Úlcera péptica",
+    "pregunta": "6. (MIR 2014) A un hombre de 45 años de edad se le realiza una vagotomía troncular y antrectomía con recostrucción tipo Billroth II, por padecer una enfermedad ulcerosa péptica crónica con estenosis piloroduodenal. Seis semanas después de la cirugía refiere que poco tiempo después (menos de media hora) de las ingestas presenta estado nauseoso, astenia y sudoración, mareos y retortijones abdominales generalmente acompañados de despeños diarreicos. ¿Cuál de las siguientes es la actitud más adecuada para su manejo inicial?:",
+    "opciones": [
+      "1. Aplicar tratamiento con un análogo de la somatostatina (octeótrido).",
+      "2. Seguir unas medidas dietéticas concretas.",
+      "3. Realizar un tratamiento de prueba con una benzodiacepina.",
+      "4. Realizar la búsqueda de un probable tumor neuroendocrino (p. ej., carcinoide).",
+      "5. Indicar tratamiento quirúrgico para efectuar una gastroyeyunostomía antiperistáltica en Y de Roux."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad media sobre el síndrome de dumping. Se trata de una entidad clásica pero poco frecuente en la actualidad, por lo que a veces es difícil de diagnosticar y tratar. En este caso se trata de un paciente gastrectomizado que presenta poco después de comer clínica de malestar general y diarrea. Este cuadro es típico de un síndrome de dumping precoz. Su tratamiento se basa en las medidas dietéticas con una dieta pobre en hidratos de carbono y fraccionada. Sólo en casos en los que el paciente no mejora se puede plantear la utilización de análogos de somatostatina e incluso la reconversión de la recontrucción Billroth II en una Y de Roux, que mejora de manera significativa este cuadro.</p>"
+  },
+  {
+    "tema": "Tema 20. Helicobacter pylori",
+    "pregunta": "1. (MIR 2014) En la fisiopatología de la úlcera péptica. ¿Cuál es la FALSA?:",
+    "opciones": [
+      "1. Gran parte de las úlceras gastro-duodenales se pueden atribuir a la infección por H. pylori o lesión mucosa por AINE.",
+      "2. H. pylori no se relaciona con el desarrollo de linfoma gástrico.",
+      "3. La transmisión de H. pylori se produce de persona a persona vía oral-oral o fecal-oral.",
+      "4. Un menor nivel educativo y un estatus socioeconómico bajo predisponen a mayores índices de colonización.",
+      "5. La incidencia de adenocarcinoma gástrico es mayor en pacientes portadores del H. pylori."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Una vez más ha caído una pregunta de Helicobacter pylori, igual de rentable y sencilla que otros años. Es una bacteria que se transmite vía oral-oral o fecal-oral (medidas higiénicas deficientes), y por ello la colonización es más frecuente en estatus socioeconómicos bajos (opciones 3 y 4 correctas). Es la primera causa de úlcera péptica duodenal y gástrica (opción 1 correcta), se relaciona con desarrollo de linfoma MALT gástrico (opción 2 falsa) y una mayor incidencia de adenocarcinoma gástrico (opción 5 correcta).</p>"
+  },
+  {
+    "tema": "Tema 22. Gastritis crónica",
+    "pregunta": "1. (MIR 2017) ¿Cuál de los siguientes rasgos morfológicos no esperamos encontrar en la biopsia del cuerpo gástrico de un paciente con deficiencia de vitamina B12?:",
+    "opciones": [
+      "1. Helicobacter pylori.",
+      "2. Metaplasia intestinal.",
+      "3. Hiperplasia de células endocrinas.",
+      "4. Atrofia."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta algo compleja ya que requiere recordar la anatomía patológica de las gastritis crónicas. En una biopsia gástrica de un paciente con déficit de B12 es más probable encontrar una gastritis atrófica autoinmune (anemia perniciosa) que por Helicobacter pylori (opción 4 cierta y opción 1 falsa). Asimismo, la atrofia gástrica se asocia a metaplasia intestinal (opción 2 cierta) y a hiperplasia de las células G productoras de gastrina (opción 3 cierta). En la gastritis crónica asociada a Helicobacter pylori también puede haber atrofia y metaplasia intestinal, pero es muy poco frecuente y normalmente no asocia una hiperplasia tan marcada de células endocrinas como la gastritis autoinmune. La hiperplasia de células G puede conducir secundariamente al desarrollo de tumores carcinoides, por hiperestimulación de las células enterocromafines del estómago.</p>"
+  },
+  {
+    "tema": "Tema 22. Gastritis crónica",
+    "pregunta": "2. (MIR 2016) Señale la respuesta FALSA de entre las siguientes en relación con el concepto de gastritis:",
+    "opciones": [
+      "1. Es un término que debe reservarse para la definir la existencia de inflamación histológica en la mucosa gástrica.",
+      "2. Existe un espectro de manifestaciones clínicas claramente definidas en relación con la existencia de gastritis.",
+      "3. El Helicobacter pylori es una causa frecuente de gastritis.",
+      "4. Existe una escasa correlación entre los datos histológicos, los síntomas del paciente y los datos endoscópicos."
+    ],
+    "correcta": 1,
+    "comentario": "<p>La gastritis es una inflamación de la mucosa gástrica generalmente provocada por Helicobacter pylori y cuyo diagnóstico tan solo se puede hacer mediante histología. Generalmente es asintomática, de hecho, normalmente es un hallazgo endoscópico por lo que no tiene unas manifestaciones clínicas definidas ni existe correlación clínica con histología (opción 2 falsa y opción 4 correcta).</p>"
+  },
+  {
+    "tema": "Tema 22. Gastritis crónica",
+    "pregunta": "3. (MIR 2014) Existen la gastritis tipo A y la tipo B. Señale cuál de las siguientes es una característica de la primera:",
+    "opciones": [
+      "1. Predomina en fundus y cuerpo.",
+      "2. Es más frecuente que la B.",
+      "3. Está causada por H. pylori.",
+      "4. Cursa con aclorhidria.",
+      "5. En el 50% hay antirreceptor anticélulas parietales."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La gastritis autoinmune (tipo A) es la gastritis atrófica superficial que afecta a fundus y cuerpo (respuesta 1 falsa), por anticuerpos anticélula parietal (90%) y/o antifactor intrínseco (respuesta 5 falsa). La presencia de estos anticuerpos provoca una inhibición de las células parietales con la consiguiente aclorhidria y, junto con el hecho de que la mucosa antral (donde se localizan las células G) está indemne, se produce hipergastrinemia que puede desencadenar tumores carcinoides. La gastritis por Helicobacter pylori (tipo B), afecta a antro inicialmente pero puede acabar afectando el cuerpo; es la más frecuente de largo (respuestas 2 y 3 falsas). En algunos tipos de gastritis de tipo B aparece atrofia gástrica y por tanto aclorhidria; por ello, la opción 4 tampoco es correcta.</p>"
+  },
+  {
+    "tema": "Tema 23. Gastroparesia",
+    "pregunta": "1. (MIR 2022) Mujer de 55 años con diabetes tipo 1 diagnosticada a los 15 años que refiere náuseas y distensión abdominal, especialmente después de las comidas. La evaluación es compatible con una gastroparesia diabética. ¿Cuál de los siguientes medicamentos sería el tratamiento más adecuado para mejorar sus síntomas?:",
+    "opciones": [
+      "1. Lansoprazol.",
+      "2. Ondansetrón.",
+      "3. Loperamida.",
+      "4. Metoclopramida."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Por la clínica y antecedentes de la paciente parece que nos encontramos ante un caso típico de gastroparesia secundaria a neuropatía autonómica en paciente diabético. Si bien la ERGE y los síntomas secundarios al ácido pueden estar aumentados en una gastroparesia, no es lo que sufre esta paciente, por lo que el IBP no tiene sentido (opción 1 falsa). Asimismo, la loperamida es un antidiarreico derivado opioide que no tiene papel en el tratamiento de problemas gástricos. El ondansetrón es un antiemético que actúa a nivel de receptores de serotonina 5-HT3, utilizado sobre todo en el tratamiento de la emesis asociada a quimioterapia. Nuestra paciente no llega a presentar vómitos y, además, el ondansetrón no presenta efecto procinético asociado, por lo que no sería el tratamiento más adecuado. La opción correcta es la metoclopramida que, además de ser antiemética, presenta efectos procinéticos y favorecedores del vaciado gástrico.</p>"
+  },
+  {
+    "tema": "Tema 23. Gastroparesia",
+    "pregunta": "2. (MIR 2018) Mujer de 39 años, diagnosticada de diabetes mellitus tipo 1 hace más de 20 años. Desde hace varios meses refiere presentar cuadros de náuseas, con algunos vómitos alimentarios y distensión abdominal. Ha perdido 6 Kg de peso. Gastroscopia: esófago normal, estómago con restos alimentarios y resto de la exploración hasta segunda porción duodenal sin alteraciones. ¿Qué prueba considera que es de mayor utilidad para su diagnóstico?:",
+    "opciones": [
+      "1. Ecografía de abdomen.",
+      "2. Manometría esofágica.",
+      "3. TC de abdomen.",
+      "4. Estudio isotópico de vaciamiento gástrico."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Se trata de una pregunta sobre un tema muy concreto pero preguntado en más de una ocasión en los últimos años, por lo que debes conocerla. La gastroparesia del paciente diabético es una manifestación de polineuropatía diabética por mal control glucémico, en este caso de localización visceral. Se manifiesta en forma de dismotilidad gástrica con dificultad en el vaciamiento del estómago y clínica de tracto digestivo alto más o menos específica (saciedad precoz, distensión abdominal, náuseas y vómitos). El diagnóstico se realiza a través de un estudio de vaciamiento gástrico con radioisótopos.</p>"
+  },
+  {
+    "tema": "Tema 24. Tumores de estómago",
+    "pregunta": "1. (MIR 2022) Pregunta vinculada a la imagen n.º 17. Varón de 74 años sin antecedentes de interés que consulta por presentar desde hace 15 días sensación continua de distensión abdominal e intolerancia oral con vómitos ocasionales de contenido maloliente. En la analítica únicamente destaca glucemia 110 mg/dl, PCR 6,3 mg/L (normal 0-5) y 13.140 leucocitos/microL. Se realiza TC abdominal con contraste intravenoso, que se muestra. Considerando los datos clínicos y la prueba de imagen ¿qué diagnóstico es más probable?:",
+    "opciones": [
+      "1. Obstrucción gástrica por neoplasia antropilórica.",
+      "2. Gastritis enfisematosa.",
+      "3. Gastroparesia diabética.",
+      "4. Úlcera péptica con signos de perforación contenida."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La TC muestra un estómago distendido y lleno de contenido, con un tracto de salida de paredes engrosadas y de aspecto irregular. Esto es causa de la clínica de obstrucción al tracto de salida gástrico, y se corresponde con una neoplasia como primera posibilidad diagnóstica. Lo más probable es que se trate de un adenocarcinoma gástrico ubicado a nivel de antro. El diagnóstico definitivo pasará por la realización de una gastroscopia con toma de biopsias. La otra posibilidad que podría plantearnos dudas en este caso sería una úlcera penetrada a páncreas, pero en este caso la clínica predominante no sería la obstructiva sino la relacionada con la dispepsia ulcerosa (cambios en las características del dolor, etc.).</p>"
+  },
+  {
+    "tema": "Tema 24. Tumores de estómago",
+    "pregunta": "2. (MIR 2021) Pregunta vinculada a la imagen n.º 3. Mujer de 60 años, sin antecedentes patológicos de interés, que acude al hospital por pirosis. Durante el proceso diagnóstico se observa en un TC toracoabdominal una lesión nodular de 3 cm en la pared posterior de la región cardial, por lo que se realiza una resección gástrica atípica. Se muestran dos imágenes, una macroscópica y otra microscópica. Las tinciones inmunohistoquímicas de la lesión son positivas para c-KIT y DOG1, y negativas para citoqueratinas, actina, desmina y S100. ¿Cuál es el diagnóstico anatomopatológico de la lesión gástrica?:",
+    "opciones": [
+      "1. Leiomiosarcoma.",
+      "2. Tumor del estroma gastrointestinal.",
+      "3. Schwannoma.",
+      "4. Adenocarcinoma poco diferenciado."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta fácil acerca de los tumores GIST. Recordad que los tumores GIST son neoplasias derivadas del estroma gastrointestinal cuya localización más frecuente es el estómago. El marcador molecular más característico de los GIST es el CD117 (c-kit), concepto muy preguntado en el MIR. DOG1 es otro marcador inmunohistoquímico con alta sensibilidad y especificidad para la detección de tumores GIST, aunque con mucha menor importancia en la práctica clínica y de cara al MIR. Las proteínas S100 están presentes de forma normal en las células derivadas de la cresta neural (células de Schwann y melanocitos) y es útil como marcador de algunos tumores como melanomas, schawannomas, neurofibromas y sarcomas. Actina y desmina son marcadores no específicos con importancia en la detección de tejidos de estirpe muscular (rabdomiosarcomas, leiomiosarcomas…).</p>"
+  },
+  {
+    "tema": "Tema 24. Tumores de estómago",
+    "pregunta": "3. (MIR 2020) Hombre de 60 años con un cuadro de dolor abdominal y sangrado digestivo alto, en quien se encuentra una tumoración abdominal relacionada con la pared gástrica. La histología muestra un tumor de células fusiformes con escasas mitosis, positivas para CD117. El diagnóstico más probable es:",
+    "opciones": [
+      "1. Neurofibroma de la pared gástrica.",
+      "2. Tumor del estroma gastrointestinal.",
+      "3. Leiomioma.",
+      "4. Sarcoma granulocítico."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta directa. CD117 = GIST. El GIST se localiza principalmente en la pared gástrica y está formado típicamente por células fusiformes.</p>"
+  },
+  {
+    "tema": "Tema 24. Tumores de estómago",
+    "pregunta": "4. (MIR 2019) Se nos remite un hombre de 45 años tras la extirpación endoscópica de al menos 7 pólipos gástricos de entre 1 y 2 mm. El diagnóstico anatomopatológico es de gastritis crónica con marcada atrofia corporal y metaplasia intestinal, y focos de microcarcinoide que afecta a las biopsias de cuerpo gástrico y fundus. Indique la afirmación CORRECTA:",
+    "opciones": [
+      "1. La mayor parte de los casos cursan con hipogastrinemia.",
+      "2. La metaplasia intestinal en el estómago es indicación de gastrectomía por la alta tasa de transformación a adenocarcinoma.",
+      "3. En el caso de indicar cirugía, la gastrectomía distal es la cirugía más indicada.",
+      "4. Está indicado el tratamiento con análogos de la somatostatina."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta difícil sobre una complicación muy específica de la gastritis crónica atrófica. Está redactada de forma que invita a pensar que, si los focos de microcarcinoide están en cuerpo, el antro es precisamente lo que no deberíamos tocar. Vamos a ver por qué son falsas las demás. El mecanismo patológico en este caso es que la atrofia gástrica, de la causa que sea (no nos lo dicen y para este caso no nos importa), conduce a hipoclorhidria grave con hiperplasia reactiva de células G. Esto, a la larga, puede conducir a la aparición de tumores carcinoides. Pero ojo porque estos tumores no son gastrinomas: lo que ocurre es que la gastrina crónicamente elevada estimula a su vez a las células similares a las enterocromafines (enterochromaffin-like o ECL), que son las que terminan malignizando. Por tanto, la 1 es falsa porque lo que tenemos es hipoclorhidria grave y no hiperclorhidria. La 4 es falsa porque en todo caso utilizaríamos antagonistas de la gastrina (existen, aunque no se usan en la práctica habitual). Y la 2 es directamente incorrecta porque los pacientes con atrofia extensa y metaplasia se manejan con seguimiento cada 2-3 años mediante endoscopias de vigilancia, para detectar precozmente la aparición de focos de adenocarcinoma y/o carcinoides. Nos queda la 3, que efectivamente es la correcta. Se trata de una atrofia gástrica avanzada con focos de carcinoide pequeños y múltiples (este patrón, asociado a la gastritis crónica, suele tener un comportamiento poco agresivo). Ante este hallazgo, una estrategia válida sería extirpar el antro, para disminuir todo lo posible la masa de células G (como sabéis, la mayoría de ellas están en antro) y cortar ese feedback que estimula a la proliferación de células ECL. Así se disminuiría el riesgo oncológico sin hacer una gastrectomía completa, y por tanto con menor morbilidad para el paciente.</p>"
+  },
+  {
+    "tema": "Tema 24. Tumores de estómago",
+    "pregunta": "5. (MIR 2015) ¿En cuál de estos pacientes el tratamiento quirúrgico adecuado sería la realización de una gastrectomía atípica en cuña por laparoscopia sin linfadenectomía ampliada?:",
+    "opciones": [
+      "1. Adenocarcinoma gástrico infiltrante y ulcerado a nivel de antro-píloro.",
+      "2. Adenocarcinoma gástrico infiltrante subcardial.",
+      "3. Tumor del estroma gastrointestinal a nivel de cuerpo gástrico-curvatura mayor.",
+      "4. Linfoma MALT.",
+      "5. Esófago de Barrett con metaplasia intestinal y displasia."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad alta. La gastrectomía en cuña sin linfadenectomía es la cirugía que se realiza en los GIST gástricos. Los GIST no son ni localmente agresivos ni metastatizan por vía linfática, por esta razón la cirugía se basa en una resección local, lo menos agresiva posible. En el caso de un adenocarcinoma es necesario hacer una gastrectomía con linfadenectomía y tanto el linfoma MALT como el esófago de Barret no se tratan con cirugía gástrica.</p>"
+  },
+  {
+    "tema": "Tema 24. Tumores de estómago",
+    "pregunta": "6. (MIR 2014) Respecto a los Tumores del Estroma Gastrointestinal (GIST), es cierto que:",
+    "opciones": [
+      "1. Se trata de tumores de origen epitelial, localizados sobre todo a nivel de la mucosa del tubo digestivo.",
+      "2. Es característico de estos tumores la mutación del gen c-kit, que codifica un receptor tirosina-cinasa.",
+      "3. El tratamiento de los tumores localizados menores de 2 cm es fundamentalmente médico, con el empleo de Imatinib.",
+      "4. Son tumores que sólo excepcionalmente sangran.",
+      "5. La localización más frecuente de estos tumores es el intestino delgado."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Por segundo año consecutivo en el MIR se ha preguntado el GIST (Gastrointestinal Stromal Tumor). Es un tumor del estroma, no epitelial. Tiene una mutación característica que es del gen c-kit que codifica para la tirosinacinasa, y es diana de tratamiento con imatinib. Este tratamiento se reserva para tumores de gran tamaño o diseminados. La localización más frecuente del GIST es en el estómago (65%) y en segundo lugar en el intestino delgado.</p>"
+  },
+  {
+    "tema": "Tema 25. Anatomía y fisiología del intestino",
+    "pregunta": "1. (MIR 2022) En relación con la calprotectina, indique la respuesta correcta:",
+    "opciones": [
+      "1. Es una proteína secretada por los neutrófilos que se determina en sangre para valorar la actividad de la enfermedad inflamatoria intestinal.",
+      "2. Sus niveles tienen muy buena correlación con la actividad objetivada por endoscopia, sobre todo en la colitis ulcerosa.",
+      "3. En los pacientes con síndrome de intestino irritable se detecta en niveles anormalmente elevados.",
+      "4. No es de utilidad en el seguimiento de pacientes con enfermedad inflamatoria intestinal."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad baja-moderada. La calprotectina es una proteína de los granulocitos neutrófilos que se determina en heces (respuesta 1 falsa). Al ser una proteína neutrofílica sus niveles se correlacionan muy bien con el grado de inflamación de la mucosa intestinal (opción 2 correcta y opción 4 falsa); debiendo de ser completamente normal, por tanto, en los trastornos funcionales digestivos como el SII (opción 3 falsa). Si nos fijamos detenidamente en las opciones de esta pregunta y de cara a repasar técnica de examen, vemos que las opciones 2 y 4 se contradicen, y por lo tanto o bien no son ambas ciertas o bien no son ambas falsas a la vez. Lo correcto por tanto es que la 2 es la cierta y la 4 es la falsa.</p>"
+  },
+  {
+    "tema": "Tema 25. Anatomía y fisiología del intestino",
+    "pregunta": "2. (MIR 2019) Pregunta vinculada a la imagen n.º 4. ¿Cuáles de las siguientes microfotografías teñidas con hematoxilina-eosina corresponden a mucosa de intestino delgado?:",
+    "opciones": [
+      "1. Las imágenes marcadas como 'A'.",
+      "2. Las imágenes marcadas como 'B'.",
+      "3. Las imágenes marcadas como 'C'.",
+      "4. Las imágenes marcadas como 'D'."
+    ],
+    "correcta": 1,
+    "comentario": "<p>El único epitelio que tiene vellosidades es el de la imagen 'B'. Las vellosidades son esas proyecciones digitiformes hacia la luz intestinal que, en casos de celiaquía u otras enfermedades inflamatorias, se hacen atróficas y disminuyen su altura o desaparecen. La imagen 'A' corresponde a estómago, la 'C' a esófago y la 'D' a intestino grueso.</p>"
+  },
+  {
+    "tema": "Tema 25. Anatomía y fisiología del intestino",
+    "pregunta": "3. (MIR 2018) Hombre de 35 años de edad sin antecedentes patológicos de interés que acude a urgencias por presentar un cuadro de inestabilidad tras un episodio de deposiciones negras como el alquitrán. En la sala de urgencias se objetiva hipotensión arterial que se recupera con fluidoterapia convencional. Hemoglobina al ingreso 8 g/dL, hematocrito 25%. En los siguientes días continúa con episodios melénicos y descenso del hematocrito que necesitan la trasfusión de 3 concentrados de hematíes. Se practicó colonoscopia y endoscopia digestiva alta, no encontrando causa alguna de su cuadro hemorrágico. Tras una semana de ingreso hospitalario y la trasfusión de 4 unidades de concentrados de hematies continúa con melenas. El siguiente paso a seguir es:",
+    "opciones": [
+      "1. Intervención quirúrgica inmediata.",
+      "2. Cápsula endoscópica.",
+      "3. Enteroscopia quirúrgica.",
+      "4. Continuar con tratamiento conservador y solicitar arteriografía."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta muy fácil. Ante una hemorragia digestiva de origen incierto (endoscopia alta y baja sin alteraciones) debemos estudiar el intestino delgado con cápsula endoscópica si el paciente está estable, como es el caso del nuestro tras el ingreso y medidas de resucitación (respuesta 2 correcta). En caso de inestabilidad hemodinámica habría que indicar intervención quirúrgica (opción 1 y 3 falsas) o arteriografía urgentes (opción 4 falsa), en función de la situación basal del paciente y la disponibilidad del centro.</p>"
+  },
+  {
+    "tema": "Tema 25. Anatomía y fisiología del intestino",
+    "pregunta": "4. (MIR 2014) Mujer de 65 años de edad con antecedentes de dolores articulares en tratamiento con antiinflamatorios, que es remitida a estudio por presentar anemia. En los estudios complementarios presenta hematíes 3.164.000, Hto. 32%, Hb 11 g/dl, VCM 69 fl, Leucocitos 7800, Plaquetas 370.000, PCR 0,29 mg/dl, Fe 20 ng/ml, Ferritina 18 ng/ml, Glucosa 105 mg/dl, GOT, GPT, GGT, F. Alcalina, Bilirrubina total, Colesterol, Creatinina, Calcio y Fósforo normales. Ac. Antitransglutaminasa y Ac antigliadina negativos. Gastroscopia: hernia de hiato de 3 cm, resto sin alteraciones. Colonoscopia: hasta ciego, aislados divertículos en sigma. Tránsito intestinal sin alteraciones. Ecografía de abdomen sin alteraciones. ¿Cuál de las exploraciones que se enumeran a continuación le parece más adecuada para completar el estudio?:",
+    "opciones": [
+      "1. Biopsia de yeyuno.",
+      "2. Arteriografía.",
+      "3. Cápsula endoscópica",
+      "4. Radioisótopos.",
+      "5. RM pélvica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta repetida, en relación con lo que se denomina hemorragia digestiva de origen oculto u oscuro. Se define como aquella hemorragia digestiva manifiesta (exteriorización hemática macroscópica) o no (pérdidas microscópicas que provocan anemia ferropénica) cuyo estudio con endoscopia digestiva alta y colonoscopia resultan normales. En este caso, la causa de la hemorragia puede estar en el intestino delgado y por ello necesitamos una prueba como la cápsula endoscópica que objetive la lesión causante. Esta técnica es sólo diagnóstica (realiza fotografías a lo largo del intestino delgado) y no terapéutica. De esta manera, en caso de encontrar una lesión tributaria de tratamiento será necesario después realizar la enteroscopia con balón (técnica compleja, costosa y con cierta morbilidad). Realmente lo más adecuado en el manejo de esta paciente sería intentar retirar los AINES que toma de forma crónica por sus dolores articulares y ver cómo evoluciona la anemia (ya que probablemente éstos tengan la culpa, al poder producir erosiones en todo el tracto gastrointestinal, no solamente en la región gastroduodenal). Al no ofrecernos esta opción, de las que tenemos, la mejor es la cápsula.</p>"
+  },
+  {
+    "tema": "Tema 26. Malabsorción",
+    "pregunta": "1. (MIR 2021) Varón de 83 años que consulta por un cuadro recurrente de dolor abdominal en fosa iliaca izquierda, acompañado de diarrea de hasta 6 deposiciones al día sin productos patológicos, de 10-15 días de evolución. No refiere fiebre ni afectación del estado general. En una analítica reciente no se observa leucocitosis y presenta una sangre oculta en heces negativa. En la exploración se observa leve dolor a la palpación de fosa iliaca izquierda sin irritación peritoneal. Tiene realizada una colonoscopia hace tres años en la que se informa de divertículos a lo largo de todo el colon, más numerosos en colon izquierdo, sin otras lesiones asociadas. De las siguientes, ¿cuál sería la mejor actitud a seguir?:",
+    "opciones": [
+      "1. Realizar un tratamiento empírico con antibióticos.",
+      "2. Solicitar una colonoscopia preferente.",
+      "3. Solicitar una ecografía abdominal urgente.",
+      "4. Derivar a cirugía para valorar sigmoidectomía."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta fácil si aplicamos razonamiento clínico y mírico. Se trata de un paciente anciano de 83 años con un cuadro de diarrea subagudo (10-15 días, hasta 15 días se considera el límite entre agudo y crónico para la diarrea) sin datos de alarma (colonoscopia normal reciente, SOH negativa, sin datos inflamatorios en las heces ni en la analítica de sangre). De las opciones que nos plantean, la más sencilla y pertinente es valorar un ciclo antibiótico para tratar un posible sobrecrecimiento bacteriano (que podría estar en relación a la diverticulosis detectada en la colonoscopia previa) o para tratar algún patógeno que pueda asociarse a diarreas subagudas (sobre todo parasitarias como una giardiasis, para lo cual deberemos tratarla con nitroimidazoles como el metronidazol o el tinidazol). No tiene sentido repetir la colonoscopia de forma preferente ni solicitar una ecografía URGENTE (se podría pedir una ecografía, pero no es indicación de urgente un cuadro clínico así). Menos sentido tiene aún plantearse ninguna actitud quirúrgica.</p>"
+  },
+  {
+    "tema": "Tema 26. Malabsorción",
+    "pregunta": "2. (MIR 2017) Ante la sospecha clínica de sobrecrecimiento bacteriano intestinal, todas las siguientes afirmaciones son ciertas EXCEPTO:",
+    "opciones": [
+      "1. La biopsia es la prueba diagnóstica.",
+      "2. Presencia de anemia.",
+      "3. Antecedentes de cirugía gastrointestinal.",
+      "4. Presencia de diarrea."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta muy fácil. Existen varios tets diagnósticos para determinar la presencia de sobrecrecimiento bacteriano (SCB). Debido a la gran variabilidad de resultados y la presencia de muchos falsos positivos y negativos (test de glucosa, test de lactulosa, de D-Xilosa...), en la práctica clínica se puede establecer el diagnóstico de SBC cuando el paciente presenta al menos 1 factor de riesgo para poder presentar SCB + una clínica y/o analítica compatibles + buena respuesta al tratamiento pautado (antibióticos). Por tanto, no es necesario biopsiar el intestino (respuesta falsa 1). El resto de afirmaciones son compatibles con SBC, siendo la estasis enteral por cirugías abdominales previas una de las principales causas de SBC (respuesta 3 correcta). La diarrea en forma de esteatorrea por malabsorción de grasas y la anemia megaloblástica por malabsorción de vitamina B12 y folatos pueden estar presentes (respuestas 2 y 4 correctas).</p>"
+  },
+  {
+    "tema": "Tema 26. Malabsorción",
+    "pregunta": "3. (MIR 2016) ¿Cuál de las siguientes enfermedades NO se asocia a sobrecrecimiento bacteriano intestinal?:",
+    "opciones": [
+      "1. Enfermedad celíaca.",
+      "2. Esclerosis sistémica.",
+      "3. Divertículos yeyunales.",
+      "4. Enteritis por radiación."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Cualquier causa que altere la anatomía o la motilidad de la luz intestinal (al igual que en pacientes con inmunodeficiencias) va a favorecer el desarrollo de más microorganismos bacterianos, responsables de la alteración de la absorción intestinal y por ello son claras causas de sobrecrecimiento las opciones 2, 3, 4. La esclerosis sistémica y la enteritis por radiación (respuestas 2 y 4 respectivamente) son anomalías que pueden afectan la motilidad del tubo digestivo, y los divertículos duodenales (respuesta 3) son alteraciones anatómicas. La enfermedad celíaca es controvertido de si provoca sobrecrecimiento bacteriano y por ello podría ser una pregunta impugnable. No obstante, es la que dieron como correcta ya que es una enfermedad autoinmune que afecta a la mucosa del intestino produciendo alteraciones en la absorción y que en principio por dicha fisiopatología sería deducible que no debería presentar sobrecrecimiento pero en la literatura no está tan claro. No debemos olvidar que una causa principal de sobrecrecimiento es la hipoclorhidria (un ejemplo típico son los pacientes con toma prolongada de inhibidores de la bomba de protones) ya que la ausencia de ácido clorhídrico gástrico favorece que crezcan más microorganismos en la luz intestinal.</p>"
+  },
+  {
+    "tema": "Tema 27. Diarrea",
+    "pregunta": "1. (MIR 2021) Mujer de 79 años hipertensa en tratamiento con olmesartán que acude a consulta por diarrea acuosa de 4 a 6 deposiciones al día desde hace dos meses. Hace tres meses recibió tratamiento con antiinflamatorios no esteroideos durante 3 semanas por lumbociática. Se realizó gastroscopia y colonoscopia, ambas sin alteraciones macroscópicas. Las biopsias duodenales fueron normales, mientras que en las biopsias de colon se observa un infiltrado inflamatorio crónico de la lámina propia con una banda irregular de colágeno inmediatamente por debajo del epitelio de superficie de la mucosa con un grosor mayor a 10 mm y un número de linfocitos intraepiteliales >20 por cada 100 células epiteliales. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Colitis microscópica.",
+      "2. Enteropatía por AINEs.",
+      "3. Enteropatía asociada a olmesartán.",
+      "4. Síndrome de intestino irritable."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta muy sencilla de una patología que ha caído varias veces en el MIR y que es relativamente frecuente en la práctica clínica habitual. Mujer de más de 50 años, con diarrea crónica acuosa voluminosa (4-6 deposiciones al día, pero algunos pacientes llegan a referir más de 10-15) y sin hallazgos significativos en la gastro-colonoscopia salvo por lo que se refiere en las biopsias del colon. Se trata de una colitis colágena (banda de colágeno subepitelial mayor de 10 micras). El tratamiento de elección es la budesonida, con una mejoría habitualmente espectacular. Es interesante comentar una de las opciones distractoras que nos dan: la enteropatía por olmesartán. Está descrito, en personas que toman crónicamente este ARA II (el porcentaje que lo desarrolla es MUY bajo) una enteropatía celiaca-like con malabsorción grave y diarrea crónica. Es un efecto secundario característico sólo de este ARA II y la mejoría tras retirar el fármaco es rápida en poco tiempo. En el caso de que la patología de nuestro paciente hubiera sido esta, las biopsias duodenales no habrían sido normales (habríamos observado un sprúe con atrofia vellositaria, como si fuera una celiaca).</p>"
+  },
+  {
+    "tema": "Tema 27. Diarrea",
+    "pregunta": "2. (MIR 2019) Señala la afirmación INCORRECTA en referencia a un síndrome diarreico:",
+    "opciones": [
+      "1. La presencia de sangre en heces y fiebre permiten establecer el diagnóstico de gastroenteritis bacteriana.",
+      "2. La diarrea osmótica suele autolimitarse después de un ayuno de 48 horas.",
+      "3. La diarrea secretora se caracteriza por heces voluminosas y acuosas, con gradiente de la osmolaridad entre las heces y el plasma pequeño.",
+      "4. La diarrea motora por hiperperistaltismo suele interpretarse como una respuesta fisiológica del intestino frente a diversas agresiones (contenido extraño, comida en malas condiciones...)."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta fácil que aglutina muchos datos característicos de los distintos tipos de diarrea. La diarrea osmótica se produce por la presencia de contenido intestinal de alta osmolaridad, procedente de la dieta, que arrastra agua hacia la luz; por eso, cede con el ayuno. La diarrea secretora es consecuencia de un aumento en la secreción intestinal, muchas veces en el contexto de toxinas bacterianas. En ellas, las heces son voluminosas, acuosas y de osmolaridad baja, dado que se está secretando agua activamente hacia la luz. En la diarrea motora tenemos un aumento de la frecuencia defecatoria, sin un cambio en la composición de las heces; puede ser en respuesta a una agresión mucosa o simplemente como consecuencia de un aumento del tono vegetativo en relación con situaciones de estrés. La 1 es falsa, porque la presencia de estos datos permite encuadrar los síntomas dentro del síndrome de diarrea inflamatoria, pero no es diagnóstico de gastroenteritis bacteriana (podría ser también una disentería amebiana, por ejemplo).</p>"
+  },
+  {
+    "tema": "Tema 27. Diarrea",
+    "pregunta": "3. (MIR 2016) Mujer de 59 años que presenta diarrea crónica acuosa de 4 meses de evolución. En la endoscopia, la mucosa no mostraba aspectos relevantes. En concreto, no se observaron úlceras o áreas friables. Se realizó biopsia del colon transverso. En el estudio histopatológico se reconoció un área engrosada por debajo del epitelio de revestimiento superficial, que era más evidente mediante técnica de tricrómico de Masson y que conllevaba atrofia y denudación epitelial. También se apreció un claro incremento en la densidad de linfocitos intraepiteliales. ¿El diagnóstico de la lesión intestinal es?:",
+    "opciones": [
+      "1. Colitis ulcerosa cronificada.",
+      "2. Colitis pseudomembranosa.",
+      "3. Colitis colágena.",
+      "4. Enfermedad de Crohn fibrosante."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Se trata de un caso prototípico de colitis colágena (una de las formas de colitis microscópica junto a la linfocítica). Es una mujer de unos 60 años (la patología es más frecuente en el sexo femenino y a esa edad tiene el pico de incidencia) y, sobre todo, nos hablan de una diarrea crónica acuosa + endoscopia rigurosamente normal (éste dato sólo nos descartaría las opciones 1, 2 y 4 que en las colonoscopia tendrían sus hallazgos típicos de inflamación, pseudomembranas y úlceras) + alteraciones histológicas compatibles (sobre todo, en este caso, la gruesa banda de colágeno subepitelial, que se tiñe específicamente con el tricrómico de Masson). El tratamiento de elección es la budesonida oral con una buena respuesta en un gran porcentaje de pacientes.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "1. (MIR 2024) Mujer de 24 años que consulta por un cuadro de dolor abdominal, astenia, diarrea de larga evolución con rectorragia ocasional y pérdida de 10 Kg de peso en 3 meses. En la exploración destacan signos de desnutrición, dolor abdominal difuso con mayor focalidad en fosa ilíaca derecha. En la analítica destacan una hemoglobina baja y una elevación de la PCR. En la colonoscopia se encuentran úlceras aftosas, inflamación segmentaria y un área de estenosis infranqueable, todo ello en ciego. La enterorresonancia confirma este hallazgo y la existencia de inflamación en íleon distal. El cuadro es refractario al tratamiento farmacológico, por lo que se considera la cirugía. De las siguientes, señale la técnica quirúrgica más adecuada:",
+    "opciones": [
+      "1. Hemicolectomía derecha ampliada.",
+      "2. Panproctocolectomía con reservorio en J.",
+      "3. Ileocequectomía.",
+      "4. Colostomía terminal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>En esta pregunta observamos un cuadro clínico prototípico de una enfermedad de Crohn (EC) complicada. La paciente, joven como suele suceder, tiene todas las características clínico-analítico-endoscópicas propias de la EC. Asimismo, nos plantean una complicación importante, como es una estenosis infranqueable por endoscopia en la región ileocecal. Tras intentar tratamiento farmacológico, nos dicen que es refractaria por lo que es necesario recurrir a cirugía. La cirugía en el Crohn debe ser siempre lo más limitada posible, y siempre como último recurso terapéutico. En este caso nos dan a elegir diversas técnicas quirúrgicas y la respuesta correcta es aquella más limitada, menos extensa: opción 3 correcta.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "2. (MIR 2023) Pregunta asociada a la imagen 14. Ante estas imágenes del colon, con la mucosa desflecada y formaciones polipoides en la macroscopia y el estudio histopatológico que se muestra, el diagnóstico más probable es:",
+    "opciones": [
+      "1. Enfermedad crónica inflamatoria intestinal tipo colitis ulcerosa.",
+      "2. Colitis infecciosa parasitaria.",
+      "3. Poliposis intestinal.",
+      "4. Linfoma intestinal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta difícil por ser de Anatomía Patológica que, sin embargo, por referencias se puede sacar sin mirar la imagen. La imagen macroscópica corresponde a una colitis grave, por lo demás inespecífica, sobre todo si no hemos visto nunca antes una pieza de colectomía de este tipo. La clave está en la referencia a los pseudopólipos, que son lesiones no adenomatosas que aparecen en la enfermedad inflamatoria intestinal tras un brote grave, y son principalmente tejido de granulación. Su patogénesis no está muy clara, pero sí sabemos que no tienen potencial neoplásico y que son más frecuentes en colitis ulcerosa que en enfermedad de Crohn. En cambio, la poliposis adenomatosa no asocia datos inflamatorios, mientras que los linfomas y las parasitosis no cursan con pseudopólipos.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "3. (MIR 2020) En el tratamiento de la enfermedad inflamatoria intestinal pueden utilizarse anticuerpos monoclonales humanizados dirigidos frente al TNF-alfa (como el adalimumab) o frente a la integrina a4β7 (como el vedolizumab). En relación con la integrina a4β7 (también llamada LPAM-1) es cierto que:",
+    "opciones": [
+      "1. Se une a ICAM-1 y es responsable del paso de linfocitos desde la sangre periférica a los ganglios linfáticos.",
+      "2. Es un receptor para TNF-a en los linfocitos T CD4+ del sistema linfoide asociado a mucosas.",
+      "3. Se expresa en las células del epitelio gastrointestinal en pacientes con enfermedad inflamatoria intestinal.",
+      "4. Se une a la adresina MadCAM-1 y favorece el paso de linfocitos desde la sangre periférica a la placa de Peyer y la lámina propia intestinal."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de dificultad intermedia sobre el tratamiento biológico en la enfermedad inflamatoria intestinal. En la actualidad se encuentran aprobados fármacos anti-TNFα (infliximab, adalimumab y golimumab, este último sólo en colitis ulcerosa) así como anti-integrina α4β7 (vedolizumab). Las integrinas son moléculas leucocitarias que, al interaccionar con las adhesinas endoteliales, permiten el paso de los leucocitos desde la sangre al tejido inflamado. Debido a que la adhesina ligando del α4β7 (llamada MadCAM-1) se expresa preferentemente en el tracto gastrointestinal (y otros tractos de origen endodérmico como el respiratorio), la inmunosupresión producida por vedolizumab se supone que es más selectiva del tracto gastrointestinal. Para finalizar, también tenemos como biológicos el ustekinumab (anti-IL12-23, sólo en enfermedad de Crohn) y el tofacitinib (que realmente no es un biológico sino una molécula pequeña inhibidora de janus kinasa, sólo para colitis ulcerosa).</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "4. (MIR 2020) Paciente joven con enfermedad inflamatoria intestinal que es diagnosticado de espondilitis anquilosante. ¿Cuál de las siguientes afirmaciones es FALSA?:",
+    "opciones": [
+      "1. La espondilitis anquilosante es más frecuente en pacientes con enfermedad de Crohn.",
+      "2. La actividad de la espondilitis anquilosante guarda relación con la actividad inflamatoria de la enfermedad inflamatoria intestinal.",
+      "3. La actividad de la espondilitis anquilosante no remite con glucocorticoides.",
+      "4. La evolución de la espondilitis anquilosante evolución es lenta y progresiva."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Recuerda que, respecto a las manifestaciones extraintestinales de la enfermedad inflamatoria intestinal, es importante recordar: a) a cuál de las dos entidades se asocia, y b) si su curso clínico es dependiente o independiente de la actividad de la enfermedad a nivel del intestino. Las manifestaciones articulares relacionadas con el HLA-B27, entre ellas la espondilitis anquilosante, se caracterizan por su curso clínico independiente.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "5. (MIR 2018) En la colitis ulcerosa, ¿qué factor NO incrementa el riesgo de neoplasia colorrectal?:",
+    "opciones": [
+      "1. El tiempo de evolución.",
+      "2. La afectación extensa de la enfermedad.",
+      "3. La coexistencia de cirrosis biliar primaria.",
+      "4. Los antecedentes familiares de cáncer colorrectal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El riesgo de cáncer colorrectal en enfermedad inflamatoria intestinal se relaciona con el tiempo de evolución, el grado de actividad y otros factores de riesgo comunes a la población general como el tabaco y los antecedentes familiares. En cambio, la coexistencia con una colangitis biliar primaria no aumenta el riesgo; sí lo hace el diagnóstico concomitante de una colangitis esclerosante primaria.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "6. (MIR 2017) Un paciente de 55 años, con historia de 15 años de colitis ulcerosa, presenta en una colonoscopia de control un cáncer de recto a ocho cm del margen anal y actividad moderada de su colitis sobre todo en el lado izquierdo del colon. Se estadifica como T2N0M0 tras realizar pruebas de imagen. ¿Cuál es la intervención correcta para su tratamiento?:",
+    "opciones": [
+      "1. Panproctocolectomía con reservorio ileoanal e ileostomía de protección.",
+      "2. Resección anterior baja de recto con ileostomía lateral de protección.",
+      "3. Amputación abdominoperineal de recto.",
+      "4. Radioterapia externa, y si hay buena respuesta, hacer una cirugía local y mantener tratamiento médico de su enfermedad inflamatoria intestinal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla ya que pregunta un concepto repetido. Se trata de un paciente de riesgo para CCR (mayor de 50 años y con una Colitis Ulcerosa de larga evolución). Al ser un paciente con CU la cirugía del cáncer de recto localizado (T2) que tiene el paciente debe incluir todo el colon y el recto (opción 1 correcta). No está indicada una amputación de Miles (opción 3 falsa) ya que el tumor se localiza a 8 cm y puede ser resecado preservando el ano. Asimismo tampoco tiene indicación de RT por el estadío en el que se encuentra el tumor (Estadío I -T2).</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "7. (MIR 2016) Pregunta vinculada a la imagen n.º 11. Mujer de 29 años que presenta dolor abdominal mesogástrico, continuo, de cinco días de evolución. Se realiza un estudio de imagen mediante tomografía computarizada, ¿cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Invaginación ileo-cólica.",
+      "2. Ileítis isquémica.",
+      "3. Enfermedad de Crohn.",
+      "4. Colitis rádica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta algo compleja ya que se basa en los hallazgos de una prueba de imagen que no estamos acostumbrados a interpretar (TC abdominal con contraste oral). Se trata de una paciente joven sin factores de riesgo cardiovascular en principio, por lo que las opciones 2 y 4 son muy poco probables y las opciones 1 y 3 son más probables (especialmente la 3). La opción 1 no es la respuesta ya que nos aportarían la típica imagen en 'donut', además de tratarse de una patología más bien de la infancia (salvo casos excepcionales de invaginación por tumores de intestino delgado). La opción correcta es la 3 y en la imagen del TC (con contraste intestinal y corte en fosa iliaca derecha) se aprecia un segmento largo de íleon con paredes engrosadas, con relleno filiforme de su luz. Se trata, por tanto, de una paciente con un brote suboclusivo (cinco días de clínica) por enfermedad de Crohn con patrón estenosante.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "8. (MIR 2016) Un hombre de 60 años de edad con colitis ulcerosa extensa de 15 años de evolución y en remisión clínica los últimos 3 años, acude a nuestra consulta para informarse sobre el riesgo de cáncer colorrectal y sobre la posibilidad de participar en programas de prevención. Es correcto informarle que:",
+    "opciones": [
+      "1. La colitis ulcerosa solo se asocia a un incremento en el riesgo de cáncer colorrectal en fumadores.",
+      "2. En su caso, dado que está en remisión de larga duración, se considera adecuado el cribado aconsejado a la población general.",
+      "3. En casos como el suyo se considera adecuado someterse a colonoscopias periódicas con toma de múltiples biopsias escalonadas a lo largo de todo el colon.",
+      "4. En casos como el suyo se considera adecuado el cribado mediante estudios periódicos de sangre oculta en heces pero con una frecuencia superior a la utilizada en el cribado de la población general."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El cribado de cáncer colorrectal (CCR) está indicado a partir de los 8 años del debut en un paciente con colitis izquierda o extensa (este paciente debutó hace 15 años). El riesgo de CCR viene determinado por los factores de riesgo siguientes (opción 1 falsa): colitis extensa, pseudopólipos, actividad endoscópica o histológica y antecedentes familiares de CCR. La remisión clínica no exime del cribado aunque sí que es un factor de buen pronóstico. La técnica de cribado de elección es la colonoscopia con cromoendoscopia y biopsias dirigidas aunque esta opción no constaba en el MIR y solo constaba lo que se hacía anteriormente que es la colonoscopia con biopsias escalonadas al azar (opción 3 es la más correcta pero no perfecta). La opción 4 es incorrecta pues el cribado con test de sangre oculta en heces solo está indicado en población general asintomática sin antecedentes familiares de cáncer ni enfermedad inflamatoria.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "9. (MIR 2015) A un paciente con colitis ulcerosa con afectación hasta el colon transverso se le realiza una colonoscopia de cribado de cáncer colorrectal. La colonoscopia no muestra signos de actividad inflamatoria. Se realizaron múltiples biopsias cada 10 cm. Las biopsias fueron revisadas por 2 patólogos expertos demostrando un foco de displasia de alto grado en una de las biopsias realizadas en el colon sigmoide. ¿Qué indicaría a continuación?:",
+    "opciones": [
+      "1. Repetir la colonoscopia para confirmar el diagnóstico.",
+      "2. Vigilancia intensiva con colonoscopia cada 3 a 6 meses.",
+      "3. Repetir la exploración y realizar una cromoendoscopia para identificar la lesión y realizar una mucosectomía endoscópica.",
+      "4. Proctocolectomía total.",
+      "5. Tratamiento con mesalazina a dosis de 2-3 gramos al día y repetir la exploración a los 3 a 6 meses."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Tal y como pone el caso, la vigilancia colonoscópica de cáncer colorrectal en enfermedad inflamatoria intestinal se realiza mejor cuando la enfermedad está en remisión, porque si no es difícil discriminar entre displasia e inflamación en las biopsias. En caso que el paciente no estuviera en remisión sí que se podría valorar repetir la colonoscopia, pero como remarca que está en remisión, las opciones 1, 2 y 3 son incorrectas. La presencia de displasia debe ser confirmada por un segundo patólogo, y en caso de displasia de alto grado se recomienda panproctocolectomía programada (no hemicolectomía del segmento de displasia) debido al riesgo de un cáncer colorrectal concomitante o futuro.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "10. (MIR 2014) Mujer de 37 años afecta de una colitis ulcerosa extensa, presenta un brote grave por el que se inicia tratamiento con prednisona en dosis de 1 mg/kg. Tras una semana de tratamiento, la paciente no presenta mejoría. ¿Cuál es la siguiente medida terapéutica a realizar?:",
+    "opciones": [
+      "1. Colectomía subtotal de urgencia y en un segundo tiempo proctectomía y reservorio ileoanal.",
+      "2. Asociar un inmunosupresor como azatioprina.",
+      "3. Asociar mesalazina en dosis de 4 gramos al día oral y triamcinolona rectal 1 aplicación cada 12 horas.",
+      "4. Ciclosporina endovenosa 2 mg/kg.",
+      "5. Debe valorarse el tratamiento con etanercept (un anticuerpo antiTNFa)."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Estamos ante una paciente con un brote corticorrefractario (pues no ha respondido a prednisona a dosis de 1 mg/kg), y por ello debemos plantearnos añadir otro tratamiento, que puede ser ciclosporina i.v. o un biológico (infliximab, adalimumab, golimumab o vedolizumab). No está indicado etanercept en la enfermedad inflamatoria, por lo que la respuesta correcta es la que sugiere ciclosporina.</p>"
+  },
+  {
+    "tema": "Tema 28. Enfermedad inflamatoria intestinal (EII)",
+    "pregunta": "11. (MIR 2014) Ante un paciente con enfermedad de Crohn que va a comenzar tratamiento con terapia biológica antiTNF (anticuerpos anti-factor de necrosis tumoral alfa), ¿cuál de las siguientes pruebas diagnósticas no es necesaria antes de iniciar dicha terapia?:",
+    "opciones": [
+      "1. Valoración del estadio inmunitario mediante contaje linfocitario.",
+      "2. Serología del virus de hepatitis B (VHB).",
+      "3. Prueba de la tuberculina.",
+      "4. Radiografía de tórax.",
+      "5. Serología del virus de la inmunodeficiencia humana (VIH)."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta difícil. Antes de iniciar tratamiento con inmunosupresores o fármacos biológicos se debe solicitar analítica con hemograma, serologías de VHC, VHB, VIH, parotiditis, sarampión, rubéola y varicela. Antes de iniciar tratamiento con fármacos biólogicos hay que realizar siempre, además, un screening de tuberculosis con radiografía de tórax y Mantoux (PPD). El estudio estándar de la infección tuberculosa latente en otros grupos de pacientes se realiza con PPD (únicamente se hace radiografía de tórax si es positivo), pero en pacientes en tratamiento con anti-TNF el riesgo de reactivación es alto y el PPD puede ser negativo en un cavernoma, de ahí que se haga de entrada radiografía de tórax también. Por último, recordar que el número de linfocitos no nos indica el estado inmunitario del paciente.</p>"
+  },
+  {
+    "tema": "Tema 29. Síndrome de intestino irritable",
+    "pregunta": "1. (MIR 2021) El diagnóstico del síndrome de intestino irritable es principalmente clínico y se basa en síntomas compatibles y la ausencia de signos o síntomas de alarma. ¿Cuál de los siguientes NO se considera un signo o síntoma de alarma?:",
+    "opciones": [
+      "1. Edad de aparición de los síntomas por encima de los 50 años.",
+      "2. Pérdida de peso.",
+      "3. Sangre oculta en heces positiva.",
+      "4. Urgencia defecatoria."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta muy fácil y directa. Debemos conocer muy bien cuáles son los síntomas de alarma en pacientes con síntomas digestivos. La urgencia defecatoria es un síntoma funcional.</p>"
+  },
+  {
+    "tema": "Tema 29. Síndrome de intestino irritable",
+    "pregunta": "2. (MIR 2018) En el síndrome de colon irritable, es cierto que:",
+    "opciones": [
+      "1. Los estudios rutinarios de laboratorio (análisis) muestran anomalías específicas de este síndrome.",
+      "2. Dentro de los síntomas que nos hacen pensar en un colon irritable se encuentran: dolor abdominal nocturno, dolor progresivo y pérdida de peso.",
+      "3. Cursa con diarrea o estreñimiento; si se manifiestan ambos, queda descartada esta entidad.",
+      "4. En pacientes con colon irritable con predominio de diarrea, el estudio diagnóstico debe incluir: cultivo de heces, cribado de enfermedad celiaca, colonoscopia con biopsias."
+    ],
+    "correcta": 3,
+    "comentario": "<p>El síndrome de intestino irritable es un trastorno funcional de la motilidad intestinal que consiste en la aparición de dolor abdominal asociado a los cambios del ritmo intestinal. Se trata de un diagnóstico de exclusión: por tanto, cualquier dato de organicidad (alteraciones de laboratorio, dolor o diarrea nocturnas, pérdida de peso) nos tienen que hacer pensar en un diagnóstico alternativo. No necesariamente cursa en forma de diarrea: existen formas clínicas con predominio de diarrea, de estreñimiento o mixtas. Cabe mencionar que la respuesta dada por correcta es altamente matizable, puesto que en pacientes menores de 50 años, con diarreas poco llamativas, sin datos de alarma (como podrían ser los antecedentes familiares de cáncer de colon o de enfermedad inflamatoria intestinal), no sería preciso hacer colonoscopia para establecer el diagnóstico si los estudios analíticos y los cultivos fueran negativos y el paciente cumpliera los criterios diagnósticos.</p>"
   }
 ]
