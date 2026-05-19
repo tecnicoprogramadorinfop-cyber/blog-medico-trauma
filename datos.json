@@ -5695,5 +5695,236 @@
     ],
     "correcta": 3,
     "comentario": "<p>Pregunta sencilla sobre un tema muy preguntado en el MIR, la hernia de la región inguinal. En este caso hay que conocer la anatomía y la clasificación anatómica de estas hernias. La hernia inguinal (directa o indirecta) sale por encima del ligamento inguinal. La hernia de Spiegel sale en el flanco, entre el músculo recto y los oblicuos. La hernia obturatriz se produce en la pelvis por el orificio obturatriz. Por último, la hernia crural (o femoral) es la que sale por debajo del ligamento inguinal y por lo tanto la opción 4 es la correcta.</p>"
+  },
+
+{
+    "tema": "Tema 50. Patología anal y perianal",
+    "pregunta": "(MIR 2024) 18. Pregunta asociada a la imagen 18. Mujer de 45 años con proctalgia en relación con la deposición de 12 semanas de evolución. En la exploración en posición genupectoral se observa la siguiente imagen. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Fisura anal anterior crónica.",
+      "2. Fisura anal aguda.",
+      "3. Fístula ano-vaginal.",
+      "4. Úlcera anal por enfermedad de Crohn."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Como muchas preguntas del MIR, ésta se puede responder sin imagen. Las fisuras se clasifican en agudas o crónicas según el tiempo de evolución. Una fisura de seis semanas o más es crónica. En este caso la fisura lleva 12 semanas, por lo tanto la única respuesta válida es la 1. La imagen viene a querer despistar porque vemos la herida como muy “fresca”, pero no son las características de la herida las que define aguda o crónica. Es cierto que las crónicas muchas veces tienen otro aspecto más cicatrizado o con una papila centinela, pero solo a veces.</p>"
+  },
+  {
+    "tema": "Tema 50. Patología anal y perianal",
+    "pregunta": "(MIR 2024) 137. Paciente diabético de 50 años que acude a urgencias con fiebre de 39ºC y malestar general que refiere dolor anal desde hace 5 días. A la exploración destaca una gran tumoración perianal caliente y dolorosa, con necrosis de piel. El tratamiento de elección es:",
+    "opciones": [
+      "1. Drenaje-desbridamiento quirúrgico.",
+      "2. Antibiótico de amplio espectro y esperar evolución.",
+      "3. Ingreso hospitalario para estudio.",
+      "4. Punción-drenaje guiado por radiología."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Fiebre asociada a cualquier hallazgo en la región perianal nos sugiere un absceso. Este absceso incluso parece grande y con esa fiebre puede asustar. Es un absceso que a lo mejor está creciendo, pero sin duda un absceso (fiebre y dolor en el ano). Sabemos que lo que hay que hacer es drenarlo, normalmente de forma urgente. ¿Hay que poner antibióticos? Posiblemente, pero sin drenarlo no vamos a resolver el problema. ¿Lo drenamos por ecografía? Si es un absceso cutáneo en el ano, no necesitamos nada más que un bisturí y palpar la zona de máxima fluctuación.</p>"
+  },
+  {
+    "tema": "Tema 50. Patología anal y perianal",
+    "pregunta": "(MIR 2023) 134. Respecto a la fisura anal, señale la afirmación INCORRECTA:",
+    "opciones": [
+      "1. Consiste en un desgarro longitudinal de la piel que recubre la porción del canal anal distal a la línea dentada y origina un dolor intenso con la defecación.",
+      "2. Tiene dos formas típicas: la primaria o idiopática aparece en individuos sanos y no se asocia a ningún tipo de enfermedad; la secundaria se detecta en pacientes que sufren otro proceso.",
+      "3. La mayoría de las fisuras primarias se localizan en la comisura anterior, al ser ésta una zona del canal anal más susceptible al traumatismo y a la isquemia de la mucosa.",
+      "4. Las fisuras secundarias a otras enfermedades aparecen con frecuencia en posiciones más laterales."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta directa sobre un tema muy frecuente en la práctica habitual. Las fisuras son heridas (soluciones de continuidad del epitelio) en el canal anal que duelen mucho. Las fisuras primarias, es decir las que no están relacionadas con otras enfermedades, son posteriores y en caso de que haya fisuras laterales o anteriores tenemos que sospechar que son secundarias y concomitantes a otra enfermedad o de origen traumático. La histología del canal anal es más compleja de lo pensado: en el canal anal hay una transición en la línea pectínea entre el epitelio cilíndrico y el epitelio plano estratificado NO queratinizado (y por lo tanto no es piel estrictamente, porque la piel esta queratinizada). La queratinización aparece de modo progresivo. Por lo tanto, podríamos sacarle la puntilla de que en realidad no es “piel” la zona del canal anal donde se localiza la herida. Resumiendo, tendríamos una respuesta clarísimamente incorrecta que es la que habla de que las fisuras primarias se localizan en la cara anterior del canal anal. Y otra que no es del todo correcta porque podríamos matizar el término “piel”. Claramente la más incorrecta es la que hay que marcar.</p>"
+  },
+  {
+    "tema": "Tema 50. Patología anal y perianal",
+    "pregunta": "(MIR 2018) 226. Un hombre de 35 años acude a urgencias con dolor perianal intenso y fiebre de 38 ºC de dos días de evolución. En la exploración presenta una masa dolorosa en fosa isquio-rectal izquierda. ¿Cuál es la actitud más adecuada?:",
+    "opciones": [
+      "1. Antibióticos de amplio espectro y controlar evolución.",
+      "2. Realizar ecoendoscopia y PAAF ecoguiada.",
+      "3. Drenaje bajo anestesia regional.",
+      "4. Realizar una TC y así valorar la vía de abordaje para su correcto tratamiento."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta directa y sencilla sobre el tratamiento del absceso. En este caso nos presenta un absceso isquiorrectal cuyo tratamiento es el drenaje quirúrgico.</p>"
+  },
+  {
+    "tema": "Tema 50. Patología anal y perianal",
+    "pregunta": "(MIR 2017) 226. Hombre de 36 años remitido a la consulta de Cirugía tras drenaje urgente de absceso perianal dos meses antes, persistiendo supuración. El paciente estaba siendo estudiado previamente por digestivo por cuadro de diarrea, dolor abdominal y pérdida de peso. Colonoscopia: Recto de aspecto normal; a nivel de colon descendente y sigma se alternan zonas con aspecto de “empedrado” y úlceras lineales y profundas con otras de aspecto normal. Se completa estudio con Eco endoanal y RM observándose una fístula transesfinteriana alta. Sin tratamiento médico actual. ¿Cuál sería el tratamiento inicial más adecuado de la fístula?:",
+    "opciones": [
+      "1. Fistulotomía.",
+      "2. Colocación de sedal no cortante en el trayecto de la fístula asociado a tratamiento con metronidazol, infliximab e inmunosupresores.",
+      "3. Realizar drenajes repetidos cada vez que presente un absceso, asociando tratamiento con infliximab e inmunosupresores.",
+      "4. Esfinterotomía lateral interna."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad alta porque trata de un tema muy específico: el tratamiento de la enfermedad perianal en la enfermedad de Crohn. Los pacientes con enfermedad de Crohn tienen patología perianal severa y recurrente que además es de difícil tratamiento. Se debe ser conservador para evitar la aparición de incontinencia. En este caso se trata de una fístula transesfinteriana alta en un hombre, lo que es una fístula compleja. La fistulectomía (sección de la fístula) tiene mucho riesgo de incontinencia al cortar demasiado esfínter. Técnicas como el colgajo de avance y otras similares puede fracasar por la proctitis asociada. Por ello, en estos pacientes lo ideal es colocar un seton de drenaje que mantenga la fístula abierta y drenada para evitar la abscesificación e inciar el tratamiento de la enfermedad, con lo que en muchos casos se consigue cerrar la fístula sin cirugía asociada.</p>"
+  },
+  {
+    "tema": "Tema 50. Patología anal y perianal",
+    "pregunta": "(MIR 2015) 45. En el proceso de la defecación es VERDADERO:",
+    "opciones": [
+      "1. Cuando las heces penetran en la ampolla rectal se produce una relajación del esfínter anal interno de forma consciente.",
+      "2. Cuando las heces penetran en la ampolla rectal se produce una relajación del esfínter anal externo de forma inconsciente.",
+      "3. El esfínter anal externo lo controlan fibras nerviosas del nervio pudendo, parte del sistema nervioso somático, y por tanto bajo control consciente voluntario.",
+      "4. Los movimientos propulsivos del colon en condiciones normales necesitan una hora para desplazar el quimo a través de todo el colon desde la válvula ileocal.",
+      "5. Durante la defecación se produce la contracción del suelo de la pelvis."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Se trata de una pregunta compleja pero que con tres nociones básicas sobre la fisiología de la defecación se puede contestar. El recto tiene una longitud de unos 12-15 cm y tiene como principal función actuar de reservorio de las heces en los intervalos de tiempo entre los movimientos defecatorios. El sistema esfinteriano tiene un doble componente: por un lado, está el esfínter interno (fibra muscular lisa, continuación de la capa muscular propia circular del recto y bajo control involuntario; supone el 70% de la presión de reposo del sistema) y, por otro lado, el esfínter externo (fibra muscular estriada, dependiente de los músculos del suelo pélvico/elevador del ano y bajo control de los nervios pudendos – control voluntario). El tiempo de tránsito colónico desde válvula iliocecal hasta el recto suele llevar varias horas. Por último, durante la defecación, los músculos del suelo pélvico (elevador del ano y sus distintos tractos) se relajan permitiendo la expulsión de las heces.</p>"
+  },
+  {
+    "tema": "Tema 51. Cirugía mínimamente invasiva",
+    "pregunta": "(MIR 2017) 70. ¿Cuál de las siguientes NO se considera una complicación general del acceso laparoscópico en cirugía abdominal?:",
+    "opciones": [
+      "1. Hemorragia de órganos sólidos.",
+      "2. Íleo paralítico.",
+      "3. Hernia en los orificios de acceso abdominal.",
+      "4. Neumomediastino."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad media/alta. Todas las complicaciones que se comentan en la pregunta puedes suceder después de una cirugía por abordaje laparoscópico pero sólo una de ellas no es específica de esta vía de abordaje. La hemorragia de órganos sólidos se produce por la introducción en una víscera maciza de uno de los trócares. La hernia de los orificios de los trócares se produce cuando parte del contenido abdominal prottuye a través de uno de los orificios realizados para introducir los trócares y por último el neumomediastino se produce porque el neumoperitoneo diseca el hiato esofágico y pasa al mediastino. El íleo paralítico no es característico del abordaje laparoscópico, de hecho una de las ventajas de este abordaje es que lo reduce respecto al abordaje abierto.</p>"
+  },
+  {
+    "tema": "Tema 51. Cirugía mínimamente invasiva",
+    "pregunta": "(MIR 2015) 130. A un paciente de 40 años, clasificado como ASA I según la escala de la American Society of Anesthesiologists, se le está practicando una colecistectomía laparoscópica por una colelitiasis. La intervención transcurre inicialmente sin complicaciones, pero a los cincuenta minutos de iniciada la misma se observa un incremento significativo de los niveles de dióxido de carbono (CO2) teleespiratorios, sin alteración de la saturación arterial de oxígeno por pulsioximetría ni elevación de las presiones de ventilación. ¿Cuál sería su diagnóstico de presunción y su actitud ante este hallazgo?:",
+    "opciones": [
+      "1. Con estos hallazgos hay que sospechar la existencia de un enfisema subcutáneo, por lo que hay que explorar al paciente y solicitar que se disminuya la presión de insuflación del neumoperitoneo o incluso la interrupción del mismo.",
+      "2. El diagnóstico más probable es un neumotórax secundario a dióxido de carbono o capnotórax, por lo que hay que solicitar una radiografía de tórax urgente y preparar la inserción de un drenaje torácico.",
+      "3. La elevación de los niveles de dióxido de carbono es normal en el marco de una intervención laparoscópica. La única actitud a tomar es aumentar el volumen minuto en la máquina anestésica.",
+      "4. Hay que revisar la colocación del tubo orotraqueal por la posibilidad de que haya progresado y que estemos ante una intubación endobronquial, lo que resulta relativamente frecuente en esta cirugía por causa de la elevación del diafragma secundaria al neumoperitoneo.",
+      "5. La elevación del dióxido de carbono teleespiratorio, sin afectación de las presiones de ventilación, es típico del embolismo pulmonar masivo. Hay que interrumpir la intervención, ventilar con oxígeno puro y preparar drogas vasoactivas por la posible inestabilidad hemodinámica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta dudosa, dado que tanto la opción 1 como la 3 podrían ser válidas. El aumento de CO2 espirado en un paciente sometido a laparoscopia puede deberse a enfisema subcutáneo o a reabsorción de CO2 a través del peritoneo. En el primer caso se debería a que el gas difunde en el tejido subcutáneo, y el manejo es bajar la presión de insuflación y recolocar los trócares para solventarlo; es algo relativamente poco frecuente. La segunda opción es mucho más frecuente: el paciente reabsorbe CO2 a través del peritoneo y por ello aumenta el CO2 espirado. Dado que es algo normal, lo único que hay que hacer es hiperventilar al paciente para eliminar más CO2. Pese a haber dos opciones válidas, el Ministerio dio como correcta la opción 1 (enfisema subcutáneo) y la pregunta no se anuló.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2024) 57. ¿Cuál de los siguientes colgajos NO PODRÍA ser utilizado para realizar la reconstrucción de un defecto en la región cervical posterior?:",
+    "opciones": [
+      "1. Colgajo anterolateral fasciocutáneo de muslo, pediculado.",
+      "2. Colgajo libre de músculo dorsal ancho con isla cutánea.",
+      "3. Colgajo pediculado de trapecio (musculocutáneo).",
+      "4. Colgajo libre SCIP (derivado del sistema circunflejo ilíaco superficial)."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Los colgajos son una unidad anatómica cuya vascularización depende de sí misma. Recordamos que existen dos tipos: libre o pediculado/de rotación. Es libre si su arteria la seccionamos y nos lo llevamos a otro lado a anastomosar esa arteria a otra donde colocamos el colgajo; y es pediculado/ de rotación si su arteria nutricia no se reseca de su sitio, sino que se moviliza para que llegue bien a donde tenga que llegar. Entendiendo este concepto se resuelve la pregunta, que nos dice reconstruir la región cervical posterior. ¿Podemos trasladar al cuello un colgajo libre? Sí, por lo tanto, no necesito saber si es más o menos frecuente ese colgajo. El SCIP puede llegar. ¿Colgajo libre del dorsal ancho? Mismo concepto, puedo llevarlo hasta allí. ¿Colgajo pediculado? Hay dos en las respuestas: uno cercano, el del trapecio y otro MUY lejos en el muslo. ¿Cómo voy a llevar un colgajo pediculado del muslo al cuello? Por eso, la respuesta 1 no se podría.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2023) 61. Con respecto a los injertos cutáneos, señale la respuesta INCORRECTA:",
+    "opciones": [
+      "1. Unos de los lechos considerados injertables por su rica vascularización es el tejido de granulación.",
+      "2. Podemos clasificarlos en injertos de piel parcial (si presentan sólo la epidermis) o injertos de piel total (si presentan la epidermis y la dermis subyacente).",
+      "3. Suelen presentar un proceso de contracción, que aparece tanto a la hora de ser extraídos como después de haber sido injertados.",
+      "4. Dentro de las comorbilidades médicas asociadas a la pérdida del injerto podemos destacar la diabetes, el tabaquismo y la vasculopatía periférica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil y novedosa que se responde con la definición de lo que es un injerto parcial y uno completo: un injerto parcial es aquel que tiene epidermis y dermis, pero el grosor de la dermis no es completo; un injerto total comprende la epidermis y toda la dermis. El grosor de la dermis condiciona la contracción que va a tener nuestro injerto: cuanto menos grosor, más contracción (pero todos los injertos se van a contraer en mayor medida). Hay casos en los que la contracción es necesaria o deseable en determinadas heridas, y para ello es mejor un injerto parcial. Hay que aclarar algunos puntos más: el tejido de granulación es un tejido en fase de cicatrización muy vascularizado, por lo tanto, si encima colocamos un injerto, las posibilidades de que “prenda” y se agarre bien son mayores. El término injertable puede resultar confuso, y en realidad la definición en el diccionario es “que se puede injertar”, pero aquí el examinador del MIR nos pregunta si es un buen tejido sobre el que se pueda injertar. La pérdida del injerto puede verse condicionada por factores del paciente que afectan de modo general a la piel y a varios procesos como el de cicatrización. El tabaco, la diabetes o la vasculopatía se traducen en una irrigación subóptima de la piel que puede condicionar cualquier fenómeno de cicatrización en la misma.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2022) 61. El conocimiento de la anatomía de la mama es fundamental a la hora de realizar intervenciones quirúrgicas en cirugía plástica. Señale cuál de los siguientes troncos nerviosos es el encargado en la mayoría de los casos de inervar el complejo areola-pezón:",
+    "opciones": [
+      "1. Rama cutánea lateral del nervio intercostobraquial.",
+      "2. Ramas cutáneas mediales del plexo cervical.",
+      "3. Rama cutánea medial del nervio torácico largo.",
+      "4. Rama cutánea lateral de los nervios intercostales."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta difícil acerca de la anatomía quirúrgica de la mama. La vascularización del complejo areola-pezón (CAP) es fundamental a la hora de establecer cualquier técnica quirúrgica para mantener la viabilidad del mismo. Su inervación es también importante de cara a ser mantenida tras una cirugía reconstructiva o estética mamaria en la medida de lo posible. Esta inervación cutánea no se realiza por un único nervio, sino que es determinada por ramas de los nervios intercostales que se encargan también en su variante arterial de la vascularización mamaria.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2022) 62. Mujer de 57 años intervenida de mamoplastia de aumento con prótesis hace 4 años. Refiere que desde hace 2 años su mama izquierda está más rígida que la derecha y que en ocasiones le ha producido molestias al realizar esfuerzos con su brazo izquierdo. En la exploración física presenta asimetría evidente de ambas mamas con aumento de la consistencia y cierta deformidad de la mama izquierda y desplazamiento moderado hacia el hueco axilar. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Seroma crónico con colonización bacteriana.",
+      "2. Linfoma anaplásico de células grandes asociado a prótesis mamarias.",
+      "3. Contractura capsular.",
+      "4. Carcinoma ductal infiltrante de mama."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Complicación más frecuente de los implantes mamarios tanto reconstructivos como estéticos. Cualquier cuerpo externo al organismo (como un implante mamario) es rodeado por una cápsula fibrosa que lo aisla. Con el paso del tiempo esta cápsula va engrosándose y las fibras de colágeno modifican su disposición, pudiendo dar lugar a una contractura capsular, que se presentará como en la paciente con una alteración morfológica de la mama con elevación del implante y dolor a la palpación (la mama afecta se encuentra más dura y consistente). Su manejo pasa por un explante y capsulectomía completo, y reposición de un nuevo implante mamario.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2021) 60. En cuanto a la anatomía de la pared abdominal en relación con la cirugía reconstructiva es FALSO que:",
+    "opciones": [
+      "1. La inervación de los músculos rectos abdominales procede de nervios que discurren entre el músculo transverso abdominal y el músculo oblicuo interno.",
+      "2. Tras la disección y rotación de un colgajo TRAM (transversus rectus abdominis musculus) se produce una debilidad de la pared abdominal especialmente por encima de la línea arcuata.",
+      "3. La irrigación del músculo recto abdominal proviene principalmente de los vasos epigástricos inferiores y superiores profundos.",
+      "4. El músculo recto abdominal puede utilizarse para reconstrucción de defectos mediastínicos."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta muy difícil sobre un colgajo poco actual y totalmente en desuso como es el TRAM. De este colgajo muscular del músculo recto abdominal es justo esto lo fundamental a recordar, que es un colgajo ya no utilizado debido a la gran morbilidad que causa. Ésta se debe a que provoca un daño en la pared abdominal por la utilización del músculo recto abdominal que da lugar a una incompetencia y hernias en la misma. Esto es lo que nos describe la opción 2, que sin embargo en la opción a marcar (opción 2 falsa) ya que esta debilidad es mayor en la parte más inferior del abdomen (por debajo de la línea arcuata) ya que por debajo de esta línea la fascia posterior del músculo es fina y solo compuesta por la fascia transversalis y peritoneo parietal, mientras que por encima se le unen además las fascias del oblicuo menor y del transverso. El resto de las opciones son verdaderas, siendo el recto abdominal pediculado como colgajo de rotación una opción para la reconstrucción del mediastino, gracias a su doble vascularización por las arterias epigástricas profundas superior e inferior y estando inervado por ramas nerviosas que circulan entre el oblicuo interno y el músculo transverso.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2020) 55. Señale cuál de los siguientes es el colgajo locorregional indicado para la cobertura de un defecto cutáneo de la cara interna de la rodilla:",
+    "opciones": [
+      "1. Colgajo de músculo recto abdominal transverso basado en la arteria epigástrica inferior profunda.",
+      "2. Colgajo de gastrocnemio medial, basado en la arteria sural media.",
+      "3. Colgajo anterolateral de muslo, basado en la rama descendente de la arteria circunfleja femoral lateral.",
+      "4. Colgajo radial fasciocutáneo, basado en ramas perforantes de la arteria radial."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta acerca de los colgajos locorregionales en la que nos preguntan por el de elección para la cobertura de la cara interna de la rodilla. Se trata de una pregunta poco habitual en el examen MIR, pero que si contestamos mediante técnica MIR podemos transformar en una pregunta no tan difícil. Los colgajos locorregionales son aquéllos que utilizamos en zonas contiguas a la zona que se quiere cubrir y que se utilizan de forma pediculada. Esto hace que ni el colgajo radial ni el colgajo recto abdominal sean posibles opciones para la cobertura de la rodilla dada su ubicación, lo que excluye las opciones 1 y 4. El colgajo anterolateral de muslo (ALT), como su propio nombre indica se basa en la rama descendente de la arteria cincunfleja femoral LATERAL. Puede utilizarse pediculado a flujo reverso para la cobertura de la cara externa de la rodilla o incluso de la rótula, pero no es capaz de llegar a cubrir la cara interna. El colgajo de elección para la cobertura de la cara interna de la rodilla es el gastrocnemio medial, un colgajo pediculado que se rota para permitir la cobertura de esta zona en casos de artritis sépticas, prótesis de rodilla infectadas, fracturas de meseta tibial... El Ministerio finalmente anuló esta pregunta por la eventual posibilidad (rara) de poder utilizar el ALT, si bien la respuesta a marcar debía ser el gastrocnemio medial.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2020) 56. En cuanto a la reconstrucción de la sonrisa en pacientes con parálisis facial, podemos afirmar que:",
+    "opciones": [
+      "1. No se recomienda realizar una reconstrucción dinámica sin hacer previamente una reconstrucción estática.",
+      "2. La reconstrucción dinámica consiste en realizar una transferencia de músculo neurotizado.",
+      "3. La reconstrucción estática está indicada en casos en los que la parálisis facial lleva establecida menos de un año.",
+      "4. Las suturas nerviosas directas desde un nervio motor con el nervio facial dañado pueden ser realizadas en los primeros meses de producirse la lesión del nervio facial."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta muy específica acerca de la reconstrucción en la parálisis facial. Una vez confirmada la lesión nerviosa y en caso de no recuperación de la misma, es siempre preferible y primera opción realizar una reconstrucción dinámica (opción 1 falsa). Esta reconstrucción dinámica puede realizarse desde un primer momento en caso de objetivarse lesión nerviosa o bien esperar a confirmar la ausencia de recuperación en caso de que sea más dudosa. En cualquier caso esta reconstrucción dinámica consiste en transferencias nerviosas (opción 4 correcta) desde un nervio sano hasta el nervio lesionado, o bien en transferencias musculares neurotizadas (clásicamente el músculo gracilis neurotizado) (opción 2 correcta) que permiten recuperar la función de la sonrisa. La reconstrucción estática debe aplazarse hasta confirmar la ausencia de éxito en las reconstrucciones dinámicas y va orientada a conseguir minimizar las diferencias entre el lado sano y el afecto (opción 3 falsa). Si bien las opciones 2 y 4 son las dos válidas, fue dada como correcta la opción 4 ya que la reconstrucción dinámica consiste en transferencias musculares como dice la opción 2, pero también en transferencias nerviosas, lo que hace más correcta la opción 4.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2019) 208. Un hombre de 46 años acude a las 11 de la noche a urgencias por presentar lesiones blanquecinas y rojas, sin flictenas, muy dolorosas, en ambos pies. El paciente es trabajador de la construcción y refiere haber estado trabajando esa mañana con cemento (óxido cálcico). Señale la respuesta correcta:",
+    "opciones": [
+      "1. El paciente ha sufrido una quemadura química por un ácido por lo que se debe realizar cura con un álcalis para parar la reacción química. Posteriormente cura de la quemadura con sulfadiacina argéntica y reevaluación de la misma en las siguientes horas.",
+      "2. El paciente ha sufrido una quemadura química por álcalis por lo que se debe proceder al lavado exhautivo con agua y jabón y después de comprobar el pH de la piel, cura local con sulfadiacina argéntica y reevaluación de las quemaduras en las siguientes horas.",
+      "3. Dado el tiempo transcurrido posiblemente sea una reacción alérgica. Se procederá a la aplicación de corticoide tópico y a la toma de antihistamínicos orales.",
+      "4. Dado el uso continuado de botas para la realización de su trabajo el paciente presenta una colononización por hongos y debe tratarse con antifúngicos tópicos."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta en la que un paciente tras contacto con una sustancia abrasiva por motivos laborales sufre una lesión en las plantas de los pies que han estado en contacto de naturaleza óxido. Esta exposición sumada a las lesiones blanquecinas y rojas al mismo tiempo descartan la posibilidad de que el paciente tenga una reacción alérgica o una colonización fúngica (respuestas 3 y 4 falsas). Ante esta exposición a una sustancia abrasiva debemos pensar en una quemadura química. En ellas es fundamental recordar que no deben ser neutralizadas por una sustancia de pH contrario ya que daría lugar a una reacción exotérmica que provocaría una gran liberación de calor con un agravamiento del daño producido (respuesta 1 falsa). Su tratamiento básico incluye un lavado profuso de la quemadura para eliminar por arrastre el contacto químico. Posteriormente en quemaduras químicas debemos minimizar el uso de tratamientos tópicos con cremas siendo el más indicado en caso de quemaduras profundas que requieran una cobertura con cremas la sulfadiazina argéntica (respuesta 2 correcta).</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2019) 209. En relación al colgajo anterolateral del muslo, señale la respuesta INCORRECTA:",
+    "opciones": [
+      "1. Se trata de un colgajo de perforantes.",
+      "2. Está irrigado por ramas de la arteria femoral circunfleja medial.",
+      "3. Puede obtenerse realizando una disección tanto suprafascial como subfascial.",
+      "4. Las perforantes musculocutáneas atraviesan el músculo vasto lateral antes de irrigar la piel del colgajo."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de gran complejidad que sin embargo utilizando técnica MIR podemos transformarla en algo más sencilla. El colgajo anterolateral de muslo (ALT) se trata de uno de los colgajos de perforantes (respuesta correcta 1) más habituales en la práctica de un Servicio de Cirugía Plástica y constituye la primera indicación en la cobertura de pérdidas de sustancia que requieran un grosor pequeño (secuelas de fractura de tobillo, defectos en cara...). Se trata de un colgajo vascularizado por perforantes de la arteria circunfleja femoral lateral (respuesta falsa 2) que en la mayor parte de los casos emergen a través del septo que separa el vasto lateral y el recto anterior del cuádriceps, aunque en otras ocasiones pueden emerger a través del vasto lateral (opción 4 correcta). Este colgajo se caracteriza por ser un colgajo fasciocutáneo y por tanto de escaso grosor pero en situaciones en las que requerimos disminuir al máximo el grosor del mismo (defectos en dorso de pie, pacientes con panículo adiposo muy grueso en los que el colgajo sería demasiado grande...) podemos realizar una modalidad más compleja en la que la disección incluye la arteria perforante una vez emergida la fascia profunda (fascia lata) y de este modo disminuir su grosor (opción 3 correcta). Esta pregunta es muy compleja para un médico general pero sin embargo si pensamos en qué arteria tendrá su origen el colgajo anterolateral de muslo, podemos deducir por técnica MIR que no será en la circunfleja femoral medial sino lateral.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2017) 207. Hombre de 80 años consciente y con aparente buen estado general. Es trasladado al Servicio de Urgencias tras sufrir quemadura eléctrica al tocar un cable de alta tensión accidentalmente. En la exploración física presenta una quemadura en mano derecha, de tercer grado de un 0.2% de superficie corporal total y una lesión con estallido en primer dedo de pie derecho de menos de un centímetro de diámetro. Señale la respuesta correcta:",
+    "opciones": [
+      "1. Dada la extensión el tratamiento consistirá en curas diarias con sulfadiacina argéntica en su Centro de Salud y revisión por el especialista en Cirugía Plástica en 48 horas.",
+      "2. El paciente debe ser trasladado urgentemente, en ambulancia medicalizada, a un Centro de grandes quemados, tras su estabilización previa en urgencias.",
+      "3. El paciente debe ser dejado en observación durante 8 horas y al cabo de las cuales si no empeora se procederá al alta con curas locales.",
+      "4. Se procederá al desbridamiento del primer dedo del pie lesionado, apertura del túnel del carpo de mano derecha, cura con sulfadiacina argéntica e ingreso en planta."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta difícil. Se trata de un paciente con una quemadura con corriente eléctrica. Tiene la puerta de entrada en la mano y la salida en el pie. Como en todas las quemaduras eléctricas la expresión externa de la quemadura no es tan llamativa como las lesiones externas que se pueden haber provocado. Pensando que la corriente ha atravesado todo el cuerpo son muchas las complicaciones que pueden aparecer, sobre todo de tipo cardiaco. Por esta razón el paciente debe ser trasladado a una unidad de quemados para ser vigilado. El tratamiento local de las lesiones pasa pues a un segundo plano.</p>"
+  },
+  {
+    "tema": "Tema 52. Cirugía plástica",
+    "pregunta": "(MIR 2017) 208. ¿Cuál de estas medidas NO estaría indicada en el tratamiento de urgencia en un paciente que presenta una quemadura por llama de segundo grado profundo con el 50% de superficie corporal quemada?:",
+    "opciones": [
+      "1. Dieta absoluta.",
+      "2. Administración de ringer lactato según la fórmula de Parkland.",
+      "3. Administración profiláctica de antibióticos vía intravenosa.",
+      "4. Administración de heparina para profilaxis antitrombótica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta difícil del tratamiento del paciente quemado. En los pacientes con quemaduras extensas como estas hay que asegurar una adecuada reposición hidroelectrolítica por vía intravenosa (calculando los requerimientos con la ecuación de Parkland). De momento el paciente permanecerá en dieta absoluta hasta que sea estabizado y se estudien todas las lesiones. Antiguamente se pautaba antibioterapia de amplio espectro pero hoy no está recomendada. La profilaxis que sí se debe realizar es la antotrombótica con heparinas de bajo peso molecular, debido a que se ha visto una alta incidencia de trombosis en este tipo de pacientes.</p>"
   }
 ]
