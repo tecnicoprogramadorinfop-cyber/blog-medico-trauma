@@ -5121,5 +5121,224 @@
     ],
     "correcta": 1,
     "comentario": "<p>Pregunta esperada por ser una enfermedad emergente y en investigación. La esofagitis eosinofílica es una enfermedad que hay que sospechar ante un varón joven que presenta disfagia intermitente para sólidos, o incluso impactación alimentaria, y con antecedente de atopia frecuentemente. En la endoscopia se observa una imagen característica, aunque no patognomónica, que es la aparición de anillos esofágicos que hacen que el esófago tenga aspecto de tráquea. El diagnóstico diferencial es con el anillo de Schatzki, que también provoca el mismo tipo de disfagia, pero se asocia a pirosis y en la endoscopia se oberva sólo un anillo justo por encima del cardias.</p>"
+  },
+
+{
+    "tema": "Tema 37. Disfagia y trastornos motores del esófago",
+    "pregunta": "(MIR 2023) 24. Pregunta asociada a la imagen 24. Mujer de 36 años sin antecedentes de interés que acude a urgencias por molestias retroesternales con la deglución, sin fiebre ni clínica infecciosa. Refiere un cuadro de años de evolución de episodios intermitentes de detención alimentaria a nivel retroesternal tras la ingesta de sólidos y líquidos. Se acompaña de pérdida de peso progresiva. La analítica sanguínea es normal. En la radiografía de tórax se observa ensanchamiento mediastínico, por lo que se realiza la TC torácica con contraste intravenoso que se muestra en la imagen. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Acalasia.",
+      "2. Gran divertículo esofágico de Zenker.",
+      "3. Espasmo esofágico difuso.",
+      "4. Retención alimentaria por tumor submucoso (leiomioma) obstructivo en tercio distal esofágico."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Una mujer joven con un cuadro crónico de disfagia esofágica ('detención de alimentos a nivel retroesternal') y que está presente tanto con sólidos como con líquidos (y esto último es la clave) nos debe hacer pensar un trastorno motor crónico, fundamentalmente una acalasia por su frecuencia e importancia en el MIR. La pérdida de peso también es muy característica por la imposibilidad que tienen los alimentos de alcanzar el estómago. La imagen del TAC es bastante espectacular y se observa un megaesófago, dilatado, recto (casi parece el colon) con contenido en su interior, con un afilamiento distal correspondiente al EEI cerrado (si lo viéramos con contraste sería la típica imagen en pico de pájaro o cola de ratón). Es una acalasia prototípica en todos los sentidos.</p>"
+  },
+  {
+    "tema": "Tema 37. Disfagia y trastornos motores del esófago",
+    "pregunta": "(MIR 2023) 67. La disfagia orofaríngea es la dificultad de trasladar el alimento desde la cavidad oral hasta el esófago proximal. Entre las causas de disfagia orofaríngea motora están las siguientes EXCEPTO:",
+    "opciones": [
+      "1. Miastenia gravis.",
+      "2. Reflujo gastroesofágico.",
+      "3. Tétanos.",
+      "4. Dermatopolimiositis."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta muy sencilla sobre la disfagia orofaríngea. Recuerda que la musculatura del tercio proximal esofágico es músculo estriado de control voluntario. La disfagia orofaríngea, por tanto, suele estar debida a enfermedades neurodegenerativas o que comprometen el SNC. Claramente el reflujo no es una de ellas.</p>"
+  },
+  {
+    "tema": "Tema 37. Disfagia y trastornos motores del esófago",
+    "pregunta": "(MIR 2022) 138. Mujer de 27 años que consulta por disfagia y odinofagia. En los últimos meses nota sensación de dificultad al tragar, más con líquidos que con sólidos, dolor centrotorácico, algún vómito aislado, sin esfuerzo y más parecido a una regurgitación. No refiere pérdida de peso ni de apetito. Exploración física normal. Analítica completa dentro de la normalidad. Endoscopia oral sin alteraciones estructurales ni lesiones mucosas. Manometría esofágica de alta resolución: actividad vigorosa y ausencia de peristalsis en el cuerpo esofágico con relajación normal del esfínter esofágico inferior. El diagnóstico más probable es:",
+    "opciones": [
+      "1. Espasmo esofágico distal.",
+      "2. Esófago hipercontráctil.",
+      "3. Acalasia tipo I.",
+      "4. Peristalsis fragmentada."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta difícil y mal redactada acerca de los trastornos motores esofágicos. Podemos descartar fácilmente la peristalsis fragmentada (opción de relleno) y la acalasia, ya que nos dicen que el EEI relaja adecuadamente. La duda está entre la opción 1 y 2, ya que ambas pueden producir disfagia y típicamente dolor torácico. El hallazgo manométrico típico de un espasmo esofágico difuso es la presencia de contracciones simultáneas, no peristálticas, repetitivas y de gran amplitud en >20% de las degluciones. En el esófago hipercontráctil el hallazgo típico es una adecuada relajación del EII junto con contracciones “hipercontráctiles” (muy intensas) en más del 20% de las degluciones. La pregunta no es clara y la palabra “vigorosa” no nos permite diferenciar con certeza entre ambas opciones. Es una pregunta muy polémica y mal redactada, aunque finalmente el Ministerio dio por correcta la 1.</p>"
+  },
+  {
+    "tema": "Tema 37. Disfagia y trastornos motores del esófago",
+    "pregunta": "(MIR 2019) 80. Una mujer de 43 años refiere cuadros de dificultad para la ingesta de sólidos desde hace años. En el último año estos cuadros se han intensificado y en ocasiones se acompañan de dolor torácico. Ha perdido 4 a 5 Kg de peso. Aporta gastroscopia: restos alimentarios en esófago; estómago y duodeno sin alteraciones. Se completa el estudio con la realización de manometría esofágica. ¿Qué alteración de las que se describen a continuación, cree que presenta la paciente?:",
+    "opciones": [
+      "1. Esfínter esofágico superior hipertenso.",
+      "2. Ondas peristálticas en cuerpo esofágico y esfínter esofágico superior hipotenso.",
+      "3. Aperistalsis de cuerpo esofágico y esfínter esofágico inferior hipertenso.",
+      "4. Esfínter esofágico inferior hipotenso con relajaciones completas."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil sobre un caso típico de achalasia primaria: paciente con disfagia a sólidos acompañado de dolor torácico y pérdida de peso (debemos recordar que la pérdida de peso es un síntoma importante en estos pacientes). Con los datos anteriores, podríamos pensar en una neoplasia esofágica, pero la endoscopia nos limita la entidad al esófago y no nos indican patología tumoral. En la manometría apreciaremos una alteración en la relajación del EEI y ausencia de peristaltismo esofágico debido a la disfunción neuronal ganglionar que presenta esta entidad. La única respuesta que es compatible con una achalasia primaria es la 3. La respuesta 1 podría corresponder con una achalasia del cricofaríngeo. La respuesta 4 podría corresponder a una esclerodermia con afectación esofágica. La respuesta 2 podría corresponder a una deglución fisiológica.</p>"
+  },
+  {
+    "tema": "Tema 38. Cáncer de esófago",
+    "pregunta": "(MIR 2020) 129. Hombre de 65 años que consulta por disfagia a sólidos desde hace dos meses. La esofagoscopia evidencia tumoración a 30 cm de arcada dental, parcialmente estenosante, con anatomía patológica de carcinoma epidermoide. Se solicita ecografía endoscópica y PET-TC donde no se observan adenopatías patológicas. ¿Cuál de las siguientes opciones sería la más correcta?:",
+    "opciones": [
+      "1. Esofaguectomía transhiatal.",
+      "2. Esofaguectomía según la técnica de Ivor-Lewis.",
+      "3. Quimioterapia más radioterapia preoperatoria.",
+      "4. Quimioterapia neoadyuvante."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta compleja y anulable. Nos presentan a un paciente con un carcinoma esofágico, y nos plantean como opciones el abordaje quirúrgico y la terapia neoadyuvante. Esta última sería útil en pacientes con lesiones localmente avanzadas, como puente a una cirugía radical. El problema es que el caso clínico no nos da una prueba de estadificación local que nos permita diferenciar si se trata de una lesión localizada o localmente avanzada. Por este motivo, las opciones quirúrgicas directamente (1 y 2) serían posibles si no es localmente avanzado, pero también la neoadyuvancia (opción 3) en los localmente avanzados. Finalmente se dio como válida la 3, por lo que asumimos que el cáncer era localmente avanzado.</p>"
+  },
+  {
+    "tema": "Tema 38. Cáncer de esófago",
+    "pregunta": "(MIR 2018) 80. Hombre de 56 años, fumador y bebedor, que presenta disfagia principalmente a sólidos, regurgitaciones y dolor retroesternal. Se le realiza endoscopia, encontrando tumoración de 3 cm estenosante en esófago distal. La biopsia es informada como adenocarcinoma. En la TC torácica se observa engrosamiento de 2 cm en esófago torácico sin metástasis a distancia. En la ecografía transesofágica se observa tumoración que invade la muscular, sin observar adenopatías mediastínicas. ¿Cuál es el tratamiento de elección?:",
+    "opciones": [
+      "1. Quimioradioterapia neoadyuvante y posteriormente esofaguectomía.",
+      "2. Radioterapia como tratamiento definitivo.",
+      "3. Colocación de prótesis de tipo stent.",
+      "4. Esofaguectomía y plastia gástrica con anastomosis cervical."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta difícil sobre el tratamiento del carcinoma de esófago. En este caso nos presentan un adenocarcinoma de esófago torácico que no presenta adenopatías (N0) ni lesiones a distancia M0. Nos dicen que invade la muscular. Si entendemos que se refiere a la muscular de la mucosa hablaríamos de un estadío T1. Si entendemos que se refiere a la capa muscular propia sería un T2. En cualquier caso tendríamos un T1-T2N0M0. La opción 2 y 3 quedan descartadas pues no darían tratamiento curativo. Entre la opción 1 y la 4, el ministerio dio como opción correcta la opción 4 (cirugía), aunque la neoadyuvancia y posterior cirugía también es una opción válida (de hecho muchos autores la consideran preferible a cirugía en monoterapia, quedando esta última indicada sin otras terapias en patologías de bajo riesgo). Por otro lado, la opción 1 nos hablaba sólo de esofaguectomía pero no de la reconstrucción posterior, siendo la opción 4 más explícita en este sentido, indicando una posible reconstrucción a nivel cervical tras esofaguectomía tubular y ascenso gástrico, aunque también puede realizarse la anastomosis a nivel torácico en ocasiones. Es probable que esta pregunta fuera redactada por un cirujano, quien al indicarnos que el paciente era N0M0 con una lesión de pequeño tamaño, quería dirigirnos hacia la actitud quirúrgica como opción más adecuada. No obstante, pregunta muy impugnable.</p>"
+  },
+  {
+    "tema": "Tema 39. Otras enfermedades esofágicas",
+    "pregunta": "(MIR 2022) 13. Pregunta vinculada a la imagen n.º 13. Mujer de 64 años que consulta por dolor centrotorácico de 24 horas de evolución sin otras manifestaciones clínicas. En la radiografía de tórax ¿qué hallazgo se encuentra?:",
+    "opciones": [
+      "1. Aneurisma aórtico.",
+      "2. Pericarditis aguda.",
+      "3. Neumonía.",
+      "4. Hernia hiatal."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta vinculada a imagen que se contesta de forma relativamente sencilla si estamos atentos a los hallazgos de la imagen. No vemos ningún tipo de condensación en campos pulmonares, por lo que la opción de neumonía queda descartada. Asimismo, no existe ningún tipo de ensanchamiento mediastínico (aneurisma) ni cardiomegalia (pericarditis, que podría producir un derrame pericárdico) por lo que las opciones 1 y 2 también quedan descartadas. Se observa por detrás del corazón una gran hernia de hiato con burbuja de gas en el fundus gástrico que dibuja las paredes del estómago. Recordad que las hernias de hiato por deslizamiento gigantes (como la de este caso), así como las paraesofágicas o mixtas, pueden requerir reparación quirúrgica. En ocasiones las hernias de hiato por deslizamiento son tan grandes que llegan a alojar 2/3 partes del estómago en el tórax (en el mediastino). Esto lo vemos sobre todo en ancianos y asociado a la obesidad.</p>"
+  },
+  {
+    "tema": "Tema 39. Otras enfermedades esofágicas",
+    "pregunta": "(MIR 2021) 155. Los tumores benignos más frecuentes del esófago son:",
+    "opciones": [
+      "1. Los pólipos fibrovasculares.",
+      "2. Los leiomiomas.",
+      "3. Los papilomas escamosos.",
+      "4. Los hemangiomas."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Se trata de una pregunta concreta y difícil de acertar por lógica. Los leiomiomas, aunque globalmente raros en la población general, son los tumores esofágicos benignos más frecuentes (70% del total). Suelen ser asintomáticos y detectarse en pruebas diagnósticas solicitadas por otros motivos; no requieren manejo específico. Una manera de sacarla es pensar que los fibrovasculares y los hemangiomas no son estirpes que sean habituales en general en ninguna localización del tubo digestivo, mientras que el papiloma escamoso nos suena más en relación con el área ORL o ginecológica. En efecto, las tres pueden verse en el esófago, pero son mucho menos habituales que el leiomioma.</p>"
+  },
+  {
+    "tema": "Tema 40. Abdomen agudo",
+    "pregunta": "(MIR 2016) 67. De los siguientes, ¿cuál se considera en la actualidad el aspecto más importante en la evaluación del abdomen agudo?:",
+    "opciones": [
+      "1. Realización de una anamnesis completa y exploración física minuciosa.",
+      "2. Valoración del hemograma, especialmente el recuento y fórmula leucocitarios.",
+      "3. Valoración de los resultados obtenidos en la ecografía de abdomen.",
+      "4. Valoración de los resultados obtenidos en la TC abdominal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Lo más importante a la hora de evaluar un abdomen agudo (y cualquier otra patología) es la anamnesis y la exploración física. Las pruebas complementarias sólo son una ayuda tras haber hecho una correcta historia clínica.</p>"
+  },
+  {
+    "tema": "Tema 41. Apendicitis aguda",
+    "pregunta": "(MIR 2023) 21. Pregunta asociada a la imagen 21. Mujer de 26 años que desde hace 6 días presenta dolor en fosa iliaca derecha. La palpación es dolorosa en esa zona. La analítica muestra 17.000 leucocitos, con neutrófilos 88 %. Se muestra la TC de abdomen. ¿De los siguientes cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Ooforitis.",
+      "2. Apendicitis.",
+      "3. Diverticulitis.",
+      "4. Absceso de ciego."
+    ],
+    "correcta": 1,
+    "comentario": "<p>En el MIR todo dolor en fosa iliaca derecha (FID) con parámetros inflamatorios es una apendicitis aguda hasta que se demuestre lo contrario. Nos preguntan el caso más 'complejo' en el diagnostico diferencial del dolor en FID, que es en la mujer. En otros exámenes nos han preguntado cuál es la prueba de imagen para salir de dudas en la mujer con dolor en FID (ecografía). Pero este es un claro ejemplo de que todo dolor en FID es una apendicitis aguda hasta que se demuestre lo contrario. Analizando más respuestas descartamos la diverticulitis (dolor en fosa iliaca izquierda). De las 3 opciones que nos quedan, todas pueden estar en la fosa iliaca derecha. Respecto a la ooforitis, una inflamación del ovario cuya causa más frecuente es infecciosa, deberían contarnos algo más como alteración del flujo. De todos modos, en la imagen querríamos ver una estructura esférica inflamada. No tenemos datos suficientes para refutar nuestra sospecha de apendicitis aguda. Y lo que más duda nos puede generar es el absceso de ciego. Un absceso por definición está bien estructurado y esto en el TC se vería incluso con realce periférico de la colección y bien organizada, cosa que no vemos. En la ecografía lo que se observa es líquido al lado del ciego, que está inflamado en la primera imagen, y en la segunda, en la parte más baja, la punta del apéndice. Podríamos tener una imagen más clara del apéndice, pero repetimos: en el MIR todo dolor en FID con datos de inflamación/infección es una apendicitis aguda hasta demostrar lo contrario, y aunque no sepamos de imagen vemos líquido e inflamación. El líquido no está bien organizado y eso va en contra del absceso.</p>"
+  },
+  {
+    "tema": "Tema 41. Apendicitis aguda",
+    "pregunta": "(MIR 2023) 132. ¿Cuál de los siguientes tipos de apendicitis aguda cursa más frecuentemente con signo del psoas positivo?:",
+    "opciones": [
+      "1. Apendicitis pélvica.",
+      "2. Apendicitis mesoceliaca.",
+      "3. Apendicitis retrocecal.",
+      "4. Apendicitis medioinguinal."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta directa sobre un tema que ya han preguntado en el MIR acerca de los signos en la exploración física de la apendicitis aguda. Dos de ellos son sobre aumentar la sospecha clínica de apendicitis aguda: a) Signo de McBurney: dolor a la presión en el tercio externo de la línea imaginaria que conecta el ombligo y la espina iliaca anterosuperior; b) Signo de Rovsing: dolor en la fosa iliaca derecha ante la presión en fosa iliaca izquierda, por aumento de la presión en todo el colon de modo retrogrado. Los otros dos signos son de la localización dentro de la cavidad del apéndice inflamado (apendicitis): a) Signo del psoas: el psoas se irrita al contraerlo cuando el apéndice es retrocecal. b) Signos del obturador: el musculo obturador se irrita al contraerlo cuando el apéndice es pélvico.</p>"
+  },
+  {
+    "tema": "Tema 41. Apendicitis aguda",
+    "pregunta": "(MIR 2022) 141. Varón de 18 años que fue intervenido hace 10 días de una apendicitis gangrenosa por laparoscopia con peritonitis localizada pélvica. Acude a urgencias por un síndrome febril en agujas, distensión abdominal y deposiciones diarreicas de 48 h de evolución. ¿Cuál de los siguientes diagnósticos es más probable?:",
+    "opciones": [
+      "1. Absceso en fondo de saco de Douglas.",
+      "2. Infección de la herida quirúrgica.",
+      "3. Infección urinaria complicada.",
+      "4. Absceso hepático."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta compleja sobre una complicación de la apendicitis con peritonitis pélvica. En este caso se trata de un absceso en el saco de Douglas. Recordad que típicamente la apendicitis pélvica manifiesta dolor en el saco de Douglas durante el tacto rectal. La apendicitis pélvica como complicación postquirúrgica puede presentar un absceso en el saco de Douglas, que en este caso se manifiesta clínicamente por la fiebre y la diarrea.</p>"
+  },
+  {
+    "tema": "Tema 41. Apendicitis aguda",
+    "pregunta": "(MIR 2017) 71. Un hombre 53 años, sin antecedentes de interés, presenta dolor en fosa ilíaca derecha de 12 días de evolución. Su médico de familia le prescribió antibiótico oral y analgesia por sospecha de infección de orina. Acude por persistencia del dolor y fiebre. En tomografía se detecta un plastrón apendicular y un absceso de 7 centímetros. Indique el tratamiento más adecuada:",
+    "opciones": [
+      "1. Apendicectomía urgente.",
+      "2. Antibioterapia, drenaje percutáneo de la colección y programar apendicectomía en 12 semanas.",
+      "3. Intervención urgente con hemicolectomía derecha y resección intestinal con drenaje de absceso.",
+      "4. Aspiración nasogástrica, fluidoterapia iv, ertapenem iv y reevaluación en una semana."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta de dificultad media. Se trata de una apendicitis aguda evolucionada debido a un diagnóstico erróneo. El paciente presenta ya un importante plastrón inflamatorio y un absceso asociado por lo que en este caso se debe dar antibioterapia de amplio espectro, drenar el absceso percutáneamente y postponer la cirugía al menos 8 semanas. De esta forma la cirugía es menos compleja y hay menos riesgo de complicaciones.</p>"
+  },
+  {
+    "tema": "Tema 41. Apendicitis aguda",
+    "pregunta": "(MIR 2014) 76. El signo de Rovsing característico en la apendicitis aguda consiste en:",
+    "opciones": [
+      "1. Dolor a la presión en epigastrio al aplicar una presión firme y persistente sobre el punto de McBurney.",
+      "2. Dolor agudo que aparece al comprimir el apéndice entre la pared abdominal y la cresta ilíaca.",
+      "3. Sensibilidad de rebote pasajera en la pared abdominal.",
+      "4. Pérdida de la sensibilidad abdominal al contraer los músculos de la pared abdominal.",
+      "5. Dolor en el punto de McBurney al comprimir el cuadrante inferior izquierdo del abdomen."
+    ],
+    "correcta": 4,
+    "comentario": "<p>Pregunta de dificultad media-baja sobre un signo clásico de la apendicitis aguda. El signo de Rovsing es la presencia de dolor en la fosa ilíaca derecha al presionar en la fosa ilíaca izquierda. Se debe a que al presionar en ese punto el aire del colon se mueve de manera retrógrada, distendiendo el ciego donde está el apéndice inflamado, lo que provoca un aumento del dolor a ese nivel.</p>"
+  },
+  {
+    "tema": "Tema 42. Enfermedad diverticular",
+    "pregunta": "(MIR 2022) 143. Mujer de 51 años que consulta, tras varios episodios de diverticulitis sigmoidea leve tratados de forma conservadora, por presentar ahora estreñimiento pertinaz que mejora con el uso de laxantes. En ocasiones presenta dolor abdominal tipo retortijón que mejora con la expulsión de heces y gases. Se practica colonoscopia encontrándose una estenosis sigmoidea que impide el paso del colonoscopio. Se toma muestra para estudio anatomopatológico que no es concluyente. En el enema opaco se encuentra una estenosis sigmoidea de unos 5 cm de longitud. La actitud terapéutica más adecuada sería:",
+    "opciones": [
+      "1. Sigmoidectomía laparoscópica.",
+      "2. Tratamiento conservador con fibra dietética y rifaximina.",
+      "3. Dilatación endoscópica.",
+      "4. Stent en zona de estenosis."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta fácil sobre el manejo de la diverticulitis aguda leve recurrente, que siempre es quirúrgico (respuesta correcta 1). La respuesta 2 es falsa ya que la mujer presenta una estenosis postinflamatoria no franqueable endoscópicamente y hay que hacer algo (no sirve de nada el tratamiento sintomático). La respuesta 3 y 4 podían suscitar a dudas, pero actualmente no existe indicación de colocación de prótesis de colon ni de dilatación con esta indicación.</p>"
+  },
+  {
+    "tema": "Tema 42. Enfermedad diverticular",
+    "pregunta": "(MIR 2019) 13. Pregunta vinculada a la imagen n.º 13. Mujer de 65 años que consulta por dolor cólico intermitente en fosa iliaca izquierda, alternancia en diarrea/estreñimiento y distensión abdominal con flatulencia de 6 meses de evolución. Se le realiza una colonoscopia, con el siguiente hallazgo en sigma. ¿Cuál es la actitud más apropiada en la consulta?:",
+    "opciones": [
+      "1. Recomendar una colonoscopia en 3 años y continuaría el estudio etiológico de sus síntomas.",
+      "2. Comenzar tratamiento con corticoides si la diarrea es grave.",
+      "3. Recomendar una dieta rica en fibra soluble y varios ciclos mensuales de rifaximina.",
+      "4. Realizar un estudio de estadificación previamente a indicar la resección quirúrgica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta típica donde aunque no sepamos interpretar la imagen la clínica de dolor en FII nos debe hacer sospechar en este contexto de una enfermedad diverticular, cuyo tratamiento de entrada es el reposo intestinal, antibioticoterapia y fluidoterapia. Por todo ello la respuesta más correcta es la 3.</p>"
+  },
+  {
+    "tema": "Tema 42. Enfermedad diverticular",
+    "pregunta": "(MIR 2018) 77. Mujer de 80 años que acude urgencias con dolor abdominal de inicio en epigastrio e irradiado posteriormente a fosa iliaca izquierda. Se acompaña de fiebre de 37,5 ºC. Se le realiza una TC abdominal, objetivando inflamación en las paredes del sigma y absceso mesentérico de 2 cm. El tratamiento de elección es:",
+    "opciones": [
+      "1. Ingreso en planta con dieta absoluta y tratamiento antibiótico de amplio espectro.",
+      "2. Colostomía de descarga.",
+      "3. Drenaje mediante cirugía laparoscópica.",
+      "4. Cirugía urgente con sigmoidectomía y anastomosis colorrectal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Paciente con clínica típica de diverticulitis (dolor en fosa iliaca izquierda), donde además por TC se confirma inflamación a nivel de sigma y una complicación típica de la diverticulitis, el absceso. El tratamiento de la diverticulitis inicialmente es reposo intestinal, antibioterapia y fluidos (opción 1 correcta). No realizaríamos cirugía puesto que estaría indicada en caso de existir perforación con peritonitis, hemorragia grave u oclusión intestinal y no nos dan datos de ello (opción 2 y 4 incorrectas). Tampoco drenaríamos el absceso puesto que su tamaño es menor a 5 cm (opción 3 incorrecta), y el drenaje está indicado cuando los abscesos miden al menos 5 cm (pudiendo realizarse por punción percutánea guiada o quirúrgicamente).</p>"
+  },
+  {
+    "tema": "Tema 42. Enfermedad diverticular",
+    "pregunta": "(MIR 2014) 80. Una mujer de 78 años acude a Urgencias por dolor en fosa ilíaca izquierda de 24 horas de evolución asociado a fiebre y algún vómito ocasional. A la exploración destaca dolor a la palpación de forma selectiva en la fosa ilíaca izquierda con sensación de ocupación, defensa y descompresión positiva. Ante la sospecha de diverticulitis aguda. ¿Cuál de las siguientes afirmaciones es correcta?:",
+    "opciones": [
+      "1. La exploración complementaria más segura y de mejor rendimiento es el enema con contraste baritado.",
+      "2. En caso de absceso pélvico contenido está indicada la colocación de un drenaje percutáneo guiado con TC o ecografía.",
+      "3. En caso de precisar intervención quirúrgica tras solucionarse el episodio agudo, el abordaje laparoscópico está contraindicado.",
+      "4. En caso de diverticulitis aguda no complicada está indicada la sigmoidectomía electiva tras la curación del primer episodio agudo.",
+      "5. Si se produjera una peritonitis generalizada, la técnica quirúrgica más adecuada es la práctica de una colostomía derivativa sin resección del segmento sigmoideo afectado."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Presentan un caso claro de diverticulitis aguda y de hecho nos dan el diagnóstico. Las opciones versan sobre conceptos generales de esta enfermedad. Recuerden que el enema de bario y la colonoscopia están contraindicados en estos pacientes (opción 1 incorrecta), dado que el aumento de presión puede producir una perforación del divertículo inflamado. En los casos en los que exista un absceso, éste se debe drenar guiado por ecografía o TC dado que el antibiótico no puede llegar hasta el absceso (opción 2 correcta). En caso de que se necesite cirugía tras el episodio agudo, ésta se puede hacer por abordaje laparoscópico (opción 3 incorrecta), aunque es más compleja que las resecciones de colon sin episodios de inflamación. La cirugía electiva está indicada en pacientes de alto riesgo (inmunodeprimidos...) o tras varios episodios de diverticulitis, pero raramente tras un primer episodio (opción 4 incorrecta). En caso de que el paciente presente mal estado general o mala evolución clínica, el tratamiento quirúrgico consiste en la resección del colon afecto (opción 5 incorrecta), con o sin realización de anastomosis.</p>"
   }
 ]
