@@ -5340,5 +5340,360 @@
     ],
     "correcta": 1,
     "comentario": "<p>Presentan un caso claro de diverticulitis aguda y de hecho nos dan el diagnóstico. Las opciones versan sobre conceptos generales de esta enfermedad. Recuerden que el enema de bario y la colonoscopia están contraindicados en estos pacientes (opción 1 incorrecta), dado que el aumento de presión puede producir una perforación del divertículo inflamado. En los casos en los que exista un absceso, éste se debe drenar guiado por ecografía o TC dado que el antibiótico no puede llegar hasta el absceso (opción 2 correcta). En caso de que se necesite cirugía tras el episodio agudo, ésta se puede hacer por abordaje laparoscópico (opción 3 incorrecta), aunque es más compleja que las resecciones de colon sin episodios de inflamación. La cirugía electiva está indicada en pacientes de alto riesgo (inmunodeprimidos...) o tras varios episodios de diverticulitis, pero raramente tras un primer episodio (opción 4 incorrecta). En caso de que el paciente presente mal estado general o mala evolución clínica, el tratamiento quirúrgico consiste en la resección del colon afecto (opción 5 incorrecta), con o sin realización de anastomosis.</p>"
+  },
+
+{
+    "tema": "Tema 43. Obstrucción intestinal",
+    "pregunta": "(MIR 2024) 9. Pregunta asociada a la imagen 9. Hombre de 72 años con diagnóstico de carcinoma de cavidad oral intervenido hace tres meses con resección completa, en tratamiento con quimioterapia, portador de gastrostomía endoscópica percutánea profiláctica, que acude a urgencias por dolor y distensión abdominal de tres días de evolución, intolerancia oral y ausencia de deposiciones. Se realiza la TC abdominopélvica con contraste intravenoso que se muestra en la imagen. ¿Cuál de los siguientes es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Obstrucción intestinal secundaria a neoplasia estenosante de colon descendente.",
+      "2. Obstrucción intestinal de causa extrínseca por carcinomatosis peritoneal.",
+      "3. Obstrucción intestinal por migración e impactación de la sonda de gastrostomía.",
+      "4. Obstrucción funcional o íleo pseudoobstructivo por fármacos."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta que se responde sabiendo que el cuadro clínico que se pregunta es el de una obstrucción intestinal (intolerancia oral + distensión + ausencia de deposiciones y ventoseo). Siendo sistemáticos, necesitamos una analítica y una prueba de imagen para saber si el paciente tiene signos de alarma y dónde está la obstrucción. No dicen nada de la analítica así que damos por supuesto que está bien. En la imagen se observa una dilatación del marco cólico y algún asa de intestino delgado también dilatada. Como sabemos, el colon siempre manda, por lo tanto es una obstrucción de colon. Si nos fijamos, podemos ver una imagen estenosante en colon izquierdo; aunque no la veamos, siendo sistemáticos, esta pregunta se responde siguiendo los pasos estudiados y sería la respuesta 1. Todo lo demás son distractores. Los antecedentes del paciente quieren despistarnos, también quieren despistarnos porque ante el hecho del carcinoma oral (el más frecuente es el epidermoide) nos preguntan por una carcinomatosis (sería muy raro que un carcinoma epidermoide oral provoque una carcinomatosis). Respecto a la obstrucción funcional por fármacos sabemos que son menos frecuentes que las mecánicas, y en las funcionales siempre tienen que darnos pistas de íleo paralitico, Ogilvie o fármacos recientemente administrados que provoquen alteración en la motilidad gastrointestinal, que no es el caso. Y la gastrostomía que migre hasta el colon habiendo pasado el píloro y la válvula ileocecal (ojo, sería muy difícil este paso) es extremadamente improbable. El MIR es un examen de cosas frecuentes, probables y habituales y así ha sido en esta pregunta.</p>"
+  },
+  {
+    "tema": "Tema 43. Obstrucción intestinal",
+    "pregunta": "(MIR 2021) 159. El tratamiento quirúrgico de elección de la compresión vascular del duodeno, conocida también como síndrome de la arteria mesentérica superior o síndrome de Wilkie, es:",
+    "opciones": [
+      "1. La división del ligamento de Treitz.",
+      "2. La duodenoyeyunostomía.",
+      "3. El cambio de la posición del duodeno.",
+      "4. El bypass de la arteria mesentérica superior."
+    ],
+    "correcta": 1,
+    "comentario": "<p>El síndrome de Wilkie o síndrome de la arteria mesentérica superior (SAMS) es una causa poco frecuente de obstrucción intestinal alta, causada por la compresión de la tercera porción duodenal entre la aorta abdominal y la arteria mesentérica superior (AMS) en su origen. Su tratamiento puede ser conservador pero si persiste la sintomatología el tratamiento quirúrgico es la duodenoyeyunostomía.</p>"
+  },
+  {
+    "tema": "Tema 43. Obstrucción intestinal",
+    "pregunta": "(MIR 2017) 11. Pregunta vinculada a la imagen n.º 11. Paciente de 78 años, con antecedentes de sigmoidectomía por diverticulitis hace 12 años. Consulta por distensión abdominal, acompañada de dolor abdominal difuso, náuseas y vómitos alimentarios, con deposiciones escasas líquidas. En la exploración física está afebril, hemodinámicamente estable, con dolor difuso a la palpación del abdomen, que está distendido y timpanizado sin peritonismo. Los ruidos hidroaéreos están aumentados. Los estudios analíticos, que incluyen hemograma, bioquímica, hemostasia y gasometría, son normales. En la imagen se muestran Rx de abdomen y TAC. ¿Cuál es el diagnóstico?:",
+    "opciones": [
+      "1. Pseudoobstrucción intestinal.",
+      "2. Oclusión intestinal por bridas.",
+      "3. Isquemia intestinal.",
+      "4. Cáncer de colon."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Caso clínico vinculado a imagen de un paciente con síndrome de obstrucción intestinal: dolor y distensión abdominal asociado a una disminución o ausencia de deposiciones o ventoseo aunque en ocasiones pueden persistir deposiciones líquidas por rebosamiento (opción 3 falsa). Los RHA suelen estar aumentados inicialmente y tener un caracter metálico como consecuencia del peristaltismo aumentado. En las causas de pseudoobstrucción intestinal (síndrome de Ogilvie es la pseudoobstrucción colónica aguda) los ruidos estarán abolidos (respuesta 1 falsa). La Rx de abdomen muestra un colon distendido desde el ángulo esplénico sin dilatación del intestino delgado (opción 2 poco probable ya que la obstrucción por bridas suele afectar al intestino delgado). En el TAC se observa dicha dilatación y una zona de cambio de calibre inmediatamente anterior al riñón izquierdo, típica imagen en corazón de manzana, que sugiere se trata de un carcinoma colorrectal, que es la causa más frecuente de obstrucción del colon (opción 4 cierta).</p>"
+  },
+  {
+    "tema": "Tema 43. Obstrucción intestinal",
+    "pregunta": "(MIR 2017) 83. La pseudoobstrucción intestinal crónica es una enfermedad caracterizada por:",
+    "opciones": [
+      "1. Múltiples estenosis y ulceraciones del intestino delgado.",
+      "2. Hipertensión portal secundaria con estasis venoso intestinal.",
+      "3. Propulsión ineficaz del contenido del intestino delgado con dolor y distensión abdominal.",
+      "4. Relajación defectuosa del esfínter anal con evacuación dificultosa de heces."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta de dificultad media por lo novedoso del tema: la pseudoobstrucción intestinal crónica. Es un síndrome que se caracteriza por presentar cuadros clínicos recidivantes que simulan una obstrucción intestinal (dolor con distensión abdominal, náuseas, vómitos y ausencia de deposiciones) pero lo más importante de todo es que se producen en ausencia de proceso obstructivo anatómico (respuesta correcta 3). Se origina como consecuencia de una alteración de la motilidad intestinal debido a la afectación de su componente muscular, neurológico o de ambos. Son más frecuentes los casos secundarios a un proceso sistémico aunque puede deberse a la afectación primaria de dichos componentes. Aunque la respuesta 3 debería poner que típicamente afecta intestino grueso, es la respuesta más correcta. La respuesta 1 sería compatible con la descripción de una enfermedad inflamatoria, en concreto la enfermedad de Crohn. La respuesta 2 nada tiene que ver con el tema obstructivo, se producen ectasias vasculares intestinales como consecuencia de una hipertensión portal. En la respuesta 4, el paciente presenta un problema defectario por alteración esfinteriana pero no nos hablan en ningún momento de clínica de obstrucción ya que el paciente además presenta deposiciones.</p>"
+  },
+  {
+    "tema": "Tema 43. Obstrucción intestinal",
+    "pregunta": "(MIR 2016) 13. Pregunta vinculada a la imagen n.º 13. Un paciente de 78 años con historia de síndrome depresivo, hipertensión y dislipemia en tratamiento con trazodona, enalapril y simvastatina y antecedentes de apendicectomía hace 20 años, ingresa por un ictus isquémico en el territorio de la arteria cerebral media izquierda sin criterios de fibrinólisis. En el 5º día del ingreso el paciente presenta una marcada distensión abdominal y ausencia de eliminación de heces y gas. El abdomen es discretamente doloroso a la palpación de forma difusa sin peritonismo y el peristaltismo está disminuido. Se solicita una radiografía de abdomen. ¿Cuál es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Vólvulo de sigma.",
+      "2. Síndrome de Ogilvie.",
+      "3. Oclusión intestinal por bridas, en relación a la cirugía previa.",
+      "4. Obstrucción intestinal por neoplasia de ciego."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Por un lado se trata de un cuadro clínico típico, lo que hace que sólo con la descripción del caso clínico sospechemos la causa del cuadro. Por otro lado, la imagen no es del todo clara lo que puede dificultar la pregunta. El caso clínico es el típico de un paciente con un síndrome de Ogilvie, un paciente mayor que está ingresado por otra causa y desarrolla de forma más o menos brusca un cuadro de dolor abdominal y distensión sin signos de gravedad. En la radiografía simple de abdomen (proyección AP) se ve dilatación de todo el marco cólico y también distensión de algunas asas de delgado, lo que debe hacernos pensar en un síndrome de Ogilvie. No obstante, la clave en esta pregunta es la clínica, como os mencionamos.</p>"
+  },
+  {
+    "tema": "Tema 44. Vólvulos",
+    "pregunta": "(MIR 2024) 138. Mujer de 65 años que consulta por la aparición repentina de dolor en la parte superior del abdomen y naúseas recurrentes con escasos vómitos. Se intenta colocar una sonda nasogástrica y no se consigue progresar al estómago. Esta tríada es característica de la presentación clínica de:",
+    "opciones": [
+      "1. Síndrome de Mallory-Weiss.",
+      "2. Bezoar gástrico.",
+      "3. Vólvulo gástrico agudo.",
+      "4. Oclusión intestinal alta."
+    ],
+    "correcta": 2,
+    "comentario": "<p>El vólvulo gástrico es una causa poco frecuente de dolor abdominal y vómitos, secundaria a una obstrucción de la luz gástrica secundaria a una rotación sobre el eje principal del estómago. Se asocia generalmente a hernias de hiato de gran tamaño y que, en el caso de ser un vólvulo completo, impediría el paso de una sonda nasogástrica a la cámara gástrica. El síndrome de Mallory Weiss es una causa de hemorragia digestiva alta secundaria a laceraciones de la mucosa en el esófago distal, secundarias a vómitos profusos, lo cual no tiene nada que ver con el enunciado; por otro lado, una oclusión intestinal alta no debería impedir el paso de la sonda nasogástrica a través de la unión esófago-gástrica y característicamente debería salir abundante contenido a través de ella, ya que la obstrucción se encontraría distal al píloro; igualmente, un bezoar gástrico cursaría con un cuadro similar pero de instauración más subaguda y no repentina, como dicta el enunciado.</p>"
+  },
+  {
+    "tema": "Tema 44. Vólvulos",
+    "pregunta": "(MIR 2021) 154. Hombre de 82 años que acude a urgencias por cuadro de estreñimiento junto con gran distensión abdominal. En la radiología simple de abdomen se observa el signo de grano de café y en el enema opaco el signo de pico de pájaro. El tratamiento, si no existen signos de gangrena o peritonitis, consistirá en primer lugar en:",
+    "opciones": [
+      "1. Detorsión endoscópica.",
+      "2. Colectomía segmentaria y Hartmann.",
+      "3. Colectomía segmentaria y anastomosis colorrectal laparoscópica.",
+      "4. Detorsión quirúrgica y pexia de sigmoides."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta muy fácil y directa. Debemos conocer muy bien el diagnóstico (radiografía de abdomen con imagen en grano de café) y el manejo del vólvulo de sigma (descompresión endoscópica siempre en primer lugar) ya que ha sido preguntado en varias ocasiones en el MIR. Esta respuesta se podría sacar por descarte ya que el resto de opciones sólo son quirúrgicas (teniendo en cuenta además que nos presentan un paciente de edad avanzada).</p>"
+  },
+  {
+    "tema": "Tema 44. Vólvulos",
+    "pregunta": "(MIR 2017) 72. Hombre de 83 años, institucionalizado, dependiente para las actividades de la vida diaria, diabético e hipertenso, sin historia de cirugía abdominal previa. Acude a urgencias por presentar distensión abdominal, ausencia de emisión de gas y heces. En la exploración destaca abdomen distendido y timpanizado, algo doloroso, sin peritonismo. No se palpan hernias. Analítica normal. En la radiografía simple se detecta una imagen en abdomen en “grano de café en sigma”. Señale según el diagnóstico que sospeche la actitud más correcta a seguir de las siguientes:",
+    "opciones": [
+      "1. Realizar TC abdominal por sospecha de diverticulitis.",
+      "2. Realización urgente de arteriografía por sospecha de isquemia mesentérica.",
+      "3. Devolvulación por endoscopia digestiva baja.",
+      "4. Infusión de neostigmina bajo control hemodinámico por Síndrome de Ogilvie."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. El caso clínico es característico de un vólvulo de sigma y la imagen en grano de café de la radiografía lo confirma. Ante estos hallazgos hay que proceder a realizar una devolvulación endoscópica que es el tratamiento de elección del vólvulo de sigma.</p>"
+  },
+  {
+    "tema": "Tema 45. Patología vascular intestinal",
+    "pregunta": "(MIR 2020) 16. Pregunta vinculada a la imagen n.º 16. Mujer de 94 años que acude a urgencias por dolor abdominal difuso e intenso de 12 horas de evolución y defensa abdominal. Entre sus antecedentes destaca cardiopatía isquémica crónica, fibrilación auricular persistente y enfermedad renal crónica. A raíz de los hallazgos de la radiografía de abdomen indique la actitud a seguir:",
+    "opciones": [
+      "1. Ecografía urgente como test de cribado inicial, si es normal no son necesarios más estudios radiológicos.",
+      "2. Radiografía de abdomen en bipedestación o decúbito lateral izquierdo para valorar presencia de gas ectópico.",
+      "3. TC abdominopélvico con contraste intravenoso con protocolo de angio-TC por sospecha de isquemia mesentérica.",
+      "4. Arteriografía para descartar oclusión aguda de arteria mesentérica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Típica pregunta de paciente añoso con factores de riesgo cardiovascular o fibrilación auricular, que presenta clínica abdominal aguda. En estos casos hay que descartar isquemia mesentérica (generalmente oclusiva). En la radiografía se suele observar un patrón de íleo paralítico y la prueba diagnóstica de elección es la angio-TC.</p>"
+  },
+  {
+    "tema": "Tema 45. Patología vascular intestinal",
+    "pregunta": "(MIR 2018) 76. Mujer de 78 años con demencia e institucionalizada es traída por sus cuidadores por dolor abdominal importante con deterioro del estado general y distensión abdominal. Analítica con leucocitosis, hematocrito elevado, insuficiencia renal y acidosis metabólica. El ECG muestra fibrilación auricular. La tomografía abdominal detecta asas de intestino delgado edematizadas, con neumatosis intestinal y portal. El diagnóstico más probable es:",
+    "opciones": [
+      "1. Perforación de ulcus gástrico o duodenal.",
+      "2. Íleo biliar.",
+      "3. Neoplasia obstructiva de sigma con perforación.",
+      "4. Isquemia mesentérica."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla sobre una paciente de edad avanzada con isquemia mesentérica. No nos piden que distingamos si es un caso agudo o crónico, ni tampoco si es oclusiva o no, sólo que identifiquemos la isquemia. En este caso nos muestra una paciente con clínica de dolor y distensión abdominal y como antecedentes destaca la presencia de fibrilación auricular (antecedente típico de las isquemias mesentéricas agudas oclusivas) y un patrón radiológico de íleo paralítico (neumatosis intestinal), así como neumatosis portal que también puede sugerir isquemia mesentérica. Por todo ello la opción más correcta es la 4.</p>"
+  },
+  {
+    "tema": "Tema 45. Patología vascular intestinal",
+    "pregunta": "(MIR 2017) 3. Pregunta vinculada a la imagen n.º 3. ¿Cuál de las siguientes corresponde a la arteria mesentérica superior?:",
+    "opciones": [
+      "1. 1.",
+      "2. 2.",
+      "3. 3.",
+      "4. 4."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta relativamente compleja de anatomía radiológica. La anatomía, especialmente aquéllos conocimientos anatómicos con relevancia clínica, están cobrando importancia relativa en el MIR. En primer lugar debemos observar que se trata de una TC abdominal (corte axial), con contraste intravenoso en fase portal o venosa (hígado, bazo, riñones homogéneamente realzados por realizarse en fase venosa, visualizándose las arterias menos realzadas). La aorta (1) da como rama media y anterior la arteria mesentérica superior –AMS (2)– que hace una “pinza” sobre la vena renal izquierda que pasa entra Ao y AMS. La vena mesentérica superior, que se encuentra englobada por el páncreas, discurre junto a la arteria y algo más lateral y está realzada (3). Por último se señala la arteria gastroduodenal (4) que queda cerca de la vesícula biliar.</p>"
+  },
+  {
+    "tema": "Tema 45. Patología vascular intestinal",
+    "pregunta": "(MIR 2015) 203. Revisando la angio-TC de un hombre de 70 años en estudio por aneurisma de aorta abdominal el radiólogo informa de la presencia de una oclusión completa de la arteria mesentérica inferior. El paciente se encuentra completamente asintomático. La oclusión de la arteria mesentérica inferior cursa de manera asintomática en muchas ocasiones ya que el territorio que irriga puede recibir flujo proveniente de:",
+    "opciones": [
+      "1. La arteria cólica media.",
+      "2. La arteria gastroduodenal.",
+      "3. La arteria epigástrica inferior izquierda.",
+      "4. La arteria esplénica.",
+      "5. La arteria gastroepiploica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>La irrigación del intestino corre a cargo de ramas de la aorta abdominal. El duodeno recibe irrigación a través de ramas del tronco celiaco como la arteria gastroduodenal (recordad la importante relación anatómica de esta arteria, ya que pasa por la cara posterior de la primera porción/bulbo del duodeno). La arteria mesentérica superior (AMS) proporciona ramas para todo el intestino delgado (yeyunales e ileales), dando finalmente tres arterias de mayor entidad: la ileocólica (que irriga íleon terminal, apéndice y ciego), la cólica derecha (que irriga colon ascendente y ángulo hepático) y la cólica media (que irriga colon transverso). El resto del colon (desde el ángulo esplénico hasta el tercio superior del recto) está irrigado por ramas de la arteria mesentérica inferior (AMI). Por último, recordad que las arterias hemorroidales/rectales media e inferior provienen de ramas de la arteria hipogástrica. El ángulo esplénico constituye un territorio frontera (entre AMS y AMI) sensible a la isquemia (por eso las colitis isquémicas típicamente afectan a esta región). En ciertas personas existen anastomosis a este nivel entre la cólica media y la AMI, conocidas clásicamente como la arcada de Riolano (opción correcta la 1).</p>"
+  },
+  {
+    "tema": "Tema 46. Trasplante hepático",
+    "pregunta": "(MIR 2024) 133. Hombre de 57 años con cirrosis hepática metabólica que consulta por un cuadro recidivante de confusión y desorientación a pesar del tratamiento con rifaximina y lactulosa. En la angio-CT se aprecia una comunicación portosistémica de gran calibre. La función hepática está alterada con MELD 17p y Child-Pugh B8. ¿Cuál de los siguientes tratamientos es más apropiado?:",
+    "opciones": [
+      "1. Trasplante hepático.",
+      "2. Oclusión de la comunicación portosistémica.",
+      "3. Colocación de TIPS (protesis intrahepática percutánea transyugular).",
+      "4. Trasplante de microbiota fecal."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Se trata de un paciente en situación de hepatopatía avanzada con encefalopatía hepática (EH) recurrente a pesar de tratamiento optimizado y un shunt portosistémico de gran calibre. La clave de la pregunta viene dada por el estadio de gravedad de su hepatopatía, reflejado por una puntuación de MELD >15, que hace que el mejor tratamiento para este paciente sea el trasplante hepático (respuesta 1 correcta). La colocación de un TIPS debe ser evaluada con cautela e incluso desaconsejada en pacientes con EH especialmente recurrente (respuesta 3 incorrecta). Se ha ensayado con trasplante de microbiota fecal en enfermos con EH. Además, tendría sentido, fisiopatológicamente hablando, desde el punto de vista de la EH, cerrar el shunt para incrementar la cantidad de sangre filtrada por el hígado. No obstante, ninguna de estas 2 soluciones abordaría el principal problema del paciente, es decir, el grado avanzado de su hepatopatía (respuesta 2 y 4 incorrectas). Nótese además que no existe ninguna contraindicación evidente para el trasplante hepático, siendo entonces el tratamiento de elección en este caso.</p>"
+  },
+  {
+    "tema": "Tema 46. Trasplante hepático",
+    "pregunta": "(MIR 2019) 77. ¿Cuál de los siguientes parámetros NO es evaluado en la fórmula del MELD (model for end-stage liver disease) para la priorización de pacientes en lista de espera de trasplante hepático?:",
+    "opciones": [
+      "1. Hemoglobina.",
+      "2. INR.",
+      "3. Creatinina.",
+      "4. Bilirrubina."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta muy sencilla sobre un concepto básico que además ya ha caído varias veces en el MIR. La puntuación MELD (Model for End-stage Liver Disease) se calcula con tres variables que determinan la función hepática: bilirrubina, INR y creatinina (esta última relacionada con la disfunción renal típica del paciente cirrótico avanzado). Existe indicación de trasplante hepático cuando el MELD es mayor de 15 puntos y además se prioriza más a los pacientes en lista de espera con puntuaciones más altas (que indican peor función hepática y peor supervivencia).</p>"
+  },
+  {
+    "tema": "Tema 46. Trasplante hepático",
+    "pregunta": "(MIR 2017) 175. Señale cuál de las siguientes es la causa más frecuente de trasplante hepático en la infancia:",
+    "opciones": [
+      "1. Enfermedad de Crigler-Najjar de tipo I.",
+      "2. Hiperoxaluria primaria tipo I.",
+      "3. Atresia biliar.",
+      "4. Enfermedad de Alagille."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta fácil y directa. En la infancia, la causa más frecuente de trasplante hepático es la atresia de la vía biliar extrahepática (respuesta correcta 3). El resto de opciones son causas menos frecuentes.</p>"
+  },
+  {
+    "tema": "Tema 46. Trasplante hepático",
+    "pregunta": "(MIR 2016) 76. En relación al trasplante hepático, señale de las siguientes la respuesta CORRECTA:",
+    "opciones": [
+      "1. La indicación de trasplante hepático más frecuente en la actualidad es la cirrosis por infección del virus B (VHB).",
+      "2. Las metástasis hepáticas por cáncer de colon constituyen una indicación aprobada para trasplante hepático.",
+      "3. El sistema MELD es un modelo pronóstico que permite la priorización para el trasplante hepático de los enfermos en lista.",
+      "4. El trasplante hepático sería la mejor opción de tratamiento para un paciente de 45 años con un hepatocarcinoma difuso."
+    ],
+    "correcta": 2,
+    "comentario": "<p>La causa más frecuente de TH en adultos en nuestro medio es el VHC (respuesta 1 incorrecta). Entre las contraindicaciones absolutas más importantes que debemos recordar, está el diagnóstico de cualquier neoplasia previa en menos de 2-5 años o con alta probabilidad de recidiva (excepto para el cáncer de piel no melanoma) por lo que las metástasis del cáncer de colon no suponen una indicación actual. Las únicas metástasis que pueden ser candidatas a valorar un TH son los tumores neuroendocrinos carcinoides, siempre que se erradique el tumor primario y las metástasis sólo afecten al hígado (respuesta 2 incorrecta). Por otro lado, de forma general, los pacientes con hepatocarcinoma difuso (refiriéndose a tumor que supere a Milán) recibirán tratamiento mediante quimiembolización y los que presenten afectación extrahepática (adenopatías, metástasis o invasión vascular) serán tratados con Sorafenib, por lo que la respuesta 4 es incorrecta. El sistema de puntuación MELD clasifica a los pacientes en función de su gravedad y sirve para asignar un puesto en la lista de espera de TH (respuesta 3 correcta). Sobre el MELD, es importante recordar que a partir de un MELD >15 se debe valorar el TH, que su puntuación varía entre 6 y 40 puntos y que para su determinación se utilizan variables objetivas: creatinina sérica, bilirrubina e INR.</p>"
+  },
+  {
+    "tema": "Tema 46. Trasplante hepático",
+    "pregunta": "(MIR 2015) 5. Pregunta vinculada a la imagen n.º 3. Paciente de 58 años trasplantado hepático por cirrosis VHC+. Después de un postoperatorio sin complicaciones el paciente es remitido a su domicilio. A las 6 semanas del trasplante es visitado en la consulta externa, apreciándose febrícula, empeoramiento del estado general, un nivel de GOT de 60 UI/L (8-40) y una GPT de 65 UI/L (8-50), junto con un patrón de colestasis marcada (GGT x 10 y FA x 8) con bilirrubina total de 1,7 mg/dL (0,3-1). Así mismo se apreció un elevado número de copias del VHC. Se decidió practicar una ecografía doppler en el que se informó de una trombosis arterial completa. A la vista de estos datos se solicitó una TC y una colangiorresonancia, cuyas imágenes se presentan en las figuras. Por lo datos clínicos, analíticos y radiológicos, indique cuál es el diagnóstico más probable del problema actual:",
+    "opciones": [
+      "1. Rechazo agudo mediado por anticuerpos con trombosis arterial asociada.",
+      "2. Recidiva precoz del VHC.",
+      "3. Estenosis de la anastomosis biliar.",
+      "4. Lesión isquémica extensa de las vías biliares intrahepáticas.",
+      "5. Trombosis completa de las ramas portales intrahepáticas."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta de alta complejidad por ser muy específica de un tema muy raro para el MIR. Se trata de un paciente que, varias semanas después del trasplante hepático presenta una alteración de tipo colestásico, fiebre, trombosis arterial hepática y alteraciones biliares difusas en TAC y colangioRM. La primera opción la podemos descartar sabiendo que el rechazo agudo está mediado por linfocitos T y que es el hiperagudo el que está mediado por anticuerpos e incompatibilidad ABO entre donante y receptor; además, en el rechazo las pruebas de imagen son normales y el diagnóstico se realiza por biopsia hepática. La segunda opción es incorrecta pues la recidiva de VHC no produce alteraciones en las pruebas de imagen. La 3 también es falsa pues la estenosis de la anastomosis biliar en la ecografía Doppler no tiene una trombosis de la arteria hepática sino una estenosis única en la anastomosis biliar con dilatación de la vía biliar secundariamente. La respuesta 5 también es falsa pues la trombosis portal se vería en la ecografía Doppler y en el TAC y además se manifiesta con signos de hipertensión portal y no tendría por qué producir las alteraciones intrahepáticas que se observan. Así pues, por descarte nos queda la opción 4. De hecho, la clínica habitual de una trombosis de la arteria hepática suelen ser las complicaciones biliares ya que la vía biliar recibe aporte de sangre únicamente arterial. La patología se llama colangiopatía isquémica y en las pruebas de imagen se observa una dilatación arrosariada de las vías biliares intrahepáticas bilaterales que incluso forman fugas y lagos biliares (“biliomas”), con riesgo de sobreinfección y complicaciones sépticas (abscesos, colangitis agudas). El tratamiento de elección ante una colangiopatía isquémica difusa y con fugas biliares, biliomas y colangitis bacterianas agudas de repetición es el retrasplante hepático.</p>"
+  },
+  {
+    "tema": "Tema 46. Trasplante hepático",
+    "pregunta": "(MIR 2015) 6. Pregunta vinculada a la imagen n.º 3. Teniendo en cuenta el diagnóstico realizado. ¿Cuál es el tratamiento que probablemente necesitará el paciente?:",
+    "opciones": [
+      "1. Retrasplante hepático.",
+      "2. Tratamiento con Sofosbuvir y Daclatasvir.",
+      "3. Hepático-yeyunostomía.",
+      "4. Administración de 3 bolus de metilprednisolona e incremento de la inmunosupresión basal.",
+      "5. Anticoagulación."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Dado que el paciente tiene una colangitis isquémica por trombosis de la arteria hepática es necesario el retrasplante hepático. La opción 2 sería en pacientes con recidiva del VHC; la opción 3 tendría sentido en caso de estenosis de la anastomosis biliar, aunque el tratamiento actual de elección es endoscópico (prótesis biliares mediante CPRE); la opción 4 es el tratamiento de un rechazo agudo y la anticoagulación se podría indicar en una trombosis portal.</p>"
+  },
+  {
+    "tema": "Tema 48. Complicaciones en Cirugía General",
+    "pregunta": "(MIR 2024) 134. En relación con la clasificación de las heridas quirúrgicas de los Centers for Disease Control and Prevention, una incisión en la que se encuentra inflamación aguda no purulenta es:",
+    "opciones": [
+      "1. Grado I: Herida limpia.",
+      "2. Grado II: Herida limpia contaminada.",
+      "3. Grado III: Herida contaminada.",
+      "4. Grado IV: Herida sucia-infectada."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta que repite el concepto preguntado el año anterior sobre la clasificación de las heridas quirúrgicas. Sabemos que las heridas sucias son aquellas con pus o heces. Las limpias, en las que no se abre ninguna víscera. Y entre limpia-contaminada (LC) y contaminada la diferencia es que en las LC la apertura de la víscera es controlada y no hay inflamación. Y la herida contaminada es aquella en la que o bien se abre sin control una víscera, o bien hay una herida en un ambiente con inflamación.</p>"
+  },
+  {
+    "tema": "Tema 48. Complicaciones en Cirugía General",
+    "pregunta": "(MIR 2024) 140. En relación con la antisepsia del campo quirúrgico en una laparotomía de piel indemne por cirugía oncológica, ¿qué solución de las siguientes ha demostrado ser más eficaz?:",
+    "opciones": [
+      "1. Povidona iodada.",
+      "2. Clorhexidina acuosa.",
+      "3. Clorhexidina alcohólica.",
+      "4. Poli-hexametilen-biguanida."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta directa ya preguntada en el MIR. “Bundles” de infección quirúrgica: normoglucemia, normotermia, rasurado con clíper o no rasurar, lavado de manos y del paciente, antibiótico profiláctico 30-60 minutos antes de la incisión y pintar el campo quirúrgico con clorhexidina alcohólica al 2%.</p>"
+  },
+  {
+    "tema": "Tema 48. Complicaciones en Cirugía General",
+    "pregunta": "(MIR 2022) 140. Con relación a la clasificación de las heridas quirúrgicas en función de la magnitud de la carga bacteriana estimada, una enterotomía durante una obstrucción intestinal se clasifica como:",
+    "opciones": [
+      "1. Herida sucia (clase IV).",
+      "2. Herida contaminada (clase III).",
+      "3. Herida limpia/contaminada (clase II).",
+      "4. Herida limpia (clase I)."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Se trata de una pregunta sencilla sobre la clasificación de las cirugías en función del grado de contaminación del lecho quirúrgico. En esta pregunta, la clave es identificar que una enterotomía en el contexto de una obstrucción no tiene por qué implicar una infección ya establecida, por lo que no sería una cirugía sucia. Al referirse a enterotomía en el contexto de una obstrucción, nos describen la apertura de víscera con carga bacteriana en el lecho quirúrgico, se trataría pues de una cirugía contaminada.</p>"
+  },
+  {
+    "tema": "Tema 48. Complicaciones en Cirugía General",
+    "pregunta": "(MIR 2020) 130. ¿Cuál es el momento más apropiado para la administración de la profilaxis antibiótica en la cirugía abdominal?:",
+    "opciones": [
+      "1. Desde 48 horas antes de la intervención quirúrgica.",
+      "2. En los 30 minutos previos al inicio de la intervención quirúrgica.",
+      "3. En los 30 minutos siguientes al cierre de la incisión quirúrgica.",
+      "4. Únicamente debe aplicarse si se observa contaminación del campo quirúrgico durante la intervención."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta directa. La profilaxis debe ser preoperatoria en los 30 minutos previos al inicio de la cirugía.</p>"
+  },
+  {
+    "tema": "Tema 48. Complicaciones en Cirugía General",
+    "pregunta": "(MIR 2015) 1. Pregunta vinculada a la imagen n.º 1. Una mujer de 80 años es traída al servicio de urgencias por un cuadro de dolor abdominal agudo que se acompaña de hipotensión, taquicardia y fiebre de 38 ºC. Entre sus antecedentes destaca una resección de colon izquierdo por carcinoma siete días antes. Tras la reanimación inicial se realiza una radiografía simple de tórax (que se muestra) que resulta diagnóstica de:",
+    "opciones": [
+      "1. Neumoperitoneo.",
+      "2. Obstrucción intestinal.",
+      "3. Hernia crural estrangulada.",
+      "4. Neumotórax izquierdo.",
+      "5. Isquemia mesentérica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. Se trata de una paciente sometida hace 7 días a una resección de colon que acude por un abdomen agudo. Este cuadro no es el más típico de la dehiscencia de anastomosis pero es lo primero que debemos sospechar. En la radiografía de tórax se ve claramente neumoperitoneo entre la cúpula del diafragma y el hígado (opción 1 correcta), lo que confirma la sospecha diagnóstica. Ante la sospecha de neumoperitoneo, la primera prueba de imagen a realizar es una radiografía de tórax en bipedestación centrada en las cúpulas diafragmáticas.</p>"
+  },
+  {
+    "tema": "Tema 48. Complicaciones en Cirugía General",
+    "pregunta": "(MIR 2015) 2. Pregunta vinculada a la imagen n.º 1. En la misma paciente, de la observación de la radiografía de tórax, puede deducirse:",
+    "opciones": [
+      "1. Que la paciente tiene metástasis pulmonares.",
+      "2. Sospecha de neumonía nosocomial.",
+      "3. Se debe de considerar un fallo (dehiscencia) de la anastomosis cólica.",
+      "4. Sospecha de TEP.",
+      "5. Tiene una infección de la herida quirúrgica."
+    ],
+    "correcta": 2,
+    "comentario": "<p>Pregunta sencilla. Una vez que sabemos que la paciente tiene neumoperitoneo hay que buscar la causa de la salida del aire a la cavidad abdominal. Lo más razonable es que sea una dehiscencia de sutura (opción 3 correcta) relacionada con la cirugía, aunque cualquier perforación de víscera hueca como una úlcera de estrés también podría ser la causa. El resto de opciones no concuerdan con la presencia de neumoperitoneo.</p>"
+  },
+  {
+    "tema": "Tema 49. Patología quirúrgica de la pared abdominal",
+    "pregunta": "(MIR 2024) 15. Pregunta asociada a la imagen 15. Mujer de 63 años, con antecentes de obesidad, diabetes mellitus, tabaquismo, hipercolesterolemia y enfermedad pulmonar obstructiva crónica. Intervenciones quirúrgicas previas: mastectomía izquierda por cáncer de mama hace 12 años y pancreatectomía distal por tumor neuroendocrino de páncreas hace 2 años. Acude a urgencias por dolor abdominal difuso de reciente aparición, distensión abdominal, vómitos y estreñimiento. Analítica sanguínea con leucocitosis y desviación a la izquierda, sin alteraciones hidroelectrolíticas. Pruebas bioquímicas y de coagulación normales. Tras realización de la TC abdominal que se muestra en la imagen ¿cuál de los siguientes es el diagnóstico más probable?:",
+    "opciones": [
+      "1. Neoplasia de colon.",
+      "2. Eventración abdominal.",
+      "3. Perforación de víscera hueca.",
+      "4. Isquemia mesentérica."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta que se responde reconociendo el cuadro clínico de obstrucción intestinal (vómitos + distensión + diminución de deposiciones). Una vez que tenemos la obstrucción intestinal identificada sabemos que son mucho más frecuentes las mecánicas que las funcionales. Por lo tanto, las tratamos todas como mecánicas a no ser que tengamos las pistas típicas de las funcionales (presencia de íleo o de síndrome de Ogilvie), que aquí no están. Dentro de las causas mecánicas, completamos el estudio con una analítica y sabemos que el paciente tiene leucocitosis (algo típico de las obstrucciones intestinales por el tercer espacio). Ahora queremos saber con una imagen donde está la obstrucción para pensar en frecuencias; delgado: bridas > hernias > tumores; colon : tumores >>> otras cosas. En la imagen podemos intuir que el colon no está dilatado, pero nos da igual porque vemos claramente un agujero (concepto hernia) en la pared del abdomen con cosas dentro. Si ese agujero aparece después de una cirugía sabemos que se llama eventración o evisceración según el tiempo, en este caso eventración (respuesta 2 correcta). Si sospechásemos una perforación de víscera habría que ver burbujas y neumoperitoneo, y la isquemia mesentérica no corresponde con el caso clínico (existiría una discrepancia entre el grado de dolor y la exploración física).</p>"
+  },
+  {
+    "tema": "Tema 49. Patología quirúrgica de la pared abdominal",
+    "pregunta": "(MIR 2024) 136. Hombre de 50 años que consulta por presentar una tumoración reductible en región inguinal que se aprecia tras maniobras de Valsalva y que apareció tras realizar un esfuerzo 1 mes antes. En relación con la patología más probable, indique la opción terapéutica adecuada:",
+    "opciones": [
+      "1. Resección de la tumoración para análisis anatomopatológico.",
+      "2. Colocación de una prótesis mediante un abordaje endovascular.",
+      "3. Realización de una derivación o bypass a nivel de la lesión.",
+      "4. Reparación del defecto herniario con una prótesis para evitar tensión."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta directa sobre una tumoración inguinal que aumenta con maniobras de Valsalva tras un esfuerzo. Pocas dudas caben en esta pregunta, pero por desgranarla, un tumor no aumenta con Valsalva; y las otras dos opciones nos hablan de problemas vasculares tipo aneurismas que soplarían o no se reducirían, y con Valsalva podría aumentar un poco pero no de forma tan evidente.</p>"
+  },
+  {
+    "tema": "Tema 49. Patología quirúrgica de la pared abdominal",
+    "pregunta": "(MIR 2019) 75. ¿Cuál de las siguientes hernias de la pared abdominal se presenta con mayor frecuencia?:",
+    "opciones": [
+      "1. Hernia umbilical.",
+      "2. Hernia inguinal.",
+      "3. Hernia crural o femoral.",
+      "4. Hernia de Spiegel."
+    ],
+    "correcta": 1,
+    "comentario": "<p>Pregunta importante, memorística y ya conocida en el MIR, las hernias mas frecuentes son las inguinales.</p>"
+  },
+  {
+    "tema": "Tema 49. Patología quirúrgica de la pared abdominal",
+    "pregunta": "(MIR 2017) 73. Un hombre de 35 años acude a la consulta refiriendo la aparición de un bulto en la región inguinal derecha que no produce ninguna sintomatología. A la exploración clínica sugiere una hernia inguinal. Todas las siguientes afirmaciones son correctas EXCEPTO:",
+    "opciones": [
+      "1. Debe realizarse una ecografía para confirmar el diagnóstico.",
+      "2. La exploración física debe realizarse tanto en decúbito supino como en bipedestación.",
+      "3. Es altamente probable que se trate de una hernia inguinal indirecta.",
+      "4. En caso de tratamiento quirúrgico la técnica de elección sería una reparación sin tensión con una malla protésica."
+    ],
+    "correcta": 0,
+    "comentario": "<p>Pregunta sencilla. En un paciente joven con una hernia inguinal lo más probable es que sea una hernia indirecta (son congenitas y las más frecuentes). El diagnóstico es clínico explorando al paciente en bipedestación y luego en decúbito supino. Si hay dudas se puede solicitar una ecografía, pero no siempre es necesario. Si se decide una cirugía se realizará una cirugía sin tensión colocando una malla (henioplastia de Lichtenstein).</p>"
+  },
+  {
+    "tema": "Tema 49. Patología quirúrgica de la pared abdominal",
+    "pregunta": "(MIR 2015) 36. Una mujer de 76 años acude a urgencias refiriendo dolor en la ingle derecha y vómitos desde hace unas 6 horas. A la exploración se palpa una tumoración de consistencia dura justo por debajo de la línea que une la espina iliaca anterosuperior y el pubis (que se corresponde con la localización del ligamento inguinal). Lo más probable es que se trate de una:",
+    "opciones": [
+      "1. Hernia inguinal directa.",
+      "2. Hernia de Spiegel.",
+      "3. Hernia inguinal indirecta.",
+      "4. Hernia femoral (crural).",
+      "5. Hernia obturatriz."
+    ],
+    "correcta": 3,
+    "comentario": "<p>Pregunta sencilla sobre un tema muy preguntado en el MIR, la hernia de la región inguinal. En este caso hay que conocer la anatomía y la clasificación anatómica de estas hernias. La hernia inguinal (directa o indirecta) sale por encima del ligamento inguinal. La hernia de Spiegel sale en el flanco, entre el músculo recto y los oblicuos. La hernia obturatriz se produce en la pelvis por el orificio obturatriz. Por último, la hernia crural (o femoral) es la que sale por debajo del ligamento inguinal y por lo tanto la opción 4 es la correcta.</p>"
   }
 ]
